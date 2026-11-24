@@ -1,0 +1,22 @@
+{
+ "imagem": "anuncio.png",
+ "ref_largura": 921,
+ "saida": "T800_achadinho.mp4",
+ "cor": "#FF6A13",
+ "selo": "ACHADINHO DE NATAL",
+ "cenas": [
+  {"recorte": [95, 95, 620, 375],  "dur": 3.0, "zoom": [1.0, 1.15],
+   "titulo": "PRESENTE DE NATAL", "sub": "por menos de R$50"},
+  {"recorte": [48, 245, 905, 840], "dur": 3.0, "zoom": [1.12, 1.0],
+   "titulo": "Smartwatch T800 Ultra", "sub": "chega completinho na caixa"},
+  {"recorte": [80, 380, 488, 615], "dur": 2.8, "zoom": [1.0, 1.18],
+   "titulo": "Tela grande", "sub": "e pulseira esportiva"},
+  {"recorte": [560, 545, 880, 830], "dur": 2.8, "zoom": [1.0, 1.12],
+   "titulo": "Várias cores", "sub": "escolhe a sua favorita"},
+  {"recorte": [95, 95, 620, 375],  "dur": 3.0, "zoom": [1.15, 1.0],
+   "titulo": "+100 mil vendidos", "sub": "nota 4,7 na Shopee"},
+  {"recorte": [48, 245, 905, 840], "dur": 3.4, "zoom": [1.0, 1.06], "final": true,
+   "titulo": "LINK NA BIO", "sub": "comenta EU QUERO"}
+ ],
+ "preco": "a partir de R$43,99"
+}
