@@ -14,7 +14,7 @@ W, H, FPS, SR = 1080, 1920, 30, 48000
 FONT = "Fredoka Light"
 
 pasta = sys.argv[1]
-cfg = json.load(open(os.path.join(pasta, "config.json")))
+cfg = json.load(open(os.path.join(pasta, sys.argv[2] if len(sys.argv) > 2 and sys.argv[2].endswith(".json") else "config.json")))
 img = Image.open(os.path.join(pasta, cfg["imagem"])).convert("RGB")
 k = img.width / cfg.get("ref_largura", img.width)
 
@@ -54,8 +54,9 @@ if VOZ:
 # prepara recortes (em alta, com leve nitidez) e fundos desfocados
 cenas, t = [], 0.0
 for c in cfg["cenas"]:
+    im_c = Image.open(os.path.join(pasta, c["imagem"])).convert("RGB") if c.get("imagem") else img
     box = tuple(int(v * k) for v in c["recorte"])
-    cr = img.crop(box)
+    cr = im_c.crop(box)
     esc = max(900 / cr.width, 1.0)
     cr = cr.resize((int(cr.width * esc), int(cr.height * esc)), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 80, 2))
     bg = cr.resize((W // 8, int(W // 8 * cr.height / cr.width))).filter(ImageFilter.GaussianBlur(4))
@@ -69,7 +70,7 @@ def rrect(ctx, x, y, w, h, r):
     ctx.arc(x + w - r, y + r, r, -math.pi / 2, 0); ctx.arc(x + w - r, y + h - r, r, 0, math.pi / 2)
     ctx.arc(x + r, y + h - r, r, math.pi / 2, math.pi); ctx.arc(x + r, y + r, r, math.pi, 1.5 * math.pi); ctx.close_path()
 
-def texto(ctx, s, size, x, y, fill, outline=(0.05, 0.05, 0.1), ow=None, sc=1.0, maxw=980):
+def texto(ctx, s, size, x, y, fill, outline=(0.05, 0.05, 0.1), ow=None, sc=1.0, maxw=840):
     ctx.save(); ctx.select_font_face(FONT, cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_BOLD); ctx.set_font_size(size)
     e = ctx.text_extents(s)
     if e.x_advance > maxw: size *= maxw / e.x_advance; ctx.set_font_size(size); e = ctx.text_extents(s)
@@ -90,7 +91,7 @@ def quadro(t):
     # cartão com a foto (zoom lento + entrada)
     z = c["zoom"][0] + (c["zoom"][1] - c["zoom"][0]) * p
     ent = pop(c["ini"], t, 0.35)
-    cw = 960; ch = min(1000, cw * c["h"] / c["w"])
+    cw = 960; ch = min(840, cw * c["h"] / c["w"])
     cx, cy = W / 2, 1000
     ctx.save(); ctx.translate(cx, cy); ctx.scale(ent, ent)
     rrect(ctx, -cw / 2 - 10, -ch / 2 - 10, cw + 20, ch + 20, 44); ctx.set_source_rgb(1, 1, 1); ctx.fill()
@@ -163,8 +164,8 @@ def audio(path):
         w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(st.tobytes())
 
 if __name__ == "__main__":
-    if len(sys.argv) > 2 and sys.argv[2] == "preview":
-        for tv in map(float, sys.argv[3:]): quadro(tv).write_to_png(os.path.join(pasta, f"preview_{tv:04.1f}.png"))
+    if "preview" in sys.argv:
+        for tv in map(float, sys.argv[sys.argv.index("preview") + 1:]): quadro(tv).write_to_png(os.path.join(pasta, f"preview_{tv:04.1f}.png"))
         sys.exit()
     wav = os.path.join(pasta, "_audio.wav"); audio(wav)
     out = os.path.join(pasta, cfg["saida"])

@@ -1,0 +1,115 @@
+{
+ "imagem": "rosa.png",
+ "ref_largura": 921,
+ "saida": "Lencol_voz_feminina.mp4",
+ "cor": "#EE4D2D",
+ "selo": "ACHADINHO DA SEMANA",
+ "voz": "pf_dora",
+ "velocidade": 1.1,
+ "preco": "a partir de R$16,90",
+ "cenas": [
+  {
+   "imagem": "rosa.png",
+   "recorte": [
+    20,
+    245,
+    900,
+    835
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "titulo": "BLACK FRIDAY",
+   "sub": "jogo de lençol a partir de R$16,90",
+   "fala": "Olha esse jogo de lençol na Black Friday, a partir de dezesseis e noventa!"
+  },
+  {
+   "imagem": "azul.png",
+   "recorte": [
+    20,
+    245,
+    900,
+    835
+   ],
+   "dur": 3,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "titulo": "Kit 3 peças",
+   "sub": "lençol + 2 fronhas",
+   "fala": "É um kit com três peças: o lençol com elástico e duas fronhas."
+  },
+  {
+   "imagem": "marinho.png",
+   "recorte": [
+    600,
+    520,
+    890,
+    790
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "titulo": "Acabamento ponto palito",
+   "sub": "percal 400 fios",
+   "fala": "Tem acabamento ponto palito e é de percal quatrocentos fios."
+  },
+  {
+   "imagem": "marinho.png",
+   "recorte": [
+    20,
+    245,
+    900,
+    835
+   ],
+   "dur": 3,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "titulo": "Várias cores",
+   "sub": "combina com qualquer quarto",
+   "fala": "E tem várias cores pra combinar com o seu quarto."
+  },
+  {
+   "imagem": "azul.png",
+   "recorte": [
+    20,
+    245,
+    900,
+    835
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "titulo": "+200 mil vendidos",
+   "sub": "nota 4,8 na Shopee",
+   "fala": "Já são mais de duzentos mil vendidos, com nota quatro vírgula oito!"
+  },
+  {
+   "imagem": "rosa.png",
+   "recorte": [
+    20,
+    245,
+    900,
+    835
+   ],
+   "dur": 3.4,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "final": true,
+   "titulo": "LINK NA BIO",
+   "sub": "toca no produto do vídeo",
+   "fala": "Aproveita a Black Friday! O link tá aqui no vídeo."
+  }
+ ]
+}
