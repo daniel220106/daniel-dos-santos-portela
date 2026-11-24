@@ -37,12 +37,24 @@ def pil_to_surface(im):
 VOZ = cfg.get("voz")
 falas = []
 if VOZ:
-    from kokoro_onnx import Kokoro
     base = os.path.join(os.path.dirname(os.path.abspath(__file__)), "modelos")
-    kk = Kokoro(os.path.join(base, "kokoro-v1.0.int8.onnx"), os.path.join(base, "voices-v1.0.bin"))
+    if VOZ.startswith("piper:"):  # vozes Piper: piper:cadu, piper:faber, piper:jeff
+        import tempfile
+        modelo = os.path.join(base, f"pt_BR-{VOZ[6:]}-medium.onnx")
+        def falar(txt):
+            with tempfile.NamedTemporaryFile(suffix=".wav") as tf:
+                subprocess.run(["piper", "-m", modelo, "-c", modelo + ".json", "-f", tf.name,
+                                "--length_scale", str(round(1 / cfg.get("velocidade", 1.1), 3))],
+                               input=txt.encode(), capture_output=True, check=True)
+                with wave.open(tf.name) as w:
+                    return np.frombuffer(w.readframes(w.getnframes()), np.int16) / 32768, w.getframerate()
+    else:  # vozes Kokoro: pf_dora, pm_alex, pm_santa
+        from kokoro_onnx import Kokoro
+        kk = Kokoro(os.path.join(base, "kokoro-v1.0.int8.onnx"), os.path.join(base, "voices-v1.0.bin"))
+        def falar(txt): return kk.create(txt, voice=VOZ, speed=cfg.get("velocidade", 1.1), lang="pt-br")
     for c in cfg["cenas"]:
         if c.get("fala"):
-            a, sr = kk.create(c["fala"], voice=VOZ, speed=cfg.get("velocidade", 1.1), lang="pt-br")
+            a, sr = falar(c["fala"])
             idx = np.linspace(0, len(a) - 1, int(len(a) * SR / sr))
             a = np.interp(idx, np.arange(len(a)), a)
             a = a / (np.abs(a).max() + 1e-9) * 0.9
