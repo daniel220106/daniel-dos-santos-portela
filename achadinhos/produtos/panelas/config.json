@@ -1,0 +1,115 @@
+{
+ "imagem": "kit.png",
+ "ref_largura": 921,
+ "saida": "Panelas_voz_grave.mp4",
+ "cor": "#8B5A3C",
+ "selo": "ACHADINHO DE NATAL",
+ "voz": "pm_santa",
+ "velocidade": 1.05,
+ "preco": "R$191,81 no Pix",
+ "cenas": [
+  {
+   "imagem": "cozinha.png",
+   "recorte": [
+    100,
+    560,
+    921,
+    1165
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "titulo": "COZINHA NOVA",
+   "sub": "10 peças pro Natal",
+   "fala": "Quer deixar a cozinha nova pro Natal? Olha esse jogo de panelas com dez peças!"
+  },
+  {
+   "imagem": "kit.png",
+   "recorte": [
+    100,
+    420,
+    920,
+    1160
+   ],
+   "dur": 3,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "titulo": "Antiaderente",
+   "sub": "com tampas de vidro",
+   "fala": "É antiaderente, com tampa de vidro, nessa cor café com leite linda."
+  },
+  {
+   "imagem": "tamanhos.png",
+   "recorte": [
+    95,
+    440,
+    921,
+    1165
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "titulo": "Vem de tudo",
+   "sub": "panelas, frigideiras e fervedor",
+   "fala": "Vem com panelas, caçarolas, duas frigideiras, um fervedor e três utensílios."
+  },
+  {
+   "imagem": "ovo.png",
+   "recorte": [
+    100,
+    420,
+    921,
+    1160
+   ],
+   "dur": 3,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "titulo": "Pro dia a dia",
+   "sub": "do ovo frito ao arroz",
+   "fala": "Serve pra tudo no dia a dia, do ovo frito ao arroz."
+  },
+  {
+   "imagem": "cozinha.png",
+   "recorte": [
+    100,
+    560,
+    921,
+    1165
+   ],
+   "dur": 3,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "titulo": "+70 mil vendidos",
+   "sub": "loja oficial na Shopee",
+   "fala": "Já são mais de setenta mil vendidos, na loja oficial."
+  },
+  {
+   "imagem": "kit.png",
+   "recorte": [
+    100,
+    420,
+    920,
+    1160
+   ],
+   "dur": 3.4,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "final": true,
+   "titulo": "LINK NO VÍDEO",
+   "sub": "toca na sacolinha",
+   "fala": "O link tá aqui no vídeo. Toca na sacolinha e garante o seu!"
+  }
+ ]
+}
