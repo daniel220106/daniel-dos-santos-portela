@@ -33,6 +33,24 @@ def pil_to_surface(im):
     bgra = arr[:, :, [2, 1, 0, 3]].copy()
     return cairo.ImageSurface.create_for_data(memoryview(bgra), cairo.FORMAT_ARGB32, im.width, im.height), bgra
 
+# ------------------------------------------------ narração (voz de IA Kokoro, pt-BR)
+VOZ = cfg.get("voz")
+falas = []
+if VOZ:
+    from kokoro_onnx import Kokoro
+    base = os.path.join(os.path.dirname(os.path.abspath(__file__)), "modelos")
+    kk = Kokoro(os.path.join(base, "kokoro-v1.0.int8.onnx"), os.path.join(base, "voices-v1.0.bin"))
+    for c in cfg["cenas"]:
+        if c.get("fala"):
+            a, sr = kk.create(c["fala"], voice=VOZ, speed=cfg.get("velocidade", 1.1), lang="pt-br")
+            idx = np.linspace(0, len(a) - 1, int(len(a) * SR / sr))
+            a = np.interp(idx, np.arange(len(a)), a)
+            a = a / (np.abs(a).max() + 1e-9) * 0.9
+            c["dur"] = max(c["dur"], len(a) / SR + 0.45)
+            falas.append(a)
+        else:
+            falas.append(None)
+
 # prepara recortes (em alta, com leve nitidez) e fundos desfocados
 cenas, t = [], 0.0
 for c in cfg["cenas"]:
@@ -131,8 +149,15 @@ def audio(path):
     for c in cenas:
         x = tt(0.12); f = 900 * np.exp(-x * 18) + 250
         add(np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-x * 25), c["ini"] + 0.1, 0.45)
+    if VOZ:
+        voz = np.zeros(n)
+        for c, a in zip(cenas, falas):
+            if a is not None:
+                i = int((c["ini"] + 0.15) * SR); a = a[: max(0, n - i)]; voz[i:i + len(a)] += a
+        env = np.convolve((np.abs(voz) > 0.02).astype(float), np.ones(SR // 5) / (SR // 5), "same")
+        out = out * (1 - 0.6 * np.clip(env * 3, 0, 1)) + voz
     fl = int(0.8 * SR); out[-fl:] *= np.linspace(1, 0, fl)
-    out = np.tanh(out * 1.1) * 0.8
+    out = np.tanh(out * 1.05) * 0.9
     st = (np.stack([out, out], 1) * 32767).astype(np.int16)
     with wave.open(path, "wb") as w:
         w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(st.tobytes())
