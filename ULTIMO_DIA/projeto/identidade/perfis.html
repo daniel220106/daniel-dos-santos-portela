@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+body{margin:0;background:#000}
+</style></head><body><script>
+// Fotos de perfil do canal (800x800), independentes de episódio. Tudo pensado para recorte em círculo.
+const S = 800, C = S / 2, BR = '#f2efe9', VM = '#c62a24', LJ = '#e8792b';
+function base(c, glow = 'rgba(198,42,36,0.35)') {
+  c.fillStyle = '#0b0b0d'; c.fillRect(0, 0, S, S);
+  const g = c.createRadialGradient(C, C, 0, C, C, 420); g.addColorStop(0, glow); g.addColorStop(1, 'rgba(0,0,0,0)');
+  c.fillStyle = g; c.fillRect(0, 0, S, S);
+}
+const OP = {
+  // A: monograma ÚD
+  monograma(c) {
+    base(c);
+    c.strokeStyle = VM; c.lineWidth = 14; c.beginPath(); c.arc(C, C, 330, 0, 7); c.stroke();
+    c.textAlign = 'center'; c.textBaseline = 'alphabetic'; c.fillStyle = BR; c.font = '700 330px Oswald';
+    c.fillText('ÚD', C, 520);
+    c.fillStyle = VM; c.fillRect(C - 120, 560, 240, 16);
+  },
+  // B: ampulheta com a areia quase no fim
+  ampulheta(c) {
+    base(c, 'rgba(232,121,43,0.30)');
+    c.save(); c.translate(C, C);
+    const w = 170, h = 250, n = 22;
+    c.fillStyle = BR; c.fillRect(-w - 30, -h - 34, 2 * w + 60, 30); c.fillRect(-w - 30, h + 4, 2 * w + 60, 30);
+    const vidro = () => { c.beginPath(); c.moveTo(-w, -h); c.lineTo(w, -h); c.bezierCurveTo(w, -h * 0.35, n, -n * 2, n, 0); c.bezierCurveTo(n, n * 2, w, h * 0.35, w, h); c.lineTo(-w, h); c.bezierCurveTo(-w, h * 0.35, -n, n * 2, -n, 0); c.bezierCurveTo(-n, -n * 2, -w, -h * 0.35, -w, -h); c.closePath(); };
+    c.save(); vidro(); c.clip();
+    c.fillStyle = LJ; c.beginPath(); c.moveTo(-60, -40); c.lineTo(60, -40); c.lineTo(0, -4); c.fill();       // resto em cima
+    c.fillRect(-4, 0, 8, h);                                                                                // fio caindo
+    c.fillStyle = VM; c.beginPath(); c.moveTo(-w, h); c.quadraticCurveTo(0, h - 260, w, h); c.fill();      // monte embaixo
+    c.restore();
+    vidro(); c.strokeStyle = BR; c.lineWidth = 16; c.lineJoin = 'round'; c.stroke();
+    c.restore();
+  },
+  // C: sol se pondo no horizonte (o último pôr do sol)
+  horizonte(c) {
+    c.fillStyle = '#0b0b0d'; c.fillRect(0, 0, S, S);
+    const g = c.createLinearGradient(0, 0, 0, S); g.addColorStop(0, '#120708'); g.addColorStop(0.62, '#4a140c'); g.addColorStop(1, '#0b0b0d');
+    c.fillStyle = g; c.fillRect(0, 0, S, S);
+    const hz = 500, R = 230;
+    c.save(); c.beginPath(); c.rect(0, 0, S, hz); c.clip();
+    const sg = c.createLinearGradient(0, hz - R, 0, hz); sg.addColorStop(0, '#f2b765'); sg.addColorStop(0.5, LJ); sg.addColorStop(1, VM);
+    c.fillStyle = sg; c.beginPath(); c.arc(C, hz, R, Math.PI, 0); c.fill(); c.clip();
+    c.fillStyle = g; for (let k = 0; k < 5; k++) { const y = hz - 20 - k * 34, e = 6 + (4 - k) * 3.5; c.fillRect(0, y - e, S, e); }
+    c.restore();
+    c.fillStyle = BR; c.fillRect(110, hz, 580, 10);
+    c.textAlign = 'center'; c.font = '700 120px Oswald'; c.fillStyle = BR; c.fillText('ÚLTIMO DIA', C, 650);
+  },
+  // D: folha de calendário com o dia riscado
+  calendario(c) {
+    base(c);
+    c.save(); c.translate(C, C + 15);
+    const w = 440, h = 460, r = 40;
+    const ret = (x, y, ww, hh, rr) => { c.beginPath(); c.roundRect(x, y, ww, hh, rr); };
+    ret(-w / 2, -h / 2, w, h, r); c.fillStyle = BR; c.fill();
+    c.save(); ret(-w / 2, -h / 2, w, h, r); c.clip(); c.fillStyle = VM; c.fillRect(-w / 2, -h / 2, w, 120); c.restore();
+    c.fillStyle = '#0b0b0d'; for (const x of [-120, 120]) { ret(x - 18, -h / 2 - 50, 36, 100, 18); c.fill(); }
+    c.textAlign = 'center'; c.fillStyle = BR; c.font = '700 64px Oswald'; c.fillText('ÚLTIMO', 0, -h / 2 + 88);
+    c.fillStyle = '#0b0b0d'; c.font = '700 190px Oswald'; c.fillText('DIA', 0, 160);
+    c.strokeStyle = VM; c.lineWidth = 22; c.lineCap = 'round';
+    c.beginPath(); c.moveTo(-150, -60); c.lineTo(150, 190); c.moveTo(150, -60); c.lineTo(-150, 190); c.globalAlpha = 0.9; c.stroke();
+    c.restore();
+  },
+};
+window.gerar = async () => {
+  await document.fonts.load('700 100px Oswald');
+  for (const [nome, fn] of Object.entries(OP)) { const cv = document.createElement('canvas'); cv.width = cv.height = S; cv.id = nome; fn(cv.getContext('2d')); document.body.appendChild(cv); }
+  return Object.keys(OP);
+};
+</script></body></html>
