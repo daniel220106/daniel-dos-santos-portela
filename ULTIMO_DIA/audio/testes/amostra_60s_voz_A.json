@@ -1,0 +1,116 @@
+[
+ {
+  "texto": "Lucas acordou com um silêncio estranho.",
+  "inicio": 0.0,
+  "fim": 3.535,
+  "paragrafo": 0
+ },
+ {
+  "texto": "A geladeira, que sempre fazia aquele zumbido baixo, estava completamente calada.",
+  "inicio": 3.955,
+  "fim": 8.522,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Ele pegou o celular.",
+  "inicio": 8.942,
+  "fim": 10.39,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Sem sinal.",
+  "inicio": 10.81,
+  "fim": 11.832,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Tentou ligar a televisão.",
+  "inicio": 12.252,
+  "fim": 13.744,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Nada.",
+  "inicio": 14.164,
+  "fim": 15.01,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Ele tem vinte e nove anos e mora sozinho no nono andar de um prédio na zona leste de São Paulo.",
+  "inicio": 15.96,
+  "fim": 21.935,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Resolve quase tudo pelo celular.",
+  "inicio": 22.355,
+  "fim": 24.657,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Não tem gerador, não tem energia solar, e conhece apenas dois vizinhos pelo nome.",
+  "inicio": 25.077,
+  "fim": 30.711,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Lucas foi até a janela.",
+  "inicio": 31.661,
+  "fim": 33.358,
+  "paragrafo": 2
+ },
+ {
+  "texto": "O prédio inteiro estava apagado.",
+  "inicio": 33.778,
+  "fim": 36.873,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Lá embaixo, os semáforos estavam desligados, e os carros se espremiam nos cruzamentos sem saber quem devia passar.",
+  "inicio": 37.293,
+  "fim": 44.401,
+  "paragrafo": 2
+ },
+ {
+  "texto": "O metrô tinha parado.",
+  "inicio": 45.351,
+  "fim": 47.135,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Os trens também.",
+  "inicio": 47.555,
+  "fim": 48.559,
+  "paragrafo": 3
+ },
+ {
+  "texto": "E os ônibus estavam presos no meio do trânsito.",
+  "inicio": 48.98,
+  "fim": 52.863,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Naquela manhã, uma falha gigantesca derrubou o sistema que conecta as usinas do país.",
+  "inicio": 53.813,
+  "fim": 59.675,
+  "paragrafo": 4
+ },
+ {
+  "texto": "Grande parte do Brasil ficou sem energia elétrica.",
+  "inicio": 60.095,
+  "fim": 63.298,
+  "paragrafo": 4
+ },
+ {
+  "texto": "Lucas ainda não sabia.",
+  "inicio": 64.248,
+  "fim": 65.594,
+  "paragrafo": 5
+ },
+ {
+  "texto": "Mas aquele era apenas o primeiro dia.",
+  "inicio": 66.014,
+  "fim": 68.53,
+  "paragrafo": 5
+ }
+]
