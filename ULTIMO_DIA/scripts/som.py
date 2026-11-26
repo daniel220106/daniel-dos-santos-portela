@@ -37,7 +37,8 @@ class Pista:
     def __init__(s, dur): s.x = silencio(dur)
     def add(s, som, em, ganho=1.0):
         i = int(em * SR)
-        if i >= len(s.x): return
+        if i < 0: som, i = som[-i:], 0  # começa antes do zero: corta o início
+        if i >= len(s.x) or len(som) == 0: return
         n = min(len(som), len(s.x) - i); s.x[i:i + n] += som[:n] * ganho
     def salvar(s, arq): sf.write(arq, np.clip(s.x, -1, 1), SR, subtype='PCM_24')
 

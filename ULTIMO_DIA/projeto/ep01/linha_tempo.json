@@ -1,6 +1,6 @@
 {
  "episodio": "ep01",
- "duracao": 1432.989,
+ "duracao": 1392.666,
  "blocos": [
   {
    "tipo": "par",
@@ -67,60 +67,60 @@
    "cap": 1,
    "par": 0,
    "a": 29.621,
-   "b": 60.759,
+   "b": 61.426,
    "frases": [
     {
      "texto": "Lucas acordou com um silêncio estranho.",
      "inicio": 29.621,
-     "fim": 32.311,
+     "fim": 32.421,
      "paragrafo": 0
     },
     {
      "texto": "A geladeira, que sempre fazia aquele zumbido baixo, estava completamente calada.",
-     "inicio": 32.731,
-     "fim": 38.248,
+     "inicio": 32.841,
+     "fim": 37.745,
      "paragrafo": 0
     },
     {
      "texto": "Ele pegou o celular.",
-     "inicio": 38.668,
-     "fim": 40.047,
+     "inicio": 38.165,
+     "fim": 39.862,
      "paragrafo": 0
     },
     {
      "texto": "Sem sinal.",
-     "inicio": 40.467,
-     "fim": 41.157,
+     "inicio": 40.282,
+     "fim": 41.379,
      "paragrafo": 0
     },
     {
      "texto": "Tentou ligar a televisão.",
-     "inicio": 41.577,
-     "fim": 43.301,
+     "inicio": 41.799,
+     "fim": 44.532,
      "paragrafo": 0
     },
     {
      "texto": "Nada.",
-     "inicio": 43.721,
-     "fim": 44.066,
+     "inicio": 44.952,
+     "fim": 45.631,
      "paragrafo": 0
     },
     {
      "texto": "Lucas tem vinte e nove anos e mora sozinho no nono andar de um prédio na zona leste de São Paulo.",
-     "inicio": 44.486,
-     "fim": 51.175,
+     "inicio": 46.051,
+     "fim": 52.044,
      "paragrafo": 0
     },
     {
      "texto": "Resolve quase tudo pelo celular.",
-     "inicio": 51.595,
-     "fim": 53.802,
+     "inicio": 52.464,
+     "fim": 54.593,
      "paragrafo": 0
     },
     {
      "texto": "Não tem gerador, não tem energia solar, e conhece apenas dois vizinhos pelo nome.",
-     "inicio": 54.222,
-     "fim": 59.809,
+     "inicio": 55.013,
+     "fim": 60.476,
      "paragrafo": 0
     }
    ],
@@ -130,55 +130,55 @@
    "tipo": "par",
    "cap": 1,
    "par": 1,
-   "a": 60.759,
-   "b": 91.269,
+   "a": 61.426,
+   "b": 90.923,
    "frases": [
     {
      "texto": "Ele foi até a janela.",
-     "inicio": 60.759,
-     "fim": 62.207,
+     "inicio": 61.426,
+     "fim": 63.122,
      "paragrafo": 1
     },
     {
      "texto": "O prédio inteiro estava apagado.",
-     "inicio": 62.627,
-     "fim": 64.834,
+     "inicio": 63.542,
+     "fim": 65.553,
      "paragrafo": 1
     },
     {
      "texto": "Lá embaixo, os semáforos estavam desligados, e os carros se espremiam nos cruzamentos sem saber quem devia passar.",
-     "inicio": 65.254,
-     "fim": 73.116,
+     "inicio": 65.973,
+     "fim": 72.97,
      "paragrafo": 1
     },
     {
      "texto": "O metrô tinha parado.",
-     "inicio": 73.536,
-     "fim": 74.984,
+     "inicio": 73.39,
+     "fim": 74.745,
      "paragrafo": 1
     },
     {
      "texto": "Os trens também.",
-     "inicio": 75.404,
-     "fim": 76.508,
+     "inicio": 75.165,
+     "fim": 76.708,
      "paragrafo": 1
     },
     {
      "texto": "E os ônibus estavam presos no meio do trânsito.",
-     "inicio": 76.928,
-     "fim": 80.169,
+     "inicio": 77.128,
+     "fim": 79.937,
      "paragrafo": 1
     },
     {
      "texto": "Naquela manhã, uma falha gigantesca derrubou o sistema que conecta as usinas do país.",
-     "inicio": 80.589,
-     "fim": 86.451,
+     "inicio": 80.357,
+     "fim": 86.37,
      "paragrafo": 1
     },
     {
      "texto": "Grande parte do Brasil ficou sem energia elétrica.",
-     "inicio": 86.871,
-     "fim": 90.319,
+     "inicio": 86.79,
+     "fim": 89.973,
      "paragrafo": 1
     }
    ],
@@ -188,43 +188,43 @@
    "tipo": "par",
    "cap": 1,
    "par": 2,
-   "a": 91.269,
-   "b": 111.216,
+   "a": 90.923,
+   "b": 110.456,
    "frases": [
     {
      "texto": "Lucas tentou ligar para a mãe, que mora no interior.",
-     "inicio": 91.269,
-     "fim": 94.855,
+     "inicio": 90.923,
+     "fim": 94.322,
      "paragrafo": 2
     },
     {
      "texto": "A ligação chamou uma vez e caiu.",
-     "inicio": 95.275,
-     "fim": 97.482,
+     "inicio": 94.742,
+     "fim": 97.045,
      "paragrafo": 2
     },
     {
      "texto": "Ele tentou de novo.",
-     "inicio": 97.902,
-     "fim": 99.213,
+     "inicio": 97.465,
+     "fim": 98.929,
      "paragrafo": 2
     },
     {
      "texto": "Caiu outra vez.",
-     "inicio": 99.633,
-     "fim": 100.667,
+     "inicio": 99.349,
+     "fim": 100.767,
      "paragrafo": 2
     },
     {
      "texto": "Então decidiu descer.",
-     "inicio": 101.087,
-     "fim": 102.535,
+     "inicio": 101.187,
+     "fim": 102.754,
      "paragrafo": 2
     },
     {
      "texto": "Sem elevador, foram nove andares pela escada, no escuro, com a lanterna do celular iluminando cada degrau.",
-     "inicio": 102.955,
-     "fim": 110.266,
+     "inicio": 103.174,
+     "fim": 109.506,
      "paragrafo": 2
     }
    ],
@@ -234,67 +234,67 @@
    "tipo": "par",
    "cap": 1,
    "par": 3,
-   "a": 111.216,
-   "b": 145.877,
+   "a": 110.456,
+   "b": 145.633,
    "frases": [
     {
      "texto": "Na rua, a cidade parecia outra.",
-     "inicio": 111.216,
-     "fim": 113.354,
+     "inicio": 110.456,
+     "fim": 113.194,
      "paragrafo": 3
     },
     {
      "texto": "A padaria da esquina estava aberta, mas a máquina de cartão não funcionava.",
-     "inicio": 113.774,
-     "fim": 118.946,
+     "inicio": 113.614,
+     "fim": 118.721,
      "paragrafo": 3
     },
     {
      "texto": "Só aceitavam dinheiro.",
-     "inicio": 119.366,
-     "fim": 120.883,
+     "inicio": 119.141,
+     "fim": 121.533,
      "paragrafo": 3
     },
     {
      "texto": "No posto de gasolina, as bombas estavam paradas.",
-     "inicio": 121.303,
-     "fim": 124.614,
+     "inicio": 121.953,
+     "fim": 125.889,
      "paragrafo": 3
     },
     {
      "texto": "Sem energia, ninguém conseguia tirar combustível dos tanques.",
-     "inicio": 125.034,
-     "fim": 129.241,
+     "inicio": 126.309,
+     "fim": 130.038,
      "paragrafo": 3
     },
     {
      "texto": "Lucas voltou para casa e fez algo que nunca tinha feito.",
-     "inicio": 129.661,
-     "fim": 133.523,
+     "inicio": 130.458,
+     "fim": 133.805,
      "paragrafo": 3
     },
     {
      "texto": "Um inventário.",
-     "inicio": 133.943,
-     "fim": 134.908,
+     "inicio": 134.225,
+     "fim": 135.211,
      "paragrafo": 3
     },
     {
      "texto": "Seis litros de água.",
-     "inicio": 135.328,
-     "fim": 136.708,
+     "inicio": 135.631,
+     "fim": 137.061,
      "paragrafo": 3
     },
     {
      "texto": "Comida para uns quatro dias.",
-     "inicio": 137.128,
-     "fim": 139.059,
+     "inicio": 137.481,
+     "fim": 139.142,
      "paragrafo": 3
     },
     {
      "texto": "Oito pilhas, uma lanterna, alguns remédios e oitenta e cinco reais em dinheiro.",
-     "inicio": 139.479,
-     "fim": 144.927,
+     "inicio": 139.562,
+     "fim": 144.683,
      "paragrafo": 3
     }
    ],
@@ -304,37 +304,37 @@
    "tipo": "par",
    "cap": 1,
    "par": 4,
-   "a": 145.877,
-   "b": 164.99,
+   "a": 145.633,
+   "b": 165.997,
    "frases": [
     {
      "texto": "À noite, sem nenhuma luz acesa na cidade, Lucas viu uma coisa que nunca tinha visto em São Paulo.",
-     "inicio": 145.877,
-     "fim": 152.567,
+     "inicio": 145.633,
+     "fim": 152.214,
      "paragrafo": 4
     },
     {
      "texto": "O céu cheio de estrelas.",
-     "inicio": 152.987,
-     "fim": 154.642,
+     "inicio": 152.634,
+     "fim": 154.627,
      "paragrafo": 4
     },
     {
      "texto": "Ele ficou um tempo olhando pela janela, tranquilo.",
-     "inicio": 155.062,
-     "fim": 158.51,
+     "inicio": 155.047,
+     "fim": 158.396,
      "paragrafo": 4
     },
     {
      "texto": "Amanhã a energia volta, pensou.",
-     "inicio": 158.93,
-     "fim": 161.068,
+     "inicio": 158.816,
+     "fim": 161.395,
      "paragrafo": 4
     },
     {
      "texto": "Essa certeza foi o seu primeiro erro.",
-     "inicio": 161.488,
-     "fim": 164.04,
+     "inicio": 161.815,
+     "fim": 165.047,
      "paragrafo": 4
     }
    ],
@@ -343,57 +343,57 @@
   {
    "tipo": "cartela",
    "cap": 2,
-   "a": 164.98991268965517,
-   "b": 168.18991268965516,
+   "a": 165.996792,
+   "b": 169.196792,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 2,
    "par": 0,
-   "a": 168.19,
-   "b": 187.729,
+   "a": 169.197,
+   "b": 187.578,
    "frases": [
     {
      "texto": "Na manhã do segundo dia, Lucas abriu a torneira da cozinha.",
-     "inicio": 168.19,
-     "fim": 172.259,
+     "inicio": 169.197,
+     "fim": 172.823,
      "paragrafo": 0
     },
     {
      "texto": "A água saiu fraca.",
-     "inicio": 172.679,
-     "fim": 173.92,
+     "inicio": 173.243,
+     "fim": 174.835,
      "paragrafo": 0
     },
     {
      "texto": "Depois virou um fio.",
-     "inicio": 174.34,
-     "fim": 175.72,
+     "inicio": 175.255,
+     "fim": 176.842,
      "paragrafo": 0
     },
     {
      "texto": "Depois parou.",
-     "inicio": 176.14,
-     "fim": 177.036,
+     "inicio": 177.262,
+     "fim": 178.247,
      "paragrafo": 0
     },
     {
      "texto": "Ele foi até o banheiro e tentou o chuveiro.",
-     "inicio": 177.456,
-     "fim": 180.422,
+     "inicio": 178.667,
+     "fim": 181.016,
      "paragrafo": 0
     },
     {
      "texto": "Nada.",
-     "inicio": 180.842,
-     "fim": 181.187,
+     "inicio": 181.436,
+     "fim": 182.141,
      "paragrafo": 0
     },
     {
      "texto": "Foi aí que ele entendeu uma coisa que nunca tinha passado pela cabeça dele.",
-     "inicio": 181.607,
-     "fim": 186.779,
+     "inicio": 182.561,
+     "fim": 186.628,
      "paragrafo": 0
     }
    ],
@@ -403,49 +403,49 @@
    "tipo": "par",
    "cap": 2,
    "par": 1,
-   "a": 187.729,
-   "b": 213.475,
+   "a": 187.578,
+   "b": 214.205,
    "frases": [
     {
      "texto": "A água não sobe sozinha até o nono andar.",
-     "inicio": 187.729,
-     "fim": 190.557,
+     "inicio": 187.578,
+     "fim": 190.126,
      "paragrafo": 1
     },
     {
      "texto": "Uma bomba elétrica empurra a água da rua até a caixa d'água no topo do prédio.",
-     "inicio": 190.977,
-     "fim": 196.356,
+     "inicio": 190.546,
+     "fim": 197.679,
      "paragrafo": 1
     },
     {
      "texto": "Sem energia, a bomba parou.",
-     "inicio": 196.776,
-     "fim": 198.638,
+     "inicio": 198.099,
+     "fim": 200.177,
      "paragrafo": 1
     },
     {
      "texto": "E o pouco que restava na caixa foi consumido nas primeiras horas pelos cinquenta apartamentos do prédio.",
-     "inicio": 199.058,
-     "fim": 206.23,
+     "inicio": 200.597,
+     "fim": 206.176,
      "paragrafo": 1
     },
     {
      "texto": "Lucas olhou para as garrafas na pia.",
-     "inicio": 206.65,
-     "fim": 209.133,
+     "inicio": 206.596,
+     "fim": 208.729,
      "paragrafo": 1
     },
     {
      "texto": "Seis litros.",
-     "inicio": 209.553,
-     "fim": 210.381,
+     "inicio": 209.149,
+     "fim": 210.414,
      "paragrafo": 1
     },
     {
      "texto": "Era tudo o que ele tinha.",
-     "inicio": 210.801,
-     "fim": 212.525,
+     "inicio": 210.834,
+     "fim": 213.255,
      "paragrafo": 1
     }
    ],
@@ -455,37 +455,37 @@
    "tipo": "par",
    "cap": 2,
    "par": 2,
-   "a": 213.475,
-   "b": 241.553,
+   "a": 214.205,
+   "b": 239.395,
    "frases": [
     {
      "texto": "No fim da manhã, Seu Jorge, o síndico, bateu de porta em porta.",
-     "inicio": 213.475,
-     "fim": 217.82,
+     "inicio": 214.205,
+     "fim": 217.809,
      "paragrafo": 2
     },
     {
      "texto": "Um caminhão-pipa da prefeitura tinha chegado na avenida.",
-     "inicio": 218.24,
-     "fim": 222.102,
+     "inicio": 218.229,
+     "fim": 221.351,
      "paragrafo": 2
     },
     {
      "texto": "Quando Lucas desceu, a fila já tinha mais de duzentas pessoas, com baldes, galões e garrafas de todos os tamanhos.",
-     "inicio": 222.522,
-     "fim": 230.384,
+     "inicio": 221.771,
+     "fim": 229.143,
      "paragrafo": 2
     },
     {
      "texto": "Cada pessoa podia retirar até vinte litros.",
-     "inicio": 230.804,
-     "fim": 233.769,
+     "inicio": 229.563,
+     "fim": 232.88,
      "paragrafo": 2
     },
     {
      "texto": "O motorista avisou que o caminhão voltaria a cada dois ou três dias, se ainda tivesse diesel.",
-     "inicio": 234.189,
-     "fim": 240.603,
+     "inicio": 233.3,
+     "fim": 238.445,
      "paragrafo": 2
     }
    ],
@@ -495,37 +495,37 @@
    "tipo": "par",
    "cap": 2,
    "par": 3,
-   "a": 241.553,
-   "b": 262.321,
+   "a": 239.395,
+   "b": 260.169,
    "frases": [
     {
      "texto": "Vinte litros de água pesam vinte quilos.",
-     "inicio": 241.553,
-     "fim": 244.312,
+     "inicio": 239.395,
+     "fim": 243.062,
      "paragrafo": 3
     },
     {
      "texto": "Lucas subiu os nove andares com um balde em cada mão.",
-     "inicio": 244.732,
-     "fim": 248.387,
+     "inicio": 243.482,
+     "fim": 246.702,
      "paragrafo": 3
     },
     {
      "texto": "No terceiro andar, os braços começaram a tremer.",
-     "inicio": 248.807,
-     "fim": 252.117,
+     "inicio": 247.122,
+     "fim": 250.849,
      "paragrafo": 3
     },
     {
      "texto": "No sexto, ele precisou parar e sentar no degrau para respirar.",
-     "inicio": 252.537,
-     "fim": 256.813,
+     "inicio": 251.269,
+     "fim": 255.326,
      "paragrafo": 3
     },
     {
      "texto": "Quando chegou no nono, a camiseta estava encharcada de suor.",
-     "inicio": 257.233,
-     "fim": 261.371,
+     "inicio": 255.746,
+     "fim": 259.219,
      "paragrafo": 3
     }
    ],
@@ -535,43 +535,43 @@
    "tipo": "par",
    "cap": 2,
    "par": 4,
-   "a": 262.321,
-   "b": 281.854,
+   "a": 260.169,
+   "b": 279.898,
    "frases": [
     {
      "texto": "Naquela noite, ele dividiu a água em três partes.",
-     "inicio": 262.321,
-     "fim": 265.7,
+     "inicio": 260.169,
+     "fim": 263.108,
      "paragrafo": 4
     },
     {
      "texto": "Uma para beber.",
-     "inicio": 266.12,
-     "fim": 267.155,
+     "inicio": 263.528,
+     "fim": 264.819,
      "paragrafo": 4
     },
     {
      "texto": "Uma para cozinhar.",
-     "inicio": 267.575,
-     "fim": 268.816,
+     "inicio": 265.239,
+     "fim": 266.463,
      "paragrafo": 4
     },
     {
      "texto": "E uma pequena parte para se lavar.",
-     "inicio": 269.236,
-     "fim": 271.581,
+     "inicio": 266.883,
+     "fim": 269.628,
      "paragrafo": 4
     },
     {
      "texto": "Cada gota agora tinha um destino.",
-     "inicio": 272.001,
-     "fim": 274.277,
+     "inicio": 270.048,
+     "fim": 272.797,
      "paragrafo": 4
     },
     {
      "texto": "E Lucas começou a perceber que o problema era muito maior do que uma simples falta de luz.",
-     "inicio": 274.697,
-     "fim": 280.904,
+     "inicio": 273.217,
+     "fim": 278.948,
      "paragrafo": 4
     }
    ],
@@ -580,51 +580,51 @@
   {
    "tipo": "cartela",
    "cap": 3,
-   "a": 281.8537057931034,
-   "b": 285.0537057931034,
+   "a": 279.897834,
+   "b": 283.097834,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 3,
    "par": 0,
-   "a": 285.054,
-   "b": 302.173,
+   "a": 283.098,
+   "b": 299.94,
    "frases": [
     {
      "texto": "No terceiro dia, Lucas tentou mandar uma mensagem para a mãe.",
-     "inicio": 285.054,
-     "fim": 289.261,
+     "inicio": 283.098,
+     "fim": 286.679,
      "paragrafo": 0
     },
     {
      "texto": "Digitou devagar, escolhendo as palavras.",
-     "inicio": 289.681,
-     "fim": 292.44,
+     "inicio": 287.099,
+     "fim": 289.471,
      "paragrafo": 0
     },
     {
      "texto": "Estou bem.",
-     "inicio": 292.86,
-     "fim": 293.549,
+     "inicio": 289.891,
+     "fim": 290.633,
      "paragrafo": 0
     },
     {
      "texto": "Me liga quando puder.",
-     "inicio": 293.969,
-     "fim": 295.417,
+     "inicio": 291.053,
+     "fim": 292.806,
      "paragrafo": 0
     },
     {
      "texto": "Antes que ele conseguisse enviar, a tela apagou.",
-     "inicio": 295.837,
-     "fim": 299.148,
+     "inicio": 293.226,
+     "fim": 296.105,
      "paragrafo": 0
     },
     {
      "texto": "A bateria tinha acabado.",
-     "inicio": 299.568,
-     "fim": 301.223,
+     "inicio": 296.525,
+     "fim": 298.99,
      "paragrafo": 0
     }
    ],
@@ -634,37 +634,37 @@
    "tipo": "par",
    "cap": 3,
    "par": 1,
-   "a": 302.173,
-   "b": 328.182,
+   "a": 299.94,
+   "b": 324.35,
    "frases": [
     {
      "texto": "As torres de celular também tinham baterias de reserva, mas elas duraram apenas algumas horas.",
-     "inicio": 302.173,
-     "fim": 308.656,
+     "inicio": 299.94,
+     "fim": 305.567,
      "paragrafo": 1
     },
     {
      "texto": "Agora não havia internet, não havia televisão e não havia telefone.",
-     "inicio": 309.076,
-     "fim": 313.696,
+     "inicio": 305.987,
+     "fim": 310.375,
      "paragrafo": 1
     },
     {
      "texto": "Pela primeira vez na vida, Lucas estava completamente desconectado do mundo.",
-     "inicio": 314.116,
-     "fim": 319.358,
+     "inicio": 310.795,
+     "fim": 316.241,
      "paragrafo": 1
     },
     {
      "texto": "Então ele lembrou de uma coisa guardada no fundo do armário.",
-     "inicio": 319.778,
-     "fim": 323.916,
+     "inicio": 316.661,
+     "fim": 320.515,
      "paragrafo": 1
     },
     {
      "texto": "Um rádio a pilha que tinha ganhado do avô.",
-     "inicio": 324.336,
-     "fim": 327.232,
+     "inicio": 320.935,
+     "fim": 323.4,
      "paragrafo": 1
     }
    ],
@@ -674,61 +674,61 @@
    "tipo": "par",
    "cap": 3,
    "par": 2,
-   "a": 328.182,
-   "b": 357.941,
+   "a": 324.35,
+   "b": 352.101,
    "frases": [
     {
      "texto": "Ele colocou duas pilhas e girou o botão devagar.",
-     "inicio": 328.182,
-     "fim": 331.493,
+     "inicio": 324.35,
+     "fim": 327.603,
      "paragrafo": 2
     },
     {
      "texto": "Chiado.",
-     "inicio": 331.913,
-     "fim": 332.395,
+     "inicio": 328.023,
+     "fim": 328.957,
      "paragrafo": 2
     },
     {
      "texto": "Mais chiado.",
-     "inicio": 332.815,
-     "fim": 333.643,
+     "inicio": 329.377,
+     "fim": 330.471,
      "paragrafo": 2
     },
     {
      "texto": "Até que uma voz apareceu.",
-     "inicio": 334.063,
-     "fim": 335.787,
+     "inicio": 330.891,
+     "fim": 332.491,
      "paragrafo": 2
     },
     {
      "texto": "Era uma emissora de São Paulo que continuava no ar com um gerador.",
-     "inicio": 336.207,
-     "fim": 340.759,
+     "inicio": 332.911,
+     "fim": 336.527,
      "paragrafo": 2
     },
     {
      "texto": "O locutor explicou que uma falha em uma linha de transmissão tinha se espalhado em cascata.",
-     "inicio": 341.179,
-     "fim": 347.455,
+     "inicio": 336.947,
+     "fim": 341.954,
      "paragrafo": 2
     },
     {
      "texto": "Usinas se desligaram para se proteger.",
-     "inicio": 347.875,
-     "fim": 350.495,
+     "inicio": 342.374,
+     "fim": 344.915,
      "paragrafo": 2
     },
     {
      "texto": "Vários equipamentos foram danificados.",
-     "inicio": 350.915,
-     "fim": 353.536,
+     "inicio": 345.335,
+     "fim": 348.126,
      "paragrafo": 2
     },
     {
      "texto": "E a previsão para o conserto era de semanas.",
-     "inicio": 353.956,
-     "fim": 356.991,
+     "inicio": 348.546,
+     "fim": 351.151,
      "paragrafo": 2
     }
    ],
@@ -738,43 +738,43 @@
    "tipo": "par",
    "cap": 3,
    "par": 3,
-   "a": 357.941,
-   "b": 381.611,
+   "a": 352.101,
+   "b": 374.836,
    "frases": [
     {
      "texto": "Na escada, Lucas encontrou Paula, a vizinha do oitavo andar.",
-     "inicio": 357.941,
-     "fim": 362.078,
+     "inicio": 352.101,
+     "fim": 356.188,
      "paragrafo": 3
     },
     {
      "texto": "Ela é enfermeira.",
-     "inicio": 362.498,
-     "fim": 363.671,
+     "inicio": 356.608,
+     "fim": 357.841,
      "paragrafo": 3
     },
     {
      "texto": "Contou que o hospital onde trabalha continuava funcionando com gerador, mas que as entregas de diesel estavam atrasando.",
-     "inicio": 364.091,
-     "fim": 372.367,
+     "inicio": 358.261,
+     "fim": 365.352,
      "paragrafo": 3
     },
     {
      "texto": "Antes de se despedir, Paula fez uma pergunta.",
-     "inicio": 372.787,
-     "fim": 375.89,
+     "inicio": 365.772,
+     "fim": 368.699,
      "paragrafo": 3
     },
     {
      "texto": "Alguém viu a Dona Cida?",
-     "inicio": 376.31,
-     "fim": 377.896,
+     "inicio": 369.119,
+     "fim": 370.801,
      "paragrafo": 3
     },
     {
      "texto": "Ela é sua vizinha de andar, não é?",
-     "inicio": 378.316,
-     "fim": 380.661,
+     "inicio": 371.221,
+     "fim": 373.886,
      "paragrafo": 3
     }
    ],
@@ -784,55 +784,55 @@
    "tipo": "par",
    "cap": 3,
    "par": 4,
-   "a": 381.611,
-   "b": 403.984,
+   "a": 374.836,
+   "b": 396.68,
    "frases": [
     {
      "texto": "Lucas subiu e bateu na porta de Dona Cida.",
-     "inicio": 381.611,
-     "fim": 384.508,
+     "inicio": 374.836,
+     "fim": 377.466,
      "paragrafo": 4
     },
     {
      "texto": "Esperou.",
-     "inicio": 384.928,
-     "fim": 385.48,
+     "inicio": 377.886,
+     "fim": 378.715,
      "paragrafo": 4
     },
     {
      "texto": "Bateu de novo.",
-     "inicio": 385.9,
-     "fim": 386.865,
+     "inicio": 379.135,
+     "fim": 380.554,
      "paragrafo": 4
     },
     {
      "texto": "Ninguém respondeu.",
-     "inicio": 387.285,
-     "fim": 388.526,
+     "inicio": 380.974,
+     "fim": 382.883,
      "paragrafo": 4
     },
     {
      "texto": "Ela deve ter ido para a casa de algum parente, ele pensou.",
-     "inicio": 388.946,
-     "fim": 392.946,
+     "inicio": 383.303,
+     "fim": 386.658,
      "paragrafo": 4
     },
     {
      "texto": "E voltou para o apartamento.",
-     "inicio": 393.366,
-     "fim": 395.297,
+     "inicio": 387.078,
+     "fim": 388.668,
      "paragrafo": 4
     },
     {
      "texto": "Era uma conclusão simples.",
-     "inicio": 395.717,
-     "fim": 397.511,
+     "inicio": 389.088,
+     "fim": 390.73,
      "paragrafo": 4
     },
     {
      "texto": "E era exatamente a conclusão que ia pesar na consciência dele dias depois.",
-     "inicio": 397.931,
-     "fim": 403.034,
+     "inicio": 391.15,
+     "fim": 395.73,
      "paragrafo": 4
     }
    ],
@@ -841,51 +841,51 @@
   {
    "tipo": "cartela",
    "cap": 4,
-   "a": 403.98370579310335,
-   "b": 407.18370579310334,
+   "a": 396.679626,
+   "b": 399.879626,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 4,
    "par": 0,
-   "a": 407.184,
-   "b": 429.544,
+   "a": 399.88,
+   "b": 420.586,
    "frases": [
     {
      "texto": "No quinto dia, um cheiro forte tomou conta da cozinha.",
-     "inicio": 407.184,
-     "fim": 410.908,
+     "inicio": 399.88,
+     "fim": 403.471,
      "paragrafo": 0
     },
     {
      "texto": "Lucas abriu a geladeira e precisou dar um passo para trás.",
-     "inicio": 411.328,
-     "fim": 415.328,
+     "inicio": 403.891,
+     "fim": 407.659,
      "paragrafo": 0
     },
     {
      "texto": "A carne estava estragada.",
-     "inicio": 415.748,
-     "fim": 417.472,
+     "inicio": 408.079,
+     "fim": 409.861,
      "paragrafo": 0
     },
     {
      "texto": "O leite tinha azedado.",
-     "inicio": 417.892,
-     "fim": 419.41,
+     "inicio": 410.281,
+     "fim": 411.946,
      "paragrafo": 0
     },
     {
      "texto": "O que estava no congelador tinha derretido e apodrecido.",
-     "inicio": 419.83,
-     "fim": 423.692,
+     "inicio": 412.366,
+     "fim": 415.657,
      "paragrafo": 0
     },
     {
      "texto": "Comida que poderia alimentar ele por dias foi direto para o lixo.",
-     "inicio": 424.112,
-     "fim": 428.594,
+     "inicio": 416.077,
+     "fim": 419.636,
      "paragrafo": 0
     }
    ],
@@ -895,37 +895,37 @@
    "tipo": "par",
    "cap": 4,
    "par": 1,
-   "a": 429.544,
-   "b": 450.726,
+   "a": 420.586,
+   "b": 441.449,
    "frases": [
     {
      "texto": "Ele sabia que tinha errado.",
-     "inicio": 429.544,
-     "fim": 431.406,
+     "inicio": 420.586,
+     "fim": 423.449,
      "paragrafo": 1
     },
     {
      "texto": "No segundo dia, ainda dava tempo de cozinhar a carne e aproveitar tudo.",
-     "inicio": 431.826,
-     "fim": 436.723,
+     "inicio": 423.869,
+     "fim": 428.204,
      "paragrafo": 1
     },
     {
      "texto": "Mas ele acreditou que a energia voltaria a qualquer momento.",
-     "inicio": 437.143,
-     "fim": 441.281,
+     "inicio": 428.624,
+     "fim": 431.821,
      "paragrafo": 1
     },
     {
      "texto": "Agora sobravam só os alimentos que não precisam de geladeira.",
-     "inicio": 441.701,
-     "fim": 445.908,
+     "inicio": 432.241,
+     "fim": 435.841,
      "paragrafo": 1
     },
     {
      "texto": "Arroz, feijão, macarrão e algumas latas de comida.",
-     "inicio": 446.328,
-     "fim": 449.776,
+     "inicio": 436.261,
+     "fim": 440.499,
      "paragrafo": 1
     }
    ],
@@ -935,37 +935,37 @@
    "tipo": "par",
    "cap": 4,
    "par": 2,
-   "a": 450.726,
-   "b": 470.735,
+   "a": 441.449,
+   "b": 459.658,
    "frases": [
     {
      "texto": "O fogão ainda funcionava com o gás do botijão, mas o acendedor era elétrico.",
-     "inicio": 450.726,
-     "fim": 455.967,
+     "inicio": 441.449,
+     "fim": 445.956,
      "paragrafo": 2
     },
     {
      "texto": "Lucas encontrou uma caixa de fósforos no fundo de uma gaveta.",
-     "inicio": 456.387,
-     "fim": 460.594,
+     "inicio": 446.376,
+     "fim": 449.898,
      "paragrafo": 2
     },
     {
      "texto": "Riscou o primeiro, e a chama azul apareceu.",
-     "inicio": 461.014,
-     "fim": 463.98,
+     "inicio": 450.318,
+     "fim": 453.098,
      "paragrafo": 2
     },
     {
      "texto": "Era pouco, mas era alguma coisa.",
-     "inicio": 464.4,
-     "fim": 466.607,
+     "inicio": 453.518,
+     "fim": 455.981,
      "paragrafo": 2
     },
     {
      "texto": "Pelo menos ele ainda conseguia cozinhar.",
-     "inicio": 467.027,
-     "fim": 469.785,
+     "inicio": 456.401,
+     "fim": 458.708,
      "paragrafo": 2
     }
    ],
@@ -975,61 +975,61 @@
    "tipo": "par",
    "cap": 4,
    "par": 3,
-   "a": 470.735,
-   "b": 497.804,
+   "a": 459.658,
+   "b": 487.098,
    "frases": [
     {
      "texto": "Então ele foi até o mercado do bairro.",
-     "inicio": 470.735,
-     "fim": 473.356,
+     "inicio": 459.658,
+     "fim": 462.029,
      "paragrafo": 3
     },
     {
      "texto": "A entrada estava controlada.",
-     "inicio": 473.776,
-     "fim": 475.707,
+     "inicio": 462.449,
+     "fim": 464.216,
      "paragrafo": 3
     },
     {
      "texto": "Cinco pessoas por vez.",
-     "inicio": 476.127,
-     "fim": 477.644,
+     "inicio": 464.636,
+     "fim": 466.302,
      "paragrafo": 3
     },
     {
      "texto": "Somente dinheiro.",
-     "inicio": 478.064,
-     "fim": 479.237,
+     "inicio": 466.722,
+     "fim": 468.59,
      "paragrafo": 3
     },
     {
      "texto": "No máximo dois pacotes de cada produto.",
-     "inicio": 479.657,
-     "fim": 482.346,
+     "inicio": 469.01,
+     "fim": 471.687,
      "paragrafo": 3
     },
     {
      "texto": "Lá dentro, as prateleiras estavam quase vazias.",
-     "inicio": 482.766,
-     "fim": 486.008,
+     "inicio": 472.107,
+     "fim": 475.776,
      "paragrafo": 3
     },
     {
      "texto": "O arroz estava custando o dobro do preço.",
-     "inicio": 486.428,
-     "fim": 489.255,
+     "inicio": 476.196,
+     "fim": 478.632,
      "paragrafo": 3
     },
     {
      "texto": "Lucas comprou arroz, feijão, sardinha e um pacote de velas.",
-     "inicio": 489.675,
-     "fim": 493.744,
+     "inicio": 479.052,
+     "fim": 483.323,
      "paragrafo": 3
     },
     {
      "texto": "Quando saiu, tinha onze reais no bolso.",
-     "inicio": 494.164,
-     "fim": 496.854,
+     "inicio": 483.743,
+     "fim": 486.148,
      "paragrafo": 3
     }
    ],
@@ -1039,37 +1039,37 @@
    "tipo": "par",
    "cap": 4,
    "par": 4,
-   "a": 497.804,
-   "b": 518.296,
+   "a": 487.098,
+   "b": 505.673,
    "frases": [
     {
      "texto": "Na volta, ele passou em frente à agência do banco.",
-     "inicio": 497.804,
-     "fim": 501.252,
+     "inicio": 487.098,
+     "fim": 490.034,
      "paragrafo": 4
     },
     {
      "texto": "Estava fechada.",
-     "inicio": 501.672,
-     "fim": 502.707,
+     "inicio": 490.454,
+     "fim": 491.55,
      "paragrafo": 4
     },
     {
      "texto": "Todo o dinheiro que ele tinha estava na conta, no aplicativo, no cartão.",
-     "inicio": 503.127,
-     "fim": 508.092,
+     "inicio": 491.97,
+     "fim": 496.695,
      "paragrafo": 4
     },
     {
      "texto": "E nada disso funcionava sem energia.",
-     "inicio": 508.512,
-     "fim": 510.995,
+     "inicio": 497.115,
+     "fim": 499.442,
      "paragrafo": 4
     },
     {
      "texto": "Pela primeira vez, Lucas entendeu que dinheiro digital também depende de eletricidade.",
-     "inicio": 511.415,
-     "fim": 517.346,
+     "inicio": 499.862,
+     "fim": 504.724,
      "paragrafo": 4
     }
    ],
@@ -1078,45 +1078,45 @@
   {
    "tipo": "cartela",
    "cap": 5,
-   "a": 518.2957747586206,
-   "b": 521.4957747586207,
+   "a": 505.67341799999997,
+   "b": 508.87341799999996,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 5,
    "par": 0,
-   "a": 521.496,
-   "b": 539.988,
+   "a": 508.873,
+   "b": 527.053,
    "frases": [
     {
      "texto": "No sétimo dia, Lucas voltava do caminhão-pipa com os baldes quando ouviu um som fraco no corredor.",
-     "inicio": 521.496,
-     "fim": 528.255,
+     "inicio": 508.873,
+     "fim": 514.916,
      "paragrafo": 0
     },
     {
      "texto": "Uma batida.",
-     "inicio": 528.675,
-     "fim": 529.433,
+     "inicio": 515.336,
+     "fim": 516.311,
      "paragrafo": 0
     },
     {
      "texto": "Depois outra.",
-     "inicio": 529.853,
-     "fim": 530.75,
+     "inicio": 516.73,
+     "fim": 517.777,
      "paragrafo": 0
     },
     {
      "texto": "Vinha do apartamento de Dona Cida.",
-     "inicio": 531.17,
-     "fim": 533.515,
+     "inicio": 518.197,
+     "fim": 520.205,
      "paragrafo": 0
     },
     {
      "texto": "Ele encostou o ouvido na porta e escutou uma voz baixinha pedindo socorro.",
-     "inicio": 533.935,
-     "fim": 539.038,
+     "inicio": 520.625,
+     "fim": 526.103,
      "paragrafo": 0
     }
    ],
@@ -1126,43 +1126,43 @@
    "tipo": "par",
    "cap": 5,
    "par": 1,
-   "a": 539.988,
-   "b": 569.452,
+   "a": 527.053,
+   "b": 555.05,
    "frases": [
     {
      "texto": "Dona Cida tem setenta e quatro anos.",
-     "inicio": 539.988,
-     "fim": 542.471,
+     "inicio": 527.053,
+     "fim": 529.363,
      "paragrafo": 1
     },
     {
      "texto": "É diabética e usa insulina.",
-     "inicio": 542.891,
-     "fim": 544.753,
+     "inicio": 529.783,
+     "fim": 532.216,
      "paragrafo": 1
     },
     {
      "texto": "Por causa dos joelhos, não conseguia descer nove andares de escada.",
-     "inicio": 545.173,
-     "fim": 549.794,
+     "inicio": 532.636,
+     "fim": 536.801,
      "paragrafo": 1
     },
     {
      "texto": "Estava sozinha desde o apagão, e quase sem água.",
-     "inicio": 550.214,
-     "fim": 553.524,
+     "inicio": 537.221,
+     "fim": 540.446,
      "paragrafo": 1
     },
     {
      "texto": "A insulina pode ficar fora da geladeira por algumas semanas, desde que não esquente demais.",
-     "inicio": 553.944,
-     "fim": 560.22,
+     "inicio": 540.866,
+     "fim": 546.361,
      "paragrafo": 1
     },
     {
      "texto": "Mas as doses estavam acabando, a farmácia estava fechada, e ela não conseguia se alimentar nem beber água direito.",
-     "inicio": 560.64,
-     "fim": 568.502,
+     "inicio": 546.781,
+     "fim": 554.1,
      "paragrafo": 1
     }
    ],
@@ -1172,43 +1172,43 @@
    "tipo": "par",
    "cap": 5,
    "par": 2,
-   "a": 569.452,
-   "b": 596.916,
+   "a": 555.05,
+   "b": 581.945,
    "frases": [
     {
      "texto": "Lucas desceu correndo e chamou Paula.",
-     "inicio": 569.452,
-     "fim": 572.004,
+     "inicio": 555.05,
+     "fim": 557.41,
      "paragrafo": 2
     },
     {
      "texto": "A enfermeira avaliou Dona Cida e foi direta.",
-     "inicio": 572.424,
-     "fim": 575.458,
+     "inicio": 557.83,
+     "fim": 562.055,
      "paragrafo": 2
     },
     {
      "texto": "Ela precisava ir para uma unidade de saúde que estava funcionando com gerador e tinha remédios refrigerados.",
-     "inicio": 575.878,
-     "fim": 583.326,
+     "inicio": 562.475,
+     "fim": 569.409,
      "paragrafo": 2
     },
     {
      "texto": "O problema era descer nove andares.",
-     "inicio": 583.746,
-     "fim": 586.16,
+     "inicio": 569.829,
+     "fim": 572.111,
      "paragrafo": 2
     },
     {
      "texto": "Eles usaram uma cadeira de madeira firme, com braços.",
-     "inicio": 586.58,
-     "fim": 590.235,
+     "inicio": 572.531,
+     "fim": 575.868,
      "paragrafo": 2
     },
     {
      "texto": "Quatro pessoas seguraram, uma em cada canto, e Paula orientou cada movimento.",
-     "inicio": 590.655,
-     "fim": 595.966,
+     "inicio": 576.288,
+     "fim": 580.995,
      "paragrafo": 2
     }
    ],
@@ -1218,55 +1218,55 @@
    "tipo": "par",
    "cap": 5,
    "par": 3,
-   "a": 596.916,
-   "b": 622.944,
+   "a": 581.945,
+   "b": 608.795,
    "frases": [
     {
      "texto": "A cada andar, eles paravam.",
-     "inicio": 596.916,
-     "fim": 598.778,
+     "inicio": 581.945,
+     "fim": 583.924,
      "paragrafo": 3
     },
     {
      "texto": "Descansavam.",
-     "inicio": 599.198,
-     "fim": 600.025,
+     "inicio": 584.344,
+     "fim": 585.537,
      "paragrafo": 3
     },
     {
      "texto": "Paula verificava como Dona Cida estava.",
-     "inicio": 600.445,
-     "fim": 603.135,
+     "inicio": 585.957,
+     "fim": 589.992,
      "paragrafo": 3
     },
     {
      "texto": "E seguiam.",
-     "inicio": 603.555,
-     "fim": 604.245,
+     "inicio": 590.412,
+     "fim": 591.509,
      "paragrafo": 3
     },
     {
      "texto": "A descida levou quase uma hora.",
-     "inicio": 604.665,
-     "fim": 606.803,
+     "inicio": 591.929,
+     "fim": 593.911,
      "paragrafo": 3
     },
     {
      "texto": "Na unidade de saúde, ela recebeu atendimento e soro.",
-     "inicio": 607.223,
-     "fim": 610.809,
+     "inicio": 594.331,
+     "fim": 597.579,
      "paragrafo": 3
     },
     {
      "texto": "Mas não podia voltar para o nono andar.",
-     "inicio": 611.229,
-     "fim": 613.918,
+     "inicio": 597.999,
+     "fim": 600.329,
      "paragrafo": 3
     },
     {
      "texto": "Então Seu Jorge abriu o salão de festas, no térreo, para que ela ficasse ali, perto da rua e longe das escadas.",
-     "inicio": 614.338,
-     "fim": 621.994,
+     "inicio": 600.749,
+     "fim": 607.845,
      "paragrafo": 3
     }
    ],
@@ -1276,37 +1276,37 @@
    "tipo": "par",
    "cap": 5,
    "par": 4,
-   "a": 622.944,
-   "b": 644.815,
+   "a": 608.795,
+   "b": 630.855,
    "frases": [
     {
      "texto": "Naquela noite, Lucas não conseguiu dormir.",
-     "inicio": 622.944,
-     "fim": 625.84,
+     "inicio": 608.795,
+     "fim": 611.577,
      "paragrafo": 4
     },
     {
      "texto": "Ele tinha batido naquela porta quatro dias antes e ido embora.",
-     "inicio": 626.26,
-     "fim": 630.536,
+     "inicio": 611.997,
+     "fim": 616.307,
      "paragrafo": 4
     },
     {
      "texto": "No dia seguinte, ele pegou uma caneta e escreveu uma lista na parede do hall de entrada.",
-     "inicio": 630.956,
-     "fim": 637.025,
+     "inicio": 616.727,
+     "fim": 622.319,
      "paragrafo": 4
     },
     {
      "texto": "Quem precisa de ajuda, coloque o nome aqui.",
-     "inicio": 637.445,
-     "fim": 640.41,
+     "inicio": 622.739,
+     "fim": 626.02,
      "paragrafo": 4
     },
     {
      "texto": "Na manhã seguinte, a lista tinha onze nomes.",
-     "inicio": 640.83,
-     "fim": 643.865,
+     "inicio": 626.44,
+     "fim": 629.904,
      "paragrafo": 4
     }
    ],
@@ -1315,39 +1315,39 @@
   {
    "tipo": "cartela",
    "cap": 6,
-   "a": 644.814740275862,
-   "b": 648.0147402758621,
+   "a": 630.854668,
+   "b": 634.054668,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 6,
    "par": 0,
-   "a": 648.015,
-   "b": 668.57,
+   "a": 634.055,
+   "b": 652.951,
    "frases": [
     {
      "texto": "No décimo dia, os termômetros de São Paulo chegaram a trinta e quatro graus.",
-     "inicio": 648.015,
-     "fim": 653.256,
+     "inicio": 634.055,
+     "fim": 638.992,
      "paragrafo": 0
     },
     {
      "texto": "Os apartamentos viraram estufas.",
-     "inicio": 653.676,
-     "fim": 655.883,
+     "inicio": 639.412,
+     "fim": 641.327,
      "paragrafo": 0
     },
     {
      "texto": "Sem ventilador, sem ar-condicionado e sem água gelada, o calor ficou insuportável.",
-     "inicio": 656.303,
-     "fim": 661.958,
+     "inicio": 641.747,
+     "fim": 647.288,
      "paragrafo": 0
     },
     {
      "texto": "Lucas passava as tardes no chão da sala, onde o piso era um pouco mais frio.",
-     "inicio": 662.378,
-     "fim": 667.62,
+     "inicio": 647.708,
+     "fim": 652.001,
      "paragrafo": 0
     }
    ],
@@ -1357,37 +1357,37 @@
    "tipo": "par",
    "cap": 6,
    "par": 1,
-   "a": 668.57,
-   "b": 690.372,
+   "a": 652.951,
+   "b": 673.889,
    "frases": [
     {
      "texto": "Os caminhões de lixo também precisam de combustível, e o combustível tinha parado de chegar.",
-     "inicio": 668.57,
-     "fim": 674.915,
+     "inicio": 652.951,
+     "fim": 658.027,
      "paragrafo": 1
     },
     {
      "texto": "A coleta deixou de passar.",
-     "inicio": 675.335,
-     "fim": 677.128,
+     "inicio": 658.447,
+     "fim": 659.962,
      "paragrafo": 1
     },
     {
      "texto": "Na calçada do prédio, os sacos de lixo foram se acumulando, um em cima do outro.",
-     "inicio": 677.548,
-     "fim": 683.065,
+     "inicio": 660.382,
+     "fim": 666.126,
      "paragrafo": 1
     },
     {
      "texto": "Com o calor, o cheiro piorou a cada dia.",
-     "inicio": 683.485,
-     "fim": 686.244,
+     "inicio": 666.546,
+     "fim": 669.057,
      "paragrafo": 1
     },
     {
      "texto": "E logo apareceram os ratos e as baratas.",
-     "inicio": 686.664,
-     "fim": 689.422,
+     "inicio": 669.477,
+     "fim": 672.939,
      "paragrafo": 1
     }
    ],
@@ -1397,31 +1397,31 @@
    "tipo": "par",
    "cap": 6,
    "par": 2,
-   "a": 690.372,
-   "b": 711.893,
+   "a": 673.889,
+   "b": 692.605,
    "frases": [
     {
      "texto": "Paula avisou que os casos de diarreia estavam aumentando no bairro.",
-     "inicio": 690.372,
-     "fim": 694.993,
+     "inicio": 673.889,
+     "fim": 677.556,
      "paragrafo": 2
     },
     {
      "texto": "Água contaminada e falta de higiene são um perigo real em situações assim.",
-     "inicio": 695.413,
-     "fim": 700.516,
+     "inicio": 677.976,
+     "fim": 682.978,
      "paragrafo": 2
     },
     {
      "texto": "Seu Jorge convocou uma reunião na garagem, à luz de velas.",
-     "inicio": 700.936,
-     "fim": 704.936,
+     "inicio": 683.398,
+     "fim": 686.906,
      "paragrafo": 2
     },
     {
      "texto": "Os moradores sentaram em cadeiras de plástico, em silêncio, para ouvir as regras.",
-     "inicio": 705.356,
-     "fim": 710.943,
+     "inicio": 687.326,
+     "fim": 691.655,
      "paragrafo": 2
     }
    ],
@@ -1431,25 +1431,25 @@
    "tipo": "par",
    "cap": 6,
    "par": 3,
-   "a": 711.893,
-   "b": 732.165,
+   "a": 692.605,
+   "b": 711.339,
    "frases": [
     {
      "texto": "A água para beber deveria ser fervida e guardada em recipientes fechados.",
-     "inicio": 711.893,
-     "fim": 716.927,
+     "inicio": 692.605,
+     "fim": 697.888,
      "paragrafo": 3
     },
     {
      "texto": "O lixo orgânico seria separado e tratado longe da água.",
-     "inicio": 717.347,
-     "fim": 721.14,
+     "inicio": 698.308,
+     "fim": 701.849,
      "paragrafo": 3
     },
     {
      "texto": "E Lucas ficou responsável por organizar um banheiro improvisado e um ponto de higiene na garagem, com baldes, sabão e uma escala de limpeza.",
-     "inicio": 721.56,
-     "fim": 731.215,
+     "inicio": 702.269,
+     "fim": 710.389,
      "paragrafo": 3
     }
    ],
@@ -1459,37 +1459,37 @@
    "tipo": "par",
    "cap": 6,
    "par": 4,
-   "a": 732.165,
-   "b": 754.243,
+   "a": 711.339,
+   "b": 733.301,
    "frases": [
     {
      "texto": "Naquela noite, o rádio trouxe mais uma notícia ruim.",
-     "inicio": 732.165,
-     "fim": 735.752,
+     "inicio": 711.339,
+     "fim": 715.106,
      "paragrafo": 4
     },
     {
      "texto": "Os caminhões que abastecem os mercados estavam parados nas estradas, sem combustível.",
-     "inicio": 736.172,
-     "fim": 742.034,
+     "inicio": 715.526,
+     "fim": 720.403,
      "paragrafo": 4
     },
     {
      "texto": "Lucas desligou o rádio e olhou para o armário da cozinha.",
-     "inicio": 742.454,
-     "fim": 746.385,
+     "inicio": 720.823,
+     "fim": 725.767,
      "paragrafo": 4
     },
     {
      "texto": "A comida que ainda existia na cidade estava dentro das casas.",
-     "inicio": 746.805,
-     "fim": 751.012,
+     "inicio": 726.187,
+     "fim": 730.113,
      "paragrafo": 4
     },
     {
      "texto": "E não ia durar para sempre.",
-     "inicio": 751.432,
-     "fim": 753.294,
+     "inicio": 730.533,
+     "fim": 732.351,
      "paragrafo": 4
     }
    ],
@@ -1498,45 +1498,45 @@
   {
    "tipo": "cartela",
    "cap": 7,
-   "a": 754.2433609655172,
-   "b": 757.4433609655173,
+   "a": 733.301126,
+   "b": 736.501126,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 7,
    "par": 0,
-   "a": 757.443,
-   "b": 780.004,
+   "a": 736.501,
+   "b": 758.18,
    "frases": [
     {
      "texto": "No décimo terceiro dia, o mercado do bairro não abriu.",
-     "inicio": 757.443,
-     "fim": 761.167,
+     "inicio": 736.501,
+     "fim": 740.041,
      "paragrafo": 0
     },
     {
      "texto": "Pela grade, dava para ver as prateleiras completamente vazias.",
-     "inicio": 761.587,
-     "fim": 765.863,
+     "inicio": 740.461,
+     "fim": 744.038,
      "paragrafo": 0
     },
     {
      "texto": "São Paulo depende de caminhões que chegam todos os dias de outros estados.",
-     "inicio": 766.283,
-     "fim": 771.386,
+     "inicio": 744.458,
+     "fim": 748.668,
      "paragrafo": 0
     },
     {
      "texto": "Sem combustível, as entregas pararam.",
-     "inicio": 771.806,
-     "fim": 774.358,
+     "inicio": 749.088,
+     "fim": 752.545,
      "paragrafo": 0
     },
     {
      "texto": "E uma cidade de milhões de pessoas começou a ficar sem comida.",
-     "inicio": 774.778,
-     "fim": 779.054,
+     "inicio": 752.966,
+     "fim": 757.23,
      "paragrafo": 0
     }
    ],
@@ -1546,37 +1546,37 @@
    "tipo": "par",
    "cap": 7,
    "par": 1,
-   "a": 780.004,
-   "b": 805.117,
+   "a": 758.18,
+   "b": 780.758,
    "frases": [
     {
      "texto": "O combustível existia.",
-     "inicio": 780.004,
-     "fim": 781.521,
+     "inicio": 758.18,
+     "fim": 759.945,
      "paragrafo": 1
     },
     {
      "texto": "Estava guardado em tanques embaixo dos postos.",
-     "inicio": 781.941,
-     "fim": 785.114,
+     "inicio": 760.365,
+     "fim": 762.902,
      "paragrafo": 1
     },
     {
      "texto": "Mas as bombas que puxam esse combustível são elétricas.",
-     "inicio": 785.534,
-     "fim": 789.327,
+     "inicio": 763.322,
+     "fim": 766.617,
      "paragrafo": 1
     },
     {
      "texto": "Equipes da Defesa Civil começaram a usar bombas manuais apropriadas, com procedimentos de segurança, para recuperar parte desse combustível.",
-     "inicio": 789.747,
-     "fim": 799.402,
+     "inicio": 767.037,
+     "fim": 775.601,
      "paragrafo": 1
     },
     {
      "texto": "Ele foi destinado às ambulâncias e aos geradores dos hospitais.",
-     "inicio": 799.822,
-     "fim": 804.167,
+     "inicio": 776.021,
+     "fim": 779.808,
      "paragrafo": 1
     }
    ],
@@ -1586,31 +1586,31 @@
    "tipo": "par",
    "cap": 7,
    "par": 2,
-   "a": 805.117,
-   "b": 825.12,
+   "a": 780.758,
+   "b": 799.706,
    "frases": [
     {
      "texto": "O Exército passou a distribuir alimentos em escolas e ginásios.",
-     "inicio": 805.117,
-     "fim": 809.462,
+     "inicio": 780.758,
+     "fim": 784.692,
      "paragrafo": 2
     },
     {
      "texto": "As filas davam voltas nos quarteirões.",
-     "inicio": 809.882,
-     "fim": 812.502,
+     "inicio": 785.112,
+     "fim": 787.716,
      "paragrafo": 2
     },
     {
      "texto": "Foi então que Seu Jorge reuniu os moradores e fez uma proposta.",
-     "inicio": 812.922,
-     "fim": 817.267,
+     "inicio": 788.136,
+     "fim": 792.046,
      "paragrafo": 2
     },
     {
      "texto": "Juntar toda a comida do prédio em uma despensa coletiva, e dividir de forma justa entre todos.",
-     "inicio": 817.687,
-     "fim": 824.17,
+     "inicio": 792.466,
+     "fim": 798.756,
      "paragrafo": 2
     }
    ],
@@ -1620,43 +1620,43 @@
    "tipo": "par",
    "cap": 7,
    "par": 3,
-   "a": 825.12,
-   "b": 849.48,
+   "a": 799.706,
+   "b": 821.812,
    "frases": [
     {
      "texto": "A proposta provocou discussão.",
-     "inicio": 825.12,
-     "fim": 827.189,
+     "inicio": 799.706,
+     "fim": 801.948,
      "paragrafo": 3
     },
     {
      "texto": "Um morador do sétimo andar se levantou e disse que não ia dividir o que era dele.",
-     "inicio": 827.609,
-     "fim": 833.195,
+     "inicio": 802.368,
+     "fim": 807.406,
      "paragrafo": 3
     },
     {
      "texto": "Outros concordaram em silêncio.",
-     "inicio": 833.615,
-     "fim": 835.753,
+     "inicio": 807.826,
+     "fim": 809.904,
      "paragrafo": 3
     },
     {
      "texto": "Até que Dona Cida pediu a palavra.",
-     "inicio": 836.173,
-     "fim": 838.518,
+     "inicio": 810.324,
+     "fim": 812.183,
      "paragrafo": 3
     },
     {
      "texto": "Com a voz baixa, ela lembrou que só estava viva porque quatro vizinhos tinham carregado ela por nove andares.",
-     "inicio": 838.938,
-     "fim": 846.455,
+     "inicio": 812.603,
+     "fim": 818.96,
      "paragrafo": 3
     },
     {
      "texto": "Ninguém disse mais nada.",
-     "inicio": 846.875,
-     "fim": 848.53,
+     "inicio": 819.38,
+     "fim": 820.862,
      "paragrafo": 3
     }
    ],
@@ -1666,49 +1666,49 @@
    "tipo": "par",
    "cap": 7,
    "par": 4,
-   "a": 849.48,
-   "b": 871.64,
+   "a": 821.812,
+   "b": 844.105,
    "frases": [
     {
      "texto": "A proposta foi aprovada.",
-     "inicio": 849.48,
-     "fim": 851.135,
+     "inicio": 821.812,
+     "fim": 823.624,
      "paragrafo": 4
     },
     {
      "texto": "Lucas subiu, encheu uma sacola e desceu com o que tinha.",
-     "inicio": 851.555,
-     "fim": 855.417,
+     "inicio": 824.044,
+     "fim": 828.693,
      "paragrafo": 4
     },
     {
      "texto": "Arroz, feijão e sardinhas.",
-     "inicio": 855.837,
-     "fim": 857.631,
+     "inicio": 829.113,
+     "fim": 831.152,
      "paragrafo": 4
     },
     {
      "texto": "Seu Jorge anotou tudo em um caderno.",
-     "inicio": 858.051,
-     "fim": 860.533,
+     "inicio": 831.572,
+     "fim": 834.002,
      "paragrafo": 4
     },
     {
      "texto": "Quando somaram os alimentos, a conta foi clara.",
-     "inicio": 860.953,
-     "fim": 864.195,
+     "inicio": 834.422,
+     "fim": 837.286,
      "paragrafo": 4
     },
     {
      "texto": "A despensa coletiva dava para pouco mais de duas semanas.",
-     "inicio": 864.615,
-     "fim": 868.546,
+     "inicio": 837.706,
+     "fim": 841.287,
      "paragrafo": 4
     },
     {
      "texto": "Se ninguém mais chegasse.",
-     "inicio": 868.966,
-     "fim": 870.69,
+     "inicio": 841.707,
+     "fim": 843.155,
      "paragrafo": 4
     }
    ],
@@ -1717,39 +1717,39 @@
   {
    "tipo": "cartela",
    "cap": 8,
-   "a": 871.6402575172414,
-   "b": 874.8402575172414,
+   "a": 844.105376,
+   "b": 847.305376,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 8,
    "par": 0,
-   "a": 874.84,
-   "b": 892.016,
+   "a": 847.305,
+   "b": 863.917,
    "frases": [
     {
      "texto": "No décimo sexto dia, a escuridão da cidade já era completa.",
-     "inicio": 874.84,
-     "fim": 878.909,
+     "inicio": 847.305,
+     "fim": 851.926,
      "paragrafo": 0
     },
     {
      "texto": "Lucas tinha perdido peso.",
-     "inicio": 879.329,
-     "fim": 881.053,
+     "inicio": 852.346,
+     "fim": 854.109,
      "paragrafo": 0
     },
     {
      "texto": "As calças estavam largas, presas com um cinto apertado.",
-     "inicio": 881.473,
-     "fim": 885.266,
+     "inicio": 854.529,
+     "fim": 858.374,
      "paragrafo": 0
     },
     {
      "texto": "As mãos estavam cheias de bolhas de tanto carregar baldes de água pela escada.",
-     "inicio": 885.686,
-     "fim": 891.066,
+     "inicio": 858.794,
+     "fim": 862.967,
      "paragrafo": 0
     }
    ],
@@ -1759,31 +1759,31 @@
    "tipo": "par",
    "cap": 8,
    "par": 1,
-   "a": 892.016,
-   "b": 910.226,
+   "a": 863.917,
+   "b": 880.75,
    "frases": [
     {
      "texto": "Pelo rádio chegavam notícias de lojas arrombadas e brigas em filas de distribuição.",
-     "inicio": 892.016,
-     "fim": 897.74,
+     "inicio": 863.917,
+     "fim": 868.944,
      "paragrafo": 1
     },
     {
      "texto": "Alguns relatos eram verdadeiros.",
-     "inicio": 898.16,
-     "fim": 900.367,
+     "inicio": 869.364,
+     "fim": 871.535,
      "paragrafo": 1
     },
     {
      "texto": "Outros eram só boatos, que se espalhavam de boca em boca e aumentavam o medo.",
-     "inicio": 900.787,
-     "fim": 906.097,
+     "inicio": 871.955,
+     "fim": 876.959,
      "paragrafo": 1
     },
     {
      "texto": "Ninguém sabia direito em quem acreditar.",
-     "inicio": 906.517,
-     "fim": 909.276,
+     "inicio": 877.379,
+     "fim": 879.8,
      "paragrafo": 1
     }
    ],
@@ -1793,37 +1793,37 @@
    "tipo": "par",
    "cap": 8,
    "par": 2,
-   "a": 910.226,
-   "b": 932.649,
+   "a": 880.75,
+   "b": 901.971,
    "frases": [
     {
      "texto": "O portão eletrônico do prédio não trancava sem energia.",
-     "inicio": 910.226,
-     "fim": 914.019,
+     "inicio": 880.75,
+     "fim": 884.409,
      "paragrafo": 2
     },
     {
      "texto": "Então os moradores organizaram turnos de vigília.",
-     "inicio": 914.439,
-     "fim": 917.818,
+     "inicio": 884.829,
+     "fim": 887.632,
      "paragrafo": 2
     },
     {
      "texto": "Duas pessoas por vez, a noite inteira.",
-     "inicio": 918.238,
-     "fim": 920.859,
+     "inicio": 888.052,
+     "fim": 890.678,
      "paragrafo": 2
     },
     {
      "texto": "Lucas ficou com o turno das duas às quatro da manhã, ao lado de Seu Jorge.",
-     "inicio": 921.279,
-     "fim": 926.382,
+     "inicio": 891.098,
+     "fim": 895.607,
      "paragrafo": 2
     },
     {
      "texto": "Eles sentavam na portaria, com uma lanterna e uma garrafa de café frio.",
-     "inicio": 926.802,
-     "fim": 931.699,
+     "inicio": 896.027,
+     "fim": 901.021,
      "paragrafo": 2
     }
    ],
@@ -1833,49 +1833,49 @@
    "tipo": "par",
    "cap": 8,
    "par": 3,
-   "a": 932.649,
-   "b": 959.153,
+   "a": 901.971,
+   "b": 927.243,
    "frases": [
     {
      "texto": "Por volta das três horas, uma luz apareceu do lado de fora do portão.",
-     "inicio": 932.649,
-     "fim": 937.407,
+     "inicio": 901.971,
+     "fim": 906.635,
      "paragrafo": 3
     },
     {
      "texto": "Era uma lanterna.",
-     "inicio": 937.827,
-     "fim": 939.0,
+     "inicio": 907.055,
+     "fim": 908.388,
      "paragrafo": 3
     },
     {
      "texto": "Segurando a lanterna estava uma mulher, com duas crianças pequenas agarradas na roupa dela.",
-     "inicio": 939.42,
-     "fim": 945.696,
+     "inicio": 908.808,
+     "fim": 913.996,
      "paragrafo": 3
     },
     {
      "texto": "Elas moravam em um prédio próximo.",
-     "inicio": 946.116,
-     "fim": 948.46,
+     "inicio": 914.416,
+     "fim": 917.684,
      "paragrafo": 3
     },
     {
      "texto": "Os vizinhos tinham ido embora para o interior, e elas ficaram sozinhas.",
-     "inicio": 948.88,
-     "fim": 953.777,
+     "inicio": 918.104,
+     "fim": 921.994,
      "paragrafo": 3
     },
     {
      "texto": "A mãe estava exausta.",
-     "inicio": 954.197,
-     "fim": 955.645,
+     "inicio": 922.414,
+     "fim": 923.825,
      "paragrafo": 3
     },
     {
      "texto": "As crianças estavam assustadas.",
-     "inicio": 956.065,
-     "fim": 958.203,
+     "inicio": 924.245,
+     "fim": 926.293,
      "paragrafo": 3
     }
    ],
@@ -1885,43 +1885,43 @@
    "tipo": "par",
    "cap": 8,
    "par": 4,
-   "a": 959.153,
-   "b": 979.79,
+   "a": 927.243,
+   "b": 948.428,
    "frases": [
     {
      "texto": "Lucas olhou para Seu Jorge.",
-     "inicio": 959.153,
-     "fim": 961.015,
+     "inicio": 927.243,
+     "fim": 928.844,
      "paragrafo": 4
     },
     {
      "texto": "A despensa tinha sido calculada para os moradores do prédio.",
-     "inicio": 961.435,
-     "fim": 965.573,
+     "inicio": 929.264,
+     "fim": 933.473,
      "paragrafo": 4
     },
     {
      "texto": "Mais três pessoas iam consumir uma comida que já estava acabando.",
-     "inicio": 965.993,
-     "fim": 970.476,
+     "inicio": 933.893,
+     "fim": 938.85,
      "paragrafo": 4
     },
     {
      "texto": "Seu Jorge não disse nada.",
-     "inicio": 970.896,
-     "fim": 972.62,
+     "inicio": 939.27,
+     "fim": 940.768,
      "paragrafo": 4
     },
     {
      "texto": "Esperou a decisão.",
-     "inicio": 973.04,
-     "fim": 974.281,
+     "inicio": 941.188,
+     "fim": 942.322,
      "paragrafo": 4
     },
     {
      "texto": "Lucas respirou fundo, levantou da cadeira, e abriu o portão.",
-     "inicio": 974.701,
-     "fim": 978.839,
+     "inicio": 942.742,
+     "fim": 947.478,
      "paragrafo": 4
     }
    ],
@@ -1930,45 +1930,45 @@
   {
    "tipo": "cartela",
    "cap": 9,
-   "a": 979.789567862069,
-   "b": 982.9895678620691,
+   "a": 948.428251,
+   "b": 951.6282510000001,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 9,
    "par": 0,
-   "a": 982.99,
-   "b": 1005.137,
+   "a": 951.628,
+   "b": 971.18,
    "frases": [
     {
      "texto": "No décimo nono dia, o rádio trouxe uma notícia diferente.",
-     "inicio": 982.99,
-     "fim": 986.921,
+     "inicio": 951.628,
+     "fim": 954.978,
      "paragrafo": 0
     },
     {
      "texto": "Algumas cidades do interior estavam voltando a ter energia por algumas horas por dia.",
-     "inicio": 987.341,
-     "fim": 993.203,
+     "inicio": 955.398,
+     "fim": 959.879,
      "paragrafo": 0
     },
     {
      "texto": "Uma delas ficava a duzentos quilômetros de São Paulo.",
-     "inicio": 993.623,
-     "fim": 997.278,
+     "inicio": 960.299,
+     "fim": 963.259,
      "paragrafo": 0
     },
     {
      "texto": "Era a cidade onde morava a mãe de Lucas.",
-     "inicio": 997.698,
-     "fim": 1000.457,
+     "inicio": 963.679,
+     "fim": 966.01,
      "paragrafo": 0
     },
     {
      "texto": "Ele não tinha notícias dela havia dezenove dias.",
-     "inicio": 1000.877,
-     "fim": 1004.187,
+     "inicio": 966.43,
+     "fim": 970.23,
      "paragrafo": 0
     }
    ],
@@ -1978,31 +1978,31 @@
    "tipo": "par",
    "cap": 9,
    "par": 1,
-   "a": 1005.137,
-   "b": 1027.692,
+   "a": 971.18,
+   "b": 991.969,
    "frases": [
     {
      "texto": "Um vizinho ofereceu uma bicicleta.",
-     "inicio": 1005.137,
-     "fim": 1007.482,
+     "inicio": 971.18,
+     "fim": 973.269,
      "paragrafo": 1
     },
     {
      "texto": "A viagem levaria pelo menos três dias.",
-     "inicio": 1007.902,
-     "fim": 1010.523,
+     "inicio": 973.689,
+     "fim": 976.095,
      "paragrafo": 1
     },
     {
      "texto": "Lucas teria que carregar água, enfrentar o calor, dormir onde fosse possível e lidar com os riscos de uma estrada sem nenhum serviço funcionando.",
-     "inicio": 1010.943,
-     "fim": 1020.943,
+     "inicio": 976.515,
+     "fim": 985.19,
      "paragrafo": 1
     },
     {
      "texto": "Ele passou a tarde inteira olhando para aquela bicicleta encostada na garagem.",
-     "inicio": 1021.363,
-     "fim": 1026.742,
+     "inicio": 985.61,
+     "fim": 991.019,
      "paragrafo": 1
     }
    ],
@@ -2012,31 +2012,31 @@
    "tipo": "par",
    "cap": 9,
    "par": 2,
-   "a": 1027.692,
-   "b": 1048.73,
+   "a": 991.969,
+   "b": 1012.635,
    "frases": [
     {
      "texto": "Mas existia outra questão.",
-     "inicio": 1027.692,
-     "fim": 1029.485,
+     "inicio": 991.969,
+     "fim": 994.027,
      "paragrafo": 2
     },
     {
      "texto": "Desde a chegada da mãe com as duas crianças, a despensa diminuía mais rápido.",
-     "inicio": 1029.905,
-     "fim": 1035.216,
+     "inicio": 994.447,
+     "fim": 999.698,
      "paragrafo": 2
     },
     {
      "texto": "Se Lucas fosse embora, seria uma pessoa a menos para alimentar.",
-     "inicio": 1035.636,
-     "fim": 1039.98,
+     "inicio": 1000.118,
+     "fim": 1004.72,
      "paragrafo": 2
     },
     {
      "texto": "Por outro lado, o prédio perderia alguém que carregava água, cuidava da garagem e ajudava a organizar tudo.",
-     "inicio": 1040.4,
-     "fim": 1047.78,
+     "inicio": 1005.14,
+     "fim": 1011.685,
      "paragrafo": 2
     }
    ],
@@ -2046,37 +2046,37 @@
    "tipo": "par",
    "cap": 9,
    "par": 3,
-   "a": 1048.73,
-   "b": 1070.739,
+   "a": 1012.635,
+   "b": 1033.475,
    "frases": [
     {
      "texto": "Naquela noite, ele tomou a decisão.",
-     "inicio": 1048.73,
-     "fim": 1051.143,
+     "inicio": 1012.635,
+     "fim": 1015.068,
      "paragrafo": 3
     },
     {
      "texto": "Ia ficar.",
-     "inicio": 1051.563,
-     "fim": 1052.184,
+     "inicio": 1015.488,
+     "fim": 1016.29,
      "paragrafo": 3
     },
     {
      "texto": "Devolveu a bicicleta e sentou à luz de uma vela para escrever uma carta para a mãe.",
-     "inicio": 1052.604,
-     "fim": 1058.328,
+     "inicio": 1016.71,
+     "fim": 1021.636,
      "paragrafo": 3
     },
     {
      "texto": "Contou que estava bem, que tinha conhecido os vizinhos e que estava ajudando a cuidar do prédio.",
-     "inicio": 1058.748,
-     "fim": 1065.369,
+     "inicio": 1022.056,
+     "fim": 1027.785,
      "paragrafo": 3
     },
     {
      "texto": "Escreveu que ia encontrar com ela assim que tudo passasse.",
-     "inicio": 1065.789,
-     "fim": 1069.789,
+     "inicio": 1028.205,
+     "fim": 1032.525,
      "paragrafo": 3
     }
    ],
@@ -2086,31 +2086,31 @@
    "tipo": "par",
    "cap": 9,
    "par": 4,
-   "a": 1070.739,
-   "b": 1091.086,
+   "a": 1033.475,
+   "b": 1053.309,
    "frases": [
     {
      "texto": "Na manhã seguinte, ele entregou a carta a um ciclista que estava seguindo para o interior.",
-     "inicio": 1070.739,
-     "fim": 1076.946,
+     "inicio": 1033.475,
+     "fim": 1038.411,
      "paragrafo": 4
     },
     {
      "texto": "Não havia nenhuma garantia de que ela chegaria.",
-     "inicio": 1077.366,
-     "fim": 1080.607,
+     "inicio": 1038.831,
+     "fim": 1042.233,
      "paragrafo": 4
     },
     {
      "texto": "Depois, Lucas se ofereceu para buscar comida na distribuição do ginásio.",
-     "inicio": 1081.027,
-     "fim": 1085.993,
+     "inicio": 1042.653,
+     "fim": 1047.876,
      "paragrafo": 4
     },
     {
      "texto": "Se não podia ir até a mãe, ia pelo menos ser útil ali.",
-     "inicio": 1086.413,
-     "fim": 1090.137,
+     "inicio": 1048.296,
+     "fim": 1052.359,
      "paragrafo": 4
     }
    ],
@@ -2119,39 +2119,39 @@
   {
    "tipo": "cartela",
    "cap": 10,
-   "a": 1091.0864644137932,
-   "b": 1094.2864644137933,
+   "a": 1053.3089180000002,
+   "b": 1056.5089180000002,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 10,
    "par": 0,
-   "a": 1094.286,
-   "b": 1114.289,
+   "a": 1056.509,
+   "b": 1077.154,
    "frases": [
     {
      "texto": "No vigésimo terceiro dia, a garagem do prédio já não parecia uma garagem.",
-     "inicio": 1094.286,
-     "fim": 1099.32,
+     "inicio": 1056.509,
+     "fim": 1061.232,
      "paragrafo": 0
     },
     {
      "texto": "Tinha virado uma cozinha coletiva, com três fogões ligados nos botijões de gás.",
-     "inicio": 1099.74,
-     "fim": 1105.189,
+     "inicio": 1061.652,
+     "fim": 1066.996,
      "paragrafo": 0
     },
     {
      "texto": "Os moradores tinham escalas para cozinhar, lavar, buscar água e vigiar o portão.",
-     "inicio": 1105.609,
-     "fim": 1111.126,
+     "inicio": 1067.416,
+     "fim": 1073.288,
      "paragrafo": 0
     },
     {
      "texto": "Cada um sabia o seu papel.",
-     "inicio": 1111.546,
-     "fim": 1113.339,
+     "inicio": 1073.708,
+     "fim": 1076.204,
      "paragrafo": 0
     }
    ],
@@ -2161,37 +2161,37 @@
    "tipo": "par",
    "cap": 10,
    "par": 1,
-   "a": 1114.289,
-   "b": 1134.229,
+   "a": 1077.154,
+   "b": 1096.766,
    "frases": [
     {
      "texto": "O dinheiro tinha perdido importância.",
-     "inicio": 1114.289,
-     "fim": 1116.841,
+     "inicio": 1077.154,
+     "fim": 1079.903,
      "paragrafo": 1
     },
     {
      "texto": "As pessoas trocavam alimentos, pilhas, remédios e serviços.",
-     "inicio": 1117.261,
-     "fim": 1121.33,
+     "inicio": 1080.323,
+     "fim": 1084.605,
      "paragrafo": 1
     },
     {
      "texto": "E Lucas descobriu uma habilidade que nem sabia que tinha.",
-     "inicio": 1121.75,
-     "fim": 1125.681,
+     "inicio": 1085.025,
+     "fim": 1088.056,
      "paragrafo": 1
     },
     {
      "texto": "Ele conseguia consertar torneiras e descargas.",
-     "inicio": 1126.101,
-     "fim": 1129.273,
+     "inicio": 1088.476,
+     "fim": 1091.733,
      "paragrafo": 1
     },
     {
      "texto": "Em pouco tempo, ele era chamado em todos os andares.",
-     "inicio": 1129.693,
-     "fim": 1133.279,
+     "inicio": 1092.153,
+     "fim": 1095.816,
      "paragrafo": 1
     }
    ],
@@ -2201,37 +2201,37 @@
    "tipo": "par",
    "cap": 10,
    "par": 2,
-   "a": 1134.229,
-   "b": 1157.618,
+   "a": 1096.766,
+   "b": 1120.352,
    "frases": [
     {
      "texto": "Então, numa tarde, o céu escureceu e caiu a primeira chuva forte desde o apagão.",
-     "inicio": 1134.229,
-     "fim": 1139.747,
+     "inicio": 1096.766,
+     "fim": 1102.451,
      "paragrafo": 2
     },
     {
      "texto": "Todos correram para a laje com baldes, bacias e lonas.",
-     "inicio": 1140.167,
-     "fim": 1143.891,
+     "inicio": 1102.871,
+     "fim": 1106.85,
      "paragrafo": 2
     },
     {
      "texto": "Seu Jorge improvisou um sistema de captação com calhas e canos velhos.",
-     "inicio": 1144.311,
-     "fim": 1149.138,
+     "inicio": 1107.27,
+     "fim": 1112.341,
      "paragrafo": 2
     },
     {
      "texto": "Paula orientou todo mundo.",
-     "inicio": 1149.558,
-     "fim": 1151.352,
+     "inicio": 1112.761,
+     "fim": 1114.336,
      "paragrafo": 2
     },
     {
      "texto": "A água da chuva seria filtrada e fervida antes de ser usada para beber.",
-     "inicio": 1151.772,
-     "fim": 1156.668,
+     "inicio": 1114.756,
+     "fim": 1119.402,
      "paragrafo": 2
     }
    ],
@@ -2241,25 +2241,25 @@
    "tipo": "par",
    "cap": 10,
    "par": 3,
-   "a": 1157.618,
-   "b": 1177.339,
+   "a": 1120.352,
+   "b": 1138.551,
    "frases": [
     {
      "texto": "No salão de festas, Dona Cida ensinava as pessoas a conservar legumes no sal, como fazia quando era jovem.",
-     "inicio": 1157.618,
-     "fim": 1164.928,
+     "inicio": 1120.352,
+     "fim": 1127.951,
      "paragrafo": 3
     },
     {
      "texto": "As duas crianças que chegaram naquela noite agora levavam recados de um andar para o outro, correndo pelas escadas.",
-     "inicio": 1165.348,
-     "fim": 1173.279,
+     "inicio": 1128.371,
+     "fim": 1135.087,
      "paragrafo": 3
     },
     {
      "texto": "Elas tinham virado o correio do prédio.",
-     "inicio": 1173.699,
-     "fim": 1176.389,
+     "inicio": 1135.507,
+     "fim": 1137.601,
      "paragrafo": 3
     }
    ],
@@ -2269,31 +2269,31 @@
    "tipo": "par",
    "cap": 10,
    "par": 4,
-   "a": 1177.339,
-   "b": 1199.274,
+   "a": 1138.551,
+   "b": 1160.513,
    "frases": [
     {
      "texto": "Lucas, que antes conhecia apenas dois vizinhos pelo nome, agora conhecia todos.",
-     "inicio": 1177.339,
-     "fim": 1182.787,
+     "inicio": 1138.551,
+     "fim": 1144.772,
      "paragrafo": 4
     },
     {
      "texto": "Sabia quem tinha filhos, quem tinha pressão alta, quem sabia cozinhar e quem precisava de ajuda.",
-     "inicio": 1183.207,
-     "fim": 1189.828,
+     "inicio": 1145.192,
+     "fim": 1150.686,
      "paragrafo": 4
     },
     {
      "texto": "A despensa ainda tinha comida para mais ou menos uma semana.",
-     "inicio": 1190.248,
-     "fim": 1194.386,
+     "inicio": 1151.106,
+     "fim": 1154.628,
      "paragrafo": 4
     },
     {
      "texto": "Mas, pela primeira vez, ninguém ali estava sozinho.",
-     "inicio": 1194.806,
-     "fim": 1198.323,
+     "inicio": 1155.048,
+     "fim": 1159.563,
      "paragrafo": 4
     }
    ],
@@ -2302,45 +2302,45 @@
   {
    "tipo": "cartela",
    "cap": 11,
-   "a": 1199.2737057931035,
-   "b": 1202.4737057931036,
+   "a": 1160.5132100000003,
+   "b": 1163.7132100000003,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 11,
    "par": 0,
-   "a": 1202.474,
-   "b": 1223.794,
+   "a": 1163.713,
+   "b": 1184.574,
    "frases": [
     {
      "texto": "No vigésimo sétimo dia, um morador subiu a escada correndo, sem fôlego.",
-     "inicio": 1202.474,
-     "fim": 1207.371,
+     "inicio": 1163.713,
+     "fim": 1169.078,
      "paragrafo": 0
     },
     {
      "texto": "A energia vai voltar hoje à noite, ele gritou.",
-     "inicio": 1207.791,
-     "fim": 1210.963,
+     "inicio": 1169.498,
+     "fim": 1172.35,
      "paragrafo": 0
     },
     {
      "texto": "Alguns diziam que tinham ouvido no rádio.",
-     "inicio": 1211.383,
-     "fim": 1214.211,
+     "inicio": 1172.77,
+     "fim": 1175.899,
      "paragrafo": 0
     },
     {
      "texto": "Outros diziam que um conhecido tinha a informação.",
-     "inicio": 1214.631,
-     "fim": 1218.079,
+     "inicio": 1176.319,
+     "fim": 1179.302,
      "paragrafo": 0
     },
     {
      "texto": "Em poucos minutos, a notícia tinha chegado em todos os andares.",
-     "inicio": 1218.499,
-     "fim": 1222.844,
+     "inicio": 1179.722,
+     "fim": 1183.624,
      "paragrafo": 0
     }
    ],
@@ -2350,31 +2350,31 @@
    "tipo": "par",
    "cap": 11,
    "par": 1,
-   "a": 1223.794,
-   "b": 1242.9,
+   "a": 1184.574,
+   "b": 1202.219,
    "frases": [
     {
      "texto": "O prédio se encheu de esperança.",
-     "inicio": 1223.794,
-     "fim": 1226.001,
+     "inicio": 1184.574,
+     "fim": 1186.448,
      "paragrafo": 1
     },
     {
      "texto": "As pessoas limpavam as geladeiras, separavam os carregadores e colocavam os celulares em cima da mesa.",
-     "inicio": 1226.421,
-     "fim": 1233.455,
+     "inicio": 1186.868,
+     "fim": 1193.002,
      "paragrafo": 1
     },
     {
      "texto": "As crianças perguntavam a cada minuto se já estava na hora.",
-     "inicio": 1233.875,
-     "fim": 1237.944,
+     "inicio": 1193.422,
+     "fim": 1197.222,
      "paragrafo": 1
     },
     {
      "texto": "Até Seu Jorge, sempre tão sério, sorria na portaria.",
-     "inicio": 1238.364,
-     "fim": 1241.95,
+     "inicio": 1197.642,
+     "fim": 1201.269,
      "paragrafo": 1
     }
    ],
@@ -2384,79 +2384,79 @@
    "tipo": "par",
    "cap": 11,
    "par": 2,
-   "a": 1242.9,
-   "b": 1270.746,
+   "a": 1202.219,
+   "b": 1230.957,
    "frases": [
     {
      "texto": "Oito horas.",
-     "inicio": 1242.9,
-     "fim": 1243.659,
+     "inicio": 1202.219,
+     "fim": 1203.406,
      "paragrafo": 2
     },
     {
      "texto": "Nada.",
-     "inicio": 1244.079,
-     "fim": 1244.424,
+     "inicio": 1203.826,
+     "fim": 1204.598,
      "paragrafo": 2
     },
     {
      "texto": "Nove horas.",
-     "inicio": 1244.844,
-     "fim": 1245.602,
+     "inicio": 1205.018,
+     "fim": 1206.274,
      "paragrafo": 2
     },
     {
      "texto": "Nada.",
-     "inicio": 1246.022,
-     "fim": 1246.367,
+     "inicio": 1206.694,
+     "fim": 1207.434,
      "paragrafo": 2
     },
     {
      "texto": "Dez horas.",
-     "inicio": 1246.787,
-     "fim": 1247.477,
+     "inicio": 1207.854,
+     "fim": 1208.773,
      "paragrafo": 2
     },
     {
      "texto": "As velas começaram a acabar.",
-     "inicio": 1247.897,
-     "fim": 1249.828,
+     "inicio": 1209.193,
+     "fim": 1211.313,
      "paragrafo": 2
     },
     {
      "texto": "Meia-noite.",
-     "inicio": 1250.248,
-     "fim": 1251.006,
+     "inicio": 1211.733,
+     "fim": 1212.871,
      "paragrafo": 2
     },
     {
      "texto": "A cidade continuava escura.",
-     "inicio": 1251.426,
-     "fim": 1253.288,
+     "inicio": 1213.291,
+     "fim": 1215.128,
      "paragrafo": 2
     },
     {
      "texto": "Nenhuma lâmpada acendeu.",
-     "inicio": 1253.708,
-     "fim": 1255.364,
+     "inicio": 1215.548,
+     "fim": 1217.248,
      "paragrafo": 2
     },
     {
      "texto": "No dia seguinte, o rádio explicou que a energia tinha voltado apenas para hospitais e estações de tratamento de água.",
-     "inicio": 1255.784,
-     "fim": 1263.853,
+     "inicio": 1217.668,
+     "fim": 1224.567,
      "paragrafo": 2
     },
     {
      "texto": "Lá embaixo, a torneira do jardim começou a pingar.",
-     "inicio": 1264.273,
-     "fim": 1267.721,
+     "inicio": 1224.987,
+     "fim": 1228.125,
      "paragrafo": 2
     },
     {
      "texto": "Era uma pequena vitória.",
-     "inicio": 1268.141,
-     "fim": 1269.796,
+     "inicio": 1228.545,
+     "fim": 1230.007,
      "paragrafo": 2
     }
    ],
@@ -2466,37 +2466,37 @@
    "tipo": "par",
    "cap": 11,
    "par": 3,
-   "a": 1270.746,
-   "b": 1291.1,
+   "a": 1230.957,
+   "b": 1252.305,
    "frases": [
     {
      "texto": "Mas a frustração foi grande demais.",
-     "inicio": 1270.746,
-     "fim": 1273.16,
+     "inicio": 1230.957,
+     "fim": 1234.094,
      "paragrafo": 3
     },
     {
      "texto": "Naquela tarde, uma discussão começou por causa da última lata de óleo.",
-     "inicio": 1273.58,
-     "fim": 1278.407,
+     "inicio": 1234.514,
+     "fim": 1238.749,
      "paragrafo": 3
     },
     {
      "texto": "Vozes alteradas, dedos apontados.",
-     "inicio": 1278.827,
-     "fim": 1281.103,
+     "inicio": 1239.169,
+     "fim": 1242.171,
      "paragrafo": 3
     },
     {
      "texto": "O morador do sétimo andar decidiu ir embora.",
-     "inicio": 1281.523,
-     "fim": 1284.558,
+     "inicio": 1242.591,
+     "fim": 1246.541,
      "paragrafo": 3
     },
     {
      "texto": "E levou de volta o que ainda restava do que ele tinha colocado na despensa.",
-     "inicio": 1284.978,
-     "fim": 1290.15,
+     "inicio": 1246.961,
+     "fim": 1251.355,
      "paragrafo": 3
     }
    ],
@@ -2506,43 +2506,43 @@
    "tipo": "par",
    "cap": 11,
    "par": 4,
-   "a": 1291.1,
-   "b": 1316.288,
+   "a": 1252.305,
+   "b": 1275.247,
    "frases": [
     {
      "texto": "Naquela noite, Lucas sentou sozinho na portaria e chorou.",
-     "inicio": 1291.1,
-     "fim": 1295.031,
+     "inicio": 1252.305,
+     "fim": 1255.683,
      "paragrafo": 4
     },
     {
      "texto": "De cansaço, de fome, de saudade.",
-     "inicio": 1295.451,
-     "fim": 1297.658,
+     "inicio": 1256.103,
+     "fim": 1258.378,
      "paragrafo": 4
     },
     {
      "texto": "Depois de alguns minutos, Dona Cida apareceu devagar, com uma vela na mão, e sentou ao lado dele.",
-     "inicio": 1298.078,
-     "fim": 1304.768,
+     "inicio": 1258.798,
+     "fim": 1264.896,
      "paragrafo": 4
     },
     {
      "texto": "Ela disse uma coisa que ele nunca mais esqueceu.",
-     "inicio": 1305.188,
-     "fim": 1308.498,
+     "inicio": 1265.316,
+     "fim": 1268.635,
      "paragrafo": 4
     },
     {
      "texto": "O importante não é quando a luz volta.",
-     "inicio": 1308.918,
-     "fim": 1311.539,
+     "inicio": 1269.055,
+     "fim": 1271.18,
      "paragrafo": 4
     },
     {
      "texto": "É quem vai estar do nosso lado quando ela voltar.",
-     "inicio": 1311.959,
-     "fim": 1315.338,
+     "inicio": 1271.6,
+     "fim": 1274.297,
      "paragrafo": 4
     }
    ],
@@ -2551,51 +2551,51 @@
   {
    "tipo": "cartela",
    "cap": 12,
-   "a": 1316.2878437241382,
-   "b": 1319.4878437241382,
+   "a": 1275.2473350000002,
+   "b": 1278.4473350000003,
    "trans": 0.5
   },
   {
    "tipo": "par",
    "cap": 12,
    "par": 0,
-   "a": 1319.488,
-   "b": 1339.71,
+   "a": 1278.447,
+   "b": 1301.193,
    "frases": [
     {
      "texto": "No trigésimo dia, às sete da noite, Lucas ouviu um estalo.",
-     "inicio": 1319.488,
-     "fim": 1323.488,
+     "inicio": 1278.447,
+     "fim": 1282.552,
      "paragrafo": 0
     },
     {
      "texto": "Depois um zumbido baixo, conhecido.",
-     "inicio": 1323.908,
-     "fim": 1326.322,
+     "inicio": 1282.972,
+     "fim": 1286.792,
      "paragrafo": 0
     },
     {
      "texto": "Era a geladeira.",
-     "inicio": 1326.742,
-     "fim": 1327.845,
+     "inicio": 1287.212,
+     "fim": 1288.487,
      "paragrafo": 0
     },
     {
      "texto": "A lâmpada da cozinha piscou e acendeu.",
-     "inicio": 1328.265,
-     "fim": 1330.886,
+     "inicio": 1288.907,
+     "fim": 1292.414,
      "paragrafo": 0
     },
     {
      "texto": "Por um segundo, ele ficou parado, sem acreditar.",
-     "inicio": 1331.306,
-     "fim": 1334.616,
+     "inicio": 1292.834,
+     "fim": 1296.774,
      "paragrafo": 0
     },
     {
      "texto": "Então o prédio inteiro começou a gritar e a comemorar.",
-     "inicio": 1335.036,
-     "fim": 1338.76,
+     "inicio": 1297.194,
+     "fim": 1300.243,
      "paragrafo": 0
     }
    ],
@@ -2605,31 +2605,31 @@
    "tipo": "par",
    "cap": 12,
    "par": 1,
-   "a": 1339.71,
-   "b": 1358.196,
+   "a": 1301.193,
+   "b": 1319.114,
    "frases": [
     {
      "texto": "Lucas subiu correndo até a laje.",
-     "inicio": 1339.71,
-     "fim": 1341.917,
+     "inicio": 1301.193,
+     "fim": 1303.574,
      "paragrafo": 1
     },
     {
      "texto": "Lá de cima, ele viu a cidade acender por partes.",
-     "inicio": 1342.337,
-     "fim": 1345.648,
+     "inicio": 1303.994,
+     "fim": 1307.49,
      "paragrafo": 1
     },
     {
      "texto": "Primeiro um bairro, depois outro, depois mais um.",
-     "inicio": 1346.068,
-     "fim": 1349.447,
+     "inicio": 1307.91,
+     "fim": 1311.269,
      "paragrafo": 1
     },
     {
      "texto": "A energia voltava devagar, região por região, como se São Paulo estivesse acordando de um sono muito longo.",
-     "inicio": 1349.867,
-     "fim": 1357.246,
+     "inicio": 1311.689,
+     "fim": 1318.164,
      "paragrafo": 1
     }
    ],
@@ -2639,43 +2639,43 @@
    "tipo": "par",
    "cap": 12,
    "par": 2,
-   "a": 1358.196,
-   "b": 1376.764,
+   "a": 1319.114,
+   "b": 1340.085,
    "frases": [
     {
      "texto": "No bolso, o celular vibrou.",
-     "inicio": 1358.196,
-     "fim": 1360.058,
+     "inicio": 1319.114,
+     "fim": 1321.174,
      "paragrafo": 2
     },
     {
      "texto": "E vibrou de novo.",
-     "inicio": 1360.478,
-     "fim": 1361.651,
+     "inicio": 1321.594,
+     "fim": 1323.658,
      "paragrafo": 2
     },
     {
      "texto": "Eram dezenas de mensagens acumuladas.",
-     "inicio": 1362.071,
-     "fim": 1364.622,
+     "inicio": 1324.078,
+     "fim": 1326.627,
      "paragrafo": 2
     },
     {
      "texto": "Entre elas, um áudio da mãe.",
-     "inicio": 1365.042,
-     "fim": 1366.974,
+     "inicio": 1327.047,
+     "fim": 1330.15,
      "paragrafo": 2
     },
     {
      "texto": "Ela tinha recebido a carta e estava bem.",
-     "inicio": 1367.394,
-     "fim": 1370.152,
+     "inicio": 1330.57,
+     "fim": 1333.29,
      "paragrafo": 2
     },
     {
      "texto": "Lucas ouviu o áudio três vezes, sentado na laje, olhando as luzes da cidade.",
-     "inicio": 1370.572,
-     "fim": 1375.814,
+     "inicio": 1333.71,
+     "fim": 1339.135,
      "paragrafo": 2
     }
    ],
@@ -2685,31 +2685,31 @@
    "tipo": "par",
    "cap": 12,
    "par": 3,
-   "a": 1376.764,
-   "b": 1400.974,
+   "a": 1340.085,
+   "b": 1361.697,
    "frases": [
     {
      "texto": "Nos dias seguintes, os mercados reabriram, os ônibus voltaram a circular e os bancos retomaram os saques.",
-     "inicio": 1376.764,
-     "fim": 1384.005,
+     "inicio": 1340.085,
+     "fim": 1346.733,
      "paragrafo": 3
     },
     {
      "texto": "No primeiro dia em que o elevador funcionou, Dona Cida voltou para o nono andar.",
-     "inicio": 1384.425,
-     "fim": 1389.942,
+     "inicio": 1347.153,
+     "fim": 1351.937,
      "paragrafo": 3
     },
     {
      "texto": "Lucas agora guarda água, pilhas, um rádio, velas e comida para duas semanas.",
-     "inicio": 1390.362,
-     "fim": 1395.604,
+     "inicio": 1352.357,
+     "fim": 1357.078,
      "paragrafo": 3
     },
     {
      "texto": "E a lista de moradores continua escrita na parede do hall.",
-     "inicio": 1396.024,
-     "fim": 1400.024,
+     "inicio": 1357.498,
+     "fim": 1360.747,
      "paragrafo": 3
     }
    ],
@@ -2719,43 +2719,43 @@
    "tipo": "par",
    "cap": 12,
    "par": 4,
-   "a": 1400.974,
-   "b": 1424.989,
+   "a": 1361.697,
+   "b": 1384.666,
    "frases": [
     {
      "texto": "Trinta dias sem energia mostraram que uma cidade inteira depende de uma coisa que ninguém vê.",
-     "inicio": 1400.974,
-     "fim": 1407.387,
+     "inicio": 1361.697,
+     "fim": 1367.493,
      "paragrafo": 4
     },
     {
      "texto": "Mas fica uma pergunta.",
-     "inicio": 1407.807,
-     "fim": 1409.325,
+     "inicio": 1367.913,
+     "fim": 1369.316,
      "paragrafo": 4
     },
     {
      "texto": "E se a internet desaparecesse para sempre?",
-     "inicio": 1409.745,
-     "fim": 1412.641,
+     "inicio": 1369.736,
+     "fim": 1372.851,
      "paragrafo": 4
     },
     {
      "texto": "Esse é o próximo episódio do Último Dia.",
-     "inicio": 1413.061,
-     "fim": 1415.82,
+     "inicio": 1373.271,
+     "fim": 1375.556,
      "paragrafo": 4
     },
     {
      "texto": "E você, diante de uma situação dessas, ficaria na cidade ou iria embora?",
-     "inicio": 1416.24,
-     "fim": 1421.205,
+     "inicio": 1375.976,
+     "fim": 1380.757,
      "paragrafo": 4
     },
     {
      "texto": "Deixe sua resposta nos comentários.",
-     "inicio": 1421.625,
-     "fim": 1424.039,
+     "inicio": 1381.177,
+     "fim": 1383.716,
      "paragrafo": 4
     }
    ],
@@ -2764,8 +2764,8 @@
   {
    "tipo": "fim",
    "cap": 99,
-   "a": 1424.9888782068967,
-   "b": 1432.9888782068967,
+   "a": 1384.6662100000003,
+   "b": 1392.6662100000003,
    "trans": 0.6,
    "saiPreto": 1.0
   }
@@ -2810,2023 +2810,2023 @@
   {
    "texto": "Lucas acordou com um silêncio estranho.",
    "inicio": 29.621,
-   "fim": 32.311,
+   "fim": 32.421,
    "paragrafo": 0
   },
   {
    "texto": "A geladeira, que sempre fazia aquele zumbido baixo, estava completamente calada.",
-   "inicio": 32.731,
-   "fim": 38.248,
+   "inicio": 32.841,
+   "fim": 37.745,
    "paragrafo": 0
   },
   {
    "texto": "Ele pegou o celular.",
-   "inicio": 38.668,
-   "fim": 40.047,
+   "inicio": 38.165,
+   "fim": 39.862,
    "paragrafo": 0
   },
   {
    "texto": "Sem sinal.",
-   "inicio": 40.467,
-   "fim": 41.157,
+   "inicio": 40.282,
+   "fim": 41.379,
    "paragrafo": 0
   },
   {
    "texto": "Tentou ligar a televisão.",
-   "inicio": 41.577,
-   "fim": 43.301,
+   "inicio": 41.799,
+   "fim": 44.532,
    "paragrafo": 0
   },
   {
    "texto": "Nada.",
-   "inicio": 43.721,
-   "fim": 44.066,
+   "inicio": 44.952,
+   "fim": 45.631,
    "paragrafo": 0
   },
   {
    "texto": "Lucas tem vinte e nove anos e mora sozinho no nono andar de um prédio na zona leste de São Paulo.",
-   "inicio": 44.486,
-   "fim": 51.175,
+   "inicio": 46.051,
+   "fim": 52.044,
    "paragrafo": 0
   },
   {
    "texto": "Resolve quase tudo pelo celular.",
-   "inicio": 51.595,
-   "fim": 53.802,
+   "inicio": 52.464,
+   "fim": 54.593,
    "paragrafo": 0
   },
   {
    "texto": "Não tem gerador, não tem energia solar, e conhece apenas dois vizinhos pelo nome.",
-   "inicio": 54.222,
-   "fim": 59.809,
+   "inicio": 55.013,
+   "fim": 60.476,
    "paragrafo": 0
   },
   {
    "texto": "Ele foi até a janela.",
-   "inicio": 60.759,
-   "fim": 62.207,
+   "inicio": 61.426,
+   "fim": 63.122,
    "paragrafo": 1
   },
   {
    "texto": "O prédio inteiro estava apagado.",
-   "inicio": 62.627,
-   "fim": 64.834,
+   "inicio": 63.542,
+   "fim": 65.553,
    "paragrafo": 1
   },
   {
    "texto": "Lá embaixo, os semáforos estavam desligados, e os carros se espremiam nos cruzamentos sem saber quem devia passar.",
-   "inicio": 65.254,
-   "fim": 73.116,
+   "inicio": 65.973,
+   "fim": 72.97,
    "paragrafo": 1
   },
   {
    "texto": "O metrô tinha parado.",
-   "inicio": 73.536,
-   "fim": 74.984,
+   "inicio": 73.39,
+   "fim": 74.745,
    "paragrafo": 1
   },
   {
    "texto": "Os trens também.",
-   "inicio": 75.404,
-   "fim": 76.508,
+   "inicio": 75.165,
+   "fim": 76.708,
    "paragrafo": 1
   },
   {
    "texto": "E os ônibus estavam presos no meio do trânsito.",
-   "inicio": 76.928,
-   "fim": 80.169,
+   "inicio": 77.128,
+   "fim": 79.937,
    "paragrafo": 1
   },
   {
    "texto": "Naquela manhã, uma falha gigantesca derrubou o sistema que conecta as usinas do país.",
-   "inicio": 80.589,
-   "fim": 86.451,
+   "inicio": 80.357,
+   "fim": 86.37,
    "paragrafo": 1
   },
   {
    "texto": "Grande parte do Brasil ficou sem energia elétrica.",
-   "inicio": 86.871,
-   "fim": 90.319,
+   "inicio": 86.79,
+   "fim": 89.973,
    "paragrafo": 1
   },
   {
    "texto": "Lucas tentou ligar para a mãe, que mora no interior.",
-   "inicio": 91.269,
-   "fim": 94.855,
+   "inicio": 90.923,
+   "fim": 94.322,
    "paragrafo": 2
   },
   {
    "texto": "A ligação chamou uma vez e caiu.",
-   "inicio": 95.275,
-   "fim": 97.482,
+   "inicio": 94.742,
+   "fim": 97.045,
    "paragrafo": 2
   },
   {
    "texto": "Ele tentou de novo.",
-   "inicio": 97.902,
-   "fim": 99.213,
+   "inicio": 97.465,
+   "fim": 98.929,
    "paragrafo": 2
   },
   {
    "texto": "Caiu outra vez.",
-   "inicio": 99.633,
-   "fim": 100.667,
+   "inicio": 99.349,
+   "fim": 100.767,
    "paragrafo": 2
   },
   {
    "texto": "Então decidiu descer.",
-   "inicio": 101.087,
-   "fim": 102.535,
+   "inicio": 101.187,
+   "fim": 102.754,
    "paragrafo": 2
   },
   {
    "texto": "Sem elevador, foram nove andares pela escada, no escuro, com a lanterna do celular iluminando cada degrau.",
-   "inicio": 102.955,
-   "fim": 110.266,
+   "inicio": 103.174,
+   "fim": 109.506,
    "paragrafo": 2
   },
   {
    "texto": "Na rua, a cidade parecia outra.",
-   "inicio": 111.216,
-   "fim": 113.354,
+   "inicio": 110.456,
+   "fim": 113.194,
    "paragrafo": 3
   },
   {
    "texto": "A padaria da esquina estava aberta, mas a máquina de cartão não funcionava.",
-   "inicio": 113.774,
-   "fim": 118.946,
+   "inicio": 113.614,
+   "fim": 118.721,
    "paragrafo": 3
   },
   {
    "texto": "Só aceitavam dinheiro.",
-   "inicio": 119.366,
-   "fim": 120.883,
+   "inicio": 119.141,
+   "fim": 121.533,
    "paragrafo": 3
   },
   {
    "texto": "No posto de gasolina, as bombas estavam paradas.",
-   "inicio": 121.303,
-   "fim": 124.614,
+   "inicio": 121.953,
+   "fim": 125.889,
    "paragrafo": 3
   },
   {
    "texto": "Sem energia, ninguém conseguia tirar combustível dos tanques.",
-   "inicio": 125.034,
-   "fim": 129.241,
+   "inicio": 126.309,
+   "fim": 130.038,
    "paragrafo": 3
   },
   {
    "texto": "Lucas voltou para casa e fez algo que nunca tinha feito.",
-   "inicio": 129.661,
-   "fim": 133.523,
+   "inicio": 130.458,
+   "fim": 133.805,
    "paragrafo": 3
   },
   {
    "texto": "Um inventário.",
-   "inicio": 133.943,
-   "fim": 134.908,
+   "inicio": 134.225,
+   "fim": 135.211,
    "paragrafo": 3
   },
   {
    "texto": "Seis litros de água.",
-   "inicio": 135.328,
-   "fim": 136.708,
+   "inicio": 135.631,
+   "fim": 137.061,
    "paragrafo": 3
   },
   {
    "texto": "Comida para uns quatro dias.",
-   "inicio": 137.128,
-   "fim": 139.059,
+   "inicio": 137.481,
+   "fim": 139.142,
    "paragrafo": 3
   },
   {
    "texto": "Oito pilhas, uma lanterna, alguns remédios e oitenta e cinco reais em dinheiro.",
-   "inicio": 139.479,
-   "fim": 144.927,
+   "inicio": 139.562,
+   "fim": 144.683,
    "paragrafo": 3
   },
   {
    "texto": "À noite, sem nenhuma luz acesa na cidade, Lucas viu uma coisa que nunca tinha visto em São Paulo.",
-   "inicio": 145.877,
-   "fim": 152.567,
+   "inicio": 145.633,
+   "fim": 152.214,
    "paragrafo": 4
   },
   {
    "texto": "O céu cheio de estrelas.",
-   "inicio": 152.987,
-   "fim": 154.642,
+   "inicio": 152.634,
+   "fim": 154.627,
    "paragrafo": 4
   },
   {
    "texto": "Ele ficou um tempo olhando pela janela, tranquilo.",
-   "inicio": 155.062,
-   "fim": 158.51,
+   "inicio": 155.047,
+   "fim": 158.396,
    "paragrafo": 4
   },
   {
    "texto": "Amanhã a energia volta, pensou.",
-   "inicio": 158.93,
-   "fim": 161.068,
+   "inicio": 158.816,
+   "fim": 161.395,
    "paragrafo": 4
   },
   {
    "texto": "Essa certeza foi o seu primeiro erro.",
-   "inicio": 161.488,
-   "fim": 164.04,
+   "inicio": 161.815,
+   "fim": 165.047,
    "paragrafo": 4
   },
   {
    "texto": "Na manhã do segundo dia, Lucas abriu a torneira da cozinha.",
-   "inicio": 168.19,
-   "fim": 172.259,
+   "inicio": 169.197,
+   "fim": 172.823,
    "paragrafo": 0
   },
   {
    "texto": "A água saiu fraca.",
-   "inicio": 172.679,
-   "fim": 173.92,
+   "inicio": 173.243,
+   "fim": 174.835,
    "paragrafo": 0
   },
   {
    "texto": "Depois virou um fio.",
-   "inicio": 174.34,
-   "fim": 175.72,
+   "inicio": 175.255,
+   "fim": 176.842,
    "paragrafo": 0
   },
   {
    "texto": "Depois parou.",
-   "inicio": 176.14,
-   "fim": 177.036,
+   "inicio": 177.262,
+   "fim": 178.247,
    "paragrafo": 0
   },
   {
    "texto": "Ele foi até o banheiro e tentou o chuveiro.",
-   "inicio": 177.456,
-   "fim": 180.422,
+   "inicio": 178.667,
+   "fim": 181.016,
    "paragrafo": 0
   },
   {
    "texto": "Nada.",
-   "inicio": 180.842,
-   "fim": 181.187,
+   "inicio": 181.436,
+   "fim": 182.141,
    "paragrafo": 0
   },
   {
    "texto": "Foi aí que ele entendeu uma coisa que nunca tinha passado pela cabeça dele.",
-   "inicio": 181.607,
-   "fim": 186.779,
+   "inicio": 182.561,
+   "fim": 186.628,
    "paragrafo": 0
   },
   {
    "texto": "A água não sobe sozinha até o nono andar.",
-   "inicio": 187.729,
-   "fim": 190.557,
+   "inicio": 187.578,
+   "fim": 190.126,
    "paragrafo": 1
   },
   {
    "texto": "Uma bomba elétrica empurra a água da rua até a caixa d'água no topo do prédio.",
-   "inicio": 190.977,
-   "fim": 196.356,
+   "inicio": 190.546,
+   "fim": 197.679,
    "paragrafo": 1
   },
   {
    "texto": "Sem energia, a bomba parou.",
-   "inicio": 196.776,
-   "fim": 198.638,
+   "inicio": 198.099,
+   "fim": 200.177,
    "paragrafo": 1
   },
   {
    "texto": "E o pouco que restava na caixa foi consumido nas primeiras horas pelos cinquenta apartamentos do prédio.",
-   "inicio": 199.058,
-   "fim": 206.23,
+   "inicio": 200.597,
+   "fim": 206.176,
    "paragrafo": 1
   },
   {
    "texto": "Lucas olhou para as garrafas na pia.",
-   "inicio": 206.65,
-   "fim": 209.133,
+   "inicio": 206.596,
+   "fim": 208.729,
    "paragrafo": 1
   },
   {
    "texto": "Seis litros.",
-   "inicio": 209.553,
-   "fim": 210.381,
+   "inicio": 209.149,
+   "fim": 210.414,
    "paragrafo": 1
   },
   {
    "texto": "Era tudo o que ele tinha.",
-   "inicio": 210.801,
-   "fim": 212.525,
+   "inicio": 210.834,
+   "fim": 213.255,
    "paragrafo": 1
   },
   {
    "texto": "No fim da manhã, Seu Jorge, o síndico, bateu de porta em porta.",
-   "inicio": 213.475,
-   "fim": 217.82,
+   "inicio": 214.205,
+   "fim": 217.809,
    "paragrafo": 2
   },
   {
    "texto": "Um caminhão-pipa da prefeitura tinha chegado na avenida.",
-   "inicio": 218.24,
-   "fim": 222.102,
+   "inicio": 218.229,
+   "fim": 221.351,
    "paragrafo": 2
   },
   {
    "texto": "Quando Lucas desceu, a fila já tinha mais de duzentas pessoas, com baldes, galões e garrafas de todos os tamanhos.",
-   "inicio": 222.522,
-   "fim": 230.384,
+   "inicio": 221.771,
+   "fim": 229.143,
    "paragrafo": 2
   },
   {
    "texto": "Cada pessoa podia retirar até vinte litros.",
-   "inicio": 230.804,
-   "fim": 233.769,
+   "inicio": 229.563,
+   "fim": 232.88,
    "paragrafo": 2
   },
   {
    "texto": "O motorista avisou que o caminhão voltaria a cada dois ou três dias, se ainda tivesse diesel.",
-   "inicio": 234.189,
-   "fim": 240.603,
+   "inicio": 233.3,
+   "fim": 238.445,
    "paragrafo": 2
   },
   {
    "texto": "Vinte litros de água pesam vinte quilos.",
-   "inicio": 241.553,
-   "fim": 244.312,
+   "inicio": 239.395,
+   "fim": 243.062,
    "paragrafo": 3
   },
   {
    "texto": "Lucas subiu os nove andares com um balde em cada mão.",
-   "inicio": 244.732,
-   "fim": 248.387,
+   "inicio": 243.482,
+   "fim": 246.702,
    "paragrafo": 3
   },
   {
    "texto": "No terceiro andar, os braços começaram a tremer.",
-   "inicio": 248.807,
-   "fim": 252.117,
+   "inicio": 247.122,
+   "fim": 250.849,
    "paragrafo": 3
   },
   {
    "texto": "No sexto, ele precisou parar e sentar no degrau para respirar.",
-   "inicio": 252.537,
-   "fim": 256.813,
+   "inicio": 251.269,
+   "fim": 255.326,
    "paragrafo": 3
   },
   {
    "texto": "Quando chegou no nono, a camiseta estava encharcada de suor.",
-   "inicio": 257.233,
-   "fim": 261.371,
+   "inicio": 255.746,
+   "fim": 259.219,
    "paragrafo": 3
   },
   {
    "texto": "Naquela noite, ele dividiu a água em três partes.",
-   "inicio": 262.321,
-   "fim": 265.7,
+   "inicio": 260.169,
+   "fim": 263.108,
    "paragrafo": 4
   },
   {
    "texto": "Uma para beber.",
-   "inicio": 266.12,
-   "fim": 267.155,
+   "inicio": 263.528,
+   "fim": 264.819,
    "paragrafo": 4
   },
   {
    "texto": "Uma para cozinhar.",
-   "inicio": 267.575,
-   "fim": 268.816,
+   "inicio": 265.239,
+   "fim": 266.463,
    "paragrafo": 4
   },
   {
    "texto": "E uma pequena parte para se lavar.",
-   "inicio": 269.236,
-   "fim": 271.581,
+   "inicio": 266.883,
+   "fim": 269.628,
    "paragrafo": 4
   },
   {
    "texto": "Cada gota agora tinha um destino.",
-   "inicio": 272.001,
-   "fim": 274.277,
+   "inicio": 270.048,
+   "fim": 272.797,
    "paragrafo": 4
   },
   {
    "texto": "E Lucas começou a perceber que o problema era muito maior do que uma simples falta de luz.",
-   "inicio": 274.697,
-   "fim": 280.904,
+   "inicio": 273.217,
+   "fim": 278.948,
    "paragrafo": 4
   },
   {
    "texto": "No terceiro dia, Lucas tentou mandar uma mensagem para a mãe.",
-   "inicio": 285.054,
-   "fim": 289.261,
+   "inicio": 283.098,
+   "fim": 286.679,
    "paragrafo": 0
   },
   {
    "texto": "Digitou devagar, escolhendo as palavras.",
-   "inicio": 289.681,
-   "fim": 292.44,
+   "inicio": 287.099,
+   "fim": 289.471,
    "paragrafo": 0
   },
   {
    "texto": "Estou bem.",
-   "inicio": 292.86,
-   "fim": 293.549,
+   "inicio": 289.891,
+   "fim": 290.633,
    "paragrafo": 0
   },
   {
    "texto": "Me liga quando puder.",
-   "inicio": 293.969,
-   "fim": 295.417,
+   "inicio": 291.053,
+   "fim": 292.806,
    "paragrafo": 0
   },
   {
    "texto": "Antes que ele conseguisse enviar, a tela apagou.",
-   "inicio": 295.837,
-   "fim": 299.148,
+   "inicio": 293.226,
+   "fim": 296.105,
    "paragrafo": 0
   },
   {
    "texto": "A bateria tinha acabado.",
-   "inicio": 299.568,
-   "fim": 301.223,
+   "inicio": 296.525,
+   "fim": 298.99,
    "paragrafo": 0
   },
   {
    "texto": "As torres de celular também tinham baterias de reserva, mas elas duraram apenas algumas horas.",
-   "inicio": 302.173,
-   "fim": 308.656,
+   "inicio": 299.94,
+   "fim": 305.567,
    "paragrafo": 1
   },
   {
    "texto": "Agora não havia internet, não havia televisão e não havia telefone.",
-   "inicio": 309.076,
-   "fim": 313.696,
+   "inicio": 305.987,
+   "fim": 310.375,
    "paragrafo": 1
   },
   {
    "texto": "Pela primeira vez na vida, Lucas estava completamente desconectado do mundo.",
-   "inicio": 314.116,
-   "fim": 319.358,
+   "inicio": 310.795,
+   "fim": 316.241,
    "paragrafo": 1
   },
   {
    "texto": "Então ele lembrou de uma coisa guardada no fundo do armário.",
-   "inicio": 319.778,
-   "fim": 323.916,
+   "inicio": 316.661,
+   "fim": 320.515,
    "paragrafo": 1
   },
   {
    "texto": "Um rádio a pilha que tinha ganhado do avô.",
-   "inicio": 324.336,
-   "fim": 327.232,
+   "inicio": 320.935,
+   "fim": 323.4,
    "paragrafo": 1
   },
   {
    "texto": "Ele colocou duas pilhas e girou o botão devagar.",
-   "inicio": 328.182,
-   "fim": 331.493,
+   "inicio": 324.35,
+   "fim": 327.603,
    "paragrafo": 2
   },
   {
    "texto": "Chiado.",
-   "inicio": 331.913,
-   "fim": 332.395,
+   "inicio": 328.023,
+   "fim": 328.957,
    "paragrafo": 2
   },
   {
    "texto": "Mais chiado.",
-   "inicio": 332.815,
-   "fim": 333.643,
+   "inicio": 329.377,
+   "fim": 330.471,
    "paragrafo": 2
   },
   {
    "texto": "Até que uma voz apareceu.",
-   "inicio": 334.063,
-   "fim": 335.787,
+   "inicio": 330.891,
+   "fim": 332.491,
    "paragrafo": 2
   },
   {
    "texto": "Era uma emissora de São Paulo que continuava no ar com um gerador.",
-   "inicio": 336.207,
-   "fim": 340.759,
+   "inicio": 332.911,
+   "fim": 336.527,
    "paragrafo": 2
   },
   {
    "texto": "O locutor explicou que uma falha em uma linha de transmissão tinha se espalhado em cascata.",
-   "inicio": 341.179,
-   "fim": 347.455,
+   "inicio": 336.947,
+   "fim": 341.954,
    "paragrafo": 2
   },
   {
    "texto": "Usinas se desligaram para se proteger.",
-   "inicio": 347.875,
-   "fim": 350.495,
+   "inicio": 342.374,
+   "fim": 344.915,
    "paragrafo": 2
   },
   {
    "texto": "Vários equipamentos foram danificados.",
-   "inicio": 350.915,
-   "fim": 353.536,
+   "inicio": 345.335,
+   "fim": 348.126,
    "paragrafo": 2
   },
   {
    "texto": "E a previsão para o conserto era de semanas.",
-   "inicio": 353.956,
-   "fim": 356.991,
+   "inicio": 348.546,
+   "fim": 351.151,
    "paragrafo": 2
   },
   {
    "texto": "Na escada, Lucas encontrou Paula, a vizinha do oitavo andar.",
-   "inicio": 357.941,
-   "fim": 362.078,
+   "inicio": 352.101,
+   "fim": 356.188,
    "paragrafo": 3
   },
   {
    "texto": "Ela é enfermeira.",
-   "inicio": 362.498,
-   "fim": 363.671,
+   "inicio": 356.608,
+   "fim": 357.841,
    "paragrafo": 3
   },
   {
    "texto": "Contou que o hospital onde trabalha continuava funcionando com gerador, mas que as entregas de diesel estavam atrasando.",
-   "inicio": 364.091,
-   "fim": 372.367,
+   "inicio": 358.261,
+   "fim": 365.352,
    "paragrafo": 3
   },
   {
    "texto": "Antes de se despedir, Paula fez uma pergunta.",
-   "inicio": 372.787,
-   "fim": 375.89,
+   "inicio": 365.772,
+   "fim": 368.699,
    "paragrafo": 3
   },
   {
    "texto": "Alguém viu a Dona Cida?",
-   "inicio": 376.31,
-   "fim": 377.896,
+   "inicio": 369.119,
+   "fim": 370.801,
    "paragrafo": 3
   },
   {
    "texto": "Ela é sua vizinha de andar, não é?",
-   "inicio": 378.316,
-   "fim": 380.661,
+   "inicio": 371.221,
+   "fim": 373.886,
    "paragrafo": 3
   },
   {
    "texto": "Lucas subiu e bateu na porta de Dona Cida.",
-   "inicio": 381.611,
-   "fim": 384.508,
+   "inicio": 374.836,
+   "fim": 377.466,
    "paragrafo": 4
   },
   {
    "texto": "Esperou.",
-   "inicio": 384.928,
-   "fim": 385.48,
+   "inicio": 377.886,
+   "fim": 378.715,
    "paragrafo": 4
   },
   {
    "texto": "Bateu de novo.",
-   "inicio": 385.9,
-   "fim": 386.865,
+   "inicio": 379.135,
+   "fim": 380.554,
    "paragrafo": 4
   },
   {
    "texto": "Ninguém respondeu.",
-   "inicio": 387.285,
-   "fim": 388.526,
+   "inicio": 380.974,
+   "fim": 382.883,
    "paragrafo": 4
   },
   {
    "texto": "Ela deve ter ido para a casa de algum parente, ele pensou.",
-   "inicio": 388.946,
-   "fim": 392.946,
+   "inicio": 383.303,
+   "fim": 386.658,
    "paragrafo": 4
   },
   {
    "texto": "E voltou para o apartamento.",
-   "inicio": 393.366,
-   "fim": 395.297,
+   "inicio": 387.078,
+   "fim": 388.668,
    "paragrafo": 4
   },
   {
    "texto": "Era uma conclusão simples.",
-   "inicio": 395.717,
-   "fim": 397.511,
+   "inicio": 389.088,
+   "fim": 390.73,
    "paragrafo": 4
   },
   {
    "texto": "E era exatamente a conclusão que ia pesar na consciência dele dias depois.",
-   "inicio": 397.931,
-   "fim": 403.034,
+   "inicio": 391.15,
+   "fim": 395.73,
    "paragrafo": 4
   },
   {
    "texto": "No quinto dia, um cheiro forte tomou conta da cozinha.",
-   "inicio": 407.184,
-   "fim": 410.908,
+   "inicio": 399.88,
+   "fim": 403.471,
    "paragrafo": 0
   },
   {
    "texto": "Lucas abriu a geladeira e precisou dar um passo para trás.",
-   "inicio": 411.328,
-   "fim": 415.328,
+   "inicio": 403.891,
+   "fim": 407.659,
    "paragrafo": 0
   },
   {
    "texto": "A carne estava estragada.",
-   "inicio": 415.748,
-   "fim": 417.472,
+   "inicio": 408.079,
+   "fim": 409.861,
    "paragrafo": 0
   },
   {
    "texto": "O leite tinha azedado.",
-   "inicio": 417.892,
-   "fim": 419.41,
+   "inicio": 410.281,
+   "fim": 411.946,
    "paragrafo": 0
   },
   {
    "texto": "O que estava no congelador tinha derretido e apodrecido.",
-   "inicio": 419.83,
-   "fim": 423.692,
+   "inicio": 412.366,
+   "fim": 415.657,
    "paragrafo": 0
   },
   {
    "texto": "Comida que poderia alimentar ele por dias foi direto para o lixo.",
-   "inicio": 424.112,
-   "fim": 428.594,
+   "inicio": 416.077,
+   "fim": 419.636,
    "paragrafo": 0
   },
   {
    "texto": "Ele sabia que tinha errado.",
-   "inicio": 429.544,
-   "fim": 431.406,
+   "inicio": 420.586,
+   "fim": 423.449,
    "paragrafo": 1
   },
   {
    "texto": "No segundo dia, ainda dava tempo de cozinhar a carne e aproveitar tudo.",
-   "inicio": 431.826,
-   "fim": 436.723,
+   "inicio": 423.869,
+   "fim": 428.204,
    "paragrafo": 1
   },
   {
    "texto": "Mas ele acreditou que a energia voltaria a qualquer momento.",
-   "inicio": 437.143,
-   "fim": 441.281,
+   "inicio": 428.624,
+   "fim": 431.821,
    "paragrafo": 1
   },
   {
    "texto": "Agora sobravam só os alimentos que não precisam de geladeira.",
-   "inicio": 441.701,
-   "fim": 445.908,
+   "inicio": 432.241,
+   "fim": 435.841,
    "paragrafo": 1
   },
   {
    "texto": "Arroz, feijão, macarrão e algumas latas de comida.",
-   "inicio": 446.328,
-   "fim": 449.776,
+   "inicio": 436.261,
+   "fim": 440.499,
    "paragrafo": 1
   },
   {
    "texto": "O fogão ainda funcionava com o gás do botijão, mas o acendedor era elétrico.",
-   "inicio": 450.726,
-   "fim": 455.967,
+   "inicio": 441.449,
+   "fim": 445.956,
    "paragrafo": 2
   },
   {
    "texto": "Lucas encontrou uma caixa de fósforos no fundo de uma gaveta.",
-   "inicio": 456.387,
-   "fim": 460.594,
+   "inicio": 446.376,
+   "fim": 449.898,
    "paragrafo": 2
   },
   {
    "texto": "Riscou o primeiro, e a chama azul apareceu.",
-   "inicio": 461.014,
-   "fim": 463.98,
+   "inicio": 450.318,
+   "fim": 453.098,
    "paragrafo": 2
   },
   {
    "texto": "Era pouco, mas era alguma coisa.",
-   "inicio": 464.4,
-   "fim": 466.607,
+   "inicio": 453.518,
+   "fim": 455.981,
    "paragrafo": 2
   },
   {
    "texto": "Pelo menos ele ainda conseguia cozinhar.",
-   "inicio": 467.027,
-   "fim": 469.785,
+   "inicio": 456.401,
+   "fim": 458.708,
    "paragrafo": 2
   },
   {
    "texto": "Então ele foi até o mercado do bairro.",
-   "inicio": 470.735,
-   "fim": 473.356,
+   "inicio": 459.658,
+   "fim": 462.029,
    "paragrafo": 3
   },
   {
    "texto": "A entrada estava controlada.",
-   "inicio": 473.776,
-   "fim": 475.707,
+   "inicio": 462.449,
+   "fim": 464.216,
    "paragrafo": 3
   },
   {
    "texto": "Cinco pessoas por vez.",
-   "inicio": 476.127,
-   "fim": 477.644,
+   "inicio": 464.636,
+   "fim": 466.302,
    "paragrafo": 3
   },
   {
    "texto": "Somente dinheiro.",
-   "inicio": 478.064,
-   "fim": 479.237,
+   "inicio": 466.722,
+   "fim": 468.59,
    "paragrafo": 3
   },
   {
    "texto": "No máximo dois pacotes de cada produto.",
-   "inicio": 479.657,
-   "fim": 482.346,
+   "inicio": 469.01,
+   "fim": 471.687,
    "paragrafo": 3
   },
   {
    "texto": "Lá dentro, as prateleiras estavam quase vazias.",
-   "inicio": 482.766,
-   "fim": 486.008,
+   "inicio": 472.107,
+   "fim": 475.776,
    "paragrafo": 3
   },
   {
    "texto": "O arroz estava custando o dobro do preço.",
-   "inicio": 486.428,
-   "fim": 489.255,
+   "inicio": 476.196,
+   "fim": 478.632,
    "paragrafo": 3
   },
   {
    "texto": "Lucas comprou arroz, feijão, sardinha e um pacote de velas.",
-   "inicio": 489.675,
-   "fim": 493.744,
+   "inicio": 479.052,
+   "fim": 483.323,
    "paragrafo": 3
   },
   {
    "texto": "Quando saiu, tinha onze reais no bolso.",
-   "inicio": 494.164,
-   "fim": 496.854,
+   "inicio": 483.743,
+   "fim": 486.148,
    "paragrafo": 3
   },
   {
    "texto": "Na volta, ele passou em frente à agência do banco.",
-   "inicio": 497.804,
-   "fim": 501.252,
+   "inicio": 487.098,
+   "fim": 490.034,
    "paragrafo": 4
   },
   {
    "texto": "Estava fechada.",
-   "inicio": 501.672,
-   "fim": 502.707,
+   "inicio": 490.454,
+   "fim": 491.55,
    "paragrafo": 4
   },
   {
    "texto": "Todo o dinheiro que ele tinha estava na conta, no aplicativo, no cartão.",
-   "inicio": 503.127,
-   "fim": 508.092,
+   "inicio": 491.97,
+   "fim": 496.695,
    "paragrafo": 4
   },
   {
    "texto": "E nada disso funcionava sem energia.",
-   "inicio": 508.512,
-   "fim": 510.995,
+   "inicio": 497.115,
+   "fim": 499.442,
    "paragrafo": 4
   },
   {
    "texto": "Pela primeira vez, Lucas entendeu que dinheiro digital também depende de eletricidade.",
-   "inicio": 511.415,
-   "fim": 517.346,
+   "inicio": 499.862,
+   "fim": 504.724,
    "paragrafo": 4
   },
   {
    "texto": "No sétimo dia, Lucas voltava do caminhão-pipa com os baldes quando ouviu um som fraco no corredor.",
-   "inicio": 521.496,
-   "fim": 528.255,
+   "inicio": 508.873,
+   "fim": 514.916,
    "paragrafo": 0
   },
   {
    "texto": "Uma batida.",
-   "inicio": 528.675,
-   "fim": 529.433,
+   "inicio": 515.336,
+   "fim": 516.311,
    "paragrafo": 0
   },
   {
    "texto": "Depois outra.",
-   "inicio": 529.853,
-   "fim": 530.75,
+   "inicio": 516.73,
+   "fim": 517.777,
    "paragrafo": 0
   },
   {
    "texto": "Vinha do apartamento de Dona Cida.",
-   "inicio": 531.17,
-   "fim": 533.515,
+   "inicio": 518.197,
+   "fim": 520.205,
    "paragrafo": 0
   },
   {
    "texto": "Ele encostou o ouvido na porta e escutou uma voz baixinha pedindo socorro.",
-   "inicio": 533.935,
-   "fim": 539.038,
+   "inicio": 520.625,
+   "fim": 526.103,
    "paragrafo": 0
   },
   {
    "texto": "Dona Cida tem setenta e quatro anos.",
-   "inicio": 539.988,
-   "fim": 542.471,
+   "inicio": 527.053,
+   "fim": 529.363,
    "paragrafo": 1
   },
   {
    "texto": "É diabética e usa insulina.",
-   "inicio": 542.891,
-   "fim": 544.753,
+   "inicio": 529.783,
+   "fim": 532.216,
    "paragrafo": 1
   },
   {
    "texto": "Por causa dos joelhos, não conseguia descer nove andares de escada.",
-   "inicio": 545.173,
-   "fim": 549.794,
+   "inicio": 532.636,
+   "fim": 536.801,
    "paragrafo": 1
   },
   {
    "texto": "Estava sozinha desde o apagão, e quase sem água.",
-   "inicio": 550.214,
-   "fim": 553.524,
+   "inicio": 537.221,
+   "fim": 540.446,
    "paragrafo": 1
   },
   {
    "texto": "A insulina pode ficar fora da geladeira por algumas semanas, desde que não esquente demais.",
-   "inicio": 553.944,
-   "fim": 560.22,
+   "inicio": 540.866,
+   "fim": 546.361,
    "paragrafo": 1
   },
   {
    "texto": "Mas as doses estavam acabando, a farmácia estava fechada, e ela não conseguia se alimentar nem beber água direito.",
-   "inicio": 560.64,
-   "fim": 568.502,
+   "inicio": 546.781,
+   "fim": 554.1,
    "paragrafo": 1
   },
   {
    "texto": "Lucas desceu correndo e chamou Paula.",
-   "inicio": 569.452,
-   "fim": 572.004,
+   "inicio": 555.05,
+   "fim": 557.41,
    "paragrafo": 2
   },
   {
    "texto": "A enfermeira avaliou Dona Cida e foi direta.",
-   "inicio": 572.424,
-   "fim": 575.458,
+   "inicio": 557.83,
+   "fim": 562.055,
    "paragrafo": 2
   },
   {
    "texto": "Ela precisava ir para uma unidade de saúde que estava funcionando com gerador e tinha remédios refrigerados.",
-   "inicio": 575.878,
-   "fim": 583.326,
+   "inicio": 562.475,
+   "fim": 569.409,
    "paragrafo": 2
   },
   {
    "texto": "O problema era descer nove andares.",
-   "inicio": 583.746,
-   "fim": 586.16,
+   "inicio": 569.829,
+   "fim": 572.111,
    "paragrafo": 2
   },
   {
    "texto": "Eles usaram uma cadeira de madeira firme, com braços.",
-   "inicio": 586.58,
-   "fim": 590.235,
+   "inicio": 572.531,
+   "fim": 575.868,
    "paragrafo": 2
   },
   {
    "texto": "Quatro pessoas seguraram, uma em cada canto, e Paula orientou cada movimento.",
-   "inicio": 590.655,
-   "fim": 595.966,
+   "inicio": 576.288,
+   "fim": 580.995,
    "paragrafo": 2
   },
   {
    "texto": "A cada andar, eles paravam.",
-   "inicio": 596.916,
-   "fim": 598.778,
+   "inicio": 581.945,
+   "fim": 583.924,
    "paragrafo": 3
   },
   {
    "texto": "Descansavam.",
-   "inicio": 599.198,
-   "fim": 600.025,
+   "inicio": 584.344,
+   "fim": 585.537,
    "paragrafo": 3
   },
   {
    "texto": "Paula verificava como Dona Cida estava.",
-   "inicio": 600.445,
-   "fim": 603.135,
+   "inicio": 585.957,
+   "fim": 589.992,
    "paragrafo": 3
   },
   {
    "texto": "E seguiam.",
-   "inicio": 603.555,
-   "fim": 604.245,
+   "inicio": 590.412,
+   "fim": 591.509,
    "paragrafo": 3
   },
   {
    "texto": "A descida levou quase uma hora.",
-   "inicio": 604.665,
-   "fim": 606.803,
+   "inicio": 591.929,
+   "fim": 593.911,
    "paragrafo": 3
   },
   {
    "texto": "Na unidade de saúde, ela recebeu atendimento e soro.",
-   "inicio": 607.223,
-   "fim": 610.809,
+   "inicio": 594.331,
+   "fim": 597.579,
    "paragrafo": 3
   },
   {
    "texto": "Mas não podia voltar para o nono andar.",
-   "inicio": 611.229,
-   "fim": 613.918,
+   "inicio": 597.999,
+   "fim": 600.329,
    "paragrafo": 3
   },
   {
    "texto": "Então Seu Jorge abriu o salão de festas, no térreo, para que ela ficasse ali, perto da rua e longe das escadas.",
-   "inicio": 614.338,
-   "fim": 621.994,
+   "inicio": 600.749,
+   "fim": 607.845,
    "paragrafo": 3
   },
   {
    "texto": "Naquela noite, Lucas não conseguiu dormir.",
-   "inicio": 622.944,
-   "fim": 625.84,
+   "inicio": 608.795,
+   "fim": 611.577,
    "paragrafo": 4
   },
   {
    "texto": "Ele tinha batido naquela porta quatro dias antes e ido embora.",
-   "inicio": 626.26,
-   "fim": 630.536,
+   "inicio": 611.997,
+   "fim": 616.307,
    "paragrafo": 4
   },
   {
    "texto": "No dia seguinte, ele pegou uma caneta e escreveu uma lista na parede do hall de entrada.",
-   "inicio": 630.956,
-   "fim": 637.025,
+   "inicio": 616.727,
+   "fim": 622.319,
    "paragrafo": 4
   },
   {
    "texto": "Quem precisa de ajuda, coloque o nome aqui.",
-   "inicio": 637.445,
-   "fim": 640.41,
+   "inicio": 622.739,
+   "fim": 626.02,
    "paragrafo": 4
   },
   {
    "texto": "Na manhã seguinte, a lista tinha onze nomes.",
-   "inicio": 640.83,
-   "fim": 643.865,
+   "inicio": 626.44,
+   "fim": 629.904,
    "paragrafo": 4
   },
   {
    "texto": "No décimo dia, os termômetros de São Paulo chegaram a trinta e quatro graus.",
-   "inicio": 648.015,
-   "fim": 653.256,
+   "inicio": 634.055,
+   "fim": 638.992,
    "paragrafo": 0
   },
   {
    "texto": "Os apartamentos viraram estufas.",
-   "inicio": 653.676,
-   "fim": 655.883,
+   "inicio": 639.412,
+   "fim": 641.327,
    "paragrafo": 0
   },
   {
    "texto": "Sem ventilador, sem ar-condicionado e sem água gelada, o calor ficou insuportável.",
-   "inicio": 656.303,
-   "fim": 661.958,
+   "inicio": 641.747,
+   "fim": 647.288,
    "paragrafo": 0
   },
   {
    "texto": "Lucas passava as tardes no chão da sala, onde o piso era um pouco mais frio.",
-   "inicio": 662.378,
-   "fim": 667.62,
+   "inicio": 647.708,
+   "fim": 652.001,
    "paragrafo": 0
   },
   {
    "texto": "Os caminhões de lixo também precisam de combustível, e o combustível tinha parado de chegar.",
-   "inicio": 668.57,
-   "fim": 674.915,
+   "inicio": 652.951,
+   "fim": 658.027,
    "paragrafo": 1
   },
   {
    "texto": "A coleta deixou de passar.",
-   "inicio": 675.335,
-   "fim": 677.128,
+   "inicio": 658.447,
+   "fim": 659.962,
    "paragrafo": 1
   },
   {
    "texto": "Na calçada do prédio, os sacos de lixo foram se acumulando, um em cima do outro.",
-   "inicio": 677.548,
-   "fim": 683.065,
+   "inicio": 660.382,
+   "fim": 666.126,
    "paragrafo": 1
   },
   {
    "texto": "Com o calor, o cheiro piorou a cada dia.",
-   "inicio": 683.485,
-   "fim": 686.244,
+   "inicio": 666.546,
+   "fim": 669.057,
    "paragrafo": 1
   },
   {
    "texto": "E logo apareceram os ratos e as baratas.",
-   "inicio": 686.664,
-   "fim": 689.422,
+   "inicio": 669.477,
+   "fim": 672.939,
    "paragrafo": 1
   },
   {
    "texto": "Paula avisou que os casos de diarreia estavam aumentando no bairro.",
-   "inicio": 690.372,
-   "fim": 694.993,
+   "inicio": 673.889,
+   "fim": 677.556,
    "paragrafo": 2
   },
   {
    "texto": "Água contaminada e falta de higiene são um perigo real em situações assim.",
-   "inicio": 695.413,
-   "fim": 700.516,
+   "inicio": 677.976,
+   "fim": 682.978,
    "paragrafo": 2
   },
   {
    "texto": "Seu Jorge convocou uma reunião na garagem, à luz de velas.",
-   "inicio": 700.936,
-   "fim": 704.936,
+   "inicio": 683.398,
+   "fim": 686.906,
    "paragrafo": 2
   },
   {
    "texto": "Os moradores sentaram em cadeiras de plástico, em silêncio, para ouvir as regras.",
-   "inicio": 705.356,
-   "fim": 710.943,
+   "inicio": 687.326,
+   "fim": 691.655,
    "paragrafo": 2
   },
   {
    "texto": "A água para beber deveria ser fervida e guardada em recipientes fechados.",
-   "inicio": 711.893,
-   "fim": 716.927,
+   "inicio": 692.605,
+   "fim": 697.888,
    "paragrafo": 3
   },
   {
    "texto": "O lixo orgânico seria separado e tratado longe da água.",
-   "inicio": 717.347,
-   "fim": 721.14,
+   "inicio": 698.308,
+   "fim": 701.849,
    "paragrafo": 3
   },
   {
    "texto": "E Lucas ficou responsável por organizar um banheiro improvisado e um ponto de higiene na garagem, com baldes, sabão e uma escala de limpeza.",
-   "inicio": 721.56,
-   "fim": 731.215,
+   "inicio": 702.269,
+   "fim": 710.389,
    "paragrafo": 3
   },
   {
    "texto": "Naquela noite, o rádio trouxe mais uma notícia ruim.",
-   "inicio": 732.165,
-   "fim": 735.752,
+   "inicio": 711.339,
+   "fim": 715.106,
    "paragrafo": 4
   },
   {
    "texto": "Os caminhões que abastecem os mercados estavam parados nas estradas, sem combustível.",
-   "inicio": 736.172,
-   "fim": 742.034,
+   "inicio": 715.526,
+   "fim": 720.403,
    "paragrafo": 4
   },
   {
    "texto": "Lucas desligou o rádio e olhou para o armário da cozinha.",
-   "inicio": 742.454,
-   "fim": 746.385,
+   "inicio": 720.823,
+   "fim": 725.767,
    "paragrafo": 4
   },
   {
    "texto": "A comida que ainda existia na cidade estava dentro das casas.",
-   "inicio": 746.805,
-   "fim": 751.012,
+   "inicio": 726.187,
+   "fim": 730.113,
    "paragrafo": 4
   },
   {
    "texto": "E não ia durar para sempre.",
-   "inicio": 751.432,
-   "fim": 753.294,
+   "inicio": 730.533,
+   "fim": 732.351,
    "paragrafo": 4
   },
   {
    "texto": "No décimo terceiro dia, o mercado do bairro não abriu.",
-   "inicio": 757.443,
-   "fim": 761.167,
+   "inicio": 736.501,
+   "fim": 740.041,
    "paragrafo": 0
   },
   {
    "texto": "Pela grade, dava para ver as prateleiras completamente vazias.",
-   "inicio": 761.587,
-   "fim": 765.863,
+   "inicio": 740.461,
+   "fim": 744.038,
    "paragrafo": 0
   },
   {
    "texto": "São Paulo depende de caminhões que chegam todos os dias de outros estados.",
-   "inicio": 766.283,
-   "fim": 771.386,
+   "inicio": 744.458,
+   "fim": 748.668,
    "paragrafo": 0
   },
   {
    "texto": "Sem combustível, as entregas pararam.",
-   "inicio": 771.806,
-   "fim": 774.358,
+   "inicio": 749.088,
+   "fim": 752.545,
    "paragrafo": 0
   },
   {
    "texto": "E uma cidade de milhões de pessoas começou a ficar sem comida.",
-   "inicio": 774.778,
-   "fim": 779.054,
+   "inicio": 752.966,
+   "fim": 757.23,
    "paragrafo": 0
   },
   {
    "texto": "O combustível existia.",
-   "inicio": 780.004,
-   "fim": 781.521,
+   "inicio": 758.18,
+   "fim": 759.945,
    "paragrafo": 1
   },
   {
    "texto": "Estava guardado em tanques embaixo dos postos.",
-   "inicio": 781.941,
-   "fim": 785.114,
+   "inicio": 760.365,
+   "fim": 762.902,
    "paragrafo": 1
   },
   {
    "texto": "Mas as bombas que puxam esse combustível são elétricas.",
-   "inicio": 785.534,
-   "fim": 789.327,
+   "inicio": 763.322,
+   "fim": 766.617,
    "paragrafo": 1
   },
   {
    "texto": "Equipes da Defesa Civil começaram a usar bombas manuais apropriadas, com procedimentos de segurança, para recuperar parte desse combustível.",
-   "inicio": 789.747,
-   "fim": 799.402,
+   "inicio": 767.037,
+   "fim": 775.601,
    "paragrafo": 1
   },
   {
    "texto": "Ele foi destinado às ambulâncias e aos geradores dos hospitais.",
-   "inicio": 799.822,
-   "fim": 804.167,
+   "inicio": 776.021,
+   "fim": 779.808,
    "paragrafo": 1
   },
   {
    "texto": "O Exército passou a distribuir alimentos em escolas e ginásios.",
-   "inicio": 805.117,
-   "fim": 809.462,
+   "inicio": 780.758,
+   "fim": 784.692,
    "paragrafo": 2
   },
   {
    "texto": "As filas davam voltas nos quarteirões.",
-   "inicio": 809.882,
-   "fim": 812.502,
+   "inicio": 785.112,
+   "fim": 787.716,
    "paragrafo": 2
   },
   {
    "texto": "Foi então que Seu Jorge reuniu os moradores e fez uma proposta.",
-   "inicio": 812.922,
-   "fim": 817.267,
+   "inicio": 788.136,
+   "fim": 792.046,
    "paragrafo": 2
   },
   {
    "texto": "Juntar toda a comida do prédio em uma despensa coletiva, e dividir de forma justa entre todos.",
-   "inicio": 817.687,
-   "fim": 824.17,
+   "inicio": 792.466,
+   "fim": 798.756,
    "paragrafo": 2
   },
   {
    "texto": "A proposta provocou discussão.",
-   "inicio": 825.12,
-   "fim": 827.189,
+   "inicio": 799.706,
+   "fim": 801.948,
    "paragrafo": 3
   },
   {
    "texto": "Um morador do sétimo andar se levantou e disse que não ia dividir o que era dele.",
-   "inicio": 827.609,
-   "fim": 833.195,
+   "inicio": 802.368,
+   "fim": 807.406,
    "paragrafo": 3
   },
   {
    "texto": "Outros concordaram em silêncio.",
-   "inicio": 833.615,
-   "fim": 835.753,
+   "inicio": 807.826,
+   "fim": 809.904,
    "paragrafo": 3
   },
   {
    "texto": "Até que Dona Cida pediu a palavra.",
-   "inicio": 836.173,
-   "fim": 838.518,
+   "inicio": 810.324,
+   "fim": 812.183,
    "paragrafo": 3
   },
   {
    "texto": "Com a voz baixa, ela lembrou que só estava viva porque quatro vizinhos tinham carregado ela por nove andares.",
-   "inicio": 838.938,
-   "fim": 846.455,
+   "inicio": 812.603,
+   "fim": 818.96,
    "paragrafo": 3
   },
   {
    "texto": "Ninguém disse mais nada.",
-   "inicio": 846.875,
-   "fim": 848.53,
+   "inicio": 819.38,
+   "fim": 820.862,
    "paragrafo": 3
   },
   {
    "texto": "A proposta foi aprovada.",
-   "inicio": 849.48,
-   "fim": 851.135,
+   "inicio": 821.812,
+   "fim": 823.624,
    "paragrafo": 4
   },
   {
    "texto": "Lucas subiu, encheu uma sacola e desceu com o que tinha.",
-   "inicio": 851.555,
-   "fim": 855.417,
+   "inicio": 824.044,
+   "fim": 828.693,
    "paragrafo": 4
   },
   {
    "texto": "Arroz, feijão e sardinhas.",
-   "inicio": 855.837,
-   "fim": 857.631,
+   "inicio": 829.113,
+   "fim": 831.152,
    "paragrafo": 4
   },
   {
    "texto": "Seu Jorge anotou tudo em um caderno.",
-   "inicio": 858.051,
-   "fim": 860.533,
+   "inicio": 831.572,
+   "fim": 834.002,
    "paragrafo": 4
   },
   {
    "texto": "Quando somaram os alimentos, a conta foi clara.",
-   "inicio": 860.953,
-   "fim": 864.195,
+   "inicio": 834.422,
+   "fim": 837.286,
    "paragrafo": 4
   },
   {
    "texto": "A despensa coletiva dava para pouco mais de duas semanas.",
-   "inicio": 864.615,
-   "fim": 868.546,
+   "inicio": 837.706,
+   "fim": 841.287,
    "paragrafo": 4
   },
   {
    "texto": "Se ninguém mais chegasse.",
-   "inicio": 868.966,
-   "fim": 870.69,
+   "inicio": 841.707,
+   "fim": 843.155,
    "paragrafo": 4
   },
   {
    "texto": "No décimo sexto dia, a escuridão da cidade já era completa.",
-   "inicio": 874.84,
-   "fim": 878.909,
+   "inicio": 847.305,
+   "fim": 851.926,
    "paragrafo": 0
   },
   {
    "texto": "Lucas tinha perdido peso.",
-   "inicio": 879.329,
-   "fim": 881.053,
+   "inicio": 852.346,
+   "fim": 854.109,
    "paragrafo": 0
   },
   {
    "texto": "As calças estavam largas, presas com um cinto apertado.",
-   "inicio": 881.473,
-   "fim": 885.266,
+   "inicio": 854.529,
+   "fim": 858.374,
    "paragrafo": 0
   },
   {
    "texto": "As mãos estavam cheias de bolhas de tanto carregar baldes de água pela escada.",
-   "inicio": 885.686,
-   "fim": 891.066,
+   "inicio": 858.794,
+   "fim": 862.967,
    "paragrafo": 0
   },
   {
    "texto": "Pelo rádio chegavam notícias de lojas arrombadas e brigas em filas de distribuição.",
-   "inicio": 892.016,
-   "fim": 897.74,
+   "inicio": 863.917,
+   "fim": 868.944,
    "paragrafo": 1
   },
   {
    "texto": "Alguns relatos eram verdadeiros.",
-   "inicio": 898.16,
-   "fim": 900.367,
+   "inicio": 869.364,
+   "fim": 871.535,
    "paragrafo": 1
   },
   {
    "texto": "Outros eram só boatos, que se espalhavam de boca em boca e aumentavam o medo.",
-   "inicio": 900.787,
-   "fim": 906.097,
+   "inicio": 871.955,
+   "fim": 876.959,
    "paragrafo": 1
   },
   {
    "texto": "Ninguém sabia direito em quem acreditar.",
-   "inicio": 906.517,
-   "fim": 909.276,
+   "inicio": 877.379,
+   "fim": 879.8,
    "paragrafo": 1
   },
   {
    "texto": "O portão eletrônico do prédio não trancava sem energia.",
-   "inicio": 910.226,
-   "fim": 914.019,
+   "inicio": 880.75,
+   "fim": 884.409,
    "paragrafo": 2
   },
   {
    "texto": "Então os moradores organizaram turnos de vigília.",
-   "inicio": 914.439,
-   "fim": 917.818,
+   "inicio": 884.829,
+   "fim": 887.632,
    "paragrafo": 2
   },
   {
    "texto": "Duas pessoas por vez, a noite inteira.",
-   "inicio": 918.238,
-   "fim": 920.859,
+   "inicio": 888.052,
+   "fim": 890.678,
    "paragrafo": 2
   },
   {
    "texto": "Lucas ficou com o turno das duas às quatro da manhã, ao lado de Seu Jorge.",
-   "inicio": 921.279,
-   "fim": 926.382,
+   "inicio": 891.098,
+   "fim": 895.607,
    "paragrafo": 2
   },
   {
    "texto": "Eles sentavam na portaria, com uma lanterna e uma garrafa de café frio.",
-   "inicio": 926.802,
-   "fim": 931.699,
+   "inicio": 896.027,
+   "fim": 901.021,
    "paragrafo": 2
   },
   {
    "texto": "Por volta das três horas, uma luz apareceu do lado de fora do portão.",
-   "inicio": 932.649,
-   "fim": 937.407,
+   "inicio": 901.971,
+   "fim": 906.635,
    "paragrafo": 3
   },
   {
    "texto": "Era uma lanterna.",
-   "inicio": 937.827,
-   "fim": 939.0,
+   "inicio": 907.055,
+   "fim": 908.388,
    "paragrafo": 3
   },
   {
    "texto": "Segurando a lanterna estava uma mulher, com duas crianças pequenas agarradas na roupa dela.",
-   "inicio": 939.42,
-   "fim": 945.696,
+   "inicio": 908.808,
+   "fim": 913.996,
    "paragrafo": 3
   },
   {
    "texto": "Elas moravam em um prédio próximo.",
-   "inicio": 946.116,
-   "fim": 948.46,
+   "inicio": 914.416,
+   "fim": 917.684,
    "paragrafo": 3
   },
   {
    "texto": "Os vizinhos tinham ido embora para o interior, e elas ficaram sozinhas.",
-   "inicio": 948.88,
-   "fim": 953.777,
+   "inicio": 918.104,
+   "fim": 921.994,
    "paragrafo": 3
   },
   {
    "texto": "A mãe estava exausta.",
-   "inicio": 954.197,
-   "fim": 955.645,
+   "inicio": 922.414,
+   "fim": 923.825,
    "paragrafo": 3
   },
   {
    "texto": "As crianças estavam assustadas.",
-   "inicio": 956.065,
-   "fim": 958.203,
+   "inicio": 924.245,
+   "fim": 926.293,
    "paragrafo": 3
   },
   {
    "texto": "Lucas olhou para Seu Jorge.",
-   "inicio": 959.153,
-   "fim": 961.015,
+   "inicio": 927.243,
+   "fim": 928.844,
    "paragrafo": 4
   },
   {
    "texto": "A despensa tinha sido calculada para os moradores do prédio.",
-   "inicio": 961.435,
-   "fim": 965.573,
+   "inicio": 929.264,
+   "fim": 933.473,
    "paragrafo": 4
   },
   {
    "texto": "Mais três pessoas iam consumir uma comida que já estava acabando.",
-   "inicio": 965.993,
-   "fim": 970.476,
+   "inicio": 933.893,
+   "fim": 938.85,
    "paragrafo": 4
   },
   {
    "texto": "Seu Jorge não disse nada.",
-   "inicio": 970.896,
-   "fim": 972.62,
+   "inicio": 939.27,
+   "fim": 940.768,
    "paragrafo": 4
   },
   {
    "texto": "Esperou a decisão.",
-   "inicio": 973.04,
-   "fim": 974.281,
+   "inicio": 941.188,
+   "fim": 942.322,
    "paragrafo": 4
   },
   {
    "texto": "Lucas respirou fundo, levantou da cadeira, e abriu o portão.",
-   "inicio": 974.701,
-   "fim": 978.839,
+   "inicio": 942.742,
+   "fim": 947.478,
    "paragrafo": 4
   },
   {
    "texto": "No décimo nono dia, o rádio trouxe uma notícia diferente.",
-   "inicio": 982.99,
-   "fim": 986.921,
+   "inicio": 951.628,
+   "fim": 954.978,
    "paragrafo": 0
   },
   {
    "texto": "Algumas cidades do interior estavam voltando a ter energia por algumas horas por dia.",
-   "inicio": 987.341,
-   "fim": 993.203,
+   "inicio": 955.398,
+   "fim": 959.879,
    "paragrafo": 0
   },
   {
    "texto": "Uma delas ficava a duzentos quilômetros de São Paulo.",
-   "inicio": 993.623,
-   "fim": 997.278,
+   "inicio": 960.299,
+   "fim": 963.259,
    "paragrafo": 0
   },
   {
    "texto": "Era a cidade onde morava a mãe de Lucas.",
-   "inicio": 997.698,
-   "fim": 1000.457,
+   "inicio": 963.679,
+   "fim": 966.01,
    "paragrafo": 0
   },
   {
    "texto": "Ele não tinha notícias dela havia dezenove dias.",
-   "inicio": 1000.877,
-   "fim": 1004.187,
+   "inicio": 966.43,
+   "fim": 970.23,
    "paragrafo": 0
   },
   {
    "texto": "Um vizinho ofereceu uma bicicleta.",
-   "inicio": 1005.137,
-   "fim": 1007.482,
+   "inicio": 971.18,
+   "fim": 973.269,
    "paragrafo": 1
   },
   {
    "texto": "A viagem levaria pelo menos três dias.",
-   "inicio": 1007.902,
-   "fim": 1010.523,
+   "inicio": 973.689,
+   "fim": 976.095,
    "paragrafo": 1
   },
   {
    "texto": "Lucas teria que carregar água, enfrentar o calor, dormir onde fosse possível e lidar com os riscos de uma estrada sem nenhum serviço funcionando.",
-   "inicio": 1010.943,
-   "fim": 1020.943,
+   "inicio": 976.515,
+   "fim": 985.19,
    "paragrafo": 1
   },
   {
    "texto": "Ele passou a tarde inteira olhando para aquela bicicleta encostada na garagem.",
-   "inicio": 1021.363,
-   "fim": 1026.742,
+   "inicio": 985.61,
+   "fim": 991.019,
    "paragrafo": 1
   },
   {
    "texto": "Mas existia outra questão.",
-   "inicio": 1027.692,
-   "fim": 1029.485,
+   "inicio": 991.969,
+   "fim": 994.027,
    "paragrafo": 2
   },
   {
    "texto": "Desde a chegada da mãe com as duas crianças, a despensa diminuía mais rápido.",
-   "inicio": 1029.905,
-   "fim": 1035.216,
+   "inicio": 994.447,
+   "fim": 999.698,
    "paragrafo": 2
   },
   {
    "texto": "Se Lucas fosse embora, seria uma pessoa a menos para alimentar.",
-   "inicio": 1035.636,
-   "fim": 1039.98,
+   "inicio": 1000.118,
+   "fim": 1004.72,
    "paragrafo": 2
   },
   {
    "texto": "Por outro lado, o prédio perderia alguém que carregava água, cuidava da garagem e ajudava a organizar tudo.",
-   "inicio": 1040.4,
-   "fim": 1047.78,
+   "inicio": 1005.14,
+   "fim": 1011.685,
    "paragrafo": 2
   },
   {
    "texto": "Naquela noite, ele tomou a decisão.",
-   "inicio": 1048.73,
-   "fim": 1051.143,
+   "inicio": 1012.635,
+   "fim": 1015.068,
    "paragrafo": 3
   },
   {
    "texto": "Ia ficar.",
-   "inicio": 1051.563,
-   "fim": 1052.184,
+   "inicio": 1015.488,
+   "fim": 1016.29,
    "paragrafo": 3
   },
   {
    "texto": "Devolveu a bicicleta e sentou à luz de uma vela para escrever uma carta para a mãe.",
-   "inicio": 1052.604,
-   "fim": 1058.328,
+   "inicio": 1016.71,
+   "fim": 1021.636,
    "paragrafo": 3
   },
   {
    "texto": "Contou que estava bem, que tinha conhecido os vizinhos e que estava ajudando a cuidar do prédio.",
-   "inicio": 1058.748,
-   "fim": 1065.369,
+   "inicio": 1022.056,
+   "fim": 1027.785,
    "paragrafo": 3
   },
   {
    "texto": "Escreveu que ia encontrar com ela assim que tudo passasse.",
-   "inicio": 1065.789,
-   "fim": 1069.789,
+   "inicio": 1028.205,
+   "fim": 1032.525,
    "paragrafo": 3
   },
   {
    "texto": "Na manhã seguinte, ele entregou a carta a um ciclista que estava seguindo para o interior.",
-   "inicio": 1070.739,
-   "fim": 1076.946,
+   "inicio": 1033.475,
+   "fim": 1038.411,
    "paragrafo": 4
   },
   {
    "texto": "Não havia nenhuma garantia de que ela chegaria.",
-   "inicio": 1077.366,
-   "fim": 1080.607,
+   "inicio": 1038.831,
+   "fim": 1042.233,
    "paragrafo": 4
   },
   {
    "texto": "Depois, Lucas se ofereceu para buscar comida na distribuição do ginásio.",
-   "inicio": 1081.027,
-   "fim": 1085.993,
+   "inicio": 1042.653,
+   "fim": 1047.876,
    "paragrafo": 4
   },
   {
    "texto": "Se não podia ir até a mãe, ia pelo menos ser útil ali.",
-   "inicio": 1086.413,
-   "fim": 1090.137,
+   "inicio": 1048.296,
+   "fim": 1052.359,
    "paragrafo": 4
   },
   {
    "texto": "No vigésimo terceiro dia, a garagem do prédio já não parecia uma garagem.",
-   "inicio": 1094.286,
-   "fim": 1099.32,
+   "inicio": 1056.509,
+   "fim": 1061.232,
    "paragrafo": 0
   },
   {
    "texto": "Tinha virado uma cozinha coletiva, com três fogões ligados nos botijões de gás.",
-   "inicio": 1099.74,
-   "fim": 1105.189,
+   "inicio": 1061.652,
+   "fim": 1066.996,
    "paragrafo": 0
   },
   {
    "texto": "Os moradores tinham escalas para cozinhar, lavar, buscar água e vigiar o portão.",
-   "inicio": 1105.609,
-   "fim": 1111.126,
+   "inicio": 1067.416,
+   "fim": 1073.288,
    "paragrafo": 0
   },
   {
    "texto": "Cada um sabia o seu papel.",
-   "inicio": 1111.546,
-   "fim": 1113.339,
+   "inicio": 1073.708,
+   "fim": 1076.204,
    "paragrafo": 0
   },
   {
    "texto": "O dinheiro tinha perdido importância.",
-   "inicio": 1114.289,
-   "fim": 1116.841,
+   "inicio": 1077.154,
+   "fim": 1079.903,
    "paragrafo": 1
   },
   {
    "texto": "As pessoas trocavam alimentos, pilhas, remédios e serviços.",
-   "inicio": 1117.261,
-   "fim": 1121.33,
+   "inicio": 1080.323,
+   "fim": 1084.605,
    "paragrafo": 1
   },
   {
    "texto": "E Lucas descobriu uma habilidade que nem sabia que tinha.",
-   "inicio": 1121.75,
-   "fim": 1125.681,
+   "inicio": 1085.025,
+   "fim": 1088.056,
    "paragrafo": 1
   },
   {
    "texto": "Ele conseguia consertar torneiras e descargas.",
-   "inicio": 1126.101,
-   "fim": 1129.273,
+   "inicio": 1088.476,
+   "fim": 1091.733,
    "paragrafo": 1
   },
   {
    "texto": "Em pouco tempo, ele era chamado em todos os andares.",
-   "inicio": 1129.693,
-   "fim": 1133.279,
+   "inicio": 1092.153,
+   "fim": 1095.816,
    "paragrafo": 1
   },
   {
    "texto": "Então, numa tarde, o céu escureceu e caiu a primeira chuva forte desde o apagão.",
-   "inicio": 1134.229,
-   "fim": 1139.747,
+   "inicio": 1096.766,
+   "fim": 1102.451,
    "paragrafo": 2
   },
   {
    "texto": "Todos correram para a laje com baldes, bacias e lonas.",
-   "inicio": 1140.167,
-   "fim": 1143.891,
+   "inicio": 1102.871,
+   "fim": 1106.85,
    "paragrafo": 2
   },
   {
    "texto": "Seu Jorge improvisou um sistema de captação com calhas e canos velhos.",
-   "inicio": 1144.311,
-   "fim": 1149.138,
+   "inicio": 1107.27,
+   "fim": 1112.341,
    "paragrafo": 2
   },
   {
    "texto": "Paula orientou todo mundo.",
-   "inicio": 1149.558,
-   "fim": 1151.352,
+   "inicio": 1112.761,
+   "fim": 1114.336,
    "paragrafo": 2
   },
   {
    "texto": "A água da chuva seria filtrada e fervida antes de ser usada para beber.",
-   "inicio": 1151.772,
-   "fim": 1156.668,
+   "inicio": 1114.756,
+   "fim": 1119.402,
    "paragrafo": 2
   },
   {
    "texto": "No salão de festas, Dona Cida ensinava as pessoas a conservar legumes no sal, como fazia quando era jovem.",
-   "inicio": 1157.618,
-   "fim": 1164.928,
+   "inicio": 1120.352,
+   "fim": 1127.951,
    "paragrafo": 3
   },
   {
    "texto": "As duas crianças que chegaram naquela noite agora levavam recados de um andar para o outro, correndo pelas escadas.",
-   "inicio": 1165.348,
-   "fim": 1173.279,
+   "inicio": 1128.371,
+   "fim": 1135.087,
    "paragrafo": 3
   },
   {
    "texto": "Elas tinham virado o correio do prédio.",
-   "inicio": 1173.699,
-   "fim": 1176.389,
+   "inicio": 1135.507,
+   "fim": 1137.601,
    "paragrafo": 3
   },
   {
    "texto": "Lucas, que antes conhecia apenas dois vizinhos pelo nome, agora conhecia todos.",
-   "inicio": 1177.339,
-   "fim": 1182.787,
+   "inicio": 1138.551,
+   "fim": 1144.772,
    "paragrafo": 4
   },
   {
    "texto": "Sabia quem tinha filhos, quem tinha pressão alta, quem sabia cozinhar e quem precisava de ajuda.",
-   "inicio": 1183.207,
-   "fim": 1189.828,
+   "inicio": 1145.192,
+   "fim": 1150.686,
    "paragrafo": 4
   },
   {
    "texto": "A despensa ainda tinha comida para mais ou menos uma semana.",
-   "inicio": 1190.248,
-   "fim": 1194.386,
+   "inicio": 1151.106,
+   "fim": 1154.628,
    "paragrafo": 4
   },
   {
    "texto": "Mas, pela primeira vez, ninguém ali estava sozinho.",
-   "inicio": 1194.806,
-   "fim": 1198.323,
+   "inicio": 1155.048,
+   "fim": 1159.563,
    "paragrafo": 4
   },
   {
    "texto": "No vigésimo sétimo dia, um morador subiu a escada correndo, sem fôlego.",
-   "inicio": 1202.474,
-   "fim": 1207.371,
+   "inicio": 1163.713,
+   "fim": 1169.078,
    "paragrafo": 0
   },
   {
    "texto": "A energia vai voltar hoje à noite, ele gritou.",
-   "inicio": 1207.791,
-   "fim": 1210.963,
+   "inicio": 1169.498,
+   "fim": 1172.35,
    "paragrafo": 0
   },
   {
    "texto": "Alguns diziam que tinham ouvido no rádio.",
-   "inicio": 1211.383,
-   "fim": 1214.211,
+   "inicio": 1172.77,
+   "fim": 1175.899,
    "paragrafo": 0
   },
   {
    "texto": "Outros diziam que um conhecido tinha a informação.",
-   "inicio": 1214.631,
-   "fim": 1218.079,
+   "inicio": 1176.319,
+   "fim": 1179.302,
    "paragrafo": 0
   },
   {
    "texto": "Em poucos minutos, a notícia tinha chegado em todos os andares.",
-   "inicio": 1218.499,
-   "fim": 1222.844,
+   "inicio": 1179.722,
+   "fim": 1183.624,
    "paragrafo": 0
   },
   {
    "texto": "O prédio se encheu de esperança.",
-   "inicio": 1223.794,
-   "fim": 1226.001,
+   "inicio": 1184.574,
+   "fim": 1186.448,
    "paragrafo": 1
   },
   {
    "texto": "As pessoas limpavam as geladeiras, separavam os carregadores e colocavam os celulares em cima da mesa.",
-   "inicio": 1226.421,
-   "fim": 1233.455,
+   "inicio": 1186.868,
+   "fim": 1193.002,
    "paragrafo": 1
   },
   {
    "texto": "As crianças perguntavam a cada minuto se já estava na hora.",
-   "inicio": 1233.875,
-   "fim": 1237.944,
+   "inicio": 1193.422,
+   "fim": 1197.222,
    "paragrafo": 1
   },
   {
    "texto": "Até Seu Jorge, sempre tão sério, sorria na portaria.",
-   "inicio": 1238.364,
-   "fim": 1241.95,
+   "inicio": 1197.642,
+   "fim": 1201.269,
    "paragrafo": 1
   },
   {
    "texto": "Oito horas.",
-   "inicio": 1242.9,
-   "fim": 1243.659,
+   "inicio": 1202.219,
+   "fim": 1203.406,
    "paragrafo": 2
   },
   {
    "texto": "Nada.",
-   "inicio": 1244.079,
-   "fim": 1244.424,
+   "inicio": 1203.826,
+   "fim": 1204.598,
    "paragrafo": 2
   },
   {
    "texto": "Nove horas.",
-   "inicio": 1244.844,
-   "fim": 1245.602,
+   "inicio": 1205.018,
+   "fim": 1206.274,
    "paragrafo": 2
   },
   {
    "texto": "Nada.",
-   "inicio": 1246.022,
-   "fim": 1246.367,
+   "inicio": 1206.694,
+   "fim": 1207.434,
    "paragrafo": 2
   },
   {
    "texto": "Dez horas.",
-   "inicio": 1246.787,
-   "fim": 1247.477,
+   "inicio": 1207.854,
+   "fim": 1208.773,
    "paragrafo": 2
   },
   {
    "texto": "As velas começaram a acabar.",
-   "inicio": 1247.897,
-   "fim": 1249.828,
+   "inicio": 1209.193,
+   "fim": 1211.313,
    "paragrafo": 2
   },
   {
    "texto": "Meia-noite.",
-   "inicio": 1250.248,
-   "fim": 1251.006,
+   "inicio": 1211.733,
+   "fim": 1212.871,
    "paragrafo": 2
   },
   {
    "texto": "A cidade continuava escura.",
-   "inicio": 1251.426,
-   "fim": 1253.288,
+   "inicio": 1213.291,
+   "fim": 1215.128,
    "paragrafo": 2
   },
   {
    "texto": "Nenhuma lâmpada acendeu.",
-   "inicio": 1253.708,
-   "fim": 1255.364,
+   "inicio": 1215.548,
+   "fim": 1217.248,
    "paragrafo": 2
   },
   {
    "texto": "No dia seguinte, o rádio explicou que a energia tinha voltado apenas para hospitais e estações de tratamento de água.",
-   "inicio": 1255.784,
-   "fim": 1263.853,
+   "inicio": 1217.668,
+   "fim": 1224.567,
    "paragrafo": 2
   },
   {
    "texto": "Lá embaixo, a torneira do jardim começou a pingar.",
-   "inicio": 1264.273,
-   "fim": 1267.721,
+   "inicio": 1224.987,
+   "fim": 1228.125,
    "paragrafo": 2
   },
   {
    "texto": "Era uma pequena vitória.",
-   "inicio": 1268.141,
-   "fim": 1269.796,
+   "inicio": 1228.545,
+   "fim": 1230.007,
    "paragrafo": 2
   },
   {
    "texto": "Mas a frustração foi grande demais.",
-   "inicio": 1270.746,
-   "fim": 1273.16,
+   "inicio": 1230.957,
+   "fim": 1234.094,
    "paragrafo": 3
   },
   {
    "texto": "Naquela tarde, uma discussão começou por causa da última lata de óleo.",
-   "inicio": 1273.58,
-   "fim": 1278.407,
+   "inicio": 1234.514,
+   "fim": 1238.749,
    "paragrafo": 3
   },
   {
    "texto": "Vozes alteradas, dedos apontados.",
-   "inicio": 1278.827,
-   "fim": 1281.103,
+   "inicio": 1239.169,
+   "fim": 1242.171,
    "paragrafo": 3
   },
   {
    "texto": "O morador do sétimo andar decidiu ir embora.",
-   "inicio": 1281.523,
-   "fim": 1284.558,
+   "inicio": 1242.591,
+   "fim": 1246.541,
    "paragrafo": 3
   },
   {
    "texto": "E levou de volta o que ainda restava do que ele tinha colocado na despensa.",
-   "inicio": 1284.978,
-   "fim": 1290.15,
+   "inicio": 1246.961,
+   "fim": 1251.355,
    "paragrafo": 3
   },
   {
    "texto": "Naquela noite, Lucas sentou sozinho na portaria e chorou.",
-   "inicio": 1291.1,
-   "fim": 1295.031,
+   "inicio": 1252.305,
+   "fim": 1255.683,
    "paragrafo": 4
   },
   {
    "texto": "De cansaço, de fome, de saudade.",
-   "inicio": 1295.451,
-   "fim": 1297.658,
+   "inicio": 1256.103,
+   "fim": 1258.378,
    "paragrafo": 4
   },
   {
    "texto": "Depois de alguns minutos, Dona Cida apareceu devagar, com uma vela na mão, e sentou ao lado dele.",
-   "inicio": 1298.078,
-   "fim": 1304.768,
+   "inicio": 1258.798,
+   "fim": 1264.896,
    "paragrafo": 4
   },
   {
    "texto": "Ela disse uma coisa que ele nunca mais esqueceu.",
-   "inicio": 1305.188,
-   "fim": 1308.498,
+   "inicio": 1265.316,
+   "fim": 1268.635,
    "paragrafo": 4
   },
   {
    "texto": "O importante não é quando a luz volta.",
-   "inicio": 1308.918,
-   "fim": 1311.539,
+   "inicio": 1269.055,
+   "fim": 1271.18,
    "paragrafo": 4
   },
   {
    "texto": "É quem vai estar do nosso lado quando ela voltar.",
-   "inicio": 1311.959,
-   "fim": 1315.338,
+   "inicio": 1271.6,
+   "fim": 1274.297,
    "paragrafo": 4
   },
   {
    "texto": "No trigésimo dia, às sete da noite, Lucas ouviu um estalo.",
-   "inicio": 1319.488,
-   "fim": 1323.488,
+   "inicio": 1278.447,
+   "fim": 1282.552,
    "paragrafo": 0
   },
   {
    "texto": "Depois um zumbido baixo, conhecido.",
-   "inicio": 1323.908,
-   "fim": 1326.322,
+   "inicio": 1282.972,
+   "fim": 1286.792,
    "paragrafo": 0
   },
   {
    "texto": "Era a geladeira.",
-   "inicio": 1326.742,
-   "fim": 1327.845,
+   "inicio": 1287.212,
+   "fim": 1288.487,
    "paragrafo": 0
   },
   {
    "texto": "A lâmpada da cozinha piscou e acendeu.",
-   "inicio": 1328.265,
-   "fim": 1330.886,
+   "inicio": 1288.907,
+   "fim": 1292.414,
    "paragrafo": 0
   },
   {
    "texto": "Por um segundo, ele ficou parado, sem acreditar.",
-   "inicio": 1331.306,
-   "fim": 1334.616,
+   "inicio": 1292.834,
+   "fim": 1296.774,
    "paragrafo": 0
   },
   {
    "texto": "Então o prédio inteiro começou a gritar e a comemorar.",
-   "inicio": 1335.036,
-   "fim": 1338.76,
+   "inicio": 1297.194,
+   "fim": 1300.243,
    "paragrafo": 0
   },
   {
    "texto": "Lucas subiu correndo até a laje.",
-   "inicio": 1339.71,
-   "fim": 1341.917,
+   "inicio": 1301.193,
+   "fim": 1303.574,
    "paragrafo": 1
   },
   {
    "texto": "Lá de cima, ele viu a cidade acender por partes.",
-   "inicio": 1342.337,
-   "fim": 1345.648,
+   "inicio": 1303.994,
+   "fim": 1307.49,
    "paragrafo": 1
   },
   {
    "texto": "Primeiro um bairro, depois outro, depois mais um.",
-   "inicio": 1346.068,
-   "fim": 1349.447,
+   "inicio": 1307.91,
+   "fim": 1311.269,
    "paragrafo": 1
   },
   {
    "texto": "A energia voltava devagar, região por região, como se São Paulo estivesse acordando de um sono muito longo.",
-   "inicio": 1349.867,
-   "fim": 1357.246,
+   "inicio": 1311.689,
+   "fim": 1318.164,
    "paragrafo": 1
   },
   {
    "texto": "No bolso, o celular vibrou.",
-   "inicio": 1358.196,
-   "fim": 1360.058,
+   "inicio": 1319.114,
+   "fim": 1321.174,
    "paragrafo": 2
   },
   {
    "texto": "E vibrou de novo.",
-   "inicio": 1360.478,
-   "fim": 1361.651,
+   "inicio": 1321.594,
+   "fim": 1323.658,
    "paragrafo": 2
   },
   {
    "texto": "Eram dezenas de mensagens acumuladas.",
-   "inicio": 1362.071,
-   "fim": 1364.622,
+   "inicio": 1324.078,
+   "fim": 1326.627,
    "paragrafo": 2
   },
   {
    "texto": "Entre elas, um áudio da mãe.",
-   "inicio": 1365.042,
-   "fim": 1366.974,
+   "inicio": 1327.047,
+   "fim": 1330.15,
    "paragrafo": 2
   },
   {
    "texto": "Ela tinha recebido a carta e estava bem.",
-   "inicio": 1367.394,
-   "fim": 1370.152,
+   "inicio": 1330.57,
+   "fim": 1333.29,
    "paragrafo": 2
   },
   {
    "texto": "Lucas ouviu o áudio três vezes, sentado na laje, olhando as luzes da cidade.",
-   "inicio": 1370.572,
-   "fim": 1375.814,
+   "inicio": 1333.71,
+   "fim": 1339.135,
    "paragrafo": 2
   },
   {
    "texto": "Nos dias seguintes, os mercados reabriram, os ônibus voltaram a circular e os bancos retomaram os saques.",
-   "inicio": 1376.764,
-   "fim": 1384.005,
+   "inicio": 1340.085,
+   "fim": 1346.733,
    "paragrafo": 3
   },
   {
    "texto": "No primeiro dia em que o elevador funcionou, Dona Cida voltou para o nono andar.",
-   "inicio": 1384.425,
-   "fim": 1389.942,
+   "inicio": 1347.153,
+   "fim": 1351.937,
    "paragrafo": 3
   },
   {
    "texto": "Lucas agora guarda água, pilhas, um rádio, velas e comida para duas semanas.",
-   "inicio": 1390.362,
-   "fim": 1395.604,
+   "inicio": 1352.357,
+   "fim": 1357.078,
    "paragrafo": 3
   },
   {
    "texto": "E a lista de moradores continua escrita na parede do hall.",
-   "inicio": 1396.024,
-   "fim": 1400.024,
+   "inicio": 1357.498,
+   "fim": 1360.747,
    "paragrafo": 3
   },
   {
    "texto": "Trinta dias sem energia mostraram que uma cidade inteira depende de uma coisa que ninguém vê.",
-   "inicio": 1400.974,
-   "fim": 1407.387,
+   "inicio": 1361.697,
+   "fim": 1367.493,
    "paragrafo": 4
   },
   {
    "texto": "Mas fica uma pergunta.",
-   "inicio": 1407.807,
-   "fim": 1409.325,
+   "inicio": 1367.913,
+   "fim": 1369.316,
    "paragrafo": 4
   },
   {
    "texto": "E se a internet desaparecesse para sempre?",
-   "inicio": 1409.745,
-   "fim": 1412.641,
+   "inicio": 1369.736,
+   "fim": 1372.851,
    "paragrafo": 4
   },
   {
    "texto": "Esse é o próximo episódio do Último Dia.",
-   "inicio": 1413.061,
-   "fim": 1415.82,
+   "inicio": 1373.271,
+   "fim": 1375.556,
    "paragrafo": 4
   },
   {
    "texto": "E você, diante de uma situação dessas, ficaria na cidade ou iria embora?",
-   "inicio": 1416.24,
-   "fim": 1421.205,
+   "inicio": 1375.976,
+   "fim": 1380.757,
    "paragrafo": 4
   },
   {
    "texto": "Deixe sua resposta nos comentários.",
-   "inicio": 1421.625,
-   "fim": 1424.039,
+   "inicio": 1381.177,
+   "fim": 1383.716,
    "paragrafo": 4
   }
  ],
@@ -4840,78 +4840,78 @@
   {
    "cap": 1,
    "inicio": 29.621,
-   "dur": 135.36862068965516,
-   "real": false
+   "dur": 136.3755,
+   "real": true
   },
   {
    "cap": 2,
-   "inicio": 168.19,
-   "dur": 113.66379310344826,
-   "real": false
+   "inicio": 169.197,
+   "dur": 110.701042,
+   "real": true
   },
   {
    "cap": 3,
-   "inicio": 285.054,
-   "dur": 118.92999999999998,
-   "real": false
+   "inicio": 283.098,
+   "dur": 113.581792,
+   "real": true
   },
   {
    "cap": 4,
-   "inicio": 407.184,
-   "dur": 111.11206896551724,
-   "real": false
+   "inicio": 399.88,
+   "dur": 105.793792,
+   "real": true
   },
   {
    "cap": 5,
-   "inicio": 521.496,
-   "dur": 123.31896551724137,
-   "real": false
+   "inicio": 508.873,
+   "dur": 121.98125,
+   "real": true
   },
   {
    "cap": 6,
-   "inicio": 648.015,
-   "dur": 106.22862068965517,
-   "real": false
+   "inicio": 634.055,
+   "dur": 99.246458,
+   "real": true
   },
   {
    "cap": 7,
-   "inicio": 757.443,
-   "dur": 114.19689655172412,
-   "real": false
+   "inicio": 736.501,
+   "dur": 107.60425,
+   "real": true
   },
   {
    "cap": 8,
-   "inicio": 874.84,
-   "dur": 104.9493103448276,
-   "real": false
+   "inicio": 847.305,
+   "dur": 101.122875,
+   "real": true
   },
   {
    "cap": 9,
-   "inicio": 982.99,
-   "dur": 108.09689655172413,
-   "real": false
+   "inicio": 951.628,
+   "dur": 101.680667,
+   "real": true
   },
   {
    "cap": 10,
-   "inicio": 1094.286,
-   "dur": 104.98724137931035,
-   "real": false
+   "inicio": 1056.509,
+   "dur": 104.004292,
+   "real": true
   },
   {
    "cap": 11,
-   "inicio": 1202.474,
-   "dur": 113.81413793103448,
-   "real": false
+   "inicio": 1163.713,
+   "dur": 111.534125,
+   "real": true
   },
   {
    "cap": 12,
-   "inicio": 1319.488,
-   "dur": 105.50103448275863,
-   "real": false
+   "inicio": 1278.447,
+   "dur": 106.218875,
+   "real": true
   }
  ],
  "selo": [
   0.5,
-  1424.9888782068967
+  1384.6662100000003
  ]
 }

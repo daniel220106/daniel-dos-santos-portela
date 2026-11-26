@@ -1,0 +1,8 @@
+OUVIDO: Na manhã do segundo dia, Lucas abriu a torneira da cozinha.  A água saiu fraca.  Depois se virou um fio.  Depois parou.  Ele foi até o banheiro e tentou o chuveiro.  Nada.  Foi aí que ele entendeu uma coisa que nunca tinha passado pela cabeça dele.  A água não sobe sozinha até o nono andar.  Uma bomba elétrica empurra a água da rua até a caixa d'água no topo do prédio.  Sem energia, a bomba parou.  E o pouco que restava na caixa foi consumido nas primeiras horas pelos 50 apartamentos do prédio.  Lucas olhou para as garrafas na pia.  Seis litros?  Era tudo o que ele tinha.  No fim da manhã, seu Jorge, o síndico, bateu de porta em porta.  Um caminhão-pipa da prefeitura tinha chegado na avenida.  Quando Lucas desceu, a fila já tinha mais de 200 pessoas,  com baldes, galões e garrafas de todos os tamanhos.  Cada pessoa podia retirar até 20 litros.  O motorista avisou que o caminhão voltaria a cada dois ou três dias, se ainda tivesse diesel.  20 litros de água pesam 20 quilos.  Lucas subiu os nove andares com um balde em cada mão.  No terceiro andar, os braços começaram a tremer.  No sexto, ele precisou parar e sentar no degrau para respirar.  Quando chegou no nono, a camiseta estava encharcada de suor.  Naquela noite, ele dividiu a água em três partes.  Uma para beber, uma para cozinhar e uma pequena parte para se lavar.  Cada gota agora tinha um destino.  E Lucas começou a perceber que o problema era muito maior do que uma simples falta de luz.
+PRECISAO: 98.9%  diferenças: 6
+  texto:   | ouvido: se
+  texto: cinquenta  | ouvido: 
+  texto: duzentas  | ouvido: 
+  texto: vinte  | ouvido: 
+  texto: vinte  | ouvido: 
+  texto: vinte  | ouvido: 

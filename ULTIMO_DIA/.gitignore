@@ -1,2 +1,10 @@
 render/
 *_quadros/
+__pycache__/
+# áudios grandes gerados (reproduzíveis pelos scripts)
+audio/narracao/ep01/*.wav
+audio/narracao/ep01_narracao_completa.wav
+audio/ep01_mix_final.wav
+audio/testes/ep01_trilha.wav
+audio/testes/ep01_ambiente.wav
+audio/testes/ep01_efeitos.wav
