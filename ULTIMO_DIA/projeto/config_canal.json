@@ -1,0 +1,7 @@
+{
+  "canal": "ÚLTIMO DIA",
+  "voz_narrador": "audio/referencias/ref_12707.wav",
+  "voz_parametros": {"exaggeration": 0.45, "cfg": 0.4, "temp": 0.7, "seed": 7},
+  "voz_aprovada_em": "2026-11-26 (voz B)",
+  "atraso_narracao_abertura_s": 3.0
+}
