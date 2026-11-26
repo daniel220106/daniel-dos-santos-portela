@@ -40,6 +40,15 @@ const VISUAIS = {
     calca: '#2a3850', calcaSombra: '#1d2739', tenis: '#d6d4cf', sola: '#3a3a3a', barba: 0.22, cabeloTipo: 'curto',
     altura: 1.0, largura: 1.0
   },
+  cida: { pele: '#c99a78', peleSombra: '#9a6f52', cabelo: '#cfcac3', camiseta: '#5a3d5c', camisetaSombra: '#40293f', calca: '#3a2a3a', calcaSombra: '#2a1e2a', tenis: '#3a2e28', sola: '#1a1512', barba: 0, cabeloTipo: 'coque', oculos: true, vestido: '#5a3d5c', mangaLonga: true, altura: 0.9, largura: 1.05 },
+  paula: { pele: '#8a5a3c', peleSombra: '#64402a', cabelo: '#17110e', camiseta: '#3f7f86', camisetaSombra: '#2d5f65', calca: '#3f7f86', calcaSombra: '#2d5f65', tenis: '#e8e6e0', sola: '#888', barba: 0, cabeloTipo: 'rabo', altura: 0.95, largura: 0.92 },
+  jorge: { pele: '#c08866', peleSombra: '#8f6148', cabelo: '#9a958e', camiseta: '#b9a785', camisetaSombra: '#958566', calca: '#5a4634', calcaSombra: '#40322a', tenis: '#2a2118', sola: '#111', barba: 0, cabeloTipo: 'careca', bigode: '#8a857e', altura: 0.98, largura: 1.15 },
+  mae: { pele: '#9a6545', peleSombra: '#6f472f', cabelo: '#1c1410', camiseta: '#8a6a3a', camisetaSombra: '#6a502a', calca: '#2f3440', calcaSombra: '#20242d', tenis: '#888', sola: '#333', barba: 0, cabeloTipo: 'longo', altura: 0.95, largura: 0.95 },
+  crianca1: { pele: '#9a6545', peleSombra: '#6f472f', cabelo: '#1c1410', camiseta: '#c23b33', camisetaSombra: '#922c26', calca: '#2f3a5a', calcaSombra: '#202840', tenis: '#ddd', sola: '#444', barba: 0, cabeloTipo: 'curto', cabecaEsc: 1.3, altura: 0.55, largura: 0.75 },
+  crianca2: { pele: '#9a6545', peleSombra: '#6f472f', cabelo: '#1c1410', camiseta: '#e0b23a', camisetaSombra: '#b08a2a', calca: '#6a3a5a', calcaSombra: '#4a2a40', tenis: '#ddd', sola: '#444', barba: 0, cabeloTipo: 'rabo', cabecaEsc: 1.3, altura: 0.5, largura: 0.72 },
+  morador7: { pele: '#d0a080', peleSombra: '#a07455', cabelo: '#4a3a2a', camiseta: '#2f4a3a', camisetaSombra: '#21352a', calca: '#4a4a4a', calcaSombra: '#333', tenis: '#222', sola: '#111', barba: 0.35, cabeloTipo: 'curto', altura: 1.02, largura: 1.08 },
+  soldado: { pele: '#a9724f', peleSombra: '#7d4f35', cabelo: '#4a5a3a', camiseta: '#4f5a3a', camisetaSombra: '#3a442a', calca: '#4f5a3a', calcaSombra: '#3a442a', tenis: '#1a1a1a', sola: '#111', barba: 0, cabeloTipo: 'quepe', altura: 1.0, largura: 1.05 },
+  defesa: { pele: '#b07a55', peleSombra: '#7d4f35', cabelo: '#e07a20', camiseta: '#e07a20', camisetaSombra: '#b05a10', calca: '#2a3340', calcaSombra: '#1d232d', tenis: '#1a1a1a', sola: '#111', barba: 0, cabeloTipo: 'quepe', altura: 1.0, largura: 1.05 },
   pedestre1: { pele: '#c08a64', peleSombra: '#8d6044', cabelo: '#2b211a', camiseta: '#6b3a2f', camisetaSombra: '#4c2922', calca: '#3a3a3f', calcaSombra: '#26262a', tenis: '#2a2a2a', sola: '#111', barba: 0, cabeloTipo: 'curto', altura: 0.97, largura: 1.05 },
   pedestre2: { pele: '#7a5038', peleSombra: '#553624', cabelo: '#141010', camiseta: '#5d6b52', camisetaSombra: '#434e3b', calca: '#4b4033', calcaSombra: '#352d24', tenis: '#bbb', sola: '#333', barba: 0, cabeloTipo: 'longo', altura: 0.93, largura: 0.95 },
 };
@@ -57,6 +66,11 @@ function caminhada(fase, intens = 1) {
 }
 
 function desenharPessoa(ctx, P, vis = VISUAIS.lucas) {
+  if (typeof vis === 'string') vis = VISUAIS[vis];
+  if (P.dia && vis === VISUAIS.lucas) { // evolução física do Lucas ao longo dos dias
+    const k = clamp((P.dia - 1) / 29);
+    vis = { ...vis, barba: 0.22 + 0.4 * k, largura: 1 - 0.1 * clamp((P.dia - 5) / 11), camiseta: shade(vis.camiseta, 1 - 0.18 * k), calca: shade(vis.calca, 1 - 0.15 * k) };
+  }
   const s = P.s || 1, dir = P.dir || 1;
   const ow = Math.ceil(760 * s), oh = Math.ceil(1250 * s), oy = oh * 0.6;
   const oc = buf('pessoa', ow, oh), c = oc.getContext('2d');
@@ -96,7 +110,8 @@ function desenharPessoa(ctx, P, vis = VISUAIS.lucas) {
     // manga
     const mx = lerp(ombro[0], x1, 0.62), my = lerp(ombro[1], y1, 0.62);
     c.strokeStyle = escuro ? vis.camisetaSombra : vis.camiseta;
-    c.lineWidth = 36; c.beginPath(); c.moveTo(ombro[0], ombro[1]); c.lineTo(mx, my); c.stroke();
+    c.lineWidth = vis.mangaLonga ? 30 : 36; c.beginPath(); c.moveTo(ombro[0], ombro[1]); c.lineTo(mx, my);
+    if (vis.mangaLonga) c.lineTo(lerp(x1, x2, 0.8), lerp(y1, y2, 0.8)); c.stroke();
     // mão
     c.fillStyle = escuro ? vis.peleSombra : vis.pele;
     c.beginPath(); c.ellipse(x2 + Math.sin(b[0] + b[1] + ang) * 8, y2 + Math.cos(b[0] + b[1] + ang) * 8, 13, 15, -(b[0] + b[1] + ang), 0, 7); c.fill();
@@ -107,9 +122,13 @@ function desenharPessoa(ctx, P, vis = VISUAIS.lucas) {
   braco(bT, true);
   perna(pT, true);
   perna(pF, false);
+  if (vis.vestido && !P.semPernas) { // saia/vestido até o joelho
+    const kx = Math.sin(pF[0]) * 130, ky = 8 + Math.cos(pF[0]) * 130;
+    c.fillStyle = vis.vestido; c.beginPath(); c.moveTo(-44, -10); c.lineTo(44, -10); c.lineTo(kx + 40, ky + 10); c.lineTo(kx - 44, ky + 14); c.fill();
+  }
   // tronco
   c.save(); c.rotate(tr);
-  c.fillStyle = vis.calca; rr(c, -40, -18, 80, 40, 14); c.fill();
+  c.fillStyle = vis.vestido || vis.calca; rr(c, -40, -18, 80, 40, 14); c.fill();
   c.fillStyle = vis.camiseta;
   c.beginPath(); c.moveTo(-38, -8); c.lineTo(38, -8);
   c.quadraticCurveTo(46, -95, 40, -150); c.quadraticCurveTo(36, -186, 16, -194);
@@ -121,6 +140,7 @@ function desenharPessoa(ctx, P, vis = VISUAIS.lucas) {
   const cab = P.cabeca || {}; const giro = cab.giro ?? 0, incl = cab.incl ?? 0;
   c.fillStyle = vis.peleSombra; rr(c, -8, -222, 26, 36, 8); c.fill();
   c.translate(6, -212); c.rotate(incl); c.translate(-6, 212);
+  if (vis.cabecaEsc) { c.translate(6, -212); c.scale(vis.cabecaEsc, vis.cabecaEsc); c.translate(-6, 212); }
   desenharCabeca(c, vis, giro, P);
   c.restore();
   braco(bF, false);
@@ -154,6 +174,8 @@ function desenharCabeca(c, vis, giro, P) {
   // cabelo de trás
   c.fillStyle = vis.cabelo;
   if (vis.cabeloTipo === 'longo') { c.beginPath(); c.ellipse(cx - 20, cy + 10, 40, 70, 0.1, 0, 7); c.fill(); }
+  if (vis.cabeloTipo === 'rabo') { c.beginPath(); c.ellipse(cx - 52, cy - 4, 14, 40, 0.5, 0, 7); c.fill(); }
+  if (vis.cabeloTipo === 'coque') { c.beginPath(); c.arc(cx - 36, cy - 44, 22, 0, 7); c.fill(); }
   // cabeça
   c.fillStyle = vis.pele;
   c.beginPath(); c.ellipse(cx, cy, 45, 55, 0, 0, 7); c.fill();
@@ -192,8 +214,12 @@ function desenharCabeca(c, vis, giro, P) {
   const boca = P.boca || 0;
   if (boca > 0.05) { c.fillStyle = '#4a2219'; c.beginPath(); c.ellipse(fx + 6, ey + 37, 8, 2 + boca * 5, 0, 0, 7); c.fill(); }
   else { c.strokeStyle = '#6b3a2a'; c.lineWidth = 3; c.beginPath(); c.moveTo(fx - 4, ey + 37 + preoc); c.quadraticCurveTo(fx + 6, ey + 35 + preoc * 2, fx + 15, ey + 37 + preoc); c.stroke(); }
+  if (vis.bigode) { c.fillStyle = vis.bigode; c.beginPath(); c.ellipse(fx + 8, ey + 29, 13, 5, 0, 0, 7); c.fill(); }
+  if (vis.oculos) { c.strokeStyle = '#2a2420'; c.lineWidth = 2.5; c.beginPath(); c.arc(fx + 8, ey, 11, 0, 7); c.moveTo(fx - 7, ey); c.arc(fx - 18, ey, 10, 0, 7); c.moveTo(fx - 3, ey); c.lineTo(fx - 8, ey); c.stroke(); }
   // cabelo
   c.fillStyle = vis.cabelo;
+  if (vis.cabeloTipo === 'quepe') { c.beginPath(); c.ellipse(cx - 2, cy - 38, 50, 26, 0, Math.PI, Math.PI * 2.02); c.fill(); c.fillRect(cx - 50, cy - 40, 100, 10); c.fillRect(cx + 20, cy - 34, 48, 8); return; }
+  if (vis.cabeloTipo === 'careca') { c.save(); c.beginPath(); c.ellipse(cx, cy, 48, 58, 0, 0, 7); c.clip(); c.beginPath(); c.moveTo(cx - 60, cy - 24); c.lineTo(fx - 30, cy - 18); c.lineTo(fx - 30, cy + 8); c.lineTo(cx - 60, cy + 30); c.fill(); c.restore(); return; }
   c.save(); c.beginPath(); c.ellipse(cx, cy, 48, 58, 0, 0, 7); c.clip();
   c.beginPath(); c.ellipse(cx - 4, cy - 34, 52, 30, -0.05, 0, 7); c.fill();
   c.beginPath(); c.moveTo(cx - 60, cy - 30); c.lineTo(fx - 26, cy - 30); c.lineTo(fx - 30, cy + 2); c.lineTo(cx - 60, cy + 30); c.fill();
@@ -315,7 +341,7 @@ const MOTOR = {
       if (S.saiPreto) alpha *= 1 - sstep(S.b - S.saiPreto, S.b, T);
       const b = buf('cena' + (i % 2)); const c = b.getContext('2d');
       c.setTransform(1, 0, 0, 1, 0, 0); c.clearRect(0, 0, W, H); c.globalAlpha = 1; c.filter = 'none';
-      c.save(); S.fn(c, T - S.a, S.b - S.a, T); c.restore();
+      c.save(); S.fn(c, T - S.a, S.b - S.a, T, S.info || {}); c.restore();
       ctx.globalAlpha = alpha; ctx.drawImage(b, 0, 0); ctx.globalAlpha = 1;
     }
     if (window.POS) window.POS(ctx, T);

@@ -652,6 +652,8 @@ cena(69.6, 75.0, (c, t) => {
   c.restore();
 }, { preto: 0.8, saiPreto: 0.8 });
 
+window.CENAS_ABERTURA = CENAS;
+if (!window.EPISODIO) {
 window.CENAS = CENAS;
 window.DURACAO = 75.0;
 window.POS = (ctx, T) => {
@@ -660,3 +662,4 @@ window.POS = (ctx, T) => {
   if (T > 3.6 && T < 8.6) cartelaDia(ctx, T - 3.6, 5.0, 'DIA 1', 'O APAGÃO');
 };
 window.prepararEpisodio = dados => prepararLegendas(dados, O);
+}

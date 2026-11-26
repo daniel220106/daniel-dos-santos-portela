@@ -1,0 +1,3 @@
+OUVIDO: E se, amanhã de manhã, o Brasil acordasse sem energia elétrica?  Não por algumas horas, por 30 dias, sem luz, sem água na torneira,  sem celular, sem internet e sem dinheiro no cartão.  Esta é uma simulação,  um cenário hipotético contado através da história de uma pessoa comum.
+PRECISAO: 98.9%  diferenças: 1
+  texto: trinta  | ouvido: 

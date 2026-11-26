@@ -1,0 +1,230 @@
+[
+ {
+  "texto": "Lucas acordou com um silêncio estranho.",
+  "inicio": 0.0,
+  "fim": 2.8,
+  "paragrafo": 0
+ },
+ {
+  "texto": "A geladeira, que sempre fazia aquele zumbido baixo, estava completamente calada.",
+  "inicio": 3.22,
+  "fim": 8.124,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Ele pegou o celular.",
+  "inicio": 8.544,
+  "fim": 10.241,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Sem sinal.",
+  "inicio": 10.661,
+  "fim": 11.758,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Tentou ligar a televisão.",
+  "inicio": 12.178,
+  "fim": 14.911,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Nada.",
+  "inicio": 15.331,
+  "fim": 16.01,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Lucas tem vinte e nove anos e mora sozinho no nono andar de um prédio na zona leste de São Paulo.",
+  "inicio": 16.43,
+  "fim": 22.423,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Resolve quase tudo pelo celular.",
+  "inicio": 22.843,
+  "fim": 24.972,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Não tem gerador, não tem energia solar, e conhece apenas dois vizinhos pelo nome.",
+  "inicio": 25.392,
+  "fim": 30.855,
+  "paragrafo": 0
+ },
+ {
+  "texto": "Ele foi até a janela.",
+  "inicio": 31.805,
+  "fim": 33.501,
+  "paragrafo": 1
+ },
+ {
+  "texto": "O prédio inteiro estava apagado.",
+  "inicio": 33.921,
+  "fim": 35.932,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Lá embaixo, os semáforos estavam desligados, e os carros se espremiam nos cruzamentos sem saber quem devia passar.",
+  "inicio": 36.352,
+  "fim": 43.349,
+  "paragrafo": 1
+ },
+ {
+  "texto": "O metrô tinha parado.",
+  "inicio": 43.769,
+  "fim": 45.124,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Os trens também.",
+  "inicio": 45.544,
+  "fim": 47.087,
+  "paragrafo": 1
+ },
+ {
+  "texto": "E os ônibus estavam presos no meio do trânsito.",
+  "inicio": 47.507,
+  "fim": 50.316,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Naquela manhã, uma falha gigantesca derrubou o sistema que conecta as usinas do país.",
+  "inicio": 50.736,
+  "fim": 56.749,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Grande parte do Brasil ficou sem energia elétrica.",
+  "inicio": 57.169,
+  "fim": 60.352,
+  "paragrafo": 1
+ },
+ {
+  "texto": "Lucas tentou ligar para a mãe, que mora no interior.",
+  "inicio": 61.302,
+  "fim": 64.701,
+  "paragrafo": 2
+ },
+ {
+  "texto": "A ligação chamou uma vez e caiu.",
+  "inicio": 65.121,
+  "fim": 67.424,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Ele tentou de novo.",
+  "inicio": 67.844,
+  "fim": 69.308,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Caiu outra vez.",
+  "inicio": 69.728,
+  "fim": 71.146,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Então decidiu descer.",
+  "inicio": 71.566,
+  "fim": 73.133,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Sem elevador, foram nove andares pela escada, no escuro, com a lanterna do celular iluminando cada degrau.",
+  "inicio": 73.553,
+  "fim": 79.885,
+  "paragrafo": 2
+ },
+ {
+  "texto": "Na rua, a cidade parecia outra.",
+  "inicio": 80.835,
+  "fim": 83.573,
+  "paragrafo": 3
+ },
+ {
+  "texto": "A padaria da esquina estava aberta, mas a máquina de cartão não funcionava.",
+  "inicio": 83.993,
+  "fim": 89.1,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Só aceitavam dinheiro.",
+  "inicio": 89.52,
+  "fim": 91.912,
+  "paragrafo": 3
+ },
+ {
+  "texto": "No posto de gasolina, as bombas estavam paradas.",
+  "inicio": 92.332,
+  "fim": 96.268,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Sem energia, ninguém conseguia tirar combustível dos tanques.",
+  "inicio": 96.688,
+  "fim": 100.417,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Lucas voltou para casa e fez algo que nunca tinha feito.",
+  "inicio": 100.837,
+  "fim": 104.184,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Um inventário.",
+  "inicio": 104.604,
+  "fim": 105.59,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Seis litros de água.",
+  "inicio": 106.01,
+  "fim": 107.44,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Comida para uns quatro dias.",
+  "inicio": 107.86,
+  "fim": 109.521,
+  "paragrafo": 3
+ },
+ {
+  "texto": "Oito pilhas, uma lanterna, alguns remédios e oitenta e cinco reais em dinheiro.",
+  "inicio": 109.941,
+  "fim": 115.062,
+  "paragrafo": 3
+ },
+ {
+  "texto": "À noite, sem nenhuma luz acesa na cidade, Lucas viu uma coisa que nunca tinha visto em São Paulo.",
+  "inicio": 116.012,
+  "fim": 122.593,
+  "paragrafo": 4
+ },
+ {
+  "texto": "O céu cheio de estrelas.",
+  "inicio": 123.013,
+  "fim": 125.006,
+  "paragrafo": 4
+ },
+ {
+  "texto": "Ele ficou um tempo olhando pela janela, tranquilo.",
+  "inicio": 125.426,
+  "fim": 128.775,
+  "paragrafo": 4
+ },
+ {
+  "texto": "Amanhã a energia volta, pensou.",
+  "inicio": 129.195,
+  "fim": 131.774,
+  "paragrafo": 4
+ },
+ {
+  "texto": "Essa certeza foi o seu primeiro erro.",
+  "inicio": 132.194,
+  "fim": 135.426,
+  "paragrafo": 4
+ }
+]
