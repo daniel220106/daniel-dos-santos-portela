@@ -20,10 +20,26 @@ const OP = {
     c.fillText('ÚD', C, 520);
     c.fillStyle = VM; c.fillRect(C - 120, 560, 240, 16);
   },
+  // E: ampulheta com o nome embaixo
+  nome_ampulheta(c) {
+    base(c, 'rgba(232,121,43,0.26)'); ampulheta(c, C, 300, 0.62);
+    c.textAlign = 'center'; c.fillStyle = BR; c.font = '700 116px Oswald'; c.fillText('ÚLTIMO DIA', C, 610);
+    c.fillStyle = VM; c.fillRect(C - 110, 636, 220, 12);
+  },
+  // F: nome grande, a ampulheta faz o papel do I de DIA
+  nome_grande(c) {
+    base(c);
+    c.textAlign = 'center'; c.fillStyle = BR; c.font = '700 200px Oswald'; c.fillText('ÚLTIMO', C, 360);
+    c.fillStyle = VM; c.fillRect(C - 190, 392, 380, 14);
+    c.fillStyle = BR; c.font = '700 200px Oswald';
+    c.textAlign = 'right'; c.fillText('D', C - 52, 630); c.textAlign = 'left'; c.fillText('A', C + 52, 630);
+    ampulheta(c, C, 545, 0.27);
+  },
   // B: ampulheta com a areia quase no fim
-  ampulheta(c) {
-    base(c, 'rgba(232,121,43,0.30)');
-    c.save(); c.translate(C, C);
+  ampulheta(c) { base(c, 'rgba(232,121,43,0.30)'); ampulheta(c, C, C, 1); },
+};
+function ampulheta(c, x, y, k) {
+    c.save(); c.translate(x, y); c.scale(k, k);
     const w = 170, h = 250, n = 22;
     c.fillStyle = BR; c.fillRect(-w - 30, -h - 34, 2 * w + 60, 30); c.fillRect(-w - 30, h + 4, 2 * w + 60, 30);
     const vidro = () => { c.beginPath(); c.moveTo(-w, -h); c.lineTo(w, -h); c.bezierCurveTo(w, -h * 0.35, n, -n * 2, n, 0); c.bezierCurveTo(n, n * 2, w, h * 0.35, w, h); c.lineTo(-w, h); c.bezierCurveTo(-w, h * 0.35, -n, n * 2, -n, 0); c.bezierCurveTo(-n, -n * 2, -w, -h * 0.35, -w, -h); c.closePath(); };
@@ -34,7 +50,8 @@ const OP = {
     c.restore();
     vidro(); c.strokeStyle = BR; c.lineWidth = 16; c.lineJoin = 'round'; c.stroke();
     c.restore();
-  },
+}
+const OP2 = {
   // C: sol se pondo no horizonte (o último pôr do sol)
   horizonte(c) {
     c.fillStyle = '#0b0b0d'; c.fillRect(0, 0, S, S);
@@ -67,7 +84,7 @@ const OP = {
 };
 window.gerar = async () => {
   await document.fonts.load('700 100px Oswald');
-  for (const [nome, fn] of Object.entries(OP)) { const cv = document.createElement('canvas'); cv.width = cv.height = S; cv.id = nome; fn(cv.getContext('2d')); document.body.appendChild(cv); }
-  return Object.keys(OP);
+  for (const [nome, fn] of Object.entries({...OP, ...OP2})) { const cv = document.createElement('canvas'); cv.width = cv.height = S; cv.id = nome; fn(cv.getContext('2d')); document.body.appendChild(cv); }
+  return Object.keys({...OP, ...OP2});
 };
 </script></body></html>
