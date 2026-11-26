@@ -12,7 +12,7 @@ async function abrir(browser) {
   const p = await browser.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
   p.on('pageerror', e => console.error('ERRO NA PÁGINA:', e.message));
   await p.goto('file://' + path.resolve(pagina));
-  await p.evaluate(async d => { await document.fonts.ready; await Promise.all([...document.fonts].map(f => f.load())); window.prepararEpisodio(d); }, dados);
+  await p.evaluate(async d => { await document.fonts.ready; await Promise.all([...document.fonts].map(f => f.load())); window.prepararEpisodio(d); window.SEM_LEGENDA = d.semLegenda; }, { ...dados, semLegenda: args.includes('--sem-legenda') });
   return p;
 }
 async function quadro(p, t, arq) {

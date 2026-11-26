@@ -345,7 +345,7 @@ const MOTOR = {
       ctx.globalAlpha = alpha; ctx.drawImage(b, 0, 0); ctx.globalAlpha = 1;
     }
     if (window.POS) window.POS(ctx, T);
-    desenharLegenda(ctx, T);
+    if (!window.SEM_LEGENDA) desenharLegenda(ctx, T);  // sem legenda gravada: usar o .srt no YouTube
   }
 };
 window.render = T => MOTOR.render(T);
