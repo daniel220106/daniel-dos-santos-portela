@@ -8,3 +8,4 @@ audio/ep01_mix_final.wav
 audio/testes/ep01_trilha.wav
 audio/testes/ep01_ambiente.wav
 audio/testes/ep01_efeitos.wav
+logs/render_*.log
