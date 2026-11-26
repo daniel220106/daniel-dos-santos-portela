@@ -1,6 +1,7 @@
 1
 00:00:00,000 --> 00:00:04,642
-E se, amanhã de manhã, o Brasil acordasse sem energia elétrica?
+E se, amanhã de manhã, o Brasil
+acordasse sem energia elétrica?
 
 2
 00:00:04,963 --> 00:00:06,627
@@ -12,7 +13,8 @@ Por trinta dias.
 
 4
 00:00:08,662 --> 00:00:15,032
-Sem luz, sem água na torneira, sem celular, sem internet e sem dinheiro no cartão.
+Sem luz, sem água na torneira, sem celular,
+sem internet e sem dinheiro no cartão.
 
 5
 00:00:15,352 --> 00:00:17,069
@@ -20,7 +22,8 @@ Esta é uma simulação.
 
 6
 00:00:17,388 --> 00:00:21,971
-Um cenário hipotético, contado através da história de uma pessoa comum.
+Um cenário hipotético, contado através
+da história de uma pessoa comum.
 
 7
 00:00:29,620 --> 00:00:32,521
@@ -28,7 +31,8 @@ Lucas acordou com um silêncio estranho.
 
 8
 00:00:32,841 --> 00:00:37,844
-A geladeira, que sempre fazia aquele zumbido baixo, estava completamente calada.
+A geladeira, que sempre fazia aquele
+zumbido baixo, estava completamente calada.
 
 9
 00:00:38,164 --> 00:00:39,962
@@ -47,1326 +51,1685 @@ Tentou ligar a televisão.
 Nada.
 
 13
-00:00:46,051 --> 00:00:52,143
-Lucas tem vinte e nove anos e mora sozinho no nono andar de um prédio na zona leste de São Paulo.
+00:00:46,051 --> 00:00:51,232
+Lucas tem vinte e nove anos e mora sozinho
+no nono andar de um prédio na zona leste
 
 14
+00:00:51,232 --> 00:00:52,143
+de São Paulo.
+
+15
 00:00:52,463 --> 00:00:54,693
 Resolve quase tudo pelo celular.
 
-15
-00:00:55,012 --> 00:01:00,576
-Não tem gerador, não tem energia solar, e conhece apenas dois vizinhos pelo nome.
-
 16
+00:00:55,012 --> 00:01:00,576
+Não tem gerador, não tem energia solar,
+e conhece apenas dois vizinhos pelo nome.
+
+17
 00:01:01,426 --> 00:01:03,222
 Ele foi até a janela.
 
-17
+18
 00:01:03,542 --> 00:01:05,652
 O prédio inteiro estava apagado.
 
-18
-00:01:05,972 --> 00:01:13,069
-Lá embaixo, os semáforos estavam desligados, e os carros se espremiam nos cruzamentos sem saber quem devia passar.
-
 19
+00:01:05,972 --> 00:01:08,697
+Lá embaixo, os semáforos
+estavam desligados,
+
+20
+00:01:08,697 --> 00:01:13,069
+e os carros se espremiam nos
+cruzamentos sem saber quem devia passar.
+
+21
 00:01:13,390 --> 00:01:14,844
 O metrô tinha parado.
 
-20
+22
 00:01:15,165 --> 00:01:16,807
 Os trens também.
 
-21
-00:01:17,128 --> 00:01:20,036
-E os ônibus estavam presos no meio do trânsito.
-
-22
-00:01:20,356 --> 00:01:26,469
-Naquela manhã, uma falha gigantesca derrubou o sistema que conecta as usinas do país.
-
 23
-00:01:26,790 --> 00:01:30,072
-Grande parte do Brasil ficou sem energia elétrica.
+00:01:17,128 --> 00:01:20,036
+E os ônibus estavam presos
+no meio do trânsito.
 
 24
-00:01:30,923 --> 00:01:34,421
-Lucas tentou ligar para a mãe, que mora no interior.
+00:01:20,356 --> 00:01:25,797
+Naquela manhã, uma falha gigantesca
+derrubou o sistema que conecta as usinas
 
 25
+00:01:25,797 --> 00:01:26,469
+do país.
+
+26
+00:01:26,790 --> 00:01:30,072
+Grande parte do Brasil
+ficou sem energia elétrica.
+
+27
+00:01:30,923 --> 00:01:34,421
+Lucas tentou ligar para a
+mãe, que mora no interior.
+
+28
 00:01:34,742 --> 00:01:37,144
 A ligação chamou uma vez e caiu.
 
-26
+29
 00:01:37,465 --> 00:01:39,028
 Ele tentou de novo.
 
-27
+30
 00:01:39,349 --> 00:01:40,866
 Caiu outra vez.
 
-28
+31
 00:01:41,186 --> 00:01:42,853
 Então decidiu descer.
 
-29
-00:01:43,174 --> 00:01:49,605
-Sem elevador, foram nove andares pela escada, no escuro, com a lanterna do celular iluminando cada degrau.
+32
+00:01:43,174 --> 00:01:45,887
+Sem elevador, foram nove
+andares pela escada,
 
-30
+33
+00:01:45,887 --> 00:01:49,605
+no escuro, com a lanterna do
+celular iluminando cada degrau.
+
+34
 00:01:50,456 --> 00:01:53,293
 Na rua, a cidade parecia outra.
 
-31
+35
 00:01:53,614 --> 00:01:58,820
-A padaria da esquina estava aberta, mas a máquina de cartão não funcionava.
+A padaria da esquina estava aberta,
+mas a máquina de cartão não funcionava.
 
-32
+36
 00:01:59,141 --> 00:02:01,632
 Só aceitavam dinheiro.
 
-33
+37
 00:02:01,953 --> 00:02:05,988
-No posto de gasolina, as bombas estavam paradas.
+No posto de gasolina,
+as bombas estavam paradas.
 
-34
+38
 00:02:06,308 --> 00:02:10,138
-Sem energia, ninguém conseguia tirar combustível dos tanques.
+Sem energia, ninguém conseguia
+tirar combustível dos tanques.
 
-35
+39
 00:02:10,457 --> 00:02:13,905
-Lucas voltou para casa e fez algo que nunca tinha feito.
+Lucas voltou para casa e fez
+algo que nunca tinha feito.
 
-36
+40
 00:02:14,224 --> 00:02:15,311
 Um inventário.
 
-37
+41
 00:02:15,631 --> 00:02:17,161
 Seis litros de água.
 
-38
+42
 00:02:17,480 --> 00:02:19,241
 Comida para uns quatro dias.
 
-39
+43
 00:02:19,562 --> 00:02:24,782
-Oito pilhas, uma lanterna, alguns remédios e oitenta e cinco reais em dinheiro.
+Oito pilhas, uma lanterna, alguns remédios
+e oitenta e cinco reais em dinheiro.
 
-40
-00:02:25,633 --> 00:02:32,313
-À noite, sem nenhuma luz acesa na cidade, Lucas viu uma coisa que nunca tinha visto em São Paulo.
+44
+00:02:25,633 --> 00:02:28,443
+À noite, sem nenhuma luz acesa na cidade,
 
-41
+45
+00:02:28,443 --> 00:02:32,313
+Lucas viu uma coisa que nunca
+tinha visto em São Paulo.
+
+46
 00:02:32,633 --> 00:02:34,727
 O céu cheio de estrelas.
 
-42
+47
 00:02:35,046 --> 00:02:38,495
-Ele ficou um tempo olhando pela janela, tranquilo.
+Ele ficou um tempo olhando
+pela janela, tranquilo.
 
-43
+48
 00:02:38,816 --> 00:02:41,495
 Amanhã a energia volta, pensou.
 
-44
+49
 00:02:41,814 --> 00:02:45,146
 Essa certeza foi o seu primeiro erro.
 
-45
+50
 00:02:49,197 --> 00:02:52,923
-Na manhã do segundo dia, Lucas abriu a torneira da cozinha.
+Na manhã do segundo dia, Lucas
+abriu a torneira da cozinha.
 
-46
+51
 00:02:53,242 --> 00:02:54,935
 A água saiu fraca.
 
-47
+52
 00:02:55,254 --> 00:02:56,942
 Depois virou um fio.
 
-48
+53
 00:02:57,262 --> 00:02:58,347
 Depois parou.
 
-49
+54
 00:02:58,667 --> 00:03:01,115
-Ele foi até o banheiro e tentou o chuveiro.
+Ele foi até o banheiro
+e tentou o chuveiro.
 
-50
+55
 00:03:01,436 --> 00:03:02,240
 Nada.
 
-51
+56
 00:03:02,561 --> 00:03:06,727
-Foi aí que ele entendeu uma coisa que nunca tinha passado pela cabeça dele.
+Foi aí que ele entendeu uma coisa que
+nunca tinha passado pela cabeça dele.
 
-52
+57
 00:03:07,578 --> 00:03:10,225
 A água não sobe sozinha até o nono andar.
 
-53
+58
 00:03:10,545 --> 00:03:17,778
-Uma bomba elétrica empurra a água da rua até a caixa d'água no topo do prédio.
+Uma bomba elétrica empurra a água da rua
+até a caixa d'água no topo do prédio.
 
-54
+59
 00:03:18,098 --> 00:03:20,276
 Sem energia, a bomba parou.
 
-55
-00:03:20,597 --> 00:03:26,275
-E o pouco que restava na caixa foi consumido nas primeiras horas pelos cinquenta apartamentos do prédio.
+60
+00:03:20,597 --> 00:03:24,930
+E o pouco que restava na caixa foi consumido
+nas primeiras horas pelos cinquenta
 
-56
+61
+00:03:24,930 --> 00:03:26,275
+apartamentos do prédio.
+
+62
 00:03:26,596 --> 00:03:28,829
 Lucas olhou para as garrafas na pia.
 
-57
+63
 00:03:29,149 --> 00:03:30,513
 Seis litros.
 
-58
+64
 00:03:30,834 --> 00:03:33,354
 Era tudo o que ele tinha.
 
-59
+65
 00:03:34,205 --> 00:03:37,908
-No fim da manhã, Seu Jorge, o síndico, bateu de porta em porta.
+No fim da manhã, Seu Jorge,
+o síndico, bateu de porta em porta.
 
-60
+66
 00:03:38,229 --> 00:03:41,450
-Um caminhão-pipa da prefeitura tinha chegado na avenida.
+Um caminhão-pipa da prefeitura
+tinha chegado na avenida.
 
-61
-00:03:41,770 --> 00:03:49,242
-Quando Lucas desceu, a fila já tinha mais de duzentas pessoas, com baldes, galões e garrafas de todos os tamanhos.
+67
+00:03:41,770 --> 00:03:45,815
+Quando Lucas desceu, a fila já
+tinha mais de duzentas pessoas,
 
-62
+68
+00:03:45,815 --> 00:03:49,242
+com baldes, galões e garrafas
+de todos os tamanhos.
+
+69
 00:03:49,562 --> 00:03:52,979
-Cada pessoa podia retirar até vinte litros.
+Cada pessoa podia
+retirar até vinte litros.
 
-63
-00:03:53,300 --> 00:03:58,544
-O motorista avisou que o caminhão voltaria a cada dois ou três dias, se ainda tivesse diesel.
+70
+00:03:53,300 --> 00:03:57,102
+O motorista avisou que o caminhão
+voltaria a cada dois ou três dias,
 
-64
+71
+00:03:57,102 --> 00:03:58,544
+se ainda tivesse diesel.
+
+72
 00:03:59,395 --> 00:04:03,162
 Vinte litros de água pesam vinte quilos.
 
-65
+73
 00:04:03,481 --> 00:04:06,801
-Lucas subiu os nove andares com um balde em cada mão.
+Lucas subiu os nove andares
+com um balde em cada mão.
 
-66
+74
 00:04:07,122 --> 00:04:10,948
-No terceiro andar, os braços começaram a tremer.
+No terceiro andar,
+os braços começaram a tremer.
 
-67
+75
 00:04:11,269 --> 00:04:15,425
-No sexto, ele precisou parar e sentar no degrau para respirar.
+No sexto, ele precisou parar e
+sentar no degrau para respirar.
 
-68
+76
 00:04:15,746 --> 00:04:19,319
-Quando chegou no nono, a camiseta estava encharcada de suor.
+Quando chegou no nono, a camiseta
+estava encharcada de suor.
 
-69
+77
 00:04:20,168 --> 00:04:23,208
-Naquela noite, ele dividiu a água em três partes.
+Naquela noite, ele dividiu
+a água em três partes.
 
-70
+78
 00:04:23,528 --> 00:04:24,919
 Uma para beber.
 
-71
+79
 00:04:25,238 --> 00:04:26,563
 Uma para cozinhar.
 
-72
+80
 00:04:26,882 --> 00:04:29,728
 E uma pequena parte para se lavar.
 
-73
+81
 00:04:30,048 --> 00:04:32,897
 Cada gota agora tinha um destino.
 
-74
-00:04:33,216 --> 00:04:39,048
-E Lucas começou a perceber que o problema era muito maior do que uma simples falta de luz.
+82
+00:04:33,216 --> 00:04:38,497
+E Lucas começou a perceber que o problema
+era muito maior do que uma simples falta
 
-75
+83
+00:04:38,497 --> 00:04:39,048
+de luz.
+
+84
 00:04:43,098 --> 00:04:46,778
-No terceiro dia, Lucas tentou mandar uma mensagem para a mãe.
+No terceiro dia, Lucas tentou
+mandar uma mensagem para a mãe.
 
-76
+85
 00:04:47,098 --> 00:04:49,571
 Digitou devagar, escolhendo as palavras.
 
-77
+86
 00:04:49,891 --> 00:04:50,733
 Estou bem.
 
-78
+87
 00:04:51,052 --> 00:04:52,906
 Me liga quando puder.
 
-79
+88
 00:04:53,225 --> 00:04:56,205
-Antes que ele conseguisse enviar, a tela apagou.
+Antes que ele conseguisse
+enviar, a tela apagou.
 
-80
+89
 00:04:56,524 --> 00:04:59,090
 A bateria tinha acabado.
 
-81
-00:04:59,939 --> 00:05:05,667
-As torres de celular também tinham baterias de reserva, mas elas duraram apenas algumas horas.
+90
+00:04:59,939 --> 00:05:03,267
+As torres de celular também
+tinham baterias de reserva,
 
-82
+91
+00:05:03,267 --> 00:05:05,667
+mas elas duraram apenas algumas horas.
+
+92
 00:05:05,987 --> 00:05:10,475
-Agora não havia internet, não havia televisão e não havia telefone.
+Agora não havia internet, não havia
+televisão e não havia telefone.
 
-83
+93
 00:05:10,795 --> 00:05:16,341
-Pela primeira vez na vida, Lucas estava completamente desconectado do mundo.
+Pela primeira vez na vida, Lucas estava
+completamente desconectado do mundo.
 
-84
+94
 00:05:16,661 --> 00:05:20,615
-Então ele lembrou de uma coisa guardada no fundo do armário.
+Então ele lembrou de uma coisa
+guardada no fundo do armário.
 
-85
+95
 00:05:20,935 --> 00:05:23,500
 Um rádio a pilha que tinha ganhado do avô.
 
-86
+96
 00:05:24,350 --> 00:05:27,703
-Ele colocou duas pilhas e girou o botão devagar.
+Ele colocou duas pilhas
+e girou o botão devagar.
 
-87
+97
 00:05:28,023 --> 00:05:29,057
 Chiado.
 
-88
+98
 00:05:29,377 --> 00:05:30,571
 Mais chiado.
 
-89
+99
 00:05:30,891 --> 00:05:32,591
 Até que uma voz apareceu.
 
-90
+100
 00:05:32,911 --> 00:05:36,627
-Era uma emissora de São Paulo que continuava no ar com um gerador.
+Era uma emissora de São Paulo que
+continuava no ar com um gerador.
 
-91
-00:05:36,947 --> 00:05:42,054
-O locutor explicou que uma falha em uma linha de transmissão tinha se espalhado em cascata.
+101
+00:05:36,947 --> 00:05:41,342
+O locutor explicou que uma falha em uma
+linha de transmissão tinha se espalhado
 
-92
+102
+00:05:41,342 --> 00:05:42,054
+em cascata.
+
+103
 00:05:42,374 --> 00:05:45,015
 Usinas se desligaram para se proteger.
 
-93
+104
 00:05:45,334 --> 00:05:48,225
 Vários equipamentos foram danificados.
 
-94
+105
 00:05:48,545 --> 00:05:51,251
-E a previsão para o conserto era de semanas.
+E a previsão para o
+conserto era de semanas.
 
-95
+106
 00:05:52,100 --> 00:05:56,288
-Na escada, Lucas encontrou Paula, a vizinha do oitavo andar.
+Na escada, Lucas encontrou Paula,
+a vizinha do oitavo andar.
 
-96
+107
 00:05:56,608 --> 00:05:57,941
 Ela é enfermeira.
 
-97
-00:05:58,261 --> 00:06:05,451
-Contou que o hospital onde trabalha continuava funcionando com gerador, mas que as entregas de diesel estavam atrasando.
+108
+00:05:58,261 --> 00:06:02,491
+Contou que o hospital onde trabalha
+continuava funcionando com gerador,
 
-98
+109
+00:06:02,491 --> 00:06:05,451
+mas que as entregas de
+diesel estavam atrasando.
+
+110
 00:06:05,771 --> 00:06:08,799
-Antes de se despedir, Paula fez uma pergunta.
+Antes de se despedir,
+Paula fez uma pergunta.
 
-99
+111
 00:06:09,119 --> 00:06:10,901
 Alguém viu a Dona Cida?
 
-100
+112
 00:06:11,221 --> 00:06:13,986
 Ela é sua vizinha de andar, não é?
 
-101
+113
 00:06:14,836 --> 00:06:17,566
 Lucas subiu e bateu na porta de Dona Cida.
 
-102
+114
 00:06:17,886 --> 00:06:18,814
 Esperou.
 
-103
+115
 00:06:19,134 --> 00:06:20,653
 Bateu de novo.
 
-104
+116
 00:06:20,973 --> 00:06:22,983
 Ninguém respondeu.
 
-105
+117
 00:06:23,302 --> 00:06:26,758
-Ela deve ter ido para a casa de algum parente, ele pensou.
+Ela deve ter ido para a casa
+de algum parente, ele pensou.
 
-106
+118
 00:06:27,077 --> 00:06:28,768
 E voltou para o apartamento.
 
-107
+119
 00:06:29,088 --> 00:06:30,830
 Era uma conclusão simples.
 
-108
+120
 00:06:31,149 --> 00:06:35,830
-E era exatamente a conclusão que ia pesar na consciência dele dias depois.
+E era exatamente a conclusão que ia
+pesar na consciência dele dias depois.
 
-109
+121
 00:06:39,879 --> 00:06:43,571
-No quinto dia, um cheiro forte tomou conta da cozinha.
+No quinto dia, um cheiro
+forte tomou conta da cozinha.
 
-110
+122
 00:06:43,891 --> 00:06:47,759
-Lucas abriu a geladeira e precisou dar um passo para trás.
+Lucas abriu a geladeira e
+precisou dar um passo para trás.
 
-111
+123
 00:06:48,079 --> 00:06:49,961
 A carne estava estragada.
 
-112
+124
 00:06:50,281 --> 00:06:52,046
 O leite tinha azedado.
 
-113
+125
 00:06:52,365 --> 00:06:55,757
-O que estava no congelador tinha derretido e apodrecido.
+O que estava no congelador
+tinha derretido e apodrecido.
 
-114
+126
 00:06:56,076 --> 00:06:59,736
-Comida que poderia alimentar ele por dias foi direto para o lixo.
+Comida que poderia alimentar ele
+por dias foi direto para o lixo.
 
-115
+127
 00:07:00,586 --> 00:07:03,549
 Ele sabia que tinha errado.
 
-116
+128
 00:07:03,869 --> 00:07:08,304
-No segundo dia, ainda dava tempo de cozinhar a carne e aproveitar tudo.
+No segundo dia, ainda dava tempo de
+cozinhar a carne e aproveitar tudo.
 
-117
+129
 00:07:08,624 --> 00:07:11,921
-Mas ele acreditou que a energia voltaria a qualquer momento.
+Mas ele acreditou que a energia
+voltaria a qualquer momento.
 
-118
+130
 00:07:12,240 --> 00:07:15,941
-Agora sobravam só os alimentos que não precisam de geladeira.
+Agora sobravam só os alimentos
+que não precisam de geladeira.
 
-119
+131
 00:07:16,261 --> 00:07:20,599
-Arroz, feijão, macarrão e algumas latas de comida.
+Arroz, feijão, macarrão e
+algumas latas de comida.
 
-120
+132
 00:07:21,449 --> 00:07:26,056
-O fogão ainda funcionava com o gás do botijão, mas o acendedor era elétrico.
+O fogão ainda funcionava com o gás do
+botijão, mas o acendedor era elétrico.
 
-121
+133
 00:07:26,375 --> 00:07:29,998
-Lucas encontrou uma caixa de fósforos no fundo de uma gaveta.
+Lucas encontrou uma caixa de
+fósforos no fundo de uma gaveta.
 
-122
+134
 00:07:30,317 --> 00:07:33,198
-Riscou o primeiro, e a chama azul apareceu.
+Riscou o primeiro,
+e a chama azul apareceu.
 
-123
+135
 00:07:33,517 --> 00:07:36,081
 Era pouco, mas era alguma coisa.
 
-124
+136
 00:07:36,401 --> 00:07:38,808
 Pelo menos ele ainda conseguia cozinhar.
 
-125
+137
 00:07:39,658 --> 00:07:42,129
 Então ele foi até o mercado do bairro.
 
-126
+138
 00:07:42,449 --> 00:07:44,316
 A entrada estava controlada.
 
-127
+139
 00:07:44,636 --> 00:07:46,402
 Cinco pessoas por vez.
 
-128
+140
 00:07:46,721 --> 00:07:48,689
 Somente dinheiro.
 
-129
+141
 00:07:49,009 --> 00:07:51,787
 No máximo dois pacotes de cada produto.
 
-130
+142
 00:07:52,107 --> 00:07:55,876
-Lá dentro, as prateleiras estavam quase vazias.
+Lá dentro, as prateleiras
+estavam quase vazias.
 
-131
+143
 00:07:56,196 --> 00:07:58,732
 O arroz estava custando o dobro do preço.
 
-132
+144
 00:07:59,052 --> 00:08:03,423
-Lucas comprou arroz, feijão, sardinha e um pacote de velas.
+Lucas comprou arroz, feijão,
+sardinha e um pacote de velas.
 
-133
+145
 00:08:03,742 --> 00:08:06,248
 Quando saiu, tinha onze reais no bolso.
 
-134
+146
 00:08:07,098 --> 00:08:10,134
-Na volta, ele passou em frente à agência do banco.
+Na volta, ele passou em
+frente à agência do banco.
 
-135
+147
 00:08:10,454 --> 00:08:11,650
 Estava fechada.
 
-136
+148
 00:08:11,970 --> 00:08:16,795
-Todo o dinheiro que ele tinha estava na conta, no aplicativo, no cartão.
+Todo o dinheiro que ele tinha estava
+na conta, no aplicativo, no cartão.
 
-137
+149
 00:08:17,115 --> 00:08:19,542
 E nada disso funcionava sem energia.
 
-138
-00:08:19,862 --> 00:08:24,824
-Pela primeira vez, Lucas entendeu que dinheiro digital também depende de eletricidade.
+150
+00:08:19,862 --> 00:08:23,808
+Pela primeira vez, Lucas entendeu
+que dinheiro digital também depende
 
-139
-00:08:28,872 --> 00:08:35,016
-No sétimo dia, Lucas voltava do caminhão-pipa com os baldes quando ouviu um som fraco no corredor.
+151
+00:08:23,808 --> 00:08:24,824
+de eletricidade.
 
-140
+152
+00:08:28,872 --> 00:08:33,794
+No sétimo dia, Lucas voltava do caminhão-pipa
+com os baldes quando ouviu um som
+
+153
+00:08:33,794 --> 00:08:35,016
+fraco no corredor.
+
+154
 00:08:35,336 --> 00:08:36,411
 Uma batida.
 
-141
+155
 00:08:36,730 --> 00:08:37,877
 Depois outra.
 
-142
+156
 00:08:38,197 --> 00:08:40,305
 Vinha do apartamento de Dona Cida.
 
-143
+157
 00:08:40,625 --> 00:08:46,202
-Ele encostou o ouvido na porta e escutou uma voz baixinha pedindo socorro.
+Ele encostou o ouvido na porta e escutou
+uma voz baixinha pedindo socorro.
 
-144
+158
 00:08:47,052 --> 00:08:49,463
 Dona Cida tem setenta e quatro anos.
 
-145
+159
 00:08:49,783 --> 00:08:52,316
 É diabética e usa insulina.
 
-146
+160
 00:08:52,635 --> 00:08:56,901
-Por causa dos joelhos, não conseguia descer nove andares de escada.
+Por causa dos joelhos, não conseguia
+descer nove andares de escada.
 
-147
+161
 00:08:57,221 --> 00:09:00,546
-Estava sozinha desde o apagão, e quase sem água.
+Estava sozinha desde o
+apagão, e quase sem água.
 
-148
-00:09:00,865 --> 00:09:06,461
-A insulina pode ficar fora da geladeira por algumas semanas, desde que não esquente demais.
+162
+00:09:00,865 --> 00:09:04,529
+A insulina pode ficar fora da
+geladeira por algumas semanas,
 
-149
-00:09:06,780 --> 00:09:14,200
-Mas as doses estavam acabando, a farmácia estava fechada, e ela não conseguia se alimentar nem beber água direito.
+163
+00:09:04,529 --> 00:09:06,461
+desde que não esquente demais.
 
-150
+164
+00:09:06,780 --> 00:09:10,472
+Mas as doses estavam acabando,
+a farmácia estava fechada,
+
+165
+00:09:10,472 --> 00:09:14,200
+e ela não conseguia se alimentar
+nem beber água direito.
+
+166
 00:09:15,049 --> 00:09:17,509
 Lucas desceu correndo e chamou Paula.
 
-151
+167
 00:09:17,830 --> 00:09:22,154
-A enfermeira avaliou Dona Cida e foi direta.
+A enfermeira avaliou
+Dona Cida e foi direta.
 
-152
-00:09:22,475 --> 00:09:29,509
-Ela precisava ir para uma unidade de saúde que estava funcionando com gerador e tinha remédios refrigerados.
+168
+00:09:22,475 --> 00:09:27,594
+Ela precisava ir para uma unidade de
+saúde que estava funcionando com gerador e
 
-153
+169
+00:09:27,594 --> 00:09:29,509
+tinha remédios refrigerados.
+
+170
 00:09:29,828 --> 00:09:32,211
 O problema era descer nove andares.
 
-154
+171
 00:09:32,530 --> 00:09:35,968
-Eles usaram uma cadeira de madeira firme, com braços.
+Eles usaram uma cadeira de
+madeira firme, com braços.
 
-155
+172
 00:09:36,288 --> 00:09:41,095
-Quatro pessoas seguraram, uma em cada canto, e Paula orientou cada movimento.
+Quatro pessoas seguraram, uma em cada
+canto, e Paula orientou cada movimento.
 
-156
+173
 00:09:41,945 --> 00:09:44,024
 A cada andar, eles paravam.
 
-157
+174
 00:09:44,344 --> 00:09:45,637
 Descansavam.
 
-158
+175
 00:09:45,956 --> 00:09:50,091
 Paula verificava como Dona Cida estava.
 
-159
+176
 00:09:50,412 --> 00:09:51,609
 E seguiam.
 
-160
+177
 00:09:51,928 --> 00:09:54,010
 A descida levou quase uma hora.
 
-161
+178
 00:09:54,331 --> 00:09:57,678
-Na unidade de saúde, ela recebeu atendimento e soro.
+Na unidade de saúde, ela
+recebeu atendimento e soro.
 
-162
+179
 00:09:57,999 --> 00:10:00,428
 Mas não podia voltar para o nono andar.
 
-163
-00:10:00,749 --> 00:10:07,945
-Então Seu Jorge abriu o salão de festas, no térreo, para que ela ficasse ali, perto da rua e longe das escadas.
+180
+00:10:00,749 --> 00:10:03,329
+Então Seu Jorge abriu o salão de festas,
 
-164
+181
+00:10:03,329 --> 00:10:07,945
+no térreo, para que ela ficasse ali,
+perto da rua e longe das escadas.
+
+182
 00:10:08,794 --> 00:10:11,677
 Naquela noite, Lucas não conseguiu dormir.
 
-165
+183
 00:10:11,996 --> 00:10:16,407
-Ele tinha batido naquela porta quatro dias antes e ido embora.
+Ele tinha batido naquela porta
+quatro dias antes e ido embora.
 
-166
-00:10:16,726 --> 00:10:22,418
-No dia seguinte, ele pegou uma caneta e escreveu uma lista na parede do hall de entrada.
+184
+00:10:16,726 --> 00:10:21,611
+No dia seguinte, ele pegou uma caneta
+e escreveu uma lista na parede do hall
 
-167
+185
+00:10:21,611 --> 00:10:22,418
+de entrada.
+
+186
 00:10:22,739 --> 00:10:26,120
-Quem precisa de ajuda, coloque o nome aqui.
+Quem precisa de ajuda,
+coloque o nome aqui.
 
-168
+187
 00:10:26,440 --> 00:10:30,004
-Na manhã seguinte, a lista tinha onze nomes.
+Na manhã seguinte,
+a lista tinha onze nomes.
 
-169
+188
 00:10:34,054 --> 00:10:39,091
-No décimo dia, os termômetros de São Paulo chegaram a trinta e quatro graus.
+No décimo dia, os termômetros de São
+Paulo chegaram a trinta e quatro graus.
 
-170
+189
 00:10:39,412 --> 00:10:41,427
 Os apartamentos viraram estufas.
 
-171
+190
 00:10:41,746 --> 00:10:47,388
-Sem ventilador, sem ar-condicionado e sem água gelada, o calor ficou insuportável.
+Sem ventilador, sem ar-condicionado e sem
+água gelada, o calor ficou insuportável.
 
-172
+191
 00:10:47,707 --> 00:10:52,100
-Lucas passava as tardes no chão da sala, onde o piso era um pouco mais frio.
+Lucas passava as tardes no chão da sala,
+onde o piso era um pouco mais frio.
 
-173
-00:10:52,951 --> 00:10:58,127
-Os caminhões de lixo também precisam de combustível, e o combustível tinha parado de chegar.
+192
+00:10:52,951 --> 00:10:55,851
+Os caminhões de lixo também
+precisam de combustível,
 
-174
+193
+00:10:55,851 --> 00:10:58,127
+e o combustível tinha parado de chegar.
+
+194
 00:10:58,447 --> 00:11:00,062
 A coleta deixou de passar.
 
-175
+195
 00:11:00,381 --> 00:11:06,225
-Na calçada do prédio, os sacos de lixo foram se acumulando, um em cima do outro.
+Na calçada do prédio, os sacos de lixo
+foram se acumulando, um em cima do outro.
 
-176
+196
 00:11:06,546 --> 00:11:09,157
 Com o calor, o cheiro piorou a cada dia.
 
-177
+197
 00:11:09,476 --> 00:11:13,038
 E logo apareceram os ratos e as baratas.
 
-178
+198
 00:11:13,889 --> 00:11:17,656
-Paula avisou que os casos de diarreia estavam aumentando no bairro.
+Paula avisou que os casos de diarreia
+estavam aumentando no bairro.
 
-179
+199
 00:11:17,975 --> 00:11:23,077
-Água contaminada e falta de higiene são um perigo real em situações assim.
+Água contaminada e falta de higiene
+são um perigo real em situações assim.
 
-180
+200
 00:11:23,398 --> 00:11:27,005
-Seu Jorge convocou uma reunião na garagem, à luz de velas.
+Seu Jorge convocou uma reunião
+na garagem, à luz de velas.
 
-181
+201
 00:11:27,326 --> 00:11:31,754
-Os moradores sentaram em cadeiras de plástico, em silêncio, para ouvir as regras.
+Os moradores sentaram em cadeiras de plástico,
+em silêncio, para ouvir as regras.
 
-182
+202
 00:11:32,605 --> 00:11:37,988
-A água para beber deveria ser fervida e guardada em recipientes fechados.
+A água para beber deveria ser fervida
+e guardada em recipientes fechados.
 
-183
+203
 00:11:38,307 --> 00:11:41,949
-O lixo orgânico seria separado e tratado longe da água.
+O lixo orgânico seria separado
+e tratado longe da água.
 
-184
-00:11:42,269 --> 00:11:50,489
-E Lucas ficou responsável por organizar um banheiro improvisado e um ponto de higiene na garagem, com baldes, sabão e uma escala de limpeza.
+204
+00:11:42,269 --> 00:11:46,767
+E Lucas ficou responsável por organizar
+um banheiro improvisado e um ponto de
 
-185
+205
+00:11:46,767 --> 00:11:50,489
+higiene na garagem, com baldes,
+sabão e uma escala de limpeza.
+
+206
 00:11:51,339 --> 00:11:55,206
-Naquela noite, o rádio trouxe mais uma notícia ruim.
+Naquela noite, o rádio
+trouxe mais uma notícia ruim.
 
-186
-00:11:55,525 --> 00:12:00,503
-Os caminhões que abastecem os mercados estavam parados nas estradas, sem combustível.
+207
+00:11:55,525 --> 00:11:59,474
+Os caminhões que abastecem os
+mercados estavam parados nas estradas,
 
-187
+208
+00:11:59,474 --> 00:12:00,503
+sem combustível.
+
+209
 00:12:00,822 --> 00:12:05,867
-Lucas desligou o rádio e olhou para o armário da cozinha.
+Lucas desligou o rádio e olhou
+para o armário da cozinha.
 
-188
+210
 00:12:06,187 --> 00:12:10,213
-A comida que ainda existia na cidade estava dentro das casas.
+A comida que ainda existia na
+cidade estava dentro das casas.
 
-189
+211
 00:12:10,533 --> 00:12:12,451
 E não ia durar para sempre.
 
-190
+212
 00:12:16,500 --> 00:12:20,141
-No décimo terceiro dia, o mercado do bairro não abriu.
+No décimo terceiro dia,
+o mercado do bairro não abriu.
 
-191
+213
 00:12:20,461 --> 00:12:24,138
-Pela grade, dava para ver as prateleiras completamente vazias.
+Pela grade, dava para ver as
+prateleiras completamente vazias.
 
-192
+214
 00:12:24,457 --> 00:12:28,768
-São Paulo depende de caminhões que chegam todos os dias de outros estados.
+São Paulo depende de caminhões que
+chegam todos os dias de outros estados.
 
-193
+215
 00:12:29,087 --> 00:12:32,644
 Sem combustível, as entregas pararam.
 
-194
+216
 00:12:32,966 --> 00:12:37,330
-E uma cidade de milhões de pessoas começou a ficar sem comida.
+E uma cidade de milhões de pessoas
+começou a ficar sem comida.
 
-195
+217
 00:12:38,179 --> 00:12:40,045
 O combustível existia.
 
-196
+218
 00:12:40,365 --> 00:12:43,002
-Estava guardado em tanques embaixo dos postos.
+Estava guardado em tanques
+embaixo dos postos.
 
-197
+219
 00:12:43,322 --> 00:12:46,716
-Mas as bombas que puxam esse combustível são elétricas.
+Mas as bombas que puxam esse
+combustível são elétricas.
 
-198
-00:12:47,037 --> 00:12:55,701
-Equipes da Defesa Civil começaram a usar bombas manuais apropriadas, com procedimentos de segurança, para recuperar parte desse combustível.
+220
+00:12:47,037 --> 00:12:51,226
+Equipes da Defesa Civil começaram
+a usar bombas manuais apropriadas,
 
-199
+221
+00:12:51,226 --> 00:12:55,701
+com procedimentos de segurança,
+para recuperar parte desse combustível.
+
+222
 00:12:56,020 --> 00:12:59,908
-Ele foi destinado às ambulâncias e aos geradores dos hospitais.
+Ele foi destinado às ambulâncias
+e aos geradores dos hospitais.
 
-200
+223
 00:13:00,758 --> 00:13:04,792
-O Exército passou a distribuir alimentos em escolas e ginásios.
+O Exército passou a distribuir
+alimentos em escolas e ginásios.
 
-201
+224
 00:13:05,111 --> 00:13:07,816
 As filas davam voltas nos quarteirões.
 
-202
+225
 00:13:08,135 --> 00:13:12,146
-Foi então que Seu Jorge reuniu os moradores e fez uma proposta.
+Foi então que Seu Jorge reuniu
+os moradores e fez uma proposta.
 
-203
-00:13:12,466 --> 00:13:18,855
-Juntar toda a comida do prédio em uma despensa coletiva, e dividir de forma justa entre todos.
+226
+00:13:12,466 --> 00:13:16,253
+Juntar toda a comida do prédio
+em uma despensa coletiva,
 
-204
+227
+00:13:16,253 --> 00:13:18,855
+e dividir de forma justa entre todos.
+
+228
 00:13:19,706 --> 00:13:22,048
 A proposta provocou discussão.
 
-205
+229
 00:13:22,368 --> 00:13:27,505
-Um morador do sétimo andar se levantou e disse que não ia dividir o que era dele.
+Um morador do sétimo andar se levantou e
+disse que não ia dividir o que era dele.
 
-206
+230
 00:13:27,826 --> 00:13:30,004
 Outros concordaram em silêncio.
 
-207
+231
 00:13:30,323 --> 00:13:32,283
 Até que Dona Cida pediu a palavra.
 
-208
-00:13:32,602 --> 00:13:39,060
-Com a voz baixa, ela lembrou que só estava viva porque quatro vizinhos tinham carregado ela por nove andares.
+232
+00:13:32,602 --> 00:13:37,135
+Com a voz baixa, ela lembrou que só
+estava viva porque quatro vizinhos tinham
 
-209
+233
+00:13:37,135 --> 00:13:39,060
+carregado ela por nove andares.
+
+234
 00:13:39,379 --> 00:13:40,961
 Ninguém disse mais nada.
 
-210
+235
 00:13:41,812 --> 00:13:43,724
 A proposta foi aprovada.
 
-211
+236
 00:13:44,043 --> 00:13:48,793
-Lucas subiu, encheu uma sacola e desceu com o que tinha.
+Lucas subiu, encheu uma sacola
+e desceu com o que tinha.
 
-212
+237
 00:13:49,113 --> 00:13:51,252
 Arroz, feijão e sardinhas.
 
-213
+238
 00:13:51,572 --> 00:13:54,101
 Seu Jorge anotou tudo em um caderno.
 
-214
+239
 00:13:54,422 --> 00:13:57,385
-Quando somaram os alimentos, a conta foi clara.
+Quando somaram os alimentos,
+a conta foi clara.
 
-215
+240
 00:13:57,706 --> 00:14:01,387
-A despensa coletiva dava para pouco mais de duas semanas.
+A despensa coletiva dava para
+pouco mais de duas semanas.
 
-216
+241
 00:14:01,706 --> 00:14:03,254
 Se ninguém mais chegasse.
 
-217
+242
 00:14:07,304 --> 00:14:12,026
-No décimo sexto dia, a escuridão da cidade já era completa.
+No décimo sexto dia, a escuridão
+da cidade já era completa.
 
-218
+243
 00:14:12,346 --> 00:14:14,209
 Lucas tinha perdido peso.
 
-219
+244
 00:14:14,528 --> 00:14:18,474
-As calças estavam largas, presas com um cinto apertado.
+As calças estavam largas,
+presas com um cinto apertado.
 
-220
+245
 00:14:18,793 --> 00:14:23,067
-As mãos estavam cheias de bolhas de tanto carregar baldes de água pela escada.
+As mãos estavam cheias de bolhas de tanto
+carregar baldes de água pela escada.
 
-221
+246
 00:14:23,917 --> 00:14:29,043
-Pelo rádio chegavam notícias de lojas arrombadas e brigas em filas de distribuição.
+Pelo rádio chegavam notícias de lojas
+arrombadas e brigas em filas de distribuição.
 
-222
+247
 00:14:29,364 --> 00:14:31,634
 Alguns relatos eram verdadeiros.
 
-223
+248
 00:14:31,955 --> 00:14:37,058
-Outros eram só boatos, que se espalhavam de boca em boca e aumentavam o medo.
+Outros eram só boatos, que se espalhavam
+de boca em boca e aumentavam o medo.
 
-224
+249
 00:14:37,379 --> 00:14:39,899
 Ninguém sabia direito em quem acreditar.
 
-225
+250
 00:14:40,750 --> 00:14:44,509
-O portão eletrônico do prédio não trancava sem energia.
+O portão eletrônico do prédio
+não trancava sem energia.
 
-226
+251
 00:14:44,828 --> 00:14:47,731
-Então os moradores organizaram turnos de vigília.
+Então os moradores
+organizaram turnos de vigília.
 
-227
+252
 00:14:48,052 --> 00:14:50,778
 Duas pessoas por vez, a noite inteira.
 
-228
+253
 00:14:51,097 --> 00:14:55,706
-Lucas ficou com o turno das duas às quatro da manhã, ao lado de Seu Jorge.
+Lucas ficou com o turno das duas às
+quatro da manhã, ao lado de Seu Jorge.
 
-229
+254
 00:14:56,027 --> 00:15:01,120
-Eles sentavam na portaria, com uma lanterna e uma garrafa de café frio.
+Eles sentavam na portaria, com uma
+lanterna e uma garrafa de café frio.
 
-230
+255
 00:15:01,971 --> 00:15:06,735
-Por volta das três horas, uma luz apareceu do lado de fora do portão.
+Por volta das três horas, uma luz
+apareceu do lado de fora do portão.
 
-231
+256
 00:15:07,054 --> 00:15:08,488
 Era uma lanterna.
 
-232
-00:15:08,807 --> 00:15:14,096
-Segurando a lanterna estava uma mulher, com duas crianças pequenas agarradas na roupa dela.
+257
+00:15:08,807 --> 00:15:11,056
+Segurando a lanterna estava uma mulher,
 
-233
+258
+00:15:11,056 --> 00:15:14,096
+com duas crianças pequenas
+agarradas na roupa dela.
+
+259
 00:15:14,416 --> 00:15:17,783
 Elas moravam em um prédio próximo.
 
-234
+260
 00:15:18,104 --> 00:15:22,094
-Os vizinhos tinham ido embora para o interior, e elas ficaram sozinhas.
+Os vizinhos tinham ido embora para
+o interior, e elas ficaram sozinhas.
 
-235
+261
 00:15:22,413 --> 00:15:23,925
 A mãe estava exausta.
 
-236
+262
 00:15:24,245 --> 00:15:26,393
 As crianças estavam assustadas.
 
-237
+263
 00:15:27,243 --> 00:15:28,944
 Lucas olhou para Seu Jorge.
 
-238
+264
 00:15:29,264 --> 00:15:33,572
-A despensa tinha sido calculada para os moradores do prédio.
+A despensa tinha sido calculada
+para os moradores do prédio.
 
-239
+265
 00:15:33,893 --> 00:15:38,950
-Mais três pessoas iam consumir uma comida que já estava acabando.
+Mais três pessoas iam consumir
+uma comida que já estava acabando.
 
-240
+266
 00:15:39,269 --> 00:15:40,868
 Seu Jorge não disse nada.
 
-241
+267
 00:15:41,187 --> 00:15:42,422
 Esperou a decisão.
 
-242
+268
 00:15:42,741 --> 00:15:47,577
-Lucas respirou fundo, levantou da cadeira, e abriu o portão.
+Lucas respirou fundo, levantou
+da cadeira, e abriu o portão.
 
-243
+269
 00:15:51,628 --> 00:15:55,077
-No décimo nono dia, o rádio trouxe uma notícia diferente.
+No décimo nono dia, o rádio
+trouxe uma notícia diferente.
 
-244
-00:15:55,398 --> 00:15:59,979
-Algumas cidades do interior estavam voltando a ter energia por algumas horas por dia.
+270
+00:15:55,398 --> 00:15:59,452
+Algumas cidades do interior estavam
+voltando a ter energia por algumas horas
 
-245
+271
+00:15:59,452 --> 00:15:59,979
+por dia.
+
+272
 00:16:00,298 --> 00:16:03,359
-Uma delas ficava a duzentos quilômetros de São Paulo.
+Uma delas ficava a duzentos
+quilômetros de São Paulo.
 
-246
+273
 00:16:03,678 --> 00:16:06,110
 Era a cidade onde morava a mãe de Lucas.
 
-247
+274
 00:16:06,429 --> 00:16:10,330
-Ele não tinha notícias dela havia dezenove dias.
+Ele não tinha notícias
+dela havia dezenove dias.
 
-248
+275
 00:16:11,179 --> 00:16:13,369
 Um vizinho ofereceu uma bicicleta.
 
-249
+276
 00:16:13,688 --> 00:16:16,195
 A viagem levaria pelo menos três dias.
 
-250
-00:16:16,514 --> 00:16:25,290
-Lucas teria que carregar água, enfrentar o calor, dormir onde fosse possível e lidar com os riscos de uma estrada sem nenhum serviço funcionando.
+277
+00:16:16,514 --> 00:16:21,575
+Lucas teria que carregar água, enfrentar o
+calor, dormir onde fosse possível e lidar
 
-251
+278
+00:16:21,575 --> 00:16:25,290
+com os riscos de uma estrada
+sem nenhum serviço funcionando.
+
+279
 00:16:25,610 --> 00:16:31,119
-Ele passou a tarde inteira olhando para aquela bicicleta encostada na garagem.
+Ele passou a tarde inteira olhando para
+aquela bicicleta encostada na garagem.
 
-252
+280
 00:16:31,969 --> 00:16:34,127
 Mas existia outra questão.
 
-253
+281
 00:16:34,447 --> 00:16:39,798
-Desde a chegada da mãe com as duas crianças, a despensa diminuía mais rápido.
+Desde a chegada da mãe com as duas crianças,
+a despensa diminuía mais rápido.
 
-254
+282
 00:16:40,118 --> 00:16:44,820
-Se Lucas fosse embora, seria uma pessoa a menos para alimentar.
+Se Lucas fosse embora, seria uma
+pessoa a menos para alimentar.
 
-255
-00:16:45,139 --> 00:16:51,784
-Por outro lado, o prédio perderia alguém que carregava água, cuidava da garagem e ajudava a organizar tudo.
+283
+00:16:45,139 --> 00:16:48,844
+Por outro lado, o prédio perderia
+alguém que carregava água,
 
-256
+284
+00:16:48,844 --> 00:16:51,784
+cuidava da garagem e
+ajudava a organizar tudo.
+
+285
 00:16:52,634 --> 00:16:55,168
 Naquela noite, ele tomou a decisão.
 
-257
+286
 00:16:55,488 --> 00:16:56,389
 Ia ficar.
 
-258
+287
 00:16:56,710 --> 00:17:01,735
-Devolveu a bicicleta e sentou à luz de uma vela para escrever uma carta para a mãe.
+Devolveu a bicicleta e sentou à luz de uma
+vela para escrever uma carta para a mãe.
 
-259
-00:17:02,056 --> 00:17:07,884
-Contou que estava bem, que tinha conhecido os vizinhos e que estava ajudando a cuidar do prédio.
+288
+00:17:02,056 --> 00:17:06,759
+Contou que estava bem, que tinha conhecido
+os vizinhos e que estava ajudando a
 
-260
+289
+00:17:06,759 --> 00:17:07,884
+cuidar do prédio.
+
+290
 00:17:08,204 --> 00:17:12,625
-Escreveu que ia encontrar com ela assim que tudo passasse.
+Escreveu que ia encontrar com
+ela assim que tudo passasse.
 
-261
-00:17:13,474 --> 00:17:18,510
-Na manhã seguinte, ele entregou a carta a um ciclista que estava seguindo para o interior.
+291
+00:17:13,474 --> 00:17:17,800
+Na manhã seguinte, ele entregou a carta
+a um ciclista que estava seguindo para
 
-262
+292
+00:17:17,800 --> 00:17:18,510
+o interior.
+
+293
 00:17:18,830 --> 00:17:22,332
-Não havia nenhuma garantia de que ela chegaria.
+Não havia nenhuma garantia
+de que ela chegaria.
 
-263
+294
 00:17:22,653 --> 00:17:27,975
-Depois, Lucas se ofereceu para buscar comida na distribuição do ginásio.
+Depois, Lucas se ofereceu para buscar
+comida na distribuição do ginásio.
 
-264
+295
 00:17:28,296 --> 00:17:32,458
-Se não podia ir até a mãe, ia pelo menos ser útil ali.
+Se não podia ir até a mãe,
+ia pelo menos ser útil ali.
 
-265
+296
 00:17:36,509 --> 00:17:41,331
-No vigésimo terceiro dia, a garagem do prédio já não parecia uma garagem.
+No vigésimo terceiro dia, a garagem
+do prédio já não parecia uma garagem.
 
-266
+297
 00:17:41,652 --> 00:17:47,096
-Tinha virado uma cozinha coletiva, com três fogões ligados nos botijões de gás.
+Tinha virado uma cozinha coletiva, com
+três fogões ligados nos botijões de gás.
 
-267
+298
 00:17:47,415 --> 00:17:53,387
-Os moradores tinham escalas para cozinhar, lavar, buscar água e vigiar o portão.
+Os moradores tinham escalas para cozinhar,
+lavar, buscar água e vigiar o portão.
 
-268
+299
 00:17:53,708 --> 00:17:56,303
 Cada um sabia o seu papel.
 
-269
+300
 00:17:57,153 --> 00:18:00,002
 O dinheiro tinha perdido importância.
 
-270
+301
 00:18:00,323 --> 00:18:04,704
-As pessoas trocavam alimentos, pilhas, remédios e serviços.
+As pessoas trocavam alimentos,
+pilhas, remédios e serviços.
 
-271
+302
 00:18:05,025 --> 00:18:08,155
-E Lucas descobriu uma habilidade que nem sabia que tinha.
+E Lucas descobriu uma habilidade
+que nem sabia que tinha.
 
-272
+303
 00:18:08,476 --> 00:18:11,832
-Ele conseguia consertar torneiras e descargas.
+Ele conseguia consertar
+torneiras e descargas.
 
-273
+304
 00:18:12,153 --> 00:18:15,915
-Em pouco tempo, ele era chamado em todos os andares.
+Em pouco tempo, ele era
+chamado em todos os andares.
 
-274
+305
 00:18:16,766 --> 00:18:22,550
-Então, numa tarde, o céu escureceu e caiu a primeira chuva forte desde o apagão.
+Então, numa tarde, o céu escureceu e caiu
+a primeira chuva forte desde o apagão.
 
-275
+306
 00:18:22,871 --> 00:18:26,949
-Todos correram para a laje com baldes, bacias e lonas.
+Todos correram para a laje
+com baldes, bacias e lonas.
 
-276
+307
 00:18:27,269 --> 00:18:32,440
-Seu Jorge improvisou um sistema de captação com calhas e canos velhos.
+Seu Jorge improvisou um sistema de
+captação com calhas e canos velhos.
 
-277
+308
 00:18:32,760 --> 00:18:34,435
 Paula orientou todo mundo.
 
-278
+309
 00:18:34,756 --> 00:18:39,501
-A água da chuva seria filtrada e fervida antes de ser usada para beber.
+A água da chuva seria filtrada e
+fervida antes de ser usada para beber.
 
-279
-00:18:40,352 --> 00:18:48,050
-No salão de festas, Dona Cida ensinava as pessoas a conservar legumes no sal, como fazia quando era jovem.
+310
+00:18:40,352 --> 00:18:45,924
+No salão de festas, Dona Cida ensinava
+as pessoas a conservar legumes no sal,
 
-280
-00:18:48,371 --> 00:18:55,186
-As duas crianças que chegaram naquela noite agora levavam recados de um andar para o outro, correndo pelas escadas.
+311
+00:18:45,924 --> 00:18:48,050
+como fazia quando era jovem.
 
-281
+312
+00:18:48,371 --> 00:18:53,319
+As duas crianças que chegaram naquela noite
+agora levavam recados de um andar para o
+
+313
+00:18:53,319 --> 00:18:55,186
+outro, correndo pelas escadas.
+
+314
 00:18:55,507 --> 00:18:57,701
 Elas tinham virado o correio do prédio.
 
-282
+315
 00:18:58,550 --> 00:19:04,871
-Lucas, que antes conhecia apenas dois vizinhos pelo nome, agora conhecia todos.
+Lucas, que antes conhecia apenas dois
+vizinhos pelo nome, agora conhecia todos.
 
-283
-00:19:05,192 --> 00:19:10,785
-Sabia quem tinha filhos, quem tinha pressão alta, quem sabia cozinhar e quem precisava de ajuda.
+316
+00:19:05,192 --> 00:19:08,025
+Sabia quem tinha filhos,
+quem tinha pressão alta,
 
-284
+317
+00:19:08,025 --> 00:19:10,785
+quem sabia cozinhar e
+quem precisava de ajuda.
+
+318
 00:19:11,105 --> 00:19:14,727
-A despensa ainda tinha comida para mais ou menos uma semana.
+A despensa ainda tinha comida
+para mais ou menos uma semana.
 
-285
+319
 00:19:15,048 --> 00:19:19,663
-Mas, pela primeira vez, ninguém ali estava sozinho.
+Mas, pela primeira vez,
+ninguém ali estava sozinho.
 
-286
+320
 00:19:23,712 --> 00:19:29,177
-No vigésimo sétimo dia, um morador subiu a escada correndo, sem fôlego.
+No vigésimo sétimo dia, um morador
+subiu a escada correndo, sem fôlego.
 
-287
+321
 00:19:29,498 --> 00:19:32,449
-A energia vai voltar hoje à noite, ele gritou.
+A energia vai voltar
+hoje à noite, ele gritou.
 
-288
+322
 00:19:32,769 --> 00:19:35,998
 Alguns diziam que tinham ouvido no rádio.
 
-289
+323
 00:19:36,318 --> 00:19:39,401
-Outros diziam que um conhecido tinha a informação.
+Outros diziam que um
+conhecido tinha a informação.
 
-290
+324
 00:19:39,721 --> 00:19:43,723
-Em poucos minutos, a notícia tinha chegado em todos os andares.
+Em poucos minutos, a notícia
+tinha chegado em todos os andares.
 
-291
+325
 00:19:44,574 --> 00:19:46,548
 O prédio se encheu de esperança.
 
-292
-00:19:46,867 --> 00:19:53,101
-As pessoas limpavam as geladeiras, separavam os carregadores e colocavam os celulares em cima da mesa.
+326
+00:19:46,867 --> 00:19:51,422
+As pessoas limpavam as geladeiras,
+separavam os carregadores e colocavam os
 
-293
+327
+00:19:51,422 --> 00:19:53,101
+celulares em cima da mesa.
+
+328
 00:19:53,422 --> 00:19:57,321
-As crianças perguntavam a cada minuto se já estava na hora.
+As crianças perguntavam a cada
+minuto se já estava na hora.
 
-294
+329
 00:19:57,642 --> 00:20:01,368
-Até Seu Jorge, sempre tão sério, sorria na portaria.
+Até Seu Jorge, sempre tão
+sério, sorria na portaria.
 
-295
+330
 00:20:02,219 --> 00:20:03,505
 Oito horas.
 
-296
+331
 00:20:03,826 --> 00:20:04,697
 Nada.
 
-297
+332
 00:20:05,018 --> 00:20:06,373
 Nove horas.
 
-298
+333
 00:20:06,693 --> 00:20:07,533
 Nada.
 
-299
+334
 00:20:07,854 --> 00:20:08,872
 Dez horas.
 
-300
+335
 00:20:09,192 --> 00:20:11,413
 As velas começaram a acabar.
 
-301
+336
 00:20:11,732 --> 00:20:12,971
 Meia-noite.
 
-302
+337
 00:20:13,290 --> 00:20:15,227
 A cidade continuava escura.
 
-303
+338
 00:20:15,548 --> 00:20:17,347
 Nenhuma lâmpada acendeu.
 
-304
-00:20:17,667 --> 00:20:24,666
-No dia seguinte, o rádio explicou que a energia tinha voltado apenas para hospitais e estações de tratamento de água.
+339
+00:20:17,667 --> 00:20:22,604
+No dia seguinte, o rádio explicou que a
+energia tinha voltado apenas para hospitais
 
-305
+340
+00:20:22,604 --> 00:20:24,666
+e estações de tratamento de água.
+
+341
 00:20:24,987 --> 00:20:28,224
-Lá embaixo, a torneira do jardim começou a pingar.
+Lá embaixo, a torneira do
+jardim começou a pingar.
 
-306
+342
 00:20:28,545 --> 00:20:30,106
 Era uma pequena vitória.
 
-307
+343
 00:20:30,957 --> 00:20:34,193
 Mas a frustração foi grande demais.
 
-308
+344
 00:20:34,513 --> 00:20:38,848
-Naquela tarde, uma discussão começou por causa da última lata de óleo.
+Naquela tarde, uma discussão começou
+por causa da última lata de óleo.
 
-309
+345
 00:20:39,169 --> 00:20:42,270
 Vozes alteradas, dedos apontados.
 
-310
+346
 00:20:42,590 --> 00:20:46,640
-O morador do sétimo andar decidiu ir embora.
+O morador do sétimo
+andar decidiu ir embora.
 
-311
+347
 00:20:46,961 --> 00:20:51,454
-E levou de volta o que ainda restava do que ele tinha colocado na despensa.
+E levou de volta o que ainda restava
+do que ele tinha colocado na despensa.
 
-312
+348
 00:20:52,305 --> 00:20:55,782
-Naquela noite, Lucas sentou sozinho na portaria e chorou.
+Naquela noite, Lucas sentou
+sozinho na portaria e chorou.
 
-313
+349
 00:20:56,103 --> 00:20:58,477
 De cansaço, de fome, de saudade.
 
-314
-00:20:58,798 --> 00:21:04,995
-Depois de alguns minutos, Dona Cida apareceu devagar, com uma vela na mão, e sentou ao lado dele.
+350
+00:20:58,798 --> 00:21:02,164
+Depois de alguns minutos,
+Dona Cida apareceu devagar,
 
-315
+351
+00:21:02,164 --> 00:21:04,995
+com uma vela na mão,
+e sentou ao lado dele.
+
+352
 00:21:05,316 --> 00:21:08,734
-Ela disse uma coisa que ele nunca mais esqueceu.
+Ela disse uma coisa que
+ele nunca mais esqueceu.
 
-316
+353
 00:21:09,055 --> 00:21:11,279
 O importante não é quando a luz volta.
 
-317
+354
 00:21:11,599 --> 00:21:14,396
-É quem vai estar do nosso lado quando ela voltar.
+É quem vai estar do nosso
+lado quando ela voltar.
 
-318
+355
 00:21:18,446 --> 00:21:22,651
-No trigésimo dia, às sete da noite, Lucas ouviu um estalo.
+No trigésimo dia, às sete da
+noite, Lucas ouviu um estalo.
 
-319
+356
 00:21:22,971 --> 00:21:26,891
 Depois um zumbido baixo, conhecido.
 
-320
+357
 00:21:27,211 --> 00:21:28,586
 Era a geladeira.
 
-321
+358
 00:21:28,906 --> 00:21:32,513
 A lâmpada da cozinha piscou e acendeu.
 
-322
+359
 00:21:32,834 --> 00:21:36,873
-Por um segundo, ele ficou parado, sem acreditar.
+Por um segundo, ele ficou
+parado, sem acreditar.
 
-323
+360
 00:21:37,193 --> 00:21:40,342
-Então o prédio inteiro começou a gritar e a comemorar.
+Então o prédio inteiro começou
+a gritar e a comemorar.
 
-324
+361
 00:21:41,192 --> 00:21:43,673
 Lucas subiu correndo até a laje.
 
-325
+362
 00:21:43,993 --> 00:21:47,589
-Lá de cima, ele viu a cidade acender por partes.
+Lá de cima, ele viu a
+cidade acender por partes.
 
-326
+363
 00:21:47,910 --> 00:21:51,368
-Primeiro um bairro, depois outro, depois mais um.
+Primeiro um bairro,
+depois outro, depois mais um.
 
-327
-00:21:51,689 --> 00:21:58,263
-A energia voltava devagar, região por região, como se São Paulo estivesse acordando de um sono muito longo.
+364
+00:21:51,689 --> 00:21:54,437
+A energia voltava devagar,
+região por região,
 
-328
+365
+00:21:54,437 --> 00:21:58,263
+como se São Paulo estivesse
+acordando de um sono muito longo.
+
+366
 00:21:59,114 --> 00:22:01,273
 No bolso, o celular vibrou.
 
-329
+367
 00:22:01,594 --> 00:22:03,757
 E vibrou de novo.
 
-330
+368
 00:22:04,077 --> 00:22:06,726
 Eram dezenas de mensagens acumuladas.
 
-331
+369
 00:22:07,047 --> 00:22:10,250
 Entre elas, um áudio da mãe.
 
-332
+370
 00:22:10,569 --> 00:22:13,389
 Ela tinha recebido a carta e estava bem.
 
-333
+371
 00:22:13,710 --> 00:22:19,234
-Lucas ouviu o áudio três vezes, sentado na laje, olhando as luzes da cidade.
+Lucas ouviu o áudio três vezes, sentado
+na laje, olhando as luzes da cidade.
 
-334
-00:22:20,085 --> 00:22:26,832
-Nos dias seguintes, os mercados reabriram, os ônibus voltaram a circular e os bancos retomaram os saques.
+372
+00:22:20,085 --> 00:22:22,769
+Nos dias seguintes, os mercados reabriram,
 
-335
+373
+00:22:22,769 --> 00:22:26,832
+os ônibus voltaram a circular e
+os bancos retomaram os saques.
+
+374
 00:22:27,153 --> 00:22:32,036
-No primeiro dia em que o elevador funcionou, Dona Cida voltou para o nono andar.
+No primeiro dia em que o elevador funcionou,
+Dona Cida voltou para o nono andar.
 
-336
+375
 00:22:32,356 --> 00:22:37,177
-Lucas agora guarda água, pilhas, um rádio, velas e comida para duas semanas.
+Lucas agora guarda água, pilhas, um rádio,
+velas e comida para duas semanas.
 
-337
+376
 00:22:37,498 --> 00:22:40,846
-E a lista de moradores continua escrita na parede do hall.
+E a lista de moradores continua
+escrita na parede do hall.
 
-338
-00:22:41,696 --> 00:22:47,592
-Trinta dias sem energia mostraram que uma cidade inteira depende de uma coisa que ninguém vê.
+377
+00:22:41,696 --> 00:22:46,799
+Trinta dias sem energia mostraram que uma
+cidade inteira depende de uma coisa que
 
-339
+378
+00:22:46,799 --> 00:22:47,592
+ninguém vê.
+
+379
 00:22:47,913 --> 00:22:49,415
 Mas fica uma pergunta.
 
-340
+380
 00:22:49,736 --> 00:22:52,951
 E se a internet desaparecesse para sempre?
 
-341
+381
 00:22:53,270 --> 00:22:55,655
 Esse é o próximo episódio do Último Dia.
 
-342
+382
 00:22:55,976 --> 00:23:00,856
-E você, diante de uma situação dessas, ficaria na cidade ou iria embora?
+E você, diante de uma situação dessas,
+ficaria na cidade ou iria embora?
 
-343
+383
 00:23:01,176 --> 00:23:03,815
 Deixe sua resposta nos comentários.
 
