@@ -1,0 +1,212 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Zona Norte do Rio de Janeiro. Quarta-feira. Três dias antes.",
+  "ouvido": "Zona Norte do Rio de Janeiro, quarta-feira, três dias antes.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Este é o Caio. Vinte e seis anos, entregador de aplicativo, e dono de uma certeza absoluta, carioca não sente calor.",
+  "ouvido": "Este é o Caio, 26 anos, entregador de aplicativo e dono de uma certeza absoluta, Carioca não  sente calor.",
+  "semelhanca": 0.9
+ },
+ {
+  "personagem": "caio",
+  "texto": "Dois reais de bônus calor. Caraca. Agora eu fico rico.",
+  "ouvido": "Dois reais de bônus calor, caraca, agora eu fico rico.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "cliente",
+  "texto": "Mermão, isso aqui era açaí?",
+  "ouvido": "Mermão, isso aqui era açaí.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Era. Agora é vitamina.",
+  "ouvido": "Era, agora é vitamina.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "cliente",
+  "texto": "Tá de sacanagem.",
+  "ouvido": "tá de sacanagem.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Avalia com cinco estrelas que o próximo chega sólido.",
+  "ouvido": "Avalia com 5 estrelas que o próximo chega sólido.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Caio, bebeu água?",
+  "ouvido": "Caio, bebeu água?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Bebi, mãe.",
+  "ouvido": "Bebi, mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Mentiroso. Tô ouvindo pela tua voz.",
+  "ouvido": "mentiroso.  Tô ouvindo pela tua voz.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Como é que a senhora ouve água pela voz?",
+  "ouvido": "Como é que a senhora ouve água pela voz?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Vinte anos de enfermagem, meu filho. Bebe. Agora.",
+  "ouvido": "20 anos de enfermagem, meu filho.  Bebe agora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de Janeiro. E simplesmente não foi embora.",
+  "ouvido": "Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de Janeiro, e simplesmente  não foi embora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "No calor seco, o suor evapora e esfria o corpo. No calor úmido, ele escorre. E o corpo quase não consegue se esfriar.",
+  "ouvido": "No calor seco, o suor evapora e esfria o corpo.  No calor úmido, ele escorre, e o corpo quase não consegue se esfriar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Vó, o celular disse que a sensação térmica é de cinquenta e dois graus.",
+  "ouvido": "Vó, o celular disse que a sensação térmica é de 52 graus.",
+  "semelhanca": 0.846
+ },
+ {
+  "personagem": "nena",
+  "texto": "Então desliga o celular que a sensação passa.",
+  "ouvido": "Então desliga o celular, que a sensação passa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Não é assim que funciona, vó.",
+  "ouvido": "Não é assim que funciona, vó?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Em oitenta e quatro fez mais calor que isso. E ninguém tinha celular pra reclamar.",
+  "ouvido": "Em 1984, fez mais calor que isso, e ninguém tinha celular pra reclamar.",
+  "semelhanca": 0.857
+ },
+ {
+  "personagem": "duda",
+  "texto": "E a senhora vai fazer feijão ao meio-dia?",
+  "ouvido": "e a senhora vai fazer feijão ao meio-dia.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Quarta-feira é dia de feijão. Calor nenhum muda isso.",
+  "ouvido": "Quarta-feira é dia de feijão.  Calor nenhum muda isso.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Até a Pipoca desistiu de você, vó.",
+  "ouvido": "Até a pipoca desistiu de você, vó.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "A Pipoca não paga as contas desta casa.",
+  "ouvido": "A pipoca não paga as contas desta casa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Nem a senhora, quem paga é a mãe.",
+  "ouvido": "Nem a senhora quem paga é a mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Vai lavar a louça, Maria Eduarda.",
+  "ouvido": "Vai lavar a louça, Maria Eduarda.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Vó, a insulina nova tá na prateleira do meio, tá? Na porta não pode, a mãe disse que lá a temperatura fica mudando.",
+  "ouvido": "Vó, a insulina nova tá na prateleira do meio, tá?  Na porta não pode, a mãe disse que lá a temperatura fica mudando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Eu esqueço o teu nome, menina. A insulina eu não esqueço.",
+  "ouvido": "Eu esqueço teu nome, menina. A insulina eu não esqueço.",
+  "semelhanca": 0.952
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Dois dias depois, aquela garrafa ainda ia estar cheia.",
+  "ouvido": "Dois dias depois, aquela garrafa ainda ia estar cheia.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Às seis da tarde em ponto, como em todos os dias, o rádio do 302 começou a tocar.",
+  "ouvido": "À 6 da tarde em ponto, como em todos os dias, o rádio do 302 começou a tocar.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "duda",
+  "texto": "Todo dia, seis horas. O Seu Ademar nunca abre a porta. Mas o rádio nunca falha.",
+  "ouvido": "todo dia seis horas. O seu Ademar nunca abre a porta, mas o rádio nunca falha.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Desde que a Dona Lurdes morreu, é assim. Ele só sai pra comprar pão.",
+  "ouvido": "Desde que a dona Lourdes morreu, é assim, ele só sai pra comprar pão.",
+  "semelhanca": 0.929
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que horas são?",
+  "ouvido": "Que horas são?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Dez da noite.",
+  "ouvido": "10 da noite.",
+  "semelhanca": 0.667
+ },
+ {
+  "personagem": "caio",
+  "texto": "E por que ainda tá esse calor aqui dentro?",
+  "ouvido": "e por que ainda está esse calor aqui dentro.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "narrador",
+  "texto": "A laje de concreto passou o dia inteiro guardando calor. À noite, ela devolve tudo. Para dentro de casa.",
+  "ouvido": "A laje de concreto passou o dia inteiro guardando o calor.  À noite, ela devolve tudo para dentro de casa.",
+  "semelhanca": 0.974
+ },
+ {
+  "personagem": "narrador",
+  "texto": "E a previsão para os próximos dias era ainda pior.",
+  "ouvido": "e a previsão para os próximos dias era ainda pior.",
+  "semelhanca": 1.0
+ }
+]

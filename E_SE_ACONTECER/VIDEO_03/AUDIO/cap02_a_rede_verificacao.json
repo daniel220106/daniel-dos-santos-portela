@@ -1,0 +1,188 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "No segundo dia, quarenta e quatro graus. E o bairro inteiro teve a mesma ideia, na mesma hora.",
+  "ouvido": "o segundo dia 44 graus, e o bairro inteiro teve a mesma ideia na mesma hora.",
+  "semelhanca": 0.824
+ },
+ {
+  "personagem": "duda",
+  "texto": "Caio, esse poste aqui da frente tá fazendo um barulho estranho.",
+  "ouvido": "Caio.  Esse poste aqui da frente está fazendo um barulho estranho.",
+  "semelhanca": 0.909
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que barulho?",
+  "ouvido": "Que barulho!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Esse.",
+  "ouvido": "esse.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do bairro não aguentou.",
+  "ouvido": "com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do bairro não aguentou.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Pronto. Agora sim é calor.",
+  "ouvido": "Pronto, agora sim é calor.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "A bomba d'água também parou, vó. Sem luz, a água não sobe pra caixa.",
+  "ouvido": "A bomba d'água também parou.  Vó, sem luz, a água não sobe pra caixa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Comprei o último da loja. Paguei uma fortuna.",
+  "ouvido": "comprei o último da loja.  Paguei uma fortuna.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Valdir, dá pra ligar um ventiladorzinho lá em cima?",
+  "ouvido": "Valdir, dá pra ligar um ventiladorzinho lá em cima?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Dona Nena, a gasolina tá pela hora da morte. Esse aqui é pra minha geladeira.",
+  "ouvido": "Dona Nena, a gasolina tá pela hora da morte.  Esse aqui é pra minha geladeira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Mas a insulina da vó precisa ficar na geladeira.",
+  "ouvido": "Mas a insulina da vó precisa ficar na geladeira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Então. vou pensar.",
+  "ouvido": "Então, vou pensar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ele vai pensar, vó.",
+  "ouvido": "Ele vai pensar, vó.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "O Valdir pensa desde mil novecentos e noventa e dois. Até hoje não decidiu nada.",
+  "ouvido": "O Valdir pensa desde 1992.  Até hoje não decidiu nada.",
+  "semelhanca": 0.72
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Enquanto isso, o Caio estava na sétima entrega do dia. E já não lembrava da última vez que tinha bebido água.",
+  "ouvido": "Enquanto isso, o Caio estava na sétima entrega do dia, e já não lembrava da última vez  que tinha bebido água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que isso. tá tudo girando.",
+  "ouvido": "Que isso!  Tá tudo girando!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Opa, opa! Encosta aí, moleque. Tu tá branco que nem papel.",
+  "ouvido": "Opa, opa, encosta aí moleque, tu tá branco que nem papel.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Eu tô de boa.",
+  "ouvido": "Eu tô de boa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "De boa nada. Senta na sombra. Toma.",
+  "ouvido": "de boa nada, senta na sombra, toma.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Tontura, dor de cabeça, enjoo. Isso aí é o corpo pedindo arrego.",
+  "ouvido": "Tontura, dor de cabeça, enjoo, isso aí é o corpo pedindo arrego.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Quanto é a água?",
+  "ouvido": "Quanto é a água?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "A água é quatro. O conselho é de graça. E o conselho é, para de rodar no sol das duas da tarde.",
+  "ouvido": "A água é quatro, o conselho é de graça, e o conselho é para de rodar no sol das duas da tarde.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "E se eu não parar?",
+  "ouvido": "E se eu não parar?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Aí o próximo conselho quem vai te dar é o médico.",
+  "ouvido": "Aí o próximo conselho, quem vai te dar, é o médico.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo. Se aparecer confusão ou desmaio, é emergência, 192.",
+  "ouvido": "Fontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor.  O certo é parar, ir para a sombra, beber água e esfriar o corpo.  Se aparecer confusão ou desmaio é Emergência 192.",
+  "semelhanca": 0.971
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.",
+  "ouvido": "Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Tô indo, mãe.",
+  "ouvido": "Tô indo, mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Cadê a vó?",
+  "ouvido": "Cadê a vó?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ela disse que ia rapidinho na feira.",
+  "ouvido": "Ela disse que ia rapidinho na feira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Às duas da tarde?",
+  "ouvido": "Às duas da tarde...",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ela disse que era rapidinho.",
+  "ouvido": "Ela disse que era rapidinho.",
+  "semelhanca": 1.0
+ }
+]
