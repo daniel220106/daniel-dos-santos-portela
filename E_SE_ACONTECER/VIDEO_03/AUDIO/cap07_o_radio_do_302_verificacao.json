@@ -1,0 +1,206 @@
+[
+ {
+  "personagem": "caio",
+  "texto": "Seu Ademar! Seu Ademar, é o Caio, neto da Dona Nena!",
+  "ouvido": "Seu Ademar. Seu Ademar é o Caio, neto da Dona Nena.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ele nunca atrasa. Nunca.",
+  "ouvido": "Ele nunca atrasa, nunca.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "O Valdir tem a chave. Ele é o síndico.",
+  "ouvido": "O Valdir tem a chave, ele é o síndico.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Eu nunca usei essa chave. Nem sei qual é.",
+  "ouvido": "Eu nunca usei essa chave, nem sei qual é.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Seu Ademar!",
+  "ouvido": "Seu Ademar!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "A pilha do rádio acabou. Eu fui trocar e a perna não quis.",
+  "ouvido": "A pilha do rádio acabou.  Eu fui trocar e a perna não quis.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "E de casaco, homem? Com esse calor?",
+  "ouvido": "e de casaco homem com esse calor.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Eu tava com frio, Nena.",
+  "ouvido": "Eu tava com frio, nena.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Com a idade, o corpo percebe pior o calor. Muitos idosos não sentem que estão superaquecendo, até ficarem fracos demais para pedir ajuda.",
+  "ouvido": "com a idade, o corpo percebe pior o calor.  Muitos idosos não sentem que estão superaquecendo, até ficarem fracos demais para pedir ajuda.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ele tá acordado e consegue engolir. Pode dar água, Duda. Aos pouquinhos.",
+  "ouvido": "Ele está acordado e consegue engolir, pode dar água, duda, aos pouquinhos.",
+  "semelhanca": 0.917
+ },
+ {
+  "personagem": "valdir",
+  "texto": "É do SAMU? Tem um senhor de oitenta e um anos aqui, muito fraco, por causa do calor.",
+  "ouvido": "É do Samu? Tem um senhor de 81 anos aqui, muito fraco por causa do calor.",
+  "semelhanca": 0.882
+ },
+ {
+  "personagem": "atendente",
+  "texto": "Senhor, ele está acordado e conversando?",
+  "ouvido": "Senhor, Ele está acordado e conversando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Tá. Fraco, mas tá.",
+  "ouvido": "Tá, fraco, mas tá.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "atendente",
+  "texto": "A demanda hoje está muito alta. Se o senhor tem como levar com segurança, a unidade de saúde mais próxima pode ser mais rápida. Mantenha ele fresco no caminho.",
+  "ouvido": "A demanda hoje está muito alta.  Se o senhor tem como levar com segurança, a unidade de saúde mais próxima pode ser  mais rápida.  Mantenha ele fresco no caminho.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Meu carro tem ar-condicionado. Eu levo.",
+  "ouvido": "Meu carro tem ar-condicionado. Eu levo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Nena. O rádio. Não deixa ninguém mexer.",
+  "ouvido": "Nena, o rádio, não deixa ninguém mexer.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Que rádio é esse que vale mais que você, homem?",
+  "ouvido": "Que rádio é esse que vale mais que você, homem?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "A fita. É a Lurdes cantando. Ela gravou em setenta e nove.",
+  "ouvido": "A fita é a Lourdes cantando.  Ela gravou em 79.",
+  "semelhanca": 0.7272727272727273
+ },
+ {
+  "personagem": "nena",
+  "texto": "Então eu guardo.",
+  "ouvido": "Então, eu guardo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Duda, fica com a vó. Eu vou junto.",
+  "ouvido": "Duda, fica com a vó, eu vou junto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Faz uns vinte anos que eu não ando de carro com ar-condicionado.",
+  "ouvido": "Faz uns 20 anos que eu não ando de carro com ar condicionado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "O carro era da Célia. Foi ela que escolheu essa cor.",
+  "ouvido": "o carro era da Celia. Foi ela que escolheu essa cor.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "A Célia é sua esposa?",
+  "ouvido": "A Célia é sua esposa?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Era. Foi embora faz dois anos. Levou o cachorro e deixou o carro.",
+  "ouvido": "era, foi embora faz dois anos, levou o cachorro e deixou o carro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "A minha também foi embora. Mas não levou nada. Deixou a voz.",
+  "ouvido": "A minha também foi embora, mas não levou nada, deixou a voz.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Por isso o rádio. Às seis da tarde, ela cantava fazendo a janta. Eu ligo o rádio e a casa fica com cheiro de janta.",
+  "ouvido": "Por isso rádio.  Às seis da tarde ela cantava fazendo a janta.  Eu ligo o rádio e a casa fica com cheiro de janta.",
+  "semelhanca": 0.98
+ },
+ {
+  "personagem": "valdir",
+  "texto": "É o suor.",
+  "ouvido": "É o suor.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Claro, Seu Valdir. Suor.",
+  "ouvido": "Claro! Seu Valdir, suor!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele. Mais velhas, morando sozinhas, que não pediram ajuda a tempo.",
+  "ouvido": "Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele, mas velhas  morando sozinhas que não pediram ajuda a tempo.",
+  "semelhanca": 0.958
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ela tá bem?",
+  "ouvido": "Ela tá bem?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Dormiu assim que vocês saíram. Tava cansada.",
+  "ouvido": "dormiu assim que vocês saíram. Tava cansada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ela bebeu água?",
+  "ouvido": "Ela bebeu água?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ela disse que bebeu.",
+  "ouvido": "Ela disse que bebeu.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela noite, ninguém percebeu. A Vó Nena tinha passado o dia inteiro cuidando de todo mundo. Menos dela mesma.",
+  "ouvido": "Naquela noite ninguém percebeu.  A vó nena tinha passado o dia inteiro cuidando de todo mundo.  Menos dela mesma.",
+  "semelhanca": 1.0
+ }
+]

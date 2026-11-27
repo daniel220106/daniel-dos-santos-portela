@@ -228,3 +228,16 @@ OK cap06_cinquenta.wav: 97.7s, precisão média 97.8%
 [30/37] caio       100% cps=12.2  Claro, Seu Valdir. Suor.  ->  Claro! Seu Valdir, suor!
 [31/37] narrador    96% cps=19.4  Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele. Mais velhas, morando sozinhas, que não pediram ajuda a tempo.  ->  Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele, mas velhas  morando sozinhas que não pediram ajuda a tempo.
 [33/37] caio       100% cps=14.4  Ela tá bem?  ->  Ela tá bem?
+[34/37] duda       100% cps=13.0  Dormiu assim que vocês saíram. Tava cansada.  ->  dormiu assim que vocês saíram. Tava cansada.
+[35/37] caio       100% cps=16.0  Ela bebeu água?  ->  Ela bebeu água?
+[36/37] duda       100% cps=17.2  Ela disse que bebeu.  ->  Ela disse que bebeu.
+[37/37] narrador   100% cps=19.3  Naquela noite, ninguém percebeu. A Vó Nena tinha passado o dia inteiro cuidando de todo mundo. Menos dela mesma.  ->  Naquela noite ninguém percebeu.  A vó nena tinha passado o dia inteiro cuidando de todo mundo.  Menos dela mesma.
+OK cap07_o_radio_do_302.wav: 121.9s, precisão média 98.4%
+== cap08_a_madrugada
+[1/35] caio       100% cps=15.3  Ela não tá reconhecendo a gente, Duda. Isso é emergência.  ->  Ela não tá reconhecendo a gente, Duda.  Isso é emergência.
+[2/35] duda       100% cps= 9.6  Liga pro SAMU!  ->  Liga pro Samu!
+[3/35] caio        80% cps=13.8  Dois por cento e sem sinal.  ->  2% e sem sinal.
+[4/35] duda       100% cps=15.8  O gerador do Seu Valdir!  ->  o gerador do seu Valdir.
+[5/35] caio       100% cps=15.1  Pega a água do isopor da insulina e molha os panos. Passa no pescoço e debaixo dos braços dela. Não para. Eu já volto.  ->  Pega a água do isopor da insulina e molha os panos.  Passa no pescoço e debaixo dos braços dela.  Não para.  Eu já volto.
+[6/35] caio       100% cps=11.6  Seu Valdir! É a minha vó!  ->  Seu Valdir, é a minha vó.
+[7/35] atendente (cache) SAMU, qual é a emergência?
