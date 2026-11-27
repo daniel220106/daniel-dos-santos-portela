@@ -1,0 +1,188 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "No terceiro dia, o termômetro chegou a cinquenta graus.",
+  "ouvido": "No terceiro dia, o termômetro chegou a 50 graus.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.",
+  "ouvido": "Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "E o prédio já estava sem água fazia vinte e quatro horas.",
+  "ouvido": "e o prédio já estava sem água fazia 24 horas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Caio, essa fila não acaba.",
+  "ouvido": "Caio, essa fila não acaba.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Fica na sombra com a Pipoca. Eu seguro o lugar.",
+  "ouvido": "Fica na sombra com a pipoca.  Eu seguro o lugar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mulher",
+  "texto": "Ô, moço! A fila é lá atrás!",
+  "ouvido": "Ô moço, a fila é lá atrás?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "homem",
+  "texto": "Eu tenho três crianças em casa.",
+  "ouvido": "Eu tenho três crianças em casa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mulher",
+  "texto": "E eu tenho quatro! Tô aqui desde as dez!",
+  "ouvido": "e eu tenho quatro. Estou aqui desde as dez.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ô, ô, ô! Calma, geral! Com cinquenta graus, se a gente brigar, o caminhão-pipa vira sauna.",
+  "ouvido": "Ô, ô, ô, calma geral, com 50 graus, se a gente brigar, o caminhão pipa vira sauna.",
+  "semelhanca": 0.941
+ },
+ {
+  "personagem": "caio",
+  "texto": "Moço, as crianças tão bem?",
+  "ouvido": "Moço, as crianças estão bem?",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "homem",
+  "texto": "A menor tá com febre.",
+  "ouvido": "A menor tá com febre.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Então passa na minha frente. Mas só na minha.",
+  "ouvido": "Então passa na minha frente, mas só na minha.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Numa crise, o que separa uma fila de uma briga muitas vezes é uma única pessoa que decide não gritar.",
+  "ouvido": "Uma crise, o que separa uma fila de uma briga muitas vezes é uma única pessoa que decide  não gritar.",
+  "semelhanca": 0.95
+ },
+ {
+  "personagem": "duda",
+  "texto": "Caio! A Pipoca tá esquisita!",
+  "ouvido": "Caio, a pipoca tá esquisita.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Molha a barriga e as patas dela. Água fresca, não gelada.",
+  "ouvido": "Molha a barriga e as patas dela. Água fresca, não gelada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Cachorros quase não suam. Eles se refrescam ofegando. Respiração muito acelerada, baba em excesso e fraqueza podem ser sinais de que o animal está superaquecendo.",
+  "ouvido": "Cachorros quase não suam.  Eles se refrescam ofegando.  Inspiração muito acelerada, baba em excesso e fraqueza podem ser sinais de que o animal  está superaquecendo.",
+  "semelhanca": 0.96
+ },
+ {
+  "personagem": "duda",
+  "texto": "Nunca mais me assusta assim, sua caramelo.",
+  "ouvido": "Nunca mais me assusta assim, sua caramelo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que dor de cabeça é essa?",
+  "ouvido": "Que dor de cabeça é essa?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Eu também tô tonta.",
+  "ouvido": "Eu também tô tonta.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Seu Valdir? Seu Valdir!",
+  "ouvido": "Seu Valdir! Seu Valdir!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Tô só. cansado.",
+  "ouvido": "Tô só. Cansado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Duda, abre o portão! Agora!",
+  "ouvido": "Duda, abre o portão! Agora!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "O motor do gerador solta monóxido de carbono. Um gás sem cor e sem cheiro, que pode matar em pouco tempo num lugar fechado.",
+  "ouvido": "O motor do gerador solta monóxido de carbono.  Um gás sem cor e sem cheiro, que pode matar em pouco tempo num lugar fechado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Gerador nunca deve funcionar dentro de casa nem em garagem. Só ao ar livre, longe de portas e janelas.",
+  "ouvido": "O gerador nunca deve funcionar dentro de casa nem em garagem.  Só ao ar livre, longe de portas e janelas.",
+  "semelhanca": 0.974
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Eu deixei lá dentro pra ninguém roubar.",
+  "ouvido": "Eu deixei lá dentro pra ninguém roubar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Pois é. Quase levaram o senhor junto.",
+  "ouvido": "Pois é, quase levaram o senhor junto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Obrigado, garoto.",
+  "ouvido": "Obrigado garoto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Leva uma extensão lá pra cima. Pra insulina da tua avó. E pro ventilador.",
+  "ouvido": "Leva uma extensão a pra cima, pra insulina da tua avó e pro ventilador.",
+  "semelhanca": 0.929
+ },
+ {
+  "personagem": "duda",
+  "texto": "Caio.",
+  "ouvido": "Caio.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que foi?",
+  "ouvido": "que foi.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "O rádio.",
+  "ouvido": "o rádio.",
+  "semelhanca": 1.0
+ }
+]

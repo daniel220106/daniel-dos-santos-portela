@@ -192,3 +192,15 @@ OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
 [27/34] valdir     100% cps=16.0  Eu deixei lá dentro pra ninguém roubar.  ->  Eu deixei lá dentro pra ninguém roubar.
 [28/34] caio       100% cps=17.4  Pois é. Quase levaram o senhor junto.  ->  Pois é, quase levaram o senhor junto.
 [29/34] valdir     100% cps=11.0  Obrigado, garoto.  ->  Obrigado garoto.
+[30/34] valdir      93% cps=13.5  Leva uma extensão lá pra cima. Pra insulina da tua avó. E pro ventilador.  ->  Leva uma extensão a pra cima, pra insulina da tua avó e pro ventilador.
+[32/34] duda       100% cps= 9.5  Caio.  ->  Caio.
+[33/34] caio       100% cps=12.1  Que foi?  ->  que foi.
+[34/34] duda       100% cps=11.2  O rádio.  ->  o rádio.
+OK cap06_cinquenta.wav: 97.7s, precisão média 97.8%
+== cap07_o_radio_do_302
+[1/37] caio       100% cps=10.8  Seu Ademar! Seu Ademar, é o Caio, neto da Dona Nena!  ->  Seu Ademar. Seu Ademar é o Caio, neto da Dona Nena.
+[2/37] duda       100% cps=10.4  Ele nunca atrasa. Nunca.  ->  Ele nunca atrasa, nunca.
+[3/37] nena       100% cps=11.5  O Valdir tem a chave. Ele é o síndico.  ->  O Valdir tem a chave, ele é o síndico.
+[4/37] valdir     100% cps=13.1  Eu nunca usei essa chave. Nem sei qual é.  ->  Eu nunca usei essa chave, nem sei qual é.
+[6/37] caio       100% cps=12.4  Seu Ademar!  ->  Seu Ademar!
+[7/37] ademar     100% cps=13.4  A pilha do rádio acabou. Eu fui trocar e a perna não quis.  ->  A pilha do rádio acabou.  Eu fui trocar e a perna não quis.
