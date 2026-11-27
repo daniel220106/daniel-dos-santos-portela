@@ -1,0 +1,8 @@
+{
+ "narrador": {"voz": "../VOZES/referencias/ref_narrador_12707.wav", "exaggeration": 0.5, "cfg": 0.4, "temp": 0.7, "pan": 0.0, "seed": 7},
+ "lucas":    {"voz": "../VOZES/referencias/ref_lucas_5417.wav",     "exaggeration": 0.55, "cfg": 0.4, "temp": 0.75, "pan": -0.15, "seed": 11},
+ "rafael":   {"voz": "../VOZES/referencias/ref_rafael_12287.wav",   "exaggeration": 0.7, "cfg": 0.35, "temp": 0.8, "pan": 0.18, "seed": 13},
+ "marina":   {"voz": "../VOZES/referencias/ref_marina_7925.wav",    "exaggeration": 0.6, "cfg": 0.4, "temp": 0.75, "pan": 0.08, "seed": 17},
+ "dona_cida":{"voz": "../VOZES/referencias/ref_cida_11995.wav",     "exaggeration": 0.5, "cfg": 0.45, "temp": 0.7, "pan": -0.08, "seed": 19},
+ "pedro":    {"voz": "../VOZES/referencias/ref_pedro_3050.wav",     "exaggeration": 0.7, "cfg": 0.35, "temp": 0.8, "pan": 0.12, "seed": 23}
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.",
+  "inicio": 0.0,
+  "fim": 4.86
+ },
+ {
+  "personagem": "narrador",
+  "texto": "O problema? Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "inicio": 5.41,
+  "fim": 9.89
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você viu a quantidade de água lá fora?",
+  "inicio": 10.55,
+  "fim": 13.93
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Vi. E tenho uma notícia boa.",
+  "inicio": 14.19,
+  "fim": 16.53
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Qual?",
+  "inicio": 16.61,
+  "fim": 16.969
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Meu carro continua estacionado.",
+  "inicio": 17.229,
+  "fim": 19.518
+ },
+ {
+  "personagem": "marina",
+  "texto": "Rafael, a garagem está alagando!",
+  "inicio": 19.598,
+  "fim": 22.638
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Ah. Então tenho uma notícia ruim também.",
+  "inicio": 22.898,
+  "fim": 26.638
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Vocês podem parar de brincar e começar a pegar os documentos?",
+  "inicio": 26.898,
+  "fim": 31.121
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Eu já peguei!",
+  "inicio": 31.201,
+  "fim": 31.999
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ótimo. E o que você colocou na mochila?",
+  "inicio": 32.259,
+  "fim": 35.279
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Meu videogame.",
+  "inicio": 35.539,
+  "fim": 36.759
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pedro!",
+  "inicio": 36.479,
+  "fim": 37.039
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Tá bom, tá bom! Também coloquei uma camiseta!",
+  "inicio": 37.119,
+  "fim": 40.579
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente a rotina daquela cidade.",
+  "inicio": 41.629,
+  "fim": 48.449
+ }
+]

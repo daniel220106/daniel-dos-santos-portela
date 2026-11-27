@@ -1,0 +1,4 @@
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/user/venv_comp/bin/python3 -m pip install --upgrade pip
+ERROR: Failed to build 'spacy' when installing build dependencies for spacy
+PIP_FIM
