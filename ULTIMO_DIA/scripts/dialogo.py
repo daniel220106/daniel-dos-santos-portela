@@ -81,39 +81,47 @@ def main():
     torch.set_num_threads(os.cpu_count() or 4)
     m = ChatterboxMultilingualTTS.from_pretrained(torch.device('cpu'))
     wm = WhisperModel('medium', device='cpu', compute_type='int8')
-    conds = {}
+    conds, piper = {}, {}
     for nome in {i['personagem'] for i in itens if 'personagem' in i}:
         if nome not in elenco: sys.exit(f'personagem sem voz no elenco: {nome}')
         p = elenco[nome]
-        m.prepare_conditionals(os.path.join(base, p['voz']), exaggeration=p.get('exaggeration', 0.5))
-        conds[nome] = m.conds
+        if p.get('motor') == 'piper':  # Piper: velocidade 1.2 = length_scale 1/1.2
+            from piper import PiperVoice, SynthesisConfig
+            piper[nome] = (PiperVoice.load(os.path.join(base, p['voz'])), SynthesisConfig(length_scale=1 / p.get('velocidade', 1.0), noise_scale=p.get('noise', 0.667), noise_w_scale=p.get('noise_w', 0.8)))
+        else:
+            m.prepare_conditionals(os.path.join(base, p['voz']), exaggeration=p.get('exaggeration', 0.5))
+            conds[nome] = m.conds
 
     falas, log = [], []
     for k, it in enumerate(itens):
         if 'pausa' in it: falas.append(it); continue
         p = elenco[it['personagem']]; texto = limpar(it['texto'])
-        m.conds = conds[it['personagem']]
         melhor = None
-        for t in range(a.tentativas):
-            torch.manual_seed(p.get('seed', 7) + 101 * t + k)
-            ex = it.get('exaggeration', p.get('exaggeration', 0.5))
-            w = m.generate(texto, language_id='pt', exaggeration=ex, cfg_weight=p.get('cfg', 0.4), temperature=p.get('temp', 0.75))[0].numpy()
-            w = aparar(w, m.sr)
-            segs = list(wm.transcribe(librosa.resample(w, orig_sr=m.sr, target_sr=16000), language='pt', beam_size=5, word_timestamps=True)[0])
+        for t in range(a.tentativas if it['personagem'] not in piper else 1):
+            if it['personagem'] in piper:
+                v, cfg = piper[it['personagem']]; sr = v.config.sample_rate
+                w = np.concatenate([c.audio_float_array for c in v.synthesize(texto, syn_config=cfg)])
+            else:
+                m.conds = conds[it['personagem']]; sr = m.sr
+                torch.manual_seed(p.get('seed', 7) + 101 * t + k)
+                ex = it.get('exaggeration', p.get('exaggeration', 0.5))
+                w = m.generate(texto, language_id='pt', exaggeration=ex, cfg_weight=p.get('cfg', 0.4), temperature=p.get('temp', 0.75))[0].numpy()
+            w = aparar(w, sr)
+            segs = list(wm.transcribe(librosa.resample(w, orig_sr=sr, target_sr=16000), language='pt', beam_size=5, word_timestamps=True)[0])
             ouvido = ' '.join(s.text for s in segs)
             pal = [x for s in segs for x in (s.words or [])]
             if pal:  # corta sobras do modelo (ruídos/sílabas soltas) depois da última palavra e antes da primeira
-                i0, i1 = max(0, int((pal[0].start - 0.10) * m.sr)), int((pal[-1].end + 0.18) * m.sr)
+                i0, i1 = max(0, int((pal[0].start - 0.10) * sr)), int((pal[-1].end + 0.18) * sr)
                 w = w[i0:min(i1, len(w))]
-            dur = len(w) / m.sr; cps = len(texto) / max(dur, 0.1)
+            dur = len(w) / sr; cps = len(texto) / max(dur, 0.1)
             sem = semelhanca(texto, ouvido)
             nota = sem - (0.25 if not 6 <= cps <= 20 else 0)
-            if melhor is None or nota > melhor[0]: melhor = (nota, w, ouvido, sem, cps)
+            if melhor is None or nota > melhor[0]: melhor = (nota, w, ouvido, sem, cps, sr)
             if sem >= 0.95 and 6 <= cps <= 20: break
-        _, w, ouvido, sem, cps = melhor
+        _, w, ouvido, sem, cps, sr = melhor
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})
-        falas.append({**it, 'texto': texto, 'audio': tratar(w, m.sr)})
+        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr)})
 
     # montagem
     pedacos, tempos, t = [], [], 0.0

@@ -1,0 +1,38 @@
+{
+ "narrador": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-faber-medium.onnx",
+  "velocidade": 1.2,
+  "pan": 0.0
+ },
+ "lucas": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-cadu-medium.onnx",
+  "velocidade": 1.2,
+  "pan": -0.15
+ },
+ "rafael": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-jeff-medium.onnx",
+  "velocidade": 1.2,
+  "pan": 0.18
+ },
+ "marina": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-faber-medium.onnx",
+  "velocidade": 1.2,
+  "pan": 0.08
+ },
+ "dona_cida": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-cadu-medium.onnx",
+  "velocidade": 1.2,
+  "pan": -0.08
+ },
+ "pedro": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-jeff-medium.onnx",
+  "velocidade": 1.2,
+  "pan": 0.12
+ }
+}
