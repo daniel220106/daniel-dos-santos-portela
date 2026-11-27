@@ -1,0 +1,188 @@
+[
+ {
+  "personagem": "caio",
+  "texto": "Ela não tá reconhecendo a gente, Duda. Isso é emergência.",
+  "ouvido": "Ela não tá reconhecendo a gente, Duda.  Isso é emergência.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Liga pro SAMU!",
+  "ouvido": "Liga pro Samu!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Dois por cento e sem sinal.",
+  "ouvido": "2% e sem sinal.",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "duda",
+  "texto": "O gerador do Seu Valdir!",
+  "ouvido": "o gerador do seu Valdir.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Pega a água do isopor da insulina e molha os panos. Passa no pescoço e debaixo dos braços dela. Não para. Eu já volto.",
+  "ouvido": "Pega a água do isopor da insulina e molha os panos.  Passa no pescoço e debaixo dos braços dela.  Não para.  Eu já volto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Seu Valdir! É a minha vó!",
+  "ouvido": "Seu Valdir, é a minha vó.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "atendente",
+  "texto": "SAMU, qual é a emergência?",
+  "ouvido": "Samu, qual é a emergência?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "A minha avó. Setenta e nove anos. Ela tá confusa, quente demais, e não reconhece ninguém. A gente tá sem luz desde quinta.",
+  "ouvido": "A minha avó, 79 anos. Ela tá confusa, quente demais e não reconhece ninguém. A gente tá sem luz desde quinta.",
+  "semelhanca": 0.909
+ },
+ {
+  "personagem": "atendente",
+  "texto": "Ela está respirando?",
+  "ouvido": "Ela está respirando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Tá.",
+  "ouvido": "tá",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "atendente",
+  "texto": "A ambulância já está a caminho, mas pode demorar. Enquanto isso, leve ela para o lugar mais fresco que tiver. Afrouxe a roupa, molhe o corpo com panos e abane. Não dê nada para ela beber.",
+  "ouvido": "A ambulância já está a caminho, mas pode demorar.  Enquanto isso, leve ela para o lugar mais fresco que tiver.  Afrou-se a roupa, molhe o corpo com panos e abane.  Não dê nada para ela beber.",
+  "semelhanca": 0.959
+ },
+ {
+  "personagem": "caio",
+  "texto": "Nada? Nem água?",
+  "ouvido": "Nada? Nem água?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "atendente",
+  "texto": "Confusa desse jeito, não. Ela pode engasgar. Se ela piorar, ligue de novo.",
+  "ouvido": "Confusa desse jeito? Não. Ela pode engasgar. Se ela piorar, ligue de novo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "A calçada. Lá embaixo tá mais fresco.",
+  "ouvido": "a calçada, lá embaixo tá mais fresco.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Então ela desce agora. Eu pego as pernas da cadeira.",
+  "ouvido": "Então ela desce agora, eu pego as pernas da cadeira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Quatro andares. Oitenta degraus. No escuro, a quarenta graus.",
+  "ouvido": "Quatro andares, 80 de graus, no escuro a 40 graus.",
+  "semelhanca": 0.632
+ },
+ {
+  "personagem": "vizinha",
+  "texto": "Precisa de ajuda?",
+  "ouvido": "precisa de ajuda?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Pano molhado! O máximo que der!",
+  "ouvido": "pano molhado o máximo que der.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Caio! Vi a tua mensagem. Já ligou pro 192?",
+  "ouvido": "Caio, vi a tua mensagem. Já ligou pro 1.090 Azul?",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "caio",
+  "texto": "Já. Tão vindo. A gente tá resfriando ela aqui na calçada.",
+  "ouvido": "Já, tão vindo, a gente tá resfriando ela aqui na calçada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Fez certo, filho. Não para de resfriar até a ambulância chegar.",
+  "ouvido": "Fez certo, filho. Não para de resfriar até a ambulância chegar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Você consegue. Eu tô saindo daqui agora.",
+  "ouvido": "Você consegue? Eu tô saindo daqui agora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Ouvi a gritaria lá da esquina. Que que tá precisando?",
+  "ouvido": "Ouvi a gritaria lá da esquina, que que tá precisando?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Gelo, Tião! Tu tem gelo?",
+  "ouvido": "Gelo, Tião, tu tem gelo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Eu falei que esse gelo era pra emergência.",
+  "ouvido": "Eu falei que esse gelo era pra emergência.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Confusão, fala sem sentido ou desmaio no calor podem ser sinais de golpe de calor, a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.",
+  "ouvido": "confusão, fala sem sentido ou desmaio no calor. Podem ser sinais de golpe de calor,  a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "É emergência. Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega, lugar fresco, roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha. E nada para beber.",
+  "ouvido": "É emergência.  Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega, lugar fresco,  roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha.  E nada para beber.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Vó?",
+  "ouvido": "Vó?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Vó, aperta a minha mão.",
+  "ouvido": "Vó, aperta a minha mão.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Arlindo. não. Caio. Que barulheira é essa aqui?",
+  "ouvido": "ar lindo? Não. Caio, que barulheira é essa aqui?",
+  "semelhanca": 0.824
+ },
+ {
+  "personagem": "duda",
+  "texto": "Ela vai voltar?",
+  "ouvido": "Ela vai voltar.",
+  "semelhanca": 1.0
+ }
+]

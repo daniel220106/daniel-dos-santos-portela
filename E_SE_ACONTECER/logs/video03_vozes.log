@@ -258,3 +258,17 @@ OK cap07_o_radio_do_302.wav: 121.9s, precisão média 98.4%
 [23/35] sonia      100% cps=14.8  Você consegue. Eu tô saindo daqui agora.  ->  Você consegue? Eu tô saindo daqui agora.
 [24/35] tiao       100% cps=14.2  Ouvi a gritaria lá da esquina. Que que tá precisando?  ->  Ouvi a gritaria lá da esquina, que que tá precisando?
 [25/35] caio       100% cps= 9.7  Gelo, Tião! Tu tem gelo?  ->  Gelo, Tião, tu tem gelo.
+[26/35] tiao       100% cps=11.7  Eu falei que esse gelo era pra emergência.  ->  Eu falei que esse gelo era pra emergência.
+[27/35] narrador   100% cps=18.4  Confusão, fala sem sentido ou desmaio no calor podem ser sinais de golpe de calor, a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.  ->  confusão, fala sem sentido ou desmaio no calor. Podem ser sinais de golpe de calor,  a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.
+[28/35] narrador   100% cps=17.6  É emergência. Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega, lugar fresco, roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha. E nada para beber.  ->  É emergência.  Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega, lugar fresco,  roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha.  E nada para beber.
+[29/35] duda       100% cps= 5.0  Vó?  ->  Vó?
+[31/35] duda      (cache) Vó, aperta a minha mão.
+[33/35] nena        82% cps=10.8  Arlindo. não. Caio. Que barulheira é essa aqui?  ->  ar lindo? Não. Caio, que barulheira é essa aqui?
+[35/35] duda       100% cps=14.4  Ela vai voltar?  ->  Ela vai voltar.
+OK cap08_a_madrugada.wav: 119.4s, precisão média 96.5%
+== cap09_a_chuva
+[2/23] sonia      100% cps=16.0  Vocês fizeram tudo certinho. Tudinho.  ->  Vocês fizeram tudo certinho, tudinho.
+[3/23] caio       100% cps=19.0  Eu quase não percebi, mãe. Ela disse que tinha bebido água.  ->  Eu quase não percebi mãe, ela disse que tinha bebido água.
+[4/23] sonia      100% cps=17.6  Ela fala isso pra mim há trinta anos.  ->  Ela fala isso pra mim há 30 anos.
+[5/23] caio       100% cps=11.1  Mãe. Eu bebi água hoje. De verdade.  ->  Mãe, eu bebi água hoje, de verdade.
+[6/23] sonia      100% cps=12.7  Eu sei. Tô ouvindo pela tua voz.  ->  Eu sei. Tô ouvindo pela tua voz.
