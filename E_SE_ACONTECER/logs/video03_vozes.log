@@ -273,3 +273,9 @@ OK cap08_a_madrugada.wav: 119.4s, precisão média 96.5%
 [5/23] caio       100% cps=11.1  Mãe. Eu bebi água hoje. De verdade.  ->  Mãe, eu bebi água hoje, de verdade.
 [6/23] sonia      100% cps=12.7  Eu sei. Tô ouvindo pela tua voz.  ->  Eu sei. Tô ouvindo pela tua voz.
 [8/23] nena       100% cps=13.5  Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.  ->  Me tiraram de casa de camisola, Caio, na frente do prédio inteiro.
+[9/23] caio       100% cps=13.5  Vó, a senhora quase.  ->  Vô, a senhora quase.
+[10/23] nena       100% cps=12.7  Quase é que nem chuchu. Não tem gosto de nada.  ->  quase é que nem chuchu, não tem gosto de nada.
+[11/23] ademar     100% cps=12.1  Nena. Cadê o meu rádio?  ->  Nena, cadê o meu rádio?
+[12/23] nena        89% cps=10.7  Tá comigo. Com pilha nova.  ->  comigo, com pilha nova.
+[13/23] ademar      80% cps=14.2  Então hoje, às seis, a Lurdes canta pra enfermaria inteira.  ->  Então hoje, às 6, a Lourdes canta pra enfermaria inteira.
+[14/23] narrador    95% cps=19.4  No quinto dia, uma frente fria chegou ao Rio. A temperatura caiu mais de dez graus em poucas horas.  ->  No quinto dia, uma frente fria chegou ao rio.  A temperatura caiu mais de 10 graus em poucas horas.
