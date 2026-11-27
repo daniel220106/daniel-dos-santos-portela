@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8"><title>E SE ACONTECER? Vídeo 2</title>
+<style>
+@font-face{font-family:Oswald;font-weight:400;src:url(../fontes/oswald-latin-400-normal.woff2)}
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:400;src:url(../fontes/inter-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="tela" width="1920" height="1080"></canvas>
+<script>window.VIDEO_COMPLETO = true;</script>
+<script src="../motor/motor.js"></script><script src="abertura.js"></script><script src="../motor/cenarios.js"></script>
+<script>
+// Thumbnail do Vídeo 1 (1280x720): o Lucas à luz de vela, cidade toda apagada atrás, "TUDO APAGOU"
+window.desenhar = async () => {
+  await document.fonts.load('700 100px Oswald'); await document.fonts.load('600 20px Inter');
+  const c = document.getElementById('tela').getContext('2d'); const T = 2.0;
+  c.save(); camera(c, 1.15, 960, 560); cidadeNoite(c, T, { acender: 0 }); c.restore();
+  c.fillStyle = 'rgba(4,6,14,0.35)'; c.fillRect(0, 0, W, H);
+  c.save(); camera(c, 2.4, 760, 430);
+  desenharPessoa(c, { x: 640, y: 690, s: 1, dir: 1, expr: 'preocupado', olhar: 0.5, cabeca: { giro: 0.2, incl: -0.04 }, luz: { lado: 1, brilho: 'rgba(255,170,80,0.55)', sombra: 'rgba(0,0,0,0.7)', geral: 'rgba(30,14,4,0.25)' }, bracoF: [1.3, 0.9] }, 'lucas');
+  vela(c, 826, 522, T, 1.0); c.restore();
+  escuridao(c, 0.45, [{ x: 1120, y: 560, r: 700, cor: 'rgba(255,150,60,0.32)' }]);
+  const g = c.createLinearGradient(1000, 0, 1920, 0); g.addColorStop(0, 'rgba(4,6,14,0)'); g.addColorStop(0.35, 'rgba(4,6,14,0.75)'); g.addColorStop(1, 'rgba(4,6,14,0.88)'); c.fillStyle = g; c.fillRect(0, 0, W, H);
+  c.textAlign = 'right'; c.fillStyle = '#ffffff'; c.font = '700 210px Oswald'; c.shadowColor = 'rgba(0,0,0,0.9)'; c.shadowBlur = 30;
+  c.fillText('TUDO', 1860, 430); c.fillStyle = '#ffd23a'; c.fillText('APAGOU', 1860, 660); c.shadowBlur = 0;
+  c.fillStyle = '#c62a24'; c.fillRect(1300, 700, 560, 14);
+  c.fillStyle = 'rgba(10,10,12,0.75)'; rr(c, 1560, 960, 300, 60, 10); c.fill(); c.fillStyle = '#c62a24'; c.beginPath(); c.arc(1590, 990, 9, 0, 7); c.fill(); c.fillStyle = '#f2efe9'; c.font = '700 30px Inter'; c.fillText('SIMULAÇÃO', 1840, 1001);
+  c.textAlign = 'left'; return true;
+};
+</script></body></html>
