@@ -1,0 +1,134 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Às nove da noite, com o prédio no escuro, os moradores fizeram uma coisa que não faziam havia anos. Uma reunião.",
+  "ouvido": "Às nove da noite, com o prédio um escuro, os moradores fizeram uma coisa que não faziam  havia anos.  Uma reunião.",
+  "semelhanca": 0.952
+ },
+ {
+  "personagem": "zica",
+  "texto": "Valdir, meu filho tem oito meses. Ele não para de chorar de calor.",
+  "ouvido": "Valdir, meu filho tem 8 meses, ele não para de chorar de calor.",
+  "semelhanca": 0.9230769230769231
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Zica, um gerador desse não aguenta o prédio inteiro.",
+  "ouvido": "Zica, um gerador desse não aguenta o prédio inteiro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ninguém tá pedindo o prédio inteiro. Uma hora pra cada apartamento. Um ventilador e a geladeira.",
+  "ouvido": "Ninguém está pedindo o prédio inteiro, uma hora para cada apartamento, um ventilador e a geladeira.",
+  "semelhanca": 0.875
+ },
+ {
+  "personagem": "valdir",
+  "texto": "E a gasolina, quem paga?",
+  "ouvido": "E a gasolina, quem paga?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "morador",
+  "texto": "A gente racha!",
+  "ouvido": "a gente racha.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Racha como? O Seu Ademar nem desce. O 401 tá viajando. E a Dona Nena paga em feijão.",
+  "ouvido": "Racha como? O seu Ademar nem desce, o 4001 tá viajando, e a dona nena paga em feijão.",
+  "semelhanca": 0.944
+ },
+ {
+  "personagem": "nena",
+  "texto": "Meu feijão vale mais que a tua gasolina, Valdir.",
+  "ouvido": "Meu feijão vale mais que a tua gasolina.  Valdir",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Seu Valdir, a insulina da vó tá esquentando. Ela não pode ficar sem.",
+  "ouvido": "Seu Valdir, a insulina da vó está esquentando. Ela não pode ficar sem.",
+  "semelhanca": 0.923
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Eu vou pensar.",
+  "ouvido": "Eu vou pensar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "De novo?",
+  "ouvido": "De novo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "O gerador é meu. Ele fica na garagem, com o portão fechado. Porque aqui roubam até a sombra.",
+  "ouvido": "o gerador é meu, ele fica na garagem com o portão fechado porque aqui roubam até a sombra.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Ninguém deu muita atenção àquela frase. No dia seguinte, ela quase custou caro.",
+  "ouvido": "Ninguém deu muita atenção àquela frase, no dia seguinte ela quase custou caro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Mãe, a geladeira parou. E a insulina da vó?",
+  "ouvido": "Mãe, a geladeira parou, e a insulina da vó?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "A que tá em uso aguenta um tempo fora da geladeira, mas não nesse calor. Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo. Sem encostar no gelo. Se congelar, não pode mais usar.",
+  "ouvido": "A que está em uso aguenta um tempo fora da geladeira, mas não nesse calor.  Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo, sem encostar  no gelo.  Se congelar, não pode mais usar.",
+  "semelhanca": 0.975
+ },
+ {
+  "personagem": "caio",
+  "texto": "E onde é que eu arrumo gelo com o bairro inteiro sem luz?",
+  "ouvido": "E onde é que eu arrumo gelo com o bairro inteiro sem luz?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Dá o teu jeito, filho. Eu tô com quarenta pacientes aqui. O sinal vai cair.",
+  "ouvido": "Dá o teu jeito filho, eu tô com 40 pacientes aqui, o sinal vai cair.",
+  "semelhanca": 0.933
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Sem energia, a família fez o que dava.",
+  "ouvido": "Sem energia, a família fez o que dava.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Cortinas fechadas durante o dia, para o sol não entrar. Janelas abertas à noite, de um lado ao outro, para o ar circular.",
+  "ouvido": "Cortinas fechadas durante o dia para o sol não entrar.  Janelas abertas à noite de um lado ao outro para o ar circular.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Esse gerador do Valdir faz mais barulho que o Valdir.",
+  "ouvido": "Esse gerador do Valdir faz mais barulho que o Valdir.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Dorme, vó.",
+  "ouvido": "Dorme, vó!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Eles ainda não sabiam. Mas o dia seguinte seria o mais quente da história da cidade.",
+  "ouvido": "Eles ainda não sabiam, mas o dia seguinte seria o mais quente da história da cidade.",
+  "semelhanca": 1.0
+ }
+]

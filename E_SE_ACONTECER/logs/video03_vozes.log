@@ -1,0 +1,154 @@
+== cap00_abertura
+[1/14] duda       100% cps=10.6  Caio. Caio, acorda.  ->  Caio. Caio acorda.
+[2/14] caio       100% cps=13.0  Que foi, Duda?  ->  que foi Duda.
+[3/14] duda       100% cps=12.7  A vó tá falando esquisito.  ->  A vó tá falando esquisito.
+[4/14] nena        86% cps=15.9  Arlindo, fecha a janela que vai chover.  ->  Arlindo, feche a janela que vai chover.
+[5/14] caio       100% cps=10.4  Vó? Sou eu. O Caio.  ->  Vó, sou eu, o Caio.
+[6/14] nena       100% cps= 7.7  Arlindo.  ->  Arlindo.
+[7/14] duda       100% cps=14.2  Quem é Arlindo?  ->  Quem é Arlindo?
+[8/14] caio       100% cps=10.4  Era o vô.  ->  Era o vô.
+[9/14] caio       100% cps=13.0  Ela tá pelando. E não tá reconhecendo a gente.  ->  Ela tá pelando e não tá reconhecendo a gente.
+[10/14] caio       100% cps=12.7  Sem sinal. Duda, molha um pano. Rápido.  ->  Sem sinal. Duda, molha um pano rápido.
+[11/14] duda        75% cps=13.2  Caio. a água acabou.  ->  Caiu. A água acabou.
+[13/14] narrador  (cache) Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.
+[14/14] narrador   100% cps=17.3  Esta é uma simulação. Um cenário hipotético.  ->  Esta é uma simulação, um cenário hipotético.
+OK cap00_abertura.wav: 27.3s, precisão média 97.0%
+== cap01_o_asfalto
+[1/38] narrador   100% cps=16.1  Zona Norte do Rio de Janeiro. Quarta-feira. Três dias antes.  ->  Zona Norte do Rio de Janeiro, quarta-feira, três dias antes.
+[2/38] narrador    90% cps=18.1  Este é o Caio. Vinte e seis anos, entregador de aplicativo, e dono de uma certeza absoluta, carioca não sente calor.  ->  Este é o Caio, 26 anos, entregador de aplicativo e dono de uma certeza absoluta, Carioca não  sente calor.
+[3/38] caio      (cache) Dois reais de bônus calor. Caraca. Agora eu fico rico.
+[4/38] cliente    100% cps= 9.9  Mermão, isso aqui era açaí?  ->  Mermão, isso aqui era açaí.
+[5/38] caio       100% cps=12.4  Era. Agora é vitamina.  ->  Era, agora é vitamina.
+[6/38] cliente    100% cps=13.8  Tá de sacanagem.  ->  tá de sacanagem.
+[7/38] caio        89% cps=15.1  Avalia com cinco estrelas que o próximo chega sólido.  ->  Avalia com 5 estrelas que o próximo chega sólido.
+[8/38] sonia      100% cps=13.5  Caio, bebeu água?  ->  Caio, bebeu água?
+[9/38] caio       100% cps= 9.3  Bebi, mãe.  ->  Bebi, mãe.
+[10/38] sonia      100% cps=12.9  Mentiroso. Tô ouvindo pela tua voz.  ->  mentiroso.  Tô ouvindo pela tua voz.
+[11/38] caio       100% cps=15.1  Como é que a senhora ouve água pela voz?  ->  Como é que a senhora ouve água pela voz?
+[12/38] sonia     (cache) Vinte anos de enfermagem, meu filho. Bebe. Agora.
+[13/38] narrador   100% cps=19.2  Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de Janeiro. E simplesmente não foi embora.  ->  Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de Janeiro, e simplesmente  não foi embora.
+[14/38] narrador   100% cps=17.8  No calor seco, o suor evapora e esfria o corpo. No calor úmido, ele escorre. E o corpo quase não consegue se esfriar.  ->  No calor seco, o suor evapora e esfria o corpo.  No calor úmido, ele escorre, e o corpo quase não consegue se esfriar.
+[16/38] duda        85% cps=17.5  Vó, o celular disse que a sensação térmica é de cinquenta e dois graus.  ->  Vó, o celular disse que a sensação térmica é de 52 graus.
+[17/38] nena      (cache) Então desliga o celular que a sensação passa.
+[18/38] duda       100% cps=12.8  Não é assim que funciona, vó.  ->  Não é assim que funciona, vó?
+[19/38] nena        86% cps=14.5  Em oitenta e quatro fez mais calor que isso. E ninguém tinha celular pra reclamar.  ->  Em 1984, fez mais calor que isso, e ninguém tinha celular pra reclamar.
+[20/38] duda       100% cps=15.9  E a senhora vai fazer feijão ao meio-dia?  ->  e a senhora vai fazer feijão ao meio-dia.
+[21/38] nena       100% cps=12.2  Quarta-feira é dia de feijão. Calor nenhum muda isso.  ->  Quarta-feira é dia de feijão.  Calor nenhum muda isso.
+[22/38] duda       100% cps=13.0  Até a Pipoca desistiu de você, vó.  ->  Até a pipoca desistiu de você, vó.
+[23/38] nena       100% cps=13.8  A Pipoca não paga as contas desta casa.  ->  A pipoca não paga as contas desta casa.
+[24/38] duda       100% cps=14.6  Nem a senhora, quem paga é a mãe.  ->  Nem a senhora quem paga é a mãe.
+[25/38] nena       100% cps=13.3  Vai lavar a louça, Maria Eduarda.  ->  Vai lavar a louça, Maria Eduarda.
+[26/38] duda       100% cps=15.2  Vó, a insulina nova tá na prateleira do meio, tá? Na porta não pode, a mãe disse que lá a temperatura fica mudando.  ->  Vó, a insulina nova tá na prateleira do meio, tá?  Na porta não pode, a mãe disse que lá a temperatura fica mudando.
+[27/38] nena        95% cps=10.7  Eu esqueço o teu nome, menina. A insulina eu não esqueço.  ->  Eu esqueço teu nome, menina. A insulina eu não esqueço.
+[28/38] narrador   100% cps=20.8  Dois dias depois, aquela garrafa ainda ia estar cheia.  ->  Dois dias depois, aquela garrafa ainda ia estar cheia.
+[30/38] narrador    89% cps=17.5  Às seis da tarde em ponto, como em todos os dias, o rádio do 302 começou a tocar.  ->  À 6 da tarde em ponto, como em todos os dias, o rádio do 302 começou a tocar.
+[31/38] duda       100% cps=13.7  Todo dia, seis horas. O Seu Ademar nunca abre a porta. Mas o rádio nunca falha.  ->  todo dia seis horas. O seu Ademar nunca abre a porta, mas o rádio nunca falha.
+[32/38] nena        93% cps=13.0  Desde que a Dona Lurdes morreu, é assim. Ele só sai pra comprar pão.  ->  Desde que a dona Lourdes morreu, é assim, ele só sai pra comprar pão.
+[34/38] caio       100% cps=13.7  Que horas são?  ->  Que horas são?
+[35/38] duda        67% cps=12.0  Dez da noite.  ->  10 da noite.
+[36/38] caio        89% cps=15.4  E por que ainda tá esse calor aqui dentro?  ->  e por que ainda está esse calor aqui dentro.
+[37/38] narrador    97% cps=18.5  A laje de concreto passou o dia inteiro guardando calor. À noite, ela devolve tudo. Para dentro de casa.  ->  A laje de concreto passou o dia inteiro guardando o calor.  À noite, ela devolve tudo para dentro de casa.
+[38/38] narrador   100% cps=20.8  E a previsão para os próximos dias era ainda pior.  ->  e a previsão para os próximos dias era ainda pior.
+OK cap01_o_asfalto.wav: 125.1s, precisão média 96.5%
+== cap02_a_rede
+[1/34] narrador    82% cps=19.0  No segundo dia, quarenta e quatro graus. E o bairro inteiro teve a mesma ideia, na mesma hora.  ->  o segundo dia 44 graus, e o bairro inteiro teve a mesma ideia na mesma hora.
+[2/34] duda        91% cps=15.6  Caio, esse poste aqui da frente tá fazendo um barulho estranho.  ->  Caio.  Esse poste aqui da frente está fazendo um barulho estranho.
+[3/34] caio       100% cps=12.8  Que barulho?  ->  Que barulho!
+[5/34] duda       100% cps= 7.6  Esse.  ->  esse.
+[6/34] narrador   100% cps=21.5  Com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do bairro não aguentou.  ->  com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do bairro não aguentou.
+[7/34] nena       100% cps= 9.4  Pronto. Agora sim é calor.  ->  Pronto, agora sim é calor.
+[8/34] duda       100% cps=13.9  A bomba d'água também parou, vó. Sem luz, a água não sobe pra caixa.  ->  A bomba d'água também parou.  Vó, sem luz, a água não sobe pra caixa.
+[10/34] valdir     100% cps=13.8  Comprei o último da loja. Paguei uma fortuna.  ->  comprei o último da loja.  Paguei uma fortuna.
+[11/34] nena       100% cps=14.0  Valdir, dá pra ligar um ventiladorzinho lá em cima?  ->  Valdir, dá pra ligar um ventiladorzinho lá em cima?
+[12/34] valdir    (cache) Dona Nena, a gasolina tá pela hora da morte. Esse aqui é pra minha geladeira.
+[13/34] duda       100% cps=14.9  Mas a insulina da vó precisa ficar na geladeira.  ->  Mas a insulina da vó precisa ficar na geladeira.
+[14/34] valdir     100% cps= 7.4  Então. vou pensar.  ->  Então, vou pensar.
+[15/34] duda       100% cps=12.0  Ele vai pensar, vó.  ->  Ele vai pensar, vó.
+[16/34] nena        72% cps=13.6  O Valdir pensa desde mil novecentos e noventa e dois. Até hoje não decidiu nada.  ->  O Valdir pensa desde 1992.  Até hoje não decidiu nada.
+[17/34] narrador   100% cps=19.1  Enquanto isso, o Caio estava na sétima entrega do dia. E já não lembrava da última vez que tinha bebido água.  ->  Enquanto isso, o Caio estava na sétima entrega do dia, e já não lembrava da última vez  que tinha bebido água.
+[18/34] caio       100% cps=12.1  Que isso. tá tudo girando.  ->  Que isso!  Tá tudo girando!
+[19/34] tiao       100% cps=12.3  Opa, opa! Encosta aí, moleque. Tu tá branco que nem papel.  ->  Opa, opa, encosta aí moleque, tu tá branco que nem papel.
+[20/34] caio       100% cps= 9.5  Eu tô de boa.  ->  Eu tô de boa.
+[21/34] tiao       100% cps=11.4  De boa nada. Senta na sombra. Toma.  ->  de boa nada, senta na sombra, toma.
+[22/34] tiao       100% cps=13.5  Tontura, dor de cabeça, enjoo. Isso aí é o corpo pedindo arrego.  ->  Tontura, dor de cabeça, enjoo, isso aí é o corpo pedindo arrego.
+[23/34] caio       100% cps=13.1  Quanto é a água?  ->  Quanto é a água?
+[24/34] tiao       100% cps=12.8  A água é quatro. O conselho é de graça. E o conselho é, para de rodar no sol das duas da tarde.  ->  A água é quatro, o conselho é de graça, e o conselho é para de rodar no sol das duas da tarde.
+[25/34] caio       100% cps=15.8  E se eu não parar?  ->  E se eu não parar?
+[26/34] tiao       100% cps=14.5  Aí o próximo conselho quem vai te dar é o médico.  ->  Aí o próximo conselho, quem vai te dar, é o médico.
+[27/34] narrador    97% cps=16.6  Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo. Se aparecer confusão ou desmaio, é emergência, 192.  ->  Fontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor.  O certo é parar, ir para a sombra, beber água e esfriar o corpo.  Se aparecer confusão ou desmaio é Emergência 192.
+[28/34] sonia      100% cps=12.6  Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.  ->  Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.
+[29/34] caio       100% cps=15.1  Tô indo, mãe.  ->  Tô indo, mãe.
+[31/34] caio       100% cps=11.9  Cadê a vó?  ->  Cadê a vó?
+[32/34] duda       100% cps=16.5  Ela disse que ia rapidinho na feira.  ->  Ela disse que ia rapidinho na feira.
+[33/34] caio       100% cps=14.5  Às duas da tarde?  ->  Às duas da tarde...
+[34/34] duda       100% cps=16.7  Ela disse que era rapidinho.  ->  Ela disse que era rapidinho.
+OK cap02_a_rede.wav: 107.2s, precisão média 98.1%
+== cap03_cade_a_vo
+[1/34] duda       100% cps=18.0  Por que eu não posso botar a Pipoca no chão?  ->  Por que eu não posso botar a pipoca no chão?
+[2/34] caio       100% cps=10.9  Encosta a mão no asfalto.  ->  encosta a mão no asfalto.
+[3/34] duda       100% cps= 5.4  Ai!  ->  Ai!
+[4/34] caio       100% cps=15.3  Agora imagina a pata dela.  ->  Agora imagina a pata dela.
+[5/34] narrador    97% cps=20.2  No sol forte, o asfalto pode queimar as patas de um cachorro. Se o chão está quente demais para a sua mão, está quente demais para a pata dele.  ->  O sol forte, o asfalto pode queimar as patas de um cachorro, se o chão está quente demais  para a sua mão, está quente demais para a pata dele.
+[7/34] caio       100% cps=14.4  Moço, viu uma senhora baixinha, guarda-chuva roxo, cara de brava?  ->  Moço, viu uma senhora baixinha, guarda-chuva roxo, cara de brava?
+[8/34] feirante   100% cps=16.0  A Dona Nena? Passou aqui faz uma hora. Comprou banana e foi pro lado da igreja.  ->  A Dona Nena passou aqui faz uma hora, comprou banana e foi pro lado da igreja.
+[10/34] duda       100% cps=11.0  Caio, e se ela caiu?  ->  Caio? E se ela caiu?
+[11/34] caio       100% cps=13.9  Ela não caiu.  ->  Ela não caiu.
+[12/34] duda       100% cps=11.5  Mas e se.  ->  Mas e se?
+[13/34] caio       100% cps=13.2  Ela não caiu, Duda.  ->  Ela não caiu, duda.
+[15/34] duda       100% cps= 4.3  Vó!  ->  Vó?
+[16/34] nena       100% cps=11.1  Ué. Vieram me buscar? Que chique.  ->  Ué, vieram me buscar? Que chique!
+[17/34] caio        75% cps=15.9  Vó, a senhora tá maluca? Quarenta e quatro graus!  ->  Vó, a senhora tá maluca?  44 graus.
+[18/34] nena       100% cps=11.2  Eu nasci em Bangu, Caio. Calor eu conheço desde o berço.  ->  Eu nasci em Bangu, Caio.  Calor eu conheço desde o berço.
+[19/34] caio       100% cps=15.6  A senhora podia ter caído no meio da rua!  ->  A senhora podia ter caído no meio da rua.
+[20/34] nena       100% cps=10.7  Mas não caí.  ->  Mas não caí.
+[21/34] caio       100% cps=17.4  E esse monte de sacola?  ->  E esse monte de sacola?
+[22/34] nena       100% cps=12.9  É do Seu Ademar.  ->  é do seu Ademar.
+[23/34] duda        50% cps= 7.8  Do 302?  ->  do Trintos.
+[24/34] nena       100% cps=13.5  Ele não sai de casa com esse sol. Alguém tem que levar comida pra ele.  ->  Ele não sai de casa com esse sol, alguém tem que levar comida pra ele.
+[25/34] caio       100% cps=12.6  Da próxima vez, quem leva sou eu.  ->  Da próxima vez, quem leva sou eu.
+[26/34] nena       100% cps=12.6  Da próxima vez, você me avisa que vai ser chato desse jeito.  ->  Da próxima vez, você me avisa que vai ser chato desse jeito.
+[27/34] duda        50% cps= 7.4  Bebe, vó.  ->  Bebe, vou.
+[28/34] nena        80% cps=10.1  Eu não tô com sede.  ->  Eu não estou com sede.
+[29/34] duda       100% cps=13.3  Bebe mesmo assim.  ->  Bebe mesmo assim.
+[30/34] narrador   100% cps=19.1  Com a idade, o corpo sente menos sede. Por isso, no calor extremo, idosos precisam beber água mesmo sem vontade.  ->  Com a idade, o corpo sente menos sede.  Por isso, no calor extremo, idosos precisam beber água mesmo sem vontade.
+[32/34] caio       100% cps=15.8  Seu Ademar? Deixei as compras aqui na porta.  ->  Seu Ademar, deixei as compras aqui na porta.
+[34/34] duda       100% cps=15.6  Isso quer dizer obrigado.  ->  Isso quer dizer obrigado.
+OK cap03_cade_a_vo.wav: 79.6s, precisão média 94.9%
+== cap04_a_reuniao
+[1/23] narrador    95% cps=19.7  Às nove da noite, com o prédio no escuro, os moradores fizeram uma coisa que não faziam havia anos. Uma reunião.  ->  Às nove da noite, com o prédio um escuro, os moradores fizeram uma coisa que não faziam  havia anos.  Uma reunião.
+[2/23] zica      (cache) Valdir, meu filho tem oito meses. Ele não para de chorar de calor.
+[3/23] valdir     100% cps=14.7  Zica, um gerador desse não aguenta o prédio inteiro.  ->  Zica, um gerador desse não aguenta o prédio inteiro.
+[4/23] caio        88% cps=15.4  Ninguém tá pedindo o prédio inteiro. Uma hora pra cada apartamento. Um ventilador e a geladeira.  ->  Ninguém está pedindo o prédio inteiro, uma hora para cada apartamento, um ventilador e a geladeira.
+[5/23] valdir     100% cps=10.8  E a gasolina, quem paga?  ->  E a gasolina, quem paga?
+[6/23] morador    100% cps=11.2  A gente racha!  ->  a gente racha.
+[7/23] valdir      94% cps=11.4  Racha como? O Seu Ademar nem desce. O 401 tá viajando. E a Dona Nena paga em feijão.  ->  Racha como? O seu Ademar nem desce, o 4001 tá viajando, e a dona nena paga em feijão.
+[8/23] nena       100% cps=12.9  Meu feijão vale mais que a tua gasolina, Valdir.  ->  Meu feijão vale mais que a tua gasolina.  Valdir
+[9/23] duda        92% cps=14.3  Seu Valdir, a insulina da vó tá esquentando. Ela não pode ficar sem.  ->  Seu Valdir, a insulina da vó está esquentando. Ela não pode ficar sem.
+[10/23] valdir     100% cps=15.2  Eu vou pensar.  ->  Eu vou pensar.
+[11/23] nena       100% cps= 9.3  De novo?  ->  De novo.
+[12/23] valdir     100% cps=13.9  O gerador é meu. Ele fica na garagem, com o portão fechado. Porque aqui roubam até a sombra.  ->  o gerador é meu, ele fica na garagem com o portão fechado porque aqui roubam até a sombra.
+[13/23] narrador   100% cps=18.8  Ninguém deu muita atenção àquela frase. No dia seguinte, ela quase custou caro.  ->  Ninguém deu muita atenção àquela frase, no dia seguinte ela quase custou caro.
+[15/23] caio       100% cps=13.4  Mãe, a geladeira parou. E a insulina da vó?  ->  Mãe, a geladeira parou, e a insulina da vó?
+[16/23] sonia       98% cps=15.2  A que tá em uso aguenta um tempo fora da geladeira, mas não nesse calor. Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo. Sem encostar no gelo. Se congelar, não pode mais usar.  ->  A que está em uso aguenta um tempo fora da geladeira, mas não nesse calor.  Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo, sem encostar  no gelo.  Se congelar, não pode mais usar.
+[17/23] caio       100% cps=17.6  E onde é que eu arrumo gelo com o bairro inteiro sem luz?  ->  E onde é que eu arrumo gelo com o bairro inteiro sem luz?
+[18/23] sonia       93% cps=15.3  Dá o teu jeito, filho. Eu tô com quarenta pacientes aqui. O sinal vai cair.  ->  Dá o teu jeito filho, eu tô com 40 pacientes aqui, o sinal vai cair.
+[19/23] narrador   100% cps=21.0  Sem energia, a família fez o que dava.  ->  Sem energia, a família fez o que dava.
+[20/23] narrador   100% cps=20.0  Cortinas fechadas durante o dia, para o sol não entrar. Janelas abertas à noite, de um lado ao outro, para o ar circular.  ->  Cortinas fechadas durante o dia para o sol não entrar.  Janelas abertas à noite de um lado ao outro para o ar circular.
+[21/23] nena       100% cps=14.9  Esse gerador do Valdir faz mais barulho que o Valdir.  ->  Esse gerador do Valdir faz mais barulho que o Valdir.
+[22/23] caio       100% cps=11.7  Dorme, vó.  ->  Dorme, vó!
+[23/23] narrador   100% cps=19.8  Eles ainda não sabiam. Mas o dia seguinte seria o mais quente da história da cidade.  ->  Eles ainda não sabiam, mas o dia seguinte seria o mais quente da história da cidade.
+OK cap04_a_reuniao.wav: 90.0s, precisão média 97.8%
+== cap05_o_mar
+[2/29] narrador    95% cps=18.4  Às cinco e meia da manhã, o Caio saiu de casa. Pela primeira vez na vida, ele tinha um plano.  ->  À cinco e meia da manhã, o Caio saiu de casa.  Pela primeira vez na vida, ele tinha um plano.
+[3/29] caio        80% cps=11.7  Trabalhar cedo e voltar antes das dez. Das dez às quatro, sol só pela janela.  ->  trabalhar cedo e voltar antes das 10, das 10 às 4 sol só pela janela.
+[4/29] narrador    94% cps=18.5  Entre as dez da manhã e as quatro da tarde, o sol é mais forte. É o horário em que o calor mais adoece.  ->  em que às dez da manhã e às quatro da tarde o sol é mais forte.  É o horário em que o calor mais adoece.
+[6/29] narrador   100% cps=19.3  Na orla, multidões tinham passado a noite na areia, fugindo de casas que não esfriavam mais.  ->  Na orla, multidões tinham passado a noite na areia, fugindo de casas que não esfriavam  mais.
+[7/29] senhora    100% cps=13.1  Moço, desculpa a bagunça. A gente não aguentou ficar em casa.  ->  Moço, desculpa a bagunça. A gente não aguentou ficar em casa.
+[8/29] caio       100% cps=14.6  Que bagunça? Melhor endereço do Rio.  ->  Que bagunça, melhor endereço do rio.
+[10/29] tiao       100% cps=12.7  Olha quem tá vivo! O moleque do sinal vermelho.  ->  Olha quem tá vivo, o moleque do Sinal Vermelho.
+[11/29] caio        90% cps=13.3  Tião, preciso de gelo. É pra insulina da minha vó.  ->  Tião, preciso de gelo, é pra insulina da minha avó.
+[12/29] tiao        89% cps=12.1  Gelo hoje tá mais disputado que ingresso de final.  ->  Gelo hoje está mais disputado que ingresso de final.
+[13/29] caio       100% cps=11.5  Eu pago.  ->  Eu pago.
+[14/29] tiao       100% cps=14.1  Paga nada. Tu me paga quando ficar rico com o bônus calor.  ->  Paga nada. Tu me paga quando ficar rico com o bônus calor.
+[15/29] caio       100% cps=16.6  Como é que tu sabe do bônus calor?  ->  Como é que tu sabe do bônus calor?
+[16/29] tiao       100% cps=12.9  Todo entregador que passa aqui reclama do bônus calor.  ->  Todo entregador que passa aqui reclama do bônus calor.
