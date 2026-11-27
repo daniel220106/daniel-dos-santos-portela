@@ -4,6 +4,12 @@ Atualizado em 27/11/2026, às ~21:50 UTC, no fim da sessão `session_0176vtWdHsD
 Branch de trabalho: **`claude/dreamy-faraday-3yay8l`**, no repositório `daniel220106/daniel-dos-santos-portela`.
 **Leia este arquivo e o `CLAUDE.md` antes de fazer qualquer coisa.**
 
+
+> **ATUALIZAÇÃO (27/11, ~20h50 de Brasília):** as vozes do Vídeo 3 estão **COMPLETAS** (11 trechos, de 94,9% a 98,4%).
+> Quatro falas foram corrigidas: "Do trezentos e dois?", "Bebe, vó.", "Já ligou pro cento e noventa e dois?" e "o gelo é de graça". Na legenda, os números aparecem em algarismos.
+> Já foram feitos: a linha do tempo real (**16:58**), a revisão de 75 quadros com 3 ajustes, o mix (-14,6 LUFS), o SRT e a descrição.
+> **Em andamento:** a renderização (`render/video03_video_sem_legenda.mp4`). Depois vêm a exportação para `VIDEO_03/EXPORTACAO/E_SE_ACONTECER_VIDEO_03_{youtube_1080p,720p}.mp4` e a auditoria (`scripts/auditoria_video.py`), que é o passo 8 da seção 4. Os passos 1 a 4 da seção 4 já foram feitos.
+
 ---
 
 ## 1. Situação dos vídeos (sem misturar)
