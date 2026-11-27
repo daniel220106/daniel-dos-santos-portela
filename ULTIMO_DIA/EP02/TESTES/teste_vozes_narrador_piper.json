@@ -1,0 +1,152 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.",
+  "inicio": 0.0,
+  "fim": 4.35
+ },
+ {
+  "personagem": "narrador",
+  "texto": "O problema? Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "inicio": 4.9,
+  "fim": 9.005
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você viu a quantidade de água lá fora?",
+  "inicio": 9.665,
+  "fim": 13.045
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Vi. E tenho uma notícia boa.",
+  "inicio": 13.305,
+  "fim": 15.645
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Qual?",
+  "inicio": 15.725,
+  "fim": 16.084
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Meu carro continua estacionado.",
+  "inicio": 16.344,
+  "fim": 18.633
+ },
+ {
+  "personagem": "marina",
+  "texto": "Rafael, a garagem está alagando!",
+  "inicio": 18.713,
+  "fim": 21.753
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Ah. Então tenho uma notícia ruim também.",
+  "inicio": 22.013,
+  "fim": 25.753
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Vocês podem parar de brincar e começar a pegar os documentos?",
+  "inicio": 26.013,
+  "fim": 30.236
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Eu já peguei!",
+  "inicio": 30.316,
+  "fim": 31.115
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ótimo. E o que você colocou na mochila?",
+  "inicio": 31.375,
+  "fim": 34.395
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Meu videogame.",
+  "inicio": 34.655,
+  "fim": 35.875
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pedro!",
+  "inicio": 35.595,
+  "fim": 36.155
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Tá bom, tá bom! Também coloquei uma camiseta!",
+  "inicio": 36.235,
+  "fim": 39.695
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você pegou a mochila?",
+  "inicio": 40.555,
+  "fim": 41.736
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 41.816,
+  "fim": 42.636
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Os documentos?",
+  "inicio": 42.716,
+  "fim": 43.776
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 43.856,
+  "fim": 44.736
+ },
+ {
+  "personagem": "marina",
+  "texto": "Água?",
+  "inicio": 44.816,
+  "fim": 45.476
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 45.556,
+  "fim": 46.316
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Remédios?",
+  "inicio": 46.396,
+  "fim": 47.156
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 47.236,
+  "fim": 48.056
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então por que você está segurando um controle de televisão?",
+  "inicio": 48.316,
+  "fim": 52.356
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Porque eu também tenho prioridades.",
+  "inicio": 52.616,
+  "fim": 54.516
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente a rotina daquela cidade.",
+  "inicio": 55.566,
+  "fim": 61.26
+ }
+]
