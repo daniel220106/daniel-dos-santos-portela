@@ -56,11 +56,12 @@ def ler_roteiro(arq):
     return itens
 
 
-def tratar(w, sr):
+def tratar(w, sr, telefone=False):
     with tempfile.TemporaryDirectory() as td:
         sf.write(f'{td}/a.wav', w, sr)
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{td}/a.wav', '-af',
-                        'highpass=f=75,lowpass=f=11500,deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2',
+                        ('highpass=f=380,lowpass=f=3300,acompressor=threshold=-24dB:ratio=4:attack=5:release=80:makeup=3,aecho=0.8:0.5:6:0.12' if telefone else
+                         'highpass=f=75,lowpass=f=11500,deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2'),
                         '-ar', str(SR_OUT), '-ac', '1', f'{td}/b.wav'], check=True)
         y, _ = sf.read(f'{td}/b.wav', dtype='float32')
     rms = librosa.feature.rms(y=y, frame_length=2048, hop_length=512)[0]
@@ -125,7 +126,7 @@ def main():
         _, w, ouvido, sem, cps, sr = melhor
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})
-        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr)})
+        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr, it.get('modo') == 'telefone')})
 
     # montagem
     pedacos, tempos, t = [], [], 0.0
@@ -137,7 +138,10 @@ def main():
         t = max(t, 0.0)
         pan = elenco[f['personagem']].get('pan', 0.0)
         pos.append((t, f['audio'], pan))
-        tempos.append({'personagem': f['personagem'], 'texto': f['texto'], 'inicio': round(t, 3), 'fim': round(t + len(f['audio']) / SR_OUT, 3)})
+        y = f['audio']; n = SR_OUT // 30  # envelope de volume a 30 quadros/s (movimento da boca)
+        env = np.sqrt(np.mean(y[:len(y) // n * n].reshape(-1, n) ** 2, axis=1)); env = np.clip(env / (env.max() + 1e-9), 0, 1)
+        tempos.append({'personagem': f['personagem'], 'texto': f['texto'], 'modo': f.get('modo'), 'inicio': round(t, 3), 'fim': round(t + len(y) / SR_OUT, 3),
+                       'boca': [round(float(x), 2) for x in env]})
         t += len(f['audio']) / SR_OUT
     mix = np.zeros((int((t + 0.5) * SR_OUT), 2), np.float32)
     for t0, y, pan in pos:

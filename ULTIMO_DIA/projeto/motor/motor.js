@@ -136,6 +136,7 @@ function desenharPessoa(ctx, P, vis = VISUAIS.lucas) {
   c.fillStyle = vis.camisetaSombra; c.globalAlpha = 0.5;
   c.beginPath(); c.moveTo(-38, -8); c.lineTo(-10, -8); c.quadraticCurveTo(-18, -100, -26, -194); c.lineTo(-30, -194); c.quadraticCurveTo(-50, -184, -48, -148); c.quadraticCurveTo(-42, -80, -38, -8); c.fill();
   c.globalAlpha = 1;
+  if (P.costas) P.costas(c, vis); // acessório nas costas (mochila), usado no EP02
   // pescoço e cabeça
   const cab = P.cabeca || {}; const giro = cab.giro ?? 0, incl = cab.incl ?? 0;
   c.fillStyle = vis.peleSombra; rr(c, -8, -222, 26, 36, 8); c.fill();
