@@ -154,3 +154,19 @@ OK cap04_a_reuniao.wav: 90.0s, precisão média 97.8%
 [16/29] tiao       100% cps=12.9  Todo entregador que passa aqui reclama do bônus calor.  ->  Todo entregador que passa aqui reclama do bônus calor.
 [17/29] tiao        92% cps=13.3  Eu durmo na kombi, ali na esquina da tua rua. Qualquer coisa, grita.  ->  Eu durmo na combia, ali na esquina da tua rua, qualquer coisa grita.
 [18/29] narrador   100% cps=17.9  Do outro lado da cidade, a mãe do Caio estava na trigésima hora de plantão.  ->  Do outro lado da cidade, a mãe do Caio estava na trigésima hora de plantão.
+[19/29] enfermeira  100% cps=11.7  Sônia, vai descansar. Você tá de pé desde ontem.  ->  Sônia, vai descansar, você tá de pé desde ontem.
+[20/29] sonia      100% cps=15.9  Daqui a pouco.  ->  daqui a pouco.
+[21/29] enfermeira  100% cps=15.5  É o terceiro idoso que chega confuso só hoje de manhã. E todos dizem a mesma coisa. Que tinham bebido água.  ->  É o terceiro idoso que chega confuso só hoje de manhã  e todos dizem a mesma coisa, que tinham bebido água.
+[22/29] sonia      100% cps=19.0  Eles sempre dizem isso.  ->  Eles sempre dizem isso.
+[24/29] sonia      100% cps=16.2  A minha mãe também diz.  ->  A minha mãe também diz.
+[26/29] duda       100% cps=12.1  Insulina no pote, pote no pano, e nada encostando no gelo. Igual a mãe falou.  ->  Insulina no pote, pote no pano e nada encostando no gelo, igual a mãe falou.
+[27/29] caio       100% cps=14.8  Tu é a pessoa mais organizada desta família.  ->  Tu é a pessoa mais organizada desta família.
+[28/29] duda       100% cps=11.3  Não é muito difícil, né, Caio.  ->  Não é muito difícil, né Caio?
+[29/29] narrador   100% cps=17.0  Eram nove e quarenta da manhã. E o termômetro já marcava quarenta e um graus.  ->  eram nove e quarenta da manhã, e o termômetro já marcava quarenta e um graus.
+OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
+== cap06_cinquenta
+[1/34] narrador    89% cps=19.8  No terceiro dia, o termômetro chegou a cinquenta graus.  ->  No terceiro dia, o termômetro chegou a 50 graus.
+[2/34] narrador   100% cps=19.9  Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.  ->  Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.
+[3/34] narrador   100% cps=18.3  E o prédio já estava sem água fazia vinte e quatro horas.  ->  e o prédio já estava sem água fazia 24 horas.
+[5/34] duda       100% cps=14.3  Caio, essa fila não acaba.  ->  Caio, essa fila não acaba.
+[6/34] caio       100% cps=14.7  Fica na sombra com a Pipoca. Eu seguro o lugar.  ->  Fica na sombra com a pipoca.  Eu seguro o lugar.
