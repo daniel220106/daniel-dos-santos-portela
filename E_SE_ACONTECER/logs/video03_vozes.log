@@ -211,3 +211,20 @@ OK cap06_cinquenta.wav: 97.7s, precisão média 97.8%
 [12/37] valdir      88% cps=14.4  É do SAMU? Tem um senhor de oitenta e um anos aqui, muito fraco, por causa do calor.  ->  É do Samu? Tem um senhor de 81 anos aqui, muito fraco por causa do calor.
 [13/37] atendente  100% cps=11.4  Senhor, ele está acordado e conversando?  ->  Senhor, Ele está acordado e conversando.
 [14/37] valdir     100% cps=10.8  Tá. Fraco, mas tá.  ->  Tá, fraco, mas tá.
+[15/37] atendente  100% cps=13.7  A demanda hoje está muito alta. Se o senhor tem como levar com segurança, a unidade de saúde mais próxima pode ser mais rápida. Mantenha ele fresco no caminho.  ->  A demanda hoje está muito alta.  Se o senhor tem como levar com segurança, a unidade de saúde mais próxima pode ser  mais rápida.  Mantenha ele fresco no caminho.
+[16/37] valdir     100% cps=16.9  Meu carro tem ar-condicionado. Eu levo.  ->  Meu carro tem ar-condicionado. Eu levo.
+[17/37] ademar     100% cps=12.7  Nena. O rádio. Não deixa ninguém mexer.  ->  Nena, o rádio, não deixa ninguém mexer.
+[18/37] nena       100% cps=13.1  Que rádio é esse que vale mais que você, homem?  ->  Que rádio é esse que vale mais que você, homem?
+[19/37] ademar    (cache) A fita. É a Lurdes cantando. Ela gravou em setenta e nove.
+[20/37] nena       100% cps= 9.1  Então eu guardo.  ->  Então, eu guardo.
+[21/37] caio       100% cps=13.5  Duda, fica com a vó. Eu vou junto.  ->  Duda, fica com a vó, eu vou junto.
+[23/37] ademar     100% cps=19.5  Faz uns vinte anos que eu não ando de carro com ar-condicionado.  ->  Faz uns 20 anos que eu não ando de carro com ar condicionado.
+[24/37] valdir     100% cps=14.4  O carro era da Célia. Foi ela que escolheu essa cor.  ->  o carro era da Celia. Foi ela que escolheu essa cor.
+[25/37] caio       100% cps=13.4  A Célia é sua esposa?  ->  A Célia é sua esposa?
+[26/37] valdir     100% cps=13.2  Era. Foi embora faz dois anos. Levou o cachorro e deixou o carro.  ->  era, foi embora faz dois anos, levou o cachorro e deixou o carro.
+[27/37] ademar     100% cps=15.0  A minha também foi embora. Mas não levou nada. Deixou a voz.  ->  A minha também foi embora, mas não levou nada, deixou a voz.
+[28/37] ademar      98% cps=15.0  Por isso o rádio. Às seis da tarde, ela cantava fazendo a janta. Eu ligo o rádio e a casa fica com cheiro de janta.  ->  Por isso rádio.  Às seis da tarde ela cantava fazendo a janta.  Eu ligo o rádio e a casa fica com cheiro de janta.
+[29/37] valdir     100% cps=10.1  É o suor.  ->  É o suor.
+[30/37] caio       100% cps=12.2  Claro, Seu Valdir. Suor.  ->  Claro! Seu Valdir, suor!
+[31/37] narrador    96% cps=19.4  Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele. Mais velhas, morando sozinhas, que não pediram ajuda a tempo.  ->  Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele, mas velhas  morando sozinhas que não pediram ajuda a tempo.
+[33/37] caio       100% cps=14.4  Ela tá bem?  ->  Ela tá bem?
