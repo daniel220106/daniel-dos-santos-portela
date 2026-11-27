@@ -26,7 +26,7 @@
  {
   "personagem": "lucas",
   "texto": "Qual?",
-  "ouvido": "Uau!",
+  "ouvido": "uau",
   "semelhanca": 0.0
  },
  {
@@ -86,13 +86,13 @@
  {
   "personagem": "lucas",
   "texto": "Você pegou a mochila?",
-  "ouvido": "Você pegou a mochila.",
+  "ouvido": "Você pegou a mochila?",
   "semelhanca": 1.0
  },
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "Beleza!",
+  "ouvido": "Tchau tchau!",
   "semelhanca": 0.0
  },
  {
@@ -104,7 +104,7 @@
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "Tchau tchau!",
+  "ouvido": "Beleza!",
   "semelhanca": 0.0
  },
  {
@@ -116,19 +116,19 @@
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "Bele!",
+  "ouvido": "Beleza!",
   "semelhanca": 0.0
  },
  {
   "personagem": "lucas",
   "texto": "Remédios?",
-  "ouvido": "Remédios.",
+  "ouvido": "Remédios",
   "semelhanca": 1.0
  },
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "tchau tchau",
+  "ouvido": "Beleza!",
   "semelhanca": 0.0
  },
  {

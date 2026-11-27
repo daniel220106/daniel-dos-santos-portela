@@ -8,8 +8,8 @@
  {
   "personagem": "narrador",
   "texto": "O problema? Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
-  "ouvido": "O problema é que milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
-  "semelhanca": 0.923
+  "ouvido": "O problema, milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "semelhanca": 1.0
  },
  {
   "personagem": "lucas",
@@ -20,13 +20,13 @@
  {
   "personagem": "rafael",
   "texto": "Vi. E tenho uma notícia boa.",
-  "ouvido": "e tenha uma notícia boa.",
+  "ouvido": "E tem uma notícia boa.",
   "semelhanca": 0.727
  },
  {
   "personagem": "lucas",
   "texto": "Qual?",
-  "ouvido": "Uau!",
+  "ouvido": "Vôo!",
   "semelhanca": 0.0
  },
  {
@@ -56,20 +56,20 @@
  {
   "personagem": "pedro",
   "texto": "Eu já peguei!",
-  "ouvido": "Eu já apitei.",
+  "ouvido": "Eu já pedi.",
   "semelhanca": 0.667
  },
  {
   "personagem": "marina",
   "texto": "Ótimo. E o que você colocou na mochila?",
-  "ouvido": "e o que você colocou na mochila.",
-  "semelhanca": 0.933
+  "ouvido": "Ótimo! E o que você colocou na mochila?",
+  "semelhanca": 1.0
  },
  {
   "personagem": "pedro",
   "texto": "Meu videogame.",
-  "ouvido": "Eu vejo você mais uma vez.",
-  "semelhanca": 0.0
+  "ouvido": "meu vídeo bem.",
+  "semelhanca": 0.4
  },
  {
   "personagem": "marina",
@@ -86,7 +86,7 @@
  {
   "personagem": "lucas",
   "texto": "Você pegou a mochila?",
-  "ouvido": "Você pegou a mochila?",
+  "ouvido": "Você pegou a mochila.",
   "semelhanca": 1.0
  },
  {
@@ -104,14 +104,14 @@
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "Bye, bye!",
+  "ouvido": "tchau tchau",
   "semelhanca": 0.0
  },
  {
   "personagem": "marina",
   "texto": "Água?",
-  "ouvido": "Ah, boa.",
-  "semelhanca": 0.0
+  "ouvido": "Água.",
+  "semelhanca": 1.0
  },
  {
   "personagem": "rafael",
@@ -128,7 +128,7 @@
  {
   "personagem": "rafael",
   "texto": "Peguei.",
-  "ouvido": "Beleza!",
+  "ouvido": "Bebê!",
   "semelhanca": 0.0
  },
  {
