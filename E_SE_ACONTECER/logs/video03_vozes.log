@@ -248,3 +248,13 @@ OK cap07_o_radio_do_302.wav: 121.9s, precisão média 98.4%
 [12/35] caio       100% cps= 9.7  Nada? Nem água?  ->  Nada? Nem água?
 [13/35] atendente  100% cps=12.2  Confusa desse jeito, não. Ela pode engasgar. Se ela piorar, ligue de novo.  ->  Confusa desse jeito? Não. Ela pode engasgar. Se ela piorar, ligue de novo.
 [14/35] caio       100% cps=12.1  A calçada. Lá embaixo tá mais fresco.  ->  a calçada, lá embaixo tá mais fresco.
+[15/35] valdir     100% cps=13.6  Então ela desce agora. Eu pego as pernas da cadeira.  ->  Então ela desce agora, eu pego as pernas da cadeira.
+[16/35] narrador    63% cps=15.4  Quatro andares. Oitenta degraus. No escuro, a quarenta graus.  ->  Quatro andares, 80 de graus, no escuro a 40 graus.
+[17/35] vizinha    100% cps=11.5  Precisa de ajuda?  ->  precisa de ajuda?
+[18/35] caio       100% cps=12.8  Pano molhado! O máximo que der!  ->  pano molhado o máximo que der.
+[20/35] sonia       80% cps=10.8  Caio! Vi a tua mensagem. Já ligou pro 192?  ->  Caio, vi a tua mensagem. Já ligou pro 1.090 Azul?
+[21/35] caio       100% cps=14.5  Já. Tão vindo. A gente tá resfriando ela aqui na calçada.  ->  Já, tão vindo, a gente tá resfriando ela aqui na calçada.
+[22/35] sonia      100% cps=16.3  Fez certo, filho. Não para de resfriar até a ambulância chegar.  ->  Fez certo, filho. Não para de resfriar até a ambulância chegar.
+[23/35] sonia      100% cps=14.8  Você consegue. Eu tô saindo daqui agora.  ->  Você consegue? Eu tô saindo daqui agora.
+[24/35] tiao       100% cps=14.2  Ouvi a gritaria lá da esquina. Que que tá precisando?  ->  Ouvi a gritaria lá da esquina, que que tá precisando?
+[25/35] caio       100% cps= 9.7  Gelo, Tião! Tu tem gelo?  ->  Gelo, Tião, tu tem gelo.
