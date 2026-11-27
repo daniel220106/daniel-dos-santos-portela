@@ -66,10 +66,13 @@ function perfil() {
   const c = cv.getContext('2d'); c.scale(800 / 1080, 800 / 1080); c.translate(-(W - 1080) / 2, 0);  // quadrado central
   fundoCidade(c, {base1: 900, alt1: 320, base2: 960, alt2: 220, corte: 960});
   c.save(); c.textAlign = 'center'; c.textBaseline = 'middle'; c.shadowColor = 'rgba(0,0,0,0.85)'; c.shadowBlur = 50;
-  const [l1, l2] = NOME.includes(' ') ? [NOME.split(' ')[0], NOME.split(' ').slice(1).join(' ')] : [NOME, ''];
-  c.font = '700 230px Oswald'; c.fillStyle = PAL.texto;
-  c.fillText(l1, W / 2, l2 ? 395 : 500); if (l2) c.fillText(l2, W / 2, 690);
-  c.shadowBlur = 0; c.fillStyle = PAL.vermelhoVivo; c.fillRect(W / 2 - 170, 535, 340, 14);
+  // duas linhas: a última palavra embaixo (ex.: "E SE" / "ACONTECER?"), cada uma ajustada para caber no recorte redondo
+  const p = NOME.split(' '); const [l1, l2] = p.length > 1 ? [p.slice(0, -1).join(' '), p[p.length - 1]] : [NOME, ''];
+  const caber = (txt, max, larg) => { c.font = `700 ${max}px Oswald`; return Math.min(max, max * larg / c.measureText(txt).width); };
+  const t2 = l2 ? caber(l2, 230, 820) : 0, t1 = caber(l1, l2 ? t2 * 1.15 : 230, 700);
+  c.fillStyle = PAL.texto; c.font = `700 ${t1}px Oswald`; c.fillText(l1, W / 2, l2 ? 410 : 500);
+  if (l2) { c.font = `700 ${t2}px Oswald`; c.fillText(l2, W / 2, 680); }
+  c.shadowBlur = 0; c.fillStyle = PAL.vermelhoVivo; c.fillRect(W / 2 - 170, 548, 340, 14);
   c.restore();
   vinheta(c, 0.4);
   document.body.appendChild(cv);
