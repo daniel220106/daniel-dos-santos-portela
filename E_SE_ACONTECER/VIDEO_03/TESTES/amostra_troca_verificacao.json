@@ -1,0 +1,14 @@
+[
+ {
+  "personagem": "nena",
+  "texto": "Então desliga o celular que a sensação passa.",
+  "ouvido": "Então desliga o celular, que a sensação passa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "A água é quatro. O conselho é de graça.",
+  "ouvido": "A água é quatro, o conselho é de graça.",
+  "semelhanca": 1.0
+ }
+]

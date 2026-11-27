@@ -15,7 +15,7 @@
   "velocidade": 1.15
  },
  "nena": {
-  "voz": "../VOZES/referencias/ref_13069.wav",
+  "voz": "../VOZES/referencias/ref_11995.wav",
   "exaggeration": 0.6,
   "cfg": 0.4,
   "temp": 0.75,
@@ -51,10 +51,10 @@
   "velocidade": 1.15
  },
  "tiao": {
-  "voz": "../VOZES/referencias/ref_13063.wav",
-  "exaggeration": 0.7,
-  "cfg": 0.35,
-  "temp": 0.8,
+  "voz": "../VOZES/referencias/ref_4067.wav",
+  "exaggeration": 0.55,
+  "cfg": 0.4,
+  "temp": 0.75,
   "pan": -0.18,
   "seed": 127,
   "velocidade": 1.15
@@ -78,7 +78,7 @@
   "velocidade": 1.15
  },
  "feirante": {
-  "voz": "../VOZES/referencias/ref_4067.wav",
+  "voz": "../VOZES/referencias/ref_5739.wav",
   "exaggeration": 0.6,
   "cfg": 0.4,
   "temp": 0.75,
@@ -96,7 +96,7 @@
   "velocidade": 1.15
  },
  "homem": {
-  "voz": "../VOZES/referencias/ref_4067.wav",
+  "voz": "../VOZES/referencias/ref_5739.wav",
   "exaggeration": 0.65,
   "cfg": 0.4,
   "temp": 0.75,

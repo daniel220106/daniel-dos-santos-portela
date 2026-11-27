@@ -1,0 +1,62 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.",
+  "ouvido": "Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Dois reais de bônus calor. Caraca. Agora eu fico rico.",
+  "ouvido": "Dois reais de bônus calor, caraca, agora eu fico rico.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Então desliga o celular que a sensação passa.",
+  "ouvido": "Então desliga o celular que a sensação passa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Vó, aperta a minha mão.",
+  "ouvido": "Vó, aperta a minha mão.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Vinte anos de enfermagem, meu filho. Bebe. Agora.",
+  "ouvido": "20 anos de enfermagem, meu filho.  Bebe agora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Dona Nena, a gasolina tá pela hora da morte. Esse aqui é pra minha geladeira.",
+  "ouvido": "Dona Nena, a gasolina tá pela hora da morte.  Esse aqui é pra minha geladeira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "tiao",
+  "texto": "A água é quatro. O conselho é de graça.",
+  "ouvido": "A água é 4. O conselho é de graça.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "ademar",
+  "texto": "A fita. É a Lurdes cantando. Ela gravou em setenta e nove.",
+  "ouvido": "A fita é a Lourdes cantando.  Ela gravou em 79.",
+  "semelhanca": 0.727
+ },
+ {
+  "personagem": "zica",
+  "texto": "Valdir, meu filho tem oito meses. Ele não para de chorar de calor.",
+  "ouvido": "Valdir, meu filho tem 8 meses, ele não para de chorar de calor.",
+  "semelhanca": 0.923
+ },
+ {
+  "personagem": "atendente",
+  "texto": "SAMU, qual é a emergência?",
+  "ouvido": "Samu, qual é a emergência?",
+  "semelhanca": 1.0
+ }
+]
