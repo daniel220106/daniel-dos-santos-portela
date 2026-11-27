@@ -173,3 +173,4 @@ OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
 [7/34] mulher     100% cps= 9.8  Ô, moço! A fila é lá atrás!  ->  Ô moço, a fila é lá atrás?
 [8/34] homem      100% cps=15.8  Eu tenho três crianças em casa.  ->  Eu tenho três crianças em casa.
 [9/34] mulher      89% cps=13.3  E eu tenho quatro! Tô aqui desde as dez!  ->  e eu tenho quatro. Estou aqui desde as dez.
+[10/34] caio        94% cps=13.6  Ô, ô, ô! Calma, geral! Com cinquenta graus, se a gente brigar, o caminhão-pipa vira sauna.  ->  Ô, ô, ô, calma geral, com 50 graus, se a gente brigar, o caminhão pipa vira sauna.
