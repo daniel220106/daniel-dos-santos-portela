@@ -84,9 +84,69 @@
   "fim": 40.579
  },
  {
+  "personagem": "lucas",
+  "texto": "Você pegou a mochila?",
+  "inicio": 41.439,
+  "fim": 42.621
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 42.701,
+  "fim": 43.521
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Os documentos?",
+  "inicio": 43.601,
+  "fim": 44.661
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 44.741,
+  "fim": 45.621
+ },
+ {
+  "personagem": "marina",
+  "texto": "Água?",
+  "inicio": 45.701,
+  "fim": 46.361
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 46.441,
+  "fim": 47.201
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Remédios?",
+  "inicio": 47.281,
+  "fim": 48.041
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "inicio": 48.121,
+  "fim": 48.941
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então por que você está segurando um controle de televisão?",
+  "inicio": 49.201,
+  "fim": 53.241
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Porque eu também tenho prioridades.",
+  "inicio": 53.501,
+  "fim": 55.401
+ },
+ {
   "personagem": "narrador",
   "texto": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente a rotina daquela cidade.",
-  "inicio": 41.629,
-  "fim": 48.449
+  "inicio": 56.451,
+  "fim": 63.693
  }
 ]

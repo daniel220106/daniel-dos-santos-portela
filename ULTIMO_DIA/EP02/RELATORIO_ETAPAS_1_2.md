@@ -57,7 +57,7 @@ Referências: leitores de audiolivros do LibriVox (dataset CML-TTS, licença **C
 **Pedro:** não existe voz de criança livre para uso comercial. Usei uma voz feminina mais aguda, como a dublagem brasileira costuma fazer com meninos de 12 anos. É o ponto mais limitado do elenco.
 
 ### Resultado do teste
-- 29 falas, 6 vozes, **precisão média de 99%** no Whisper.
+- 28 falas, 6 vozes, 63,7 s, **precisão média de 99,4%** no Whisper.
 - Ajustes feitos depois do primeiro teste: o "Pedro!" da Marina vinha com sobras de som depois da palavra; agora cada fala é aparada no fim da última palavra.
 - Ponto para você conferir ouvindo: em "Ah. Então **tenho** uma notícia ruim", o Whisper entende "tem" (o Piper teve o mesmo problema, então pode ser só a fala rápida).
 

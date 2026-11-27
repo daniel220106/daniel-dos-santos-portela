@@ -84,6 +84,66 @@
   "semelhanca": 1.0
  },
  {
+  "personagem": "lucas",
+  "texto": "Você pegou a mochila?",
+  "ouvido": "Você pegou a mochila?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Peguei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Os documentos?",
+  "ouvido": "os documentos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Peguei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Água?",
+  "ouvido": "Água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Peguei!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Remédios?",
+  "ouvido": "Remédios",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Peguei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então por que você está segurando um controle de televisão?",
+  "ouvido": "Então, por que você está segurando um controle de televisão?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Porque eu também tenho prioridades.",
+  "ouvido": "porque eu também tenho prioridades.",
+  "semelhanca": 1.0
+ },
+ {
   "personagem": "narrador",
   "texto": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente a rotina daquela cidade.",
   "ouvido": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum  transformaria completamente a rotina daquela cidade.",
