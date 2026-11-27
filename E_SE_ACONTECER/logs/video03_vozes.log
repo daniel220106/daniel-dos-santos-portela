@@ -272,3 +272,4 @@ OK cap08_a_madrugada.wav: 119.4s, precisão média 96.5%
 [4/23] sonia      100% cps=17.6  Ela fala isso pra mim há trinta anos.  ->  Ela fala isso pra mim há 30 anos.
 [5/23] caio       100% cps=11.1  Mãe. Eu bebi água hoje. De verdade.  ->  Mãe, eu bebi água hoje, de verdade.
 [6/23] sonia      100% cps=12.7  Eu sei. Tô ouvindo pela tua voz.  ->  Eu sei. Tô ouvindo pela tua voz.
+[8/23] nena       100% cps=13.5  Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.  ->  Me tiraram de casa de camisola, Caio, na frente do prédio inteiro.
