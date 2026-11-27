@@ -39,8 +39,8 @@ for a0, b0, forte in [(0, fT(0) - 0.25, True), (fT(0) - 0.25, fT(12), False), (f
 
 # ---- efeitos ----
 fx.add(estereo(bp(ruido(2.4), 300, 1800) * np.exp(-t_(2.4) * 0.6) * 0.25), fT(0) - 0.2, 0.7)  # cafeteira passando café
-fx.add(estereo(nota(hz(88), 0.18, 0.25) + np.pad(nota(hz(93), 0.22, 0.25), (int(0.12 * SR), 0))[:int(0.18 * SR)], 0.2, 0.5), fT(6) - 0.35, 0.6)  # notificação
-for i, d in enumerate((0.0, 0.28, 0.56)): fx.add(clique(1.0) * 2.2, fT(8) - 1.2 + d)  # batidas na porta
+fx.add(estereo(nota(hz(88), 0.3, 0.25), 0.2), fT(6) - 0.35, 0.6); fx.add(estereo(nota(hz(93), 0.35, 0.25), 0.2), fT(6) - 0.23, 0.6)  # notificação
+for i, d in enumerate((0.0, 0.28, 0.56)): fx.add(clique(1.0) * 2.2, fT(8) - 1.4 + d)  # batidas na porta
 fx.add(estereo(lp(ruido(0.9, 'marrom'), 500) * np.exp(-t_(0.9) * 3) * 0.6), fT(8) - 0.55, 0.8)  # porta abrindo
 for r in (fT(11) - 0.3, fT(14) + 0.4): fx.add(impacto(3.0) * 0.8, r + 0.25, 0.9); fx.add(estereo(lp(ruido(2.5, 'marrom'), 200) * np.exp(-t_(2.5) * 1.5) * 0.8), r + 0.3, 0.8)  # trovão
 for i in range(3): fx.add(estereo(nota(hz(81), 0.25, 0.3, 'seno')), fT(11) - 0.2 + i * 0.35, 0.35)  # bipe do alerta na TV

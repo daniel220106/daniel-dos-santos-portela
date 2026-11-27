@@ -1,0 +1,110 @@
+[
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você vai demorar?",
+  "ouvido": "Rafael, você vai demorar?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô chegando.",
+  "ouvido": "Tô chegando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você falou isso há vinte minutos.",
+  "ouvido": "Você falou isso há 20 minutos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "O trânsito tá uma beleza.",
+  "ouvido": "O trânsito tá uma beleza.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você nem saiu de casa, né?",
+  "ouvido": "Você nem saiu de casa, né?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Como você sabe?",
+  "ouvido": "Como você sabe?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Porque você acabou de mandar uma foto deitado.",
+  "ouvido": "porque você acabou de mandar uma foto deitado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Detalhes.",
+  "ouvido": "detalhes.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Vocês estão vendo a previsão do tempo?",
+  "ouvido": "Vocês estão vendo a previsão do tempo?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Bom dia pra você também.",
+  "ouvido": "Bom dia pra você também!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Olha isso aqui.",
+  "ouvido": "Olha isso aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela manhã, os primeiros alertas pareciam apenas mais um aviso de chuva forte.",
+  "ouvido": "Naquela manhã, os primeiros alertas pareciam apenas mais um aviso de chuva forte.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mas, na nossa simulação, o volume de chuva começa a superar as expectativas em diferentes regiões.",
+  "ouvido": "Mas, na nossa simulação, o volume de chuva começa a superar as expectativas em diferentes  regiões.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ah, mas toda semana tem alerta de chuva.",
+  "ouvido": "Ah, mas toda semana tem alerta de chuva.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Dessa vez parece diferente.",
+  "ouvido": "Dessa vez parece diferente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Se chover, eu não vou trabalhar.",
+  "ouvido": "Se chover, eu não vou trabalhar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você já não trabalha quando faz sol!",
+  "ouvido": "Você já não trabalha quando faz sol.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô falando sério!",
+  "ouvido": "Tô falando sério?",
+  "semelhanca": 1.0
+ }
+]

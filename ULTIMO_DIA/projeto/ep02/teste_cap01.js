@@ -170,7 +170,7 @@ function TOMADAS() {
       const z = 1 + (T - t0) * 0.03; c.globalAlpha = 1;
     }, 'corte'],
     [fT(7), (c, T, t0) => { c.save(); cam(c, T, 1.15, 760, 560, t0); rafaelNaCama(c, T, { expr: 'sorriso' }); c.restore(); }],
-    [fT(8) - 0.6, wide({ ap: {}, pers: (c, T) => { const t = T - (fT(8) - 0.6); lucasCozinha(c, T, { giro: lerp(0.05, 0.3, sstep(0.2, 0.7, t)), tel: true }); porta(c, 1300, 300, 190, 626, sstep(0, 0.6, t)); if (t > 0.45) marinaPorta(c, T, { expr: 'firme' }); } })],
+    [fT(8) - 1.5, wide({ ap: {}, pers: (c, T) => { const t = T - (fT(8) - 1.5); lucasCozinha(c, T, { giro: lerp(0.05, 0.3, sstep(0.4, 0.9, t)), tel: true }); porta(c, 1300, 300, 190, 626, sstep(0.9, 1.4, t)); if (t > 1.15) marinaPorta(c, T, { expr: 'firme' }); } })],
     [fT(9), (c, T, t0) => { c.save(); cam(c, T, 2.0, 930, 440, t0, 0.015); apartamento(c, T, { porta: 1 }); lucasCozinha(c, T, { expr: 'duvida', giro: 0.3 }); c.restore(); }],
     [fT(10), (c, T, t0) => { c.save(); cam(c, T, 1.9, 1340, 450, t0, 0.015); apartamento(c, T, { porta: 1 }); marinaPorta(c, T, { expr: 'firme', aponta: sstep(fT(10), fT(10) + 0.5, T) }); c.restore(); }],
     [fT(11), (c, T, t0) => { c.save(); cam(c, T, 3.2, 1695, 400, t0, 0.03); apartamento(c, T, { porta: 1, tv: 'alerta' }); c.restore(); }],
