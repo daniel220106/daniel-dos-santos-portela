@@ -1,0 +1,224 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Na nossa simulação, a situação piora rapidamente. Algumas regiões recebem orientações para evacuação preventiva. O maior problema agora é que muitas pessoas estão tentando sair ao mesmo tempo.",
+  "ouvido": "Na nossa simulação, a situação piora rapidamente.  Algumas regiões recebem orientações para evacuação preventiva.  O maior problema agora é que muitas pessoas estão tentando sair ao mesmo tempo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "A gente precisa decidir agora.",
+  "ouvido": "A gente precisa decidir agora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ir pra onde?",
+  "ouvido": "ir pra onde?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Pra casa da minha irmã.",
+  "ouvido": "pra casa da minha irmã.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Onde ela mora?",
+  "ouvido": "onde ela mora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Do outro lado da cidade.",
+  "ouvido": "do outro lado da cidade.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Você quer atravessar a cidade com essa chuva?",
+  "ouvido": "Você quer atravessar a cidade com essa chuva?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu não quero ficar aqui!",
+  "ouvido": "Eu não quero ficar aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "E você acha que vai encontrar uma estrada vazia?",
+  "ouvido": "E você acha que vai encontrar uma estrada vazia?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Então o que a senhora sugere?",
+  "ouvido": "Então, o que a senhora sugere?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Primeiro, a gente descobre se este prédio está em uma área com risco de inundação. Depois, segue a orientação da Defesa Civil. Não é sair correndo sem saber pra onde.",
+  "ouvido": "Primeiro, a gente descobre se este prédio está em uma área com risco de inundação.  Depois, segue a orientação da Defesa Civil.  Não é sair correndo sem saber para onde.",
+  "semelhanca": 0.967
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Evacuar não significa simplesmente entrar em um carro e dirigir. É preciso seguir rotas seguras e orientações oficiais. Nunca se deve atravessar ruas inundadas ou tentar passar por áreas com correnteza.",
+  "ouvido": "Evacuar não significa simplesmente entrar em um carro e dirigir.  É preciso seguir rotas seguras e orientações oficiais.  Nunca se deve atravessar ruas inundadas ou tentar passar por áreas com correnteza.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Achei o aviso oficial. A nossa rua tá na área de risco, por causa do córrego.",
+  "ouvido": "Achei o aviso oficial.  A nossa rua está na área de risco por causa do córrego.",
+  "semelhanca": 0.938
+ },
+ {
+  "personagem": "rafael",
+  "texto": "O córrego que ninguém sabe o nome?",
+  "ouvido": "o córrego que ninguém sabe o nome.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Esse mesmo. Ele sabe o nosso endereço.",
+  "ouvido": "Esse mesmo. Ele sabe o nosso endereço.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Tem um abrigo numa escola, numa parte mais alta do bairro. Uns dois quilômetros daqui.",
+  "ouvido": "tem um abrigo numa escola numa parte mais alta do bairro, uns dois quilômetros daqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Dois quilômetros a pé, na chuva?",
+  "ouvido": "dois quilômetros a pé na chuva.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pela rota que a Defesa Civil indicou. Sem passar por rua alagada.",
+  "ouvido": "pela rota que a defesa civil indicou, sem passar por rua Alagada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Eu ando devagar.",
+  "ouvido": "Eu ando devagar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então a gente anda no seu ritmo.",
+  "ouvido": "Então, a gente anda no seu ritmo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Eu ando rápido!",
+  "ouvido": "Eu ando rápido.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Você vai na frente, de batedor.",
+  "ouvido": "Você vai na frente de batedor.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ninguém vai na frente. Todo mundo junto.",
+  "ouvido": "Ninguém vai na frente, todo mundo junto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Ué. Acabou a luz.",
+  "ouvido": "Acabou a luz.",
+  "semelhanca": 0.857
+ },
+ {
+  "personagem": "marina",
+  "texto": "A companhia deve ter desligado a energia da região, por segurança.",
+  "ouvido": "A companhia deve ter desligado a energia da região por segurança.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Por segurança de quem?",
+  "ouvido": "Por segurança de quem?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Da gente. Água e energia elétrica não combinam.",
+  "ouvido": "da gente. Água e energia elétrica não combinam.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Pega a lanterna, Lucas.",
+  "ouvido": "Pega a lanterna, Lucas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Peguei. E agora?",
+  "ouvido": "Peguei. E agora?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Agora vocês sentam um minuto. Eu vou contar uma coisa.",
+  "ouvido": "Agora vocês sentam um minuto, eu vou contar uma coisa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Muitos anos atrás, eu morava numa casa térrea, perto de outro córrego. Choveu a noite inteira. Meu marido disse que ia esperar a água baixar.",
+  "ouvido": "Muitos anos atrás, eu morava numa casa térrea, perto de outro córrego.  Choveu a noite inteira.  Meu marido disse que ia esperar a água baixar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "E baixou?",
+  "ouvido": "e baixou.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Subiu. Até a janela. A gente saiu pelo telhado, com a ajuda dos vizinhos.",
+  "ouvido": "Subiu até a janela.  A gente saiu pelo telhado com a ajuda dos vizinhos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "A senhora nunca contou isso.",
+  "ouvido": "A senhora nunca contou isso.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Ninguém nunca perguntou. Eu só aprendi uma coisa naquela noite. Quem espera a água pra decidir, decide tarde.",
+  "ouvido": "Ninguém nunca perguntou, eu só aprendi uma coisa naquela noite.  Quem espera a água pra decidir, decide tarde.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tá bom. Agora eu fiquei com medo de verdade.",
+  "ouvido": "Tá bom, agora eu fiquei com medo de verdade.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Que bom. Medo na medida certa ajuda a gente a sair na hora certa.",
+  "ouvido": "Que bom, medo, na medida certa, ajuda a gente a sair na hora certa.",
+  "semelhanca": 1.0
+ }
+]

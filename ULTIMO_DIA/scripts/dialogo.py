@@ -75,6 +75,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('roteiro'); ap.add_argument('saida'); ap.add_argument('--elenco', required=True)
     ap.add_argument('--tentativas', type=int, default=4)
+    ap.add_argument('--refazer', action='append', default=[], help='texto exato de uma fala para gerar de novo (novas sementes; só troca se ficar melhor)')
     a = ap.parse_args()
     elenco = json.load(open(a.elenco, encoding='utf-8'))
     base = os.path.dirname(os.path.abspath(a.elenco))
@@ -108,13 +109,17 @@ def main():
         # cache: a mesma fala (mesmo personagem, voz, ajustes e texto) não é gerada de novo
         chave = hashlib.sha1(json.dumps([it['personagem'], p, texto, tel], sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:16]
         arq_cache = os.path.join(CACHE, chave + '.npz')
-        if os.path.exists(arq_cache):
+        refazer = texto in a.refazer and os.path.exists(arq_cache) and it['personagem'] not in piper
+        if os.path.exists(arq_cache) and not refazer:
             z = np.load(arq_cache, allow_pickle=False)
             print(f"[{k+1}/{len(itens)}] {it['personagem']:9} (cache) {texto}", flush=True)
             log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': str(z['ouvido']), 'semelhanca': float(z['sem'])})
             falas.append({**it, 'texto': texto, 'audio': z['audio']}); continue
-        melhor = None
-        for t in range(a.tentativas if it['personagem'] not in piper else len(piper[it['personagem']][1])):
+        melhor, t0 = None, 0
+        if refazer:  # parte da versão atual; só troca se uma nova tentativa ficar melhor
+            z = np.load(arq_cache, allow_pickle=False); t0 = 50
+            melhor = (float(z['sem']), None, str(z['ouvido']), float(z['sem']), 0.0, None)
+        for t in range(t0, t0 + a.tentativas) if it['personagem'] not in piper else range(len(piper[it['personagem']][1])):
             if it['personagem'] in piper:
                 v, cfgs = piper[it['personagem']]; sr = v.config.sample_rate
                 w = np.concatenate([c.audio_float_array for c in v.synthesize(texto, syn_config=cfgs[t])])
@@ -132,10 +137,14 @@ def main():
                 w = w[i0:min(i1, len(w))]
             dur = len(w) / sr; cps = len(texto) / max(dur, 0.1)
             sem = semelhanca(texto, ouvido)
-            nota = sem - (0.25 if not 6 <= cps <= (24 if it['personagem'] in piper else 20) else 0) - 0.01 * t  # prefere a 1ª tentativa (velocidade pedida)
+            nota = sem - (0.25 if not 6 <= cps <= (24 if it['personagem'] in piper else 20) else 0) - 0.01 * (t - t0)  # prefere a 1ª tentativa (velocidade pedida)
             if melhor is None or nota > melhor[0]: melhor = (nota, w, ouvido, sem, cps, sr)
             if sem >= 0.95 and 6 <= cps <= (24 if it['personagem'] in piper else 20): break
         _, w, ouvido, sem, cps, sr = melhor
+        if w is None:  # nenhuma tentativa nova superou a atual
+            print(f"[{k+1}/{len(itens)}] {it['personagem']:9} (mantida) {texto}", flush=True)
+            log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido, 'semelhanca': sem})
+            falas.append({**it, 'texto': texto, 'audio': z['audio']}); continue
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})
         tempo = 1.0 if it['personagem'] in piper else p.get('velocidade', 1.0)  # Piper já sai na velocidade certa

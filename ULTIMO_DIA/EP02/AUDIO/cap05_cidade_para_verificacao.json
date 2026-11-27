@@ -1,0 +1,134 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Com a chuva persistente, a circulação começa a ficar comprometida em diferentes pontos da cidade. Os deslocamentos ficam cada vez mais imprevisíveis.",
+  "ouvido": "Com a chuva persistente, a circulação começa a ficar comprometida em diferentes pontos da cidade.  Os deslocamentos ficam cada vez mais imprevisíveis.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Consegui chegar!",
+  "ouvido": "consegui chegar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Onde você tá?",
+  "ouvido": "onde você está.",
+  "semelhanca": 0.667
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Na rua de trás.",
+  "ouvido": "na rua de Trás.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Como você veio?",
+  "ouvido": "Como você veio?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "A pé.",
+  "ouvido": "Ape!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "E o carro?",
+  "ouvido": "e o carro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Digamos que ele vai passar a noite em um lugar diferente.",
+  "ouvido": "Digamos que ele vai passar a noite em um lugar diferente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você abandonou o carro?",
+  "ouvido": "Você abandonou o carro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu prefiro dizer que dei férias pra ele.",
+  "ouvido": "Eu prefiro dizer que dei férias pra ele.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Entra logo!",
+  "ouvido": "Entra logo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Nossa, que recepção calorosa.",
+  "ouvido": "Nossa, que recepção calorosa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você tá encharcado!",
+  "ouvido": "Você tá encharcado?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Percebi quando começou a chover dentro do meu tênis.",
+  "ouvido": "percebi quando começou a chover dentro do meu tênis.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "O que aconteceu com o carro?",
+  "ouvido": "O que aconteceu com o carro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "O trânsito parou. E a água começou a subir em volta. Primeiro no pneu, depois na porta.",
+  "ouvido": "O trânsito parou e a água começou a subir em volta, primeiro no pneu, depois na porta.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "E você saiu.",
+  "ouvido": "E você saiu.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Saí. Depois de você gritar comigo no telefone.",
+  "ouvido": "saí, depois de você gritar comigo no telefone.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Eu não gritei.",
+  "ouvido": "Eu não gritei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Gritou. O motorista do lado ouviu e saiu também.",
+  "ouvido": "gritou. O motorista do lado ouviu e saiu também.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Então foi o grito mais útil do dia.",
+  "ouvido": "Então foi o grito mais útil do dia.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Se a água começa a subir em volta de um carro parado, a orientação é sair e procurar um lugar mais alto, desde que não haja correnteza. Um carro pode ser substituído. Uma pessoa, não.",
+  "ouvido": "Se a água começa a subir em volta de um carro parado, a orientação é sair e procurar  um lugar mais alto desde que não haja correnteza.  Um carro pode ser substituído.  Uma pessoa, não.",
+  "semelhanca": 1.0
+ }
+]

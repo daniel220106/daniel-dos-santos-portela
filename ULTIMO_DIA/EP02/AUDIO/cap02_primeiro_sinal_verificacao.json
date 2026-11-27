@@ -1,0 +1,134 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Duas horas depois, algumas ruas já estavam difíceis de atravessar. O trânsito começou a parar, e os primeiros registros de alagamentos apareceram nas redes sociais.",
+  "ouvido": "Duas horas depois, algumas ruas já estavam difíceis de atravessar.  O trânsito começou a parar, e os primeiros registros de alagamentos aparecerão nas redes sociais.",
+  "semelhanca": 0.96
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Olha isso aqui!",
+  "ouvido": "Olha isso aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "O quê?",
+  "ouvido": "Ok.",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "A avenida perto da estação. Tá completamente parada.",
+  "ouvido": "Avenida perto da estação.  Tá completamente parada.",
+  "semelhanca": 0.933
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Manda o endereço.",
+  "ouvido": "Manda o endereço.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pra quê?",
+  "ouvido": "pra aqui.",
+  "semelhanca": 0.5
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Porque eu tô indo pra aí.",
+  "ouvido": "porque eu tô indo pra aí.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você tá vindo de carro?",
+  "ouvido": "Você tá vindo de carro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô.",
+  "ouvido": "Tô.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Rafael, não vem!",
+  "ouvido": "Rafael, não vem!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Já tô no caminho.",
+  "ouvido": "Já tô no caminho.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então procura um lugar seguro e para. Não tenta atravessar água.",
+  "ouvido": "Então, procura um lugar seguro e para.  Não tenta atravessar água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tá bom, mãe.",
+  "ouvido": "Tá bom mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Não é brincadeira!",
+  "ouvido": "Não é brincadeira.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Marina, vem ver a rua.",
+  "ouvido": "Marina, vem ver a rua.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "O que foi?",
+  "ouvido": "O que foi?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "O bueiro da esquina tá devolvendo água.",
+  "ouvido": "O bueiro da esquina está devolvendo água.",
+  "semelhanca": 0.857
+ },
+ {
+  "personagem": "marina",
+  "texto": "Isso não é bom.",
+  "ouvido": "Isso não é bom.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Quanto você acha que tem ali? Um palmo?",
+  "ouvido": "Quanto você acha que tem ali um palmo?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Não importa quanto parece. Água de enchente engana.",
+  "ouvido": "Não importa quanto parece, água de enchente engana.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Durante uma enchente, a profundidade da água pode enganar. A correnteza pode arrastar pessoas e veículos. Uma decisão impulsiva pode transformar uma situação difícil em uma emergência ainda maior.",
+  "ouvido": "Durante uma enchente, a profundidade da água pode entenar.  A correnteza pode arrastar pessoas e veículos.  Uma decisão impulsiva pode transformar uma situação difícil e uma emergência ainda  maior.",
+  "semelhanca": 0.931
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Segundo as orientações de segurança, quinze centímetros de água em movimento já podem derrubar um adulto. E cerca de trinta centímetros podem arrastar um carro.",
+  "ouvido": "Segundo as orientações de segurança, 15 cm de água em movimento já podem derrubar  um adulto, e cerca de 30 cm podem arrastar um carro.",
+  "semelhanca": 0.88
+ }
+]

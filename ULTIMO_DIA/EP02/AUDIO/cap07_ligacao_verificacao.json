@@ -1,0 +1,104 @@
+[
+ {
+  "personagem": "lucas",
+  "texto": "Mãe?",
+  "ouvido": "Mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mae",
+  "texto": "Filho, você tá bem?",
+  "ouvido": "Filho, você está bem!",
+  "semelhanca": 0.75
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Tô. Tá tudo certo aqui.",
+  "ouvido": "Tô, tá tudo certo aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mae",
+  "texto": "Eu tô vendo as notícias. Você precisa sair daí!",
+  "ouvido": "Eu tô vendo as notícias.  Você precisa sair daí.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "A gente tá vendo o que fazer.",
+  "ouvido": "A gente tá vendo o que fazer.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mae",
+  "texto": "Não espera a água chegar.",
+  "ouvido": "Não espera a água chegar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Eu sei, mãe.",
+  "ouvido": "Eu sei, mãe.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mae",
+  "texto": "E o Rafael?",
+  "ouvido": "e o Rafael.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Tá aqui.",
+  "ouvido": "aqui.",
+  "semelhanca": 0.667
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Fala que eu tô lindo!",
+  "ouvido": "FALA QUE EU TÔ LINDO",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ele tá sendo ele mesmo.",
+  "ouvido": "Ele tá sendo ele mesmo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "mae",
+  "texto": "Lucas, escuta. Se precisar vir pra cá, vem antes de ficar impossível.",
+  "ouvido": "Lucas, escuta, se precisar vir pra cá, vem antes de ficar impossível.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Mãe, acho que a gente vai precisar sair.",
+  "ouvido": "Mãe, acho que a gente vai precisar sair.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pessoal. A gente sai às quatro. Antes de escurecer.",
+  "ouvido": "pessoal.  A gente sai às 4, antes de escurecer.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "marina",
+  "texto": "De noite fica muito mais difícil ver buraco, fio caído e água.",
+  "ouvido": "De noite fica muito mais difícil ver buraco, fio caído e água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Então dá tempo de um café?",
+  "ouvido": "Então, dá tempo de um café?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Não.",
+  "ouvido": "Não.",
+  "semelhanca": 1.0
+ }
+]

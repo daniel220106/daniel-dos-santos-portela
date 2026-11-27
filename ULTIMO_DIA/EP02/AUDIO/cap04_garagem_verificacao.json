@@ -1,0 +1,122 @@
+[
+ {
+  "personagem": "morador",
+  "texto": "Meu carro tá lá embaixo!",
+  "ouvido": "Meu carro tá lá embaixo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Não desce!",
+  "ouvido": "Não desce!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "morador",
+  "texto": "Eu só vou tirar ele!",
+  "ouvido": "Eu só vou tirar ele.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "A água já chegou na rampa!",
+  "ouvido": "A água já chegou na rampa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "morador",
+  "texto": "Mas é só um minuto!",
+  "ouvido": "mas é só um minuto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Um minuto é suficiente pra você ficar preso lá embaixo!",
+  "ouvido": "Um minuto é suficiente para você ficar preso lá embaixo.",
+  "semelhanca": 0.9
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Então meu carro de brinquedo também vai alagar?",
+  "ouvido": "Então, meu carro de brinquedo também vai alagar?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pedro, agora não!",
+  "ouvido": "Pedro.  Agora não.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Só perguntei!",
+  "ouvido": "Só perguntei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Deixa o menino. Pelo menos ele tá preocupado com alguma coisa que não custa cem mil reais.",
+  "ouvido": "deixa o menino pelo menos ele está preocupado com alguma coisa que não custa 100 mil reais",
+  "semelhanca": 0.941
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Uma garagem subterrânea pode se transformar em um ponto extremamente perigoso. A água pode entrar rapidamente e bloquear as saídas.",
+  "ouvido": "Uma garagem subterrânea pode se transformar em um pompe extremamente perigoso.  A água pode entrar rapidamente e bloquear as saídas.",
+  "semelhanca": 0.95
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Vamos pegar o elevador e subir as coisas do térreo.",
+  "ouvido": "Vamos pegar o elevador e subir as coisas do térreo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Elevador não. Se faltar energia, a gente fica preso lá dentro.",
+  "ouvido": "elevador não. Se faltar energia, a gente fica preso lá dentro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Escada. E devagar.",
+  "ouvido": "escada e devagar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Em situações de inundação, a orientação é evitar elevadores. E, se a água começar a entrar no imóvel, desligar a energia no quadro de luz, desde que isso possa ser feito com segurança, sem tocar em nada molhado.",
+  "ouvido": "Em situações de inundação, a orientação é evitar elevadores.  Se a água começar a entrar no imóvel, deslidar a energia no quadro de luz, desde que isso  possa ser feito com segurança sem tocar em nada molhado.",
+  "semelhanca": 0.96
+ },
+ {
+  "personagem": "morador",
+  "texto": "Pelo menos dá pra subir as coisas do térreo?",
+  "ouvido": "Pelo menos dá pra subir as coisas do térreo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Isso sim. Vamos ajudar.",
+  "ouvido": "Isso sim, vamos ajudar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Eu carrego as almofadas!",
+  "ouvido": "Eu carrego as almofadas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "O herói das almofadas.",
+  "ouvido": "O herói das almofadas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Alguém tem que ser.",
+  "ouvido": "Alguém tem que ser.",
+  "semelhanca": 1.0
+ }
+]

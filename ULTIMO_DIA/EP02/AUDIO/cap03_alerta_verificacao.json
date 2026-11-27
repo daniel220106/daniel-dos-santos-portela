@@ -1,0 +1,188 @@
+[
+ {
+  "personagem": "lucas",
+  "texto": "Marina.",
+  "ouvido": "Marina.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Eu também recebi.",
+  "ouvido": "Eu também recebi.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Tá falando sério isso?",
+  "ouvido": "Tá falando sério isso?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pega seus documentos.",
+  "ouvido": "pegue seus documentos.",
+  "semelhanca": 0.667
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Calma. A gente nem sabe se vai chegar aqui.",
+  "ouvido": "Calma, a gente nem sabe se vai chegar aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "É exatamente por isso que a gente precisa se preparar antes.",
+  "ouvido": "É exatamente por isso que a gente precisa se preparar antes.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Minha mãe falou que a gente vai sair daqui.",
+  "ouvido": "Minha mãe falou que a gente vai sair daqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você já arrumou sua mochila?",
+  "ouvido": "Você já arrumou sua mochila?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Arrumei.",
+  "ouvido": "Arrumei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "O que você colocou?",
+  "ouvido": "O que você colocou?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Meu videogame.",
+  "ouvido": "Meu videogame.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pedro!",
+  "ouvido": "Pedro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "E o carregador!",
+  "ouvido": "e o carregador.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pelo menos ele é organizado.",
+  "ouvido": "pelo menos ele é organizado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Organizado? Ele esqueceu a roupa!",
+  "ouvido": "organizado, ele esqueceu a roupa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Oi, mãe!",
+  "ouvido": "Oi, mãe!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Pedro, a mãe vai ficar presa no plantão. O hospital tá cheio.",
+  "ouvido": "Pedro, a mãe vai ficar presa no plantão. O hospital tá cheio.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "E eu?",
+  "ouvido": "E eu...",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Você fica com a Dona Cida e com a Marina. Faz tudo o que elas mandarem, tá?",
+  "ouvido": "Você fica com a Dona Cida e com a Marina, faz tudo o que elas mandarem, tá?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Tudo?",
+  "ouvido": "Tudo!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Tudo, Pedro.",
+  "ouvido": "Tudo, Pedro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Até guardar o videogame?",
+  "ouvido": "Até guardar o videogame!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Principalmente isso.",
+  "ouvido": "principalmente isso.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pode deixar, Sandra. Ele fica com a gente.",
+  "ouvido": "Pode deixar, Sandra. Ele fica com a gente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Quando existe risco de inundação, preparar os itens essenciais e sair antes de uma área vulnerável pode fazer toda a diferença.",
+  "ouvido": "Quando existe risco de inundação, preparar os itens essenciais e sair antes de uma área  vulnerável pode fazer toda a diferença.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Documentos dentro de um saco plástico. Remédios de uso contínuo. Água, lanterna, carregador portátil e uma muda de roupa. Coisas simples, que fazem falta justamente quando não dá mais para voltar e buscar.",
+  "ouvido": "Documentos dentro de um saco plástico Remédios de uso contínuo  Água, lanterna, carregador portátil e uma muda de roupa  Coisas simples que fazem falta justamente quando não dá mais para voltar e buscar",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Saco plástico pros documentos?",
+  "ouvido": "Saco plástico pros documentos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Saco plástico pra tudo que não pode molhar.",
+  "ouvido": "Saco plástico pra tudo que não pode molhar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Inclusive o seu celular, Lucas.",
+  "ouvido": "Inclusive o seu celular, Lucas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Meu celular é à prova d'água.",
+  "ouvido": "Meu celular é a prova d'água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "O seu juízo é que não é.",
+  "ouvido": "O seu juízo é que não é.",
+  "semelhanca": 1.0
+ }
+]

@@ -1,0 +1,176 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Seis e meia da manhã. Zona Leste de São Paulo. Um prédio comum, de seis andares, a duas quadras de um córrego que quase ninguém no bairro sabe o nome.",
+  "ouvido": "6h30 da manhã, zona leste de São Paulo, um prédio comum de 6 andares a 2 quadras  de um córrego que quase ninguém no bairro sabe o nome.",
+  "semelhanca": 0.862
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Aqui mora o Lucas. Vinte e nove anos, curioso, impulsivo, e convencido de que entende de previsão do tempo, porque tem três aplicativos de clima no celular.",
+  "ouvido": "Aqui mora o Lucas, 29 anos, curioso, impulsivo e convencido de que entende de previsão do  tempo porque tem três aplicativos de clima no celular.",
+  "semelhanca": 0.923
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você vai demorar?",
+  "ouvido": "Rafael, você vai demorar?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô chegando.",
+  "ouvido": "Tô chegando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você falou isso há vinte minutos.",
+  "ouvido": "Você falou isso há 20 minutos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "O trânsito tá uma beleza.",
+  "ouvido": "O trânsito está uma beleza.",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você nem saiu de casa, né?",
+  "ouvido": "Você nem saiu de casa, né?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Como você sabe?",
+  "ouvido": "Como você sabe?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Porque você acabou de mandar uma foto deitado.",
+  "ouvido": "porque você acabou de mandar uma foto deitado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Detalhes.",
+  "ouvido": "Detalhes",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Vocês estão vendo a previsão do tempo?",
+  "ouvido": "Vocês estão vendo a previsão do tempo?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Bom dia pra você também.",
+  "ouvido": "Bom dia pra você também!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Olha isso aqui.",
+  "ouvido": "Olha isso aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela manhã, os primeiros alertas pareciam apenas mais um aviso de chuva forte.",
+  "ouvido": "Naquela manhã, os primeiros alertas pareciam apenas mais um aviso de chuva forte.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mas, na nossa simulação, o volume de chuva começa a superar as expectativas em diferentes regiões.",
+  "ouvido": "Mas na nossa simulação, o volume de chuva começa a superar as expectativas em diferentes  regiões.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ah, mas toda semana tem alerta de chuva.",
+  "ouvido": "Ah, mas toda semana tem alerta de chuva.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Dessa vez parece diferente.",
+  "ouvido": "Dessa vez, parece diferente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Se chover, eu não vou trabalhar.",
+  "ouvido": "Se chover, eu não vou trabalhar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você já não trabalha quando faz sol!",
+  "ouvido": "Você já não trabalha quando faz sol?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô falando sério!",
+  "ouvido": "Tô falando sério.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Pedro, cadê o guarda-chuva?",
+  "ouvido": "Pedro, cadê o guarda-chuva?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Não precisa, Dona Cida. É só uma garoa.",
+  "ouvido": "Não precisa, dona Cida, é só uma garoa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Foi o que eu pensei uma vez. Voltei pra casa com água no joelho.",
+  "ouvido": "Foi o que eu pensei uma vez. Voltei pra casa com água no joelho.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Sério?",
+  "ouvido": "Sério?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Seríssimo. Leva o guarda-chuva.",
+  "ouvido": "Seríssimo! Leva o guarda-chuva.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "E hoje não tem aula, Pedro. A escola mandou mensagem.",
+  "ouvido": "E hoje não tem aula, Pedro. A escola mandou mensagem.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Melhor notícia do ano!",
+  "ouvido": "Melhor notícia do ano.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Ainda é cedo pra dizer isso.",
+  "ouvido": "Ainda é cedo pra dizer isso.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Ninguém naquele corredor imaginava que a frase da Dona Cida ia envelhecer tão rápido.",
+  "ouvido": "Ninguém naquele corredor imaginava que a frase da Dona Cida ia envelhecer tão rápido.",
+  "semelhanca": 1.0
+ }
+]
