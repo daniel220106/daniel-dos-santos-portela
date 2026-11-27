@@ -172,3 +172,4 @@ OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
 [6/34] caio       100% cps=14.7  Fica na sombra com a Pipoca. Eu seguro o lugar.  ->  Fica na sombra com a pipoca.  Eu seguro o lugar.
 [7/34] mulher     100% cps= 9.8  Ô, moço! A fila é lá atrás!  ->  Ô moço, a fila é lá atrás?
 [8/34] homem      100% cps=15.8  Eu tenho três crianças em casa.  ->  Eu tenho três crianças em casa.
+[9/34] mulher      89% cps=13.3  E eu tenho quatro! Tô aqui desde as dez!  ->  e eu tenho quatro. Estou aqui desde as dez.
