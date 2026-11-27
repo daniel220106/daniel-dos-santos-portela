@@ -1,4 +1,19 @@
 # CAPÍTULO 9 — 18:30: O QUE SOBROU
+[O grupo chega ao abrigo numa escola. Quadra coberta, colchonetes, voluntários.]
+VOLUNTARIA: Boa noite. Quantas pessoas?
+MARINA: Cinco. Uma senhora de sessenta e oito anos e um menino de doze.
+VOLUNTARIA: Alguém toma remédio de uso contínuo?
+DONA CIDA: Eu. Pressão.
+VOLUNTARIA [rapido]: A senhora trouxe?
+DONA CIDA: Trouxe. Sequinho, num saco plástico.
+LUCAS [rapido]: Ideia da Marina.
+MARINA [rapido]: Ideia da Defesa Civil. Eu só obedeci.
+VOLUNTARIA: Ótimo. Ali tem água, cobertor e um lugar pra carregar o celular.
+RAFAEL: Tem café?
+VOLUNTARIA [rapido]: Tem.
+RAFAEL: Eu moro aqui agora.
+[pausa 0.6]
+[Lucas e Pedro olham a cidade pela janela da escola.]
 [Vista da cidade sob chuva intensa. Equipes de emergência trabalhando.]
 PEDRO: A cidade sempre foi assim?
 LUCAS [rapido]: Não.
@@ -9,3 +24,17 @@ MARINA [rapido]: Rafael!
 RAFAEL: Desculpa. Foi automático.
 DONA CIDA: Tem gente que ainda não entendeu a gravidade da situação.
 NARRADOR: Uma enchente não termina quando a chuva para. Ainda existem riscos de desabamentos, contaminação da água, danos à infraestrutura e dificuldade de acesso a serviços essenciais.
+[pausa 0.6]
+[Mais tarde. Marina procura o Pedro entre os colchonetes.]
+MARINA: Cadê o Pedro?
+LUCAS: Tava aqui agora mesmo.
+RAFAEL: Pedro? Pedro!
+[pausa 0.4]
+DONA CIDA: Calma. Ninguém sai correndo. A gente procura junto, cada um num canto.
+[Lucas encontra o Pedro na fila da tomada, carregando o celular de uma senhora.]
+LUCAS: Pedro! Você não pode sumir assim.
+PEDRO: Desculpa. A senhora ali não sabia carregar o celular, e a filha dela tá ligando.
+LUCAS [rapido]: Da próxima vez, avisa.
+PEDRO: Aviso. Mas eu ajudei, né?
+LUCAS: Ajudou. Mas avisa.
+NARRADOR: Em abrigos e evacuações, combinar um ponto de encontro e manter as crianças sempre à vista evita que um susto vire um problema maior.

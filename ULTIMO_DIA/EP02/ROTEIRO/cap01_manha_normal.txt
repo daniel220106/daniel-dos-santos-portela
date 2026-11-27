@@ -1,4 +1,7 @@
 # CAPÍTULO 1 — 06:30: UMA MANHÃ NORMAL (também usado no teste de animação)
+[Prédio comum de seis andares na Zona Leste, a duas quadras de um córrego. Chuva fina.]
+NARRADOR: Seis e meia da manhã. Zona Leste de São Paulo. Um prédio comum, de seis andares, a duas quadras de um córrego que quase ninguém no bairro sabe o nome.
+NARRADOR: Aqui mora o Lucas. Vinte e nove anos, curioso, impulsivo, e convencido de que entende de previsão do tempo, porque tem três aplicativos de clima no celular.
 [Lucas prepara café no apartamento. A televisão está ligada. Chuva fraca na janela.]
 LUCAS: Rafael, você vai demorar?
 RAFAEL [telefone]: Tô chegando.
@@ -20,3 +23,14 @@ MARINA: Dessa vez parece diferente.
 RAFAEL [telefone]: Se chover, eu não vou trabalhar.
 LUCAS [rapido]: Você já não trabalha quando faz sol!
 RAFAEL [telefone]: Tô falando sério!
+[pausa 0.6]
+[No corredor, Dona Cida rega as plantas. Pedro passa correndo com a mochila da escola.]
+DONA CIDA: Pedro, cadê o guarda-chuva?
+PEDRO: Não precisa, Dona Cida. É só uma garoa.
+DONA CIDA: Foi o que eu pensei uma vez. Voltei pra casa com água no joelho.
+PEDRO [rapido]: Sério?
+DONA CIDA: Seríssimo. Leva o guarda-chuva.
+MARINA: E hoje não tem aula, Pedro. A escola mandou mensagem.
+PEDRO: Melhor notícia do ano!
+DONA CIDA [rapido]: Ainda é cedo pra dizer isso.
+NARRADOR: Ninguém naquele corredor imaginava que a frase da Dona Cida ia envelhecer tão rápido.

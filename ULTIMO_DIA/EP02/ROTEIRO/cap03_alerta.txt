@@ -16,5 +16,21 @@ MARINA [interrompe]: Pedro!
 PEDRO [rapido]: E o carregador!
 LUCAS: Pelo menos ele é organizado.
 MARINA: Organizado? Ele esqueceu a roupa!
+[O celular do Pedro toca. É a mãe dele.]
+PEDRO: Oi, mãe!
+SANDRA [telefone]: Pedro, a mãe vai ficar presa no plantão. O hospital tá cheio.
+PEDRO [rapido]: E eu?
+SANDRA [telefone]: Você fica com a Dona Cida e com a Marina. Faz tudo o que elas mandarem, tá?
+PEDRO [rapido]: Tudo?
+SANDRA [telefone]: Tudo, Pedro.
+PEDRO: Até guardar o videogame?
+SANDRA [telefone]: Principalmente isso.
+MARINA: Pode deixar, Sandra. Ele fica com a gente.
 [Montagem: documentos, água, lanternas, roupas e remédios.]
 NARRADOR: Quando existe risco de inundação, preparar os itens essenciais e sair antes de uma área vulnerável pode fazer toda a diferença.
+NARRADOR: Documentos dentro de um saco plástico. Remédios de uso contínuo. Água, lanterna, carregador portátil e uma muda de roupa. Coisas simples, que fazem falta justamente quando não dá mais para voltar e buscar.
+LUCAS: Saco plástico pros documentos?
+MARINA: Saco plástico pra tudo que não pode molhar.
+DONA CIDA: Inclusive o seu celular, Lucas.
+LUCAS: Meu celular é à prova d'água.
+DONA CIDA [rapido]: O seu juízo é que não é.

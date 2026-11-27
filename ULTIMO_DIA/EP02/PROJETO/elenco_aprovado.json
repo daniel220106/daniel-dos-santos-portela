@@ -67,5 +67,32 @@
   "pan": 0.1,
   "seed": 31,
   "velocidade": 1.15
+ },
+ "sandra": {
+  "voz": "../VOZES/referencias/ref_alt_f1_12114.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.05,
+  "seed": 37,
+  "velocidade": 1.15
+ },
+ "agente": {
+  "voz": "../VOZES/referencias/ref_alt_m2_4405.wav",
+  "exaggeration": 0.7,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.2,
+  "seed": 41,
+  "velocidade": 1.15
+ },
+ "voluntaria": {
+  "voz": "../VOZES/referencias/ref_alt_f2_11247.wav",
+  "exaggeration": 0.5,
+  "cfg": 0.45,
+  "temp": 0.7,
+  "pan": 0.1,
+  "seed": 43,
+  "velocidade": 1.15
  }
 }

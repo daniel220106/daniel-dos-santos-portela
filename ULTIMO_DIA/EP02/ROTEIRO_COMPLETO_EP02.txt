@@ -1,0 +1,386 @@
+# ABERTURA — A ÁGUA ESTÁ SUBINDO
+# Ajuste da auditoria: no original o Lucas dirige dentro da água. Isso contradiz a Parte 8 (não mostrar pessoas
+# dirigindo em ruas inundadas) e o Cap. 5 (o Lucas está em casa quando o Rafael chega a pé). Aqui quem está no carro
+# é o Rafael, parado no trânsito enquanto a água sobe; o Lucas fala com ele pelo viva-voz e dá a orientação correta.
+[Tela preta. Chuva intensa. Um trovão.]
+[Avenida sob chuva forte. Trânsito parado. A água sobe em volta do carro parado do Rafael.]
+RAFAEL: Não, não, não. Vai, vai, vai!
+LUCAS [telefone]: Rafael, não acelera!
+RAFAEL: Eu tô tentando sair!
+LUCAS [telefone]: O carro tá morrendo, Rafael!
+RAFAEL [rapido]: Eu percebi, Lucas!
+LUCAS [telefone]: Desliga e sai do carro!
+RAFAEL [rapido]: Você tá maluco? Olha a água!
+LUCAS [telefone]: Sobe pra calçada alta. Agora!
+[Corte brusco para tela preta.]
+[pausa 0.6]
+NARRADOR: Imagine acordar em uma manhã normal, sair de casa para trabalhar e descobrir que São Paulo está prestes a enfrentar uma enchente de proporções extremas.
+NARRADOR: Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.
+NARRADOR: O problema?
+NARRADOR: Milhões de pessoas estão tentando fazer exatamente a mesma coisa.
+[Texto: 24 HORAS PARA ESCAPAR.]
+# CAPÍTULO 1 — 06:30: UMA MANHÃ NORMAL (também usado no teste de animação)
+[Prédio comum de seis andares na Zona Leste, a duas quadras de um córrego. Chuva fina.]
+NARRADOR: Seis e meia da manhã. Zona Leste de São Paulo. Um prédio comum, de seis andares, a duas quadras de um córrego que quase ninguém no bairro sabe o nome.
+NARRADOR: Aqui mora o Lucas. Vinte e nove anos, curioso, impulsivo, e convencido de que entende de previsão do tempo, porque tem três aplicativos de clima no celular.
+[Lucas prepara café no apartamento. A televisão está ligada. Chuva fraca na janela.]
+LUCAS: Rafael, você vai demorar?
+RAFAEL [telefone]: Tô chegando.
+LUCAS: Você falou isso há vinte minutos.
+RAFAEL [telefone]: O trânsito tá uma beleza.
+LUCAS: Você nem saiu de casa, né?
+RAFAEL [telefone]: Como você sabe?
+LUCAS: Porque você acabou de mandar uma foto deitado.
+RAFAEL [telefone]: Detalhes.
+[Marina aparece na porta do apartamento, com o celular na mão.]
+MARINA: Vocês estão vendo a previsão do tempo?
+LUCAS: Bom dia pra você também.
+MARINA: Olha isso aqui.
+[A televisão mostra um aviso de chuva intensa. Simulação.]
+NARRADOR: Naquela manhã, os primeiros alertas pareciam apenas mais um aviso de chuva forte.
+NARRADOR: Mas, na nossa simulação, o volume de chuva começa a superar as expectativas em diferentes regiões.
+LUCAS: Ah, mas toda semana tem alerta de chuva.
+MARINA: Dessa vez parece diferente.
+RAFAEL [telefone]: Se chover, eu não vou trabalhar.
+LUCAS [rapido]: Você já não trabalha quando faz sol!
+RAFAEL [telefone]: Tô falando sério!
+[pausa 0.6]
+[No corredor, Dona Cida rega as plantas. Pedro passa correndo com a mochila da escola.]
+DONA CIDA: Pedro, cadê o guarda-chuva?
+PEDRO: Não precisa, Dona Cida. É só uma garoa.
+DONA CIDA: Foi o que eu pensei uma vez. Voltei pra casa com água no joelho.
+PEDRO [rapido]: Sério?
+DONA CIDA: Seríssimo. Leva o guarda-chuva.
+MARINA: E hoje não tem aula, Pedro. A escola mandou mensagem.
+PEDRO: Melhor notícia do ano!
+DONA CIDA [rapido]: Ainda é cedo pra dizer isso.
+NARRADOR: Ninguém naquele corredor imaginava que a frase da Dona Cida ia envelhecer tão rápido.
+# CAPÍTULO 2 — 08:00: O PRIMEIRO SINAL
+[Chuva aumentando, ônibus devagar, ruas acumulando água, pessoas olhando o celular.]
+NARRADOR: Duas horas depois, algumas ruas já estavam difíceis de atravessar. O trânsito começou a parar, e os primeiros registros de alagamentos apareceram nas redes sociais.
+LUCAS: Olha isso aqui!
+MARINA [rapido]: O quê?
+LUCAS: A avenida perto da estação. Tá completamente parada.
+RAFAEL [telefone]: Manda o endereço.
+LUCAS [rapido]: Pra quê?
+RAFAEL [telefone]: Porque eu tô indo pra aí.
+LUCAS: Você tá vindo de carro?
+RAFAEL [telefone]: Tô.
+MARINA [rapido]: Rafael, não vem!
+RAFAEL [telefone]: Já tô no caminho.
+MARINA: Então procura um lugar seguro e para. Não tenta atravessar água.
+RAFAEL [telefone]: Tá bom, mãe.
+MARINA [rapido]: Não é brincadeira!
+[Lucas vai até a janela.]
+LUCAS: Marina, vem ver a rua.
+MARINA [rapido]: O que foi?
+LUCAS: O bueiro da esquina tá devolvendo água.
+MARINA: Isso não é bom.
+LUCAS: Quanto você acha que tem ali? Um palmo?
+MARINA: Não importa quanto parece. Água de enchente engana.
+[Um carro parado diante de uma rua inundada. Ninguém atravessa.]
+NARRADOR: Durante uma enchente, a profundidade da água pode enganar. A correnteza pode arrastar pessoas e veículos. Uma decisão impulsiva pode transformar uma situação difícil em uma emergência ainda maior.
+NARRADOR: Segundo as orientações de segurança, quinze centímetros de água em movimento já podem derrubar um adulto. E cerca de trinta centímetros podem arrastar um carro.
+# CAPÍTULO 3 — 09:15: O ALERTA
+[O celular do Lucas vibra. Alerta de emergência fictício da simulação.]
+LUCAS: Marina.
+MARINA [rapido]: Eu também recebi.
+LUCAS: Tá falando sério isso?
+MARINA: Pega seus documentos.
+LUCAS: Calma. A gente nem sabe se vai chegar aqui.
+MARINA: É exatamente por isso que a gente precisa se preparar antes.
+[Pedro aparece.]
+PEDRO: Minha mãe falou que a gente vai sair daqui.
+LUCAS: Você já arrumou sua mochila?
+PEDRO [rapido]: Arrumei.
+MARINA: O que você colocou?
+PEDRO: Meu videogame.
+MARINA [interrompe]: Pedro!
+PEDRO [rapido]: E o carregador!
+LUCAS: Pelo menos ele é organizado.
+MARINA: Organizado? Ele esqueceu a roupa!
+[O celular do Pedro toca. É a mãe dele.]
+PEDRO: Oi, mãe!
+SANDRA [telefone]: Pedro, a mãe vai ficar presa no plantão. O hospital tá cheio.
+PEDRO [rapido]: E eu?
+SANDRA [telefone]: Você fica com a Dona Cida e com a Marina. Faz tudo o que elas mandarem, tá?
+PEDRO [rapido]: Tudo?
+SANDRA [telefone]: Tudo, Pedro.
+PEDRO: Até guardar o videogame?
+SANDRA [telefone]: Principalmente isso.
+MARINA: Pode deixar, Sandra. Ele fica com a gente.
+[Montagem: documentos, água, lanternas, roupas e remédios.]
+NARRADOR: Quando existe risco de inundação, preparar os itens essenciais e sair antes de uma área vulnerável pode fazer toda a diferença.
+NARRADOR: Documentos dentro de um saco plástico. Remédios de uso contínuo. Água, lanterna, carregador portátil e uma muda de roupa. Coisas simples, que fazem falta justamente quando não dá mais para voltar e buscar.
+LUCAS: Saco plástico pros documentos?
+MARINA: Saco plástico pra tudo que não pode molhar.
+DONA CIDA: Inclusive o seu celular, Lucas.
+LUCAS: Meu celular é à prova d'água.
+DONA CIDA [rapido]: O seu juízo é que não é.
+# CAPÍTULO 4 — 10:00: A GARAGEM
+[A água entrando pela rampa da garagem. Ninguém desce.]
+MORADOR: Meu carro tá lá embaixo!
+MARINA [rapido]: Não desce!
+MORADOR: Eu só vou tirar ele!
+LUCAS: A água já chegou na rampa!
+MORADOR: Mas é só um minuto!
+DONA CIDA: Um minuto é suficiente pra você ficar preso lá embaixo!
+[O morador para.]
+PEDRO: Então meu carro de brinquedo também vai alagar?
+LUCAS [rapido]: Pedro, agora não!
+PEDRO [rapido]: Só perguntei!
+DONA CIDA: Deixa o menino. Pelo menos ele tá preocupado com alguma coisa que não custa cem mil reais.
+NARRADOR: Uma garagem subterrânea pode se transformar em um ponto extremamente perigoso. A água pode entrar rapidamente e bloquear as saídas.
+LUCAS: Vamos pegar o elevador e subir as coisas do térreo.
+MARINA [rapido]: Elevador não. Se faltar energia, a gente fica preso lá dentro.
+DONA CIDA: Escada. E devagar.
+NARRADOR: Em situações de inundação, a orientação é evitar elevadores. E, se a água começar a entrar no imóvel, desligar a energia no quadro de luz, desde que isso possa ser feito com segurança, sem tocar em nada molhado.
+MORADOR: Pelo menos dá pra subir as coisas do térreo?
+DONA CIDA: Isso sim. Vamos ajudar.
+[Moradores levando caixas e móveis do térreo para o primeiro andar.]
+PEDRO: Eu carrego as almofadas!
+LUCAS: O herói das almofadas.
+PEDRO [rapido]: Alguém tem que ser.
+# CAPÍTULO 5 — 11:30: A CIDADE PARA
+[Ônibus parados, ruas bloqueadas, lojas fechando, chuva batendo nas janelas.]
+NARRADOR: Com a chuva persistente, a circulação começa a ficar comprometida em diferentes pontos da cidade. Os deslocamentos ficam cada vez mais imprevisíveis.
+RAFAEL [telefone]: Consegui chegar!
+LUCAS [rapido]: Onde você tá?
+RAFAEL [telefone]: Na rua de trás.
+LUCAS: Como você veio?
+RAFAEL [telefone]: A pé.
+MARINA [rapido]: E o carro?
+RAFAEL [telefone]: Digamos que ele vai passar a noite em um lugar diferente.
+LUCAS: Você abandonou o carro?
+RAFAEL [telefone]: Eu prefiro dizer que dei férias pra ele.
+MARINA: Entra logo!
+[Rafael chega na portaria, encharcado.]
+RAFAEL: Nossa, que recepção calorosa.
+LUCAS [rapido]: Você tá encharcado!
+RAFAEL: Percebi quando começou a chover dentro do meu tênis.
+MARINA: O que aconteceu com o carro?
+RAFAEL: O trânsito parou. E a água começou a subir em volta. Primeiro no pneu, depois na porta.
+LUCAS [rapido]: E você saiu.
+RAFAEL: Saí. Depois de você gritar comigo no telefone.
+LUCAS [rapido]: Eu não gritei.
+RAFAEL: Gritou. O motorista do lado ouviu e saiu também.
+DONA CIDA: Então foi o grito mais útil do dia.
+NARRADOR: Se a água começa a subir em volta de um carro parado, a orientação é sair e procurar um lugar mais alto, desde que não haja correnteza. Um carro pode ser substituído. Uma pessoa, não.
+# CAPÍTULO 6 — 13:00: AGORA É SÉRIO
+[Atualização emergencial fictícia.]
+NARRADOR: Na nossa simulação, a situação piora rapidamente. Algumas regiões recebem orientações para evacuação preventiva. O maior problema agora é que muitas pessoas estão tentando sair ao mesmo tempo.
+MARINA: A gente precisa decidir agora.
+LUCAS [rapido]: Ir pra onde?
+RAFAEL: Pra casa da minha irmã.
+LUCAS [rapido]: Onde ela mora?
+RAFAEL: Do outro lado da cidade.
+MARINA: Você quer atravessar a cidade com essa chuva?
+RAFAEL [rapido]: Eu não quero ficar aqui!
+DONA CIDA: E você acha que vai encontrar uma estrada vazia?
+RAFAEL: Então o que a senhora sugere?
+DONA CIDA: Primeiro, a gente descobre se este prédio está em uma área com risco de inundação. Depois, segue a orientação da Defesa Civil. Não é sair correndo sem saber pra onde.
+NARRADOR: Evacuar não significa simplesmente entrar em um carro e dirigir. É preciso seguir rotas seguras e orientações oficiais. Nunca se deve atravessar ruas inundadas ou tentar passar por áreas com correnteza.
+MARINA: Achei o aviso oficial. A nossa rua tá na área de risco, por causa do córrego.
+RAFAEL: O córrego que ninguém sabe o nome?
+DONA CIDA: Esse mesmo. Ele sabe o nosso endereço.
+MARINA: Tem um abrigo numa escola, numa parte mais alta do bairro. Uns dois quilômetros daqui.
+RAFAEL: Dois quilômetros a pé, na chuva?
+LUCAS: Pela rota que a Defesa Civil indicou. Sem passar por rua alagada.
+DONA CIDA: Eu ando devagar.
+MARINA: Então a gente anda no seu ritmo.
+PEDRO [rapido]: Eu ando rápido!
+RAFAEL [rapido]: Você vai na frente, de batedor.
+MARINA [rapido]: Ninguém vai na frente. Todo mundo junto.
+[pausa 0.5]
+[As luzes do prédio apagam.]
+PEDRO: Ué. Acabou a luz.
+MARINA: A companhia deve ter desligado a energia da região, por segurança.
+RAFAEL: Por segurança de quem?
+MARINA [rapido]: Da gente. Água e energia elétrica não combinam.
+DONA CIDA: Pega a lanterna, Lucas.
+LUCAS: Peguei. E agora?
+DONA CIDA: Agora vocês sentam um minuto. Eu vou contar uma coisa.
+[À luz da lanterna, Dona Cida conta uma história. Lembrança em tons de sépia.]
+DONA CIDA: Muitos anos atrás, eu morava numa casa térrea, perto de outro córrego. Choveu a noite inteira. Meu marido disse que ia esperar a água baixar.
+PEDRO [rapido]: E baixou?
+DONA CIDA: Subiu. Até a janela. A gente saiu pelo telhado, com a ajuda dos vizinhos.
+LUCAS: A senhora nunca contou isso.
+DONA CIDA: Ninguém nunca perguntou. Eu só aprendi uma coisa naquela noite. Quem espera a água pra decidir, decide tarde.
+[pausa 0.6]
+RAFAEL: Tá bom. Agora eu fiquei com medo de verdade.
+MARINA: Que bom. Medo na medida certa ajuda a gente a sair na hora certa.
+# CAPÍTULO 7 — 14:20: A LIGAÇÃO
+[Lucas recebe uma ligação da mãe.]
+LUCAS: Mãe?
+MAE [telefone]: Filho, você tá bem?
+LUCAS: Tô. Tá tudo certo aqui.
+MAE [telefone]: Eu tô vendo as notícias. Você precisa sair daí!
+LUCAS: A gente tá vendo o que fazer.
+MAE [telefone]: Não espera a água chegar.
+LUCAS [rapido]: Eu sei, mãe.
+MAE [telefone]: E o Rafael?
+LUCAS [rapido]: Tá aqui.
+RAFAEL: Fala que eu tô lindo!
+LUCAS: Ele tá sendo ele mesmo.
+MAE [telefone]: Lucas, escuta. Se precisar vir pra cá, vem antes de ficar impossível.
+[Lucas olha pela janela.]
+[pausa 0.8]
+LUCAS: Mãe, acho que a gente vai precisar sair.
+[pausa 0.6]
+LUCAS: Pessoal. A gente sai às quatro. Antes de escurecer.
+MARINA: De noite fica muito mais difícil ver buraco, fio caído e água.
+RAFAEL: Então dá tempo de um café?
+MARINA [rapido]: Não.
+# CAPÍTULO 8 — 16:00: A DECISÃO
+[O grupo prepara mochilas com documentos, água, lanternas, remédios.]
+RAFAEL: Todo mundo pegou documento?
+MARINA [rapido]: Peguei.
+LUCAS [rapido]: Água?
+MARINA [rapido]: Peguei.
+PEDRO [rapido]: Videogame?
+MARINA: Pedro.
+PEDRO [rapido]: Tá na mochila!
+RAFAEL: Esse menino vai sobreviver por causa do videogame.
+DONA CIDA: Vai sobreviver porque está ouvindo os adultos.
+LUCAS: Dona Cida, a senhora está com seus remédios?
+DONA CIDA [rapido]: Estão aqui.
+MARINA: Então vamos juntos.
+[O grupo caminha pela calçada, na chuva, seguindo a rota indicada.]
+PEDRO: A rua de baixo virou um rio!
+MARINA: Por isso a gente não vai por ela.
+[Uma rua à frente está alagada. O grupo para antes da água.]
+RAFAEL: Dá pra passar pela beirada.
+LUCAS [rapido]: Não dá.
+RAFAEL: Tá rasinho.
+DONA CIDA: Rasinho foi o que você achou do seu carro.
+RAFAEL: Golpe baixo, Dona Cida.
+[Um agente da Defesa Civil acena do outro lado.]
+AGENTE: Não atravessem! Voltem e peguem a rua de cima, pela praça!
+MARINA: Obrigada!
+LUCAS: Pela praça, então. Dá uns quinze minutos a mais.
+PEDRO: Quinze minutos a mais na chuva?
+RAFAEL: Bem-vindo à vida adulta, Pedro.
+[Debaixo de uma marquise, Dona Cida para para descansar.]
+DONA CIDA: Só um minuto.
+LUCAS: Quantos minutos a senhora precisar.
+DONA CIDA: Lembra quando eu disse que um minuto era suficiente pra ficar preso na garagem?
+LUCAS [rapido]: Lembro.
+DONA CIDA: Aqui em cima, um minuto é só um minuto.
+[O grupo sai por uma rota segura, seguindo as orientações das autoridades.]
+NARRADOR: Na simulação, o grupo consegue sair antes que a rota fique comprometida. A decisão de não esperar a água chegar evita que eles precisem enfrentar o pior momento da enchente.
+# CAPÍTULO 9 — 18:30: O QUE SOBROU
+[O grupo chega ao abrigo numa escola. Quadra coberta, colchonetes, voluntários.]
+VOLUNTARIA: Boa noite. Quantas pessoas?
+MARINA: Cinco. Uma senhora de sessenta e oito anos e um menino de doze.
+VOLUNTARIA: Alguém toma remédio de uso contínuo?
+DONA CIDA: Eu. Pressão.
+VOLUNTARIA [rapido]: A senhora trouxe?
+DONA CIDA: Trouxe. Sequinho, num saco plástico.
+LUCAS [rapido]: Ideia da Marina.
+MARINA [rapido]: Ideia da Defesa Civil. Eu só obedeci.
+VOLUNTARIA: Ótimo. Ali tem água, cobertor e um lugar pra carregar o celular.
+RAFAEL: Tem café?
+VOLUNTARIA [rapido]: Tem.
+RAFAEL: Eu moro aqui agora.
+[pausa 0.6]
+[Lucas e Pedro olham a cidade pela janela da escola.]
+[Vista da cidade sob chuva intensa. Equipes de emergência trabalhando.]
+PEDRO: A cidade sempre foi assim?
+LUCAS [rapido]: Não.
+PEDRO: E vai voltar ao normal?
+MARINA: Vai levar tempo.
+RAFAEL: Pelo menos eu não vou trabalhar amanhã.
+MARINA [rapido]: Rafael!
+RAFAEL: Desculpa. Foi automático.
+DONA CIDA: Tem gente que ainda não entendeu a gravidade da situação.
+NARRADOR: Uma enchente não termina quando a chuva para. Ainda existem riscos de desabamentos, contaminação da água, danos à infraestrutura e dificuldade de acesso a serviços essenciais.
+[pausa 0.6]
+[Mais tarde. Marina procura o Pedro entre os colchonetes.]
+MARINA: Cadê o Pedro?
+LUCAS: Tava aqui agora mesmo.
+RAFAEL: Pedro? Pedro!
+[pausa 0.4]
+DONA CIDA: Calma. Ninguém sai correndo. A gente procura junto, cada um num canto.
+[Lucas encontra o Pedro na fila da tomada, carregando o celular de uma senhora.]
+LUCAS: Pedro! Você não pode sumir assim.
+PEDRO: Desculpa. A senhora ali não sabia carregar o celular, e a filha dela tá ligando.
+LUCAS [rapido]: Da próxima vez, avisa.
+PEDRO: Aviso. Mas eu ajudei, né?
+LUCAS: Ajudou. Mas avisa.
+NARRADOR: Em abrigos e evacuações, combinar um ponto de encontro e manter as crianças sempre à vista evita que um susto vire um problema maior.
+# CAPÍTULO 10 — 22:00: A CHUVA DIMINUI
+RAFAEL: Então, acabou?
+MARINA: A chuva diminuiu. Não quer dizer que acabou.
+LUCAS [rapido]: E agora?
+DONA CIDA: Agora a gente espera as orientações. Nada de voltar correndo pra casa.
+PEDRO: Posso jogar videogame?
+RAFAEL: Finalmente alguém fazendo a pergunta certa!
+MARINA: Vocês dois são iguais.
+[pausa 0.5]
+[A porta do abrigo abre. Uma mulher de jaleco, molhada de chuva, procura alguém.]
+PEDRO: Mãe!
+SANDRA: Pedro! Graças a Deus.
+SANDRA: Você fez tudo o que elas mandaram?
+PEDRO: Fiz. Até guardei o videogame.
+DONA CIDA: Guardou mesmo. Na mochila, do lado da camiseta.
+SANDRA: Obrigada, de verdade. A todos vocês.
+MARINA: Ele ajudou mais do que atrapalhou.
+PEDRO [rapido]: Só um pouquinho mais.
+[pausa 0.8]
+[Mais tarde, quase todo mundo dorme. Lucas e Rafael conversam baixinho.]
+RAFAEL: Lucas.
+LUCAS [rapido]: Hum?
+RAFAEL: Valeu pelo grito.
+LUCAS: Eu não gritei.
+RAFAEL: Gritou. E ainda bem.
+[pausa 0.6]
+RAFAEL: Sabe o que eu fiquei pensando? Eu sempre achei que essas coisas aconteciam com os outros.
+LUCAS: Todo mundo acha. Até acontecer.
+RAFAEL: A partir de amanhã, eu vou levar as coisas mais a sério.
+LUCAS: Começa pelo despertador.
+RAFAEL [rapido]: Aí você já tá pedindo demais.
+NARRADOR: Mesmo depois que a chuva diminui, a volta às áreas afetadas precisa ser feita com cuidado. A água pode esconder buracos, fios energizados e materiais contaminados.
+# CAPÍTULO 11 — 24 HORAS DEPOIS
+[Manhã seguinte. Equipes trabalhando, moradores recebendo apoio.]
+NARRADOR: Vinte e quatro horas depois do primeiro alerta, a cidade ainda estava longe de voltar ao normal.
+NARRADOR: Mas uma decisão fez toda a diferença. Não esperar a água chegar para começar a agir.
+LUCAS: Rafael, você tá bem?
+RAFAEL: Tô. Só perdi o carro.
+LUCAS: Poderia ter perdido muito mais.
+RAFAEL: É. Eu sei.
+MARINA: A gente teve sorte de conseguir sair cedo.
+DONA CIDA: Sorte ajuda. Preparação também.
+PEDRO: E meu videogame sobreviveu!
+RAFAEL: Prioridades, meu amigo. Prioridades.
+NARRADOR: Antes de voltar para casa, é preciso esperar a liberação das autoridades. Quando a água baixa, fica a lama, que pode estar contaminada. Botas e luvas ajudam. E alimentos e remédios que tiveram contato com a água da enchente devem ser descartados.
+RAFAEL: E o meu carro?
+LUCAS: Teve contato com a água da enchente.
+RAFAEL: Então tem que ser descartado?
+MARINA: Tem que ser vistoriado. E você tem que ligar pro seguro.
+RAFAEL: Eu tenho seguro?
+LUCAS [rapido]: Você não sabe se tem seguro?
+RAFAEL: Eu sei que eu tenho um carro. Tinha.
+DONA CIDA: Começa por aí. O resto a gente resolve junto.
+[pausa 0.6]
+[O grupo volta ao bairro depois da liberação. Lama nas calçadas, móveis molhados na rua, vizinhos limpando.]
+NARRADOR: No bairro, a água tinha baixado. Mas deixou marcas nas paredes, lama nas calçadas e móveis que ninguém mais ia usar.
+PEDRO: O córrego voltou pro lugar dele.
+DONA CIDA: Por enquanto. Ele sempre volta.
+MORADOR: Pessoal! A garagem encheu até o teto.
+LUCAS [rapido]: E o seu carro?
+MORADOR: Tá lá embaixo. Mas eu tô aqui em cima. Obrigado por não me deixarem descer.
+DONA CIDA: Agradece ao minuto que você não perdeu.
+# CAPÍTULO 12 — ENCERRAMENTO
+[O grupo volta para o prédio. A rua com marcas de lama.]
+LUCAS: Sabe o que é engraçado?
+MARINA [rapido]: O quê?
+LUCAS: Ontem de manhã, eu achei que o pior que podia acontecer era o Rafael atrasar.
+RAFAEL [rapido]: E aí?
+LUCAS: E aí você atrasou. Mas foi o de menos.
+[pausa 0.8]
+[A câmera se afasta do grupo. A cidade ao fundo.]
+NARRADOR: Esta foi uma simulação fictícia de uma enchente extrema em São Paulo. Não é uma previsão do que vai acontecer.
+NARRADOR: Mas existe uma pergunta que fica.
+NARRADOR: Se um alerta de emergência chegasse hoje ao seu celular, você saberia o que fazer?
+NARRADOR: Você sairia imediatamente, ou esperaria para ver se a água realmente chegaria?
+[Texto: VOCÊ ESTARIA PREPARADO? ÚLTIMO DIA. FIM.]

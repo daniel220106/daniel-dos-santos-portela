@@ -15,3 +15,8 @@ MAE [telefone]: Lucas, escuta. Se precisar vir pra cá, vem antes de ficar impos
 [Lucas olha pela janela.]
 [pausa 0.8]
 LUCAS: Mãe, acho que a gente vai precisar sair.
+[pausa 0.6]
+LUCAS: Pessoal. A gente sai às quatro. Antes de escurecer.
+MARINA: De noite fica muito mais difícil ver buraco, fio caído e água.
+RAFAEL: Então dá tempo de um café?
+MARINA [rapido]: Não.

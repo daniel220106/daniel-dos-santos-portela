@@ -12,3 +12,13 @@ LUCAS [rapido]: Pedro, agora não!
 PEDRO [rapido]: Só perguntei!
 DONA CIDA: Deixa o menino. Pelo menos ele tá preocupado com alguma coisa que não custa cem mil reais.
 NARRADOR: Uma garagem subterrânea pode se transformar em um ponto extremamente perigoso. A água pode entrar rapidamente e bloquear as saídas.
+LUCAS: Vamos pegar o elevador e subir as coisas do térreo.
+MARINA [rapido]: Elevador não. Se faltar energia, a gente fica preso lá dentro.
+DONA CIDA: Escada. E devagar.
+NARRADOR: Em situações de inundação, a orientação é evitar elevadores. E, se a água começar a entrar no imóvel, desligar a energia no quadro de luz, desde que isso possa ser feito com segurança, sem tocar em nada molhado.
+MORADOR: Pelo menos dá pra subir as coisas do térreo?
+DONA CIDA: Isso sim. Vamos ajudar.
+[Moradores levando caixas e móveis do térreo para o primeiro andar.]
+PEDRO: Eu carrego as almofadas!
+LUCAS: O herói das almofadas.
+PEDRO [rapido]: Alguém tem que ser.

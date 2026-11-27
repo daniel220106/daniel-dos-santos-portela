@@ -15,3 +15,4 @@ exports/ULTIMO_DIA_EP01_youtube_1080p.mp4
 render/tiktok_ep01/
 EP02/VOZES/piper/*.onnx
 logs/*.log
+EP02/AUDIO/cache_falas/

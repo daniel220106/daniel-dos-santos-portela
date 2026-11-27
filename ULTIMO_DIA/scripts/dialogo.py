@@ -16,7 +16,7 @@ Cada fala é gerada separadamente com a voz do personagem, conferida pelo Whispe
 palavra sair errada), tratada (filtro, de-esser, compressor), nivelada por volume e montada.
 Saída: WAV 48 kHz estéreo e um .json com personagem, texto, início e fim de cada fala.
 """
-import argparse, difflib, json, os, re, subprocess, sys, tempfile, unicodedata
+import argparse, difflib, hashlib, json, os, re, subprocess, sys, tempfile, unicodedata
 os.environ.setdefault('HF_HUB_DISABLE_XET', '1')
 import numpy as np, soundfile as sf, librosa
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -79,6 +79,8 @@ def main():
     elenco = json.load(open(a.elenco, encoding='utf-8'))
     base = os.path.dirname(os.path.abspath(a.elenco))
     itens = ler_roteiro(a.roteiro)
+    global CACHE
+    CACHE = os.path.join(os.path.dirname(os.path.abspath(a.saida)), 'cache_falas'); os.makedirs(CACHE, exist_ok=True)
 
     torch.set_num_threads(os.cpu_count() or 4)
     m = ChatterboxMultilingualTTS.from_pretrained(torch.device('cpu'))
@@ -102,6 +104,15 @@ def main():
     for k, it in enumerate(itens):
         if 'pausa' in it: falas.append(it); continue
         p = elenco[it['personagem']]; texto = limpar(it['texto'])
+        tel = it.get('modo') == 'telefone'
+        # cache: a mesma fala (mesmo personagem, voz, ajustes e texto) não é gerada de novo
+        chave = hashlib.sha1(json.dumps([it['personagem'], p, texto, tel], sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:16]
+        arq_cache = os.path.join(CACHE, chave + '.npz')
+        if os.path.exists(arq_cache):
+            z = np.load(arq_cache, allow_pickle=False)
+            print(f"[{k+1}/{len(itens)}] {it['personagem']:9} (cache) {texto}", flush=True)
+            log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': str(z['ouvido']), 'semelhanca': float(z['sem'])})
+            falas.append({**it, 'texto': texto, 'audio': z['audio']}); continue
         melhor = None
         for t in range(a.tentativas if it['personagem'] not in piper else len(piper[it['personagem']][1])):
             if it['personagem'] in piper:
@@ -128,7 +139,9 @@ def main():
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})
         tempo = 1.0 if it['personagem'] in piper else p.get('velocidade', 1.0)  # Piper já sai na velocidade certa
-        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr, it.get('modo') == 'telefone', tempo)})
+        aud = tratar(w, sr, tel, tempo)
+        np.savez(arq_cache, audio=aud, ouvido=ouvido.strip(), sem=sem)
+        falas.append({**it, 'texto': texto, 'audio': aud})
 
     # montagem
     pedacos, tempos, t = [], [], 0.0

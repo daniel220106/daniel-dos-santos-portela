@@ -15,3 +15,11 @@ MARINA: Entra logo!
 RAFAEL: Nossa, que recepção calorosa.
 LUCAS [rapido]: Você tá encharcado!
 RAFAEL: Percebi quando começou a chover dentro do meu tênis.
+MARINA: O que aconteceu com o carro?
+RAFAEL: O trânsito parou. E a água começou a subir em volta. Primeiro no pneu, depois na porta.
+LUCAS [rapido]: E você saiu.
+RAFAEL: Saí. Depois de você gritar comigo no telefone.
+LUCAS [rapido]: Eu não gritei.
+RAFAEL: Gritou. O motorista do lado ouviu e saiu também.
+DONA CIDA: Então foi o grito mais útil do dia.
+NARRADOR: Se a água começa a subir em volta de um carro parado, a orientação é sair e procurar um lugar mais alto, desde que não haja correnteza. Um carro pode ser substituído. Uma pessoa, não.

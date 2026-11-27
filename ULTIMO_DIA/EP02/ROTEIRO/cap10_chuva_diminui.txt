@@ -6,4 +6,27 @@ DONA CIDA: Agora a gente espera as orientações. Nada de voltar correndo pra ca
 PEDRO: Posso jogar videogame?
 RAFAEL: Finalmente alguém fazendo a pergunta certa!
 MARINA: Vocês dois são iguais.
+[pausa 0.5]
+[A porta do abrigo abre. Uma mulher de jaleco, molhada de chuva, procura alguém.]
+PEDRO: Mãe!
+SANDRA: Pedro! Graças a Deus.
+SANDRA: Você fez tudo o que elas mandaram?
+PEDRO: Fiz. Até guardei o videogame.
+DONA CIDA: Guardou mesmo. Na mochila, do lado da camiseta.
+SANDRA: Obrigada, de verdade. A todos vocês.
+MARINA: Ele ajudou mais do que atrapalhou.
+PEDRO [rapido]: Só um pouquinho mais.
+[pausa 0.8]
+[Mais tarde, quase todo mundo dorme. Lucas e Rafael conversam baixinho.]
+RAFAEL: Lucas.
+LUCAS [rapido]: Hum?
+RAFAEL: Valeu pelo grito.
+LUCAS: Eu não gritei.
+RAFAEL: Gritou. E ainda bem.
+[pausa 0.6]
+RAFAEL: Sabe o que eu fiquei pensando? Eu sempre achei que essas coisas aconteciam com os outros.
+LUCAS: Todo mundo acha. Até acontecer.
+RAFAEL: A partir de amanhã, eu vou levar as coisas mais a sério.
+LUCAS: Começa pelo despertador.
+RAFAEL [rapido]: Aí você já tá pedindo demais.
 NARRADOR: Mesmo depois que a chuva diminui, a volta às áreas afetadas precisa ser feita com cuidado. A água pode esconder buracos, fios energizados e materiais contaminados.
