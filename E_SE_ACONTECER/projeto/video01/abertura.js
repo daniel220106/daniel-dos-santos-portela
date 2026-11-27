@@ -653,7 +653,7 @@ cena(69.6, 75.0, (c, t) => {
 }, { preto: 0.8, saiPreto: 0.8 });
 
 window.CENAS_ABERTURA = CENAS;
-if (!window.EPISODIO) {
+if (!window.VIDEO_COMPLETO) {
 window.CENAS = CENAS;
 window.DURACAO = 75.0;
 window.POS = (ctx, T) => {

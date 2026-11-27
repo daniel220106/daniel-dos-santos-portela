@@ -1,6 +1,6 @@
 // E SE ACONTECER? — montagem do vídeo a partir da linha do tempo gerada por scripts/montar_linha_tempo.py
 'use strict';
-window.EPISODIO = true;
+window.VIDEO_COMPLETO = true;
 const ROTEIRO = {};   // ROTEIRO[cap] = [cena do parágrafo 0, ..., cena do parágrafo 4]
 const CAPITULOS = {}; // CAPITULOS[cap] = {dia, titulo}
 
