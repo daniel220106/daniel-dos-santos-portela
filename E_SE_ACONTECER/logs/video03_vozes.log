@@ -179,3 +179,5 @@ OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
 [13/34] caio       100% cps=17.3  Então passa na minha frente. Mas só na minha.  ->  Então passa na minha frente, mas só na minha.
 [14/34] narrador    95% cps=21.2  Numa crise, o que separa uma fila de uma briga muitas vezes é uma única pessoa que decide não gritar.  ->  Uma crise, o que separa uma fila de uma briga muitas vezes é uma única pessoa que decide  não gritar.
 [15/34] duda       100% cps=11.6  Caio! A Pipoca tá esquisita!  ->  Caio, a pipoca tá esquisita.
+[16/34] caio       100% cps=14.2  Molha a barriga e as patas dela. Água fresca, não gelada.  ->  Molha a barriga e as patas dela. Água fresca, não gelada.
+[17/34] narrador    96% cps=17.7  Cachorros quase não suam. Eles se refrescam ofegando. Respiração muito acelerada, baba em excesso e fraqueza podem ser sinais de que o animal está superaquecendo.  ->  Cachorros quase não suam.  Eles se refrescam ofegando.  Inspiração muito acelerada, baba em excesso e fraqueza podem ser sinais de que o animal  está superaquecendo.
