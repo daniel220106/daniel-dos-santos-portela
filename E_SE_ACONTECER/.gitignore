@@ -1,0 +1,22 @@
+render/
+*_quadros/
+__pycache__/
+# áudios grandes gerados (reproduzíveis pelos scripts)
+audio/narracao/video01/*.wav
+audio/narracao/video01_narracao_completa.wav
+audio/video01_mix_final.wav
+audio/testes/video01_trilha.wav
+audio/testes/video01_ambiente.wav
+audio/testes/video01_efeitos.wav
+logs/render_*.log
+exports/E_SE_ACONTECER_VIDEO_01_completo.mp4
+exports/E_SE_ACONTECER_VIDEO_01_sem_legenda.mp4
+exports/E_SE_ACONTECER_VIDEO_01_youtube_1080p.mp4
+render/tiktok_video01/
+VIDEO_02/VOZES/piper/*.onnx
+logs/*.log
+VIDEO_02/AUDIO/cache_falas/
+VIDEO_02/AUDIO/*.wav
+render/video02_*
+VIDEO_02/EXPORTACAO/E_SE_ACONTECER_VIDEO_02_youtube_1080p.mp4
+VIDEO_02/EXPORTACAO/versao_anterior/*1080p*

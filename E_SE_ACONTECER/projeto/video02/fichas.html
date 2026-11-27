@@ -1,0 +1,51 @@
+<!doctype html><html><head><meta charset="utf-8"><title>VIDEO_02 fichas</title>
+<style>
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:400;src:url(../fontes/inter-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+html,body{margin:0;background:#000}canvas{display:block}
+</style></head><body><canvas id="tela" width="1920" height="1080"></canvas>
+<script>window.EPISODIO = true;</script>
+<script src="../motor/motor.js"></script><script src="../motor/video02_visual.js"></script>
+<script>
+// Ficha de continuidade de um personagem: corpo inteiro (frente e caminhando), 6 expressões, paleta e regras.
+function ficha(id) {
+  const F = FICHAS_VIDEO_02[id], vis = VISUAIS[F.vis];
+  const c = document.getElementById('tela').getContext('2d');
+  c.setTransform(1, 0, 0, 1, 0, 0);
+  c.fillStyle = '#16161a'; c.fillRect(0, 0, W, H);
+  c.fillStyle = '#1f1f25'; c.fillRect(0, 0, 640, H);
+  c.fillStyle = '#c62a24'; c.fillRect(60, 70, 8, 70);
+  c.fillStyle = '#f2efe9'; c.font = '700 64px Oswald'; c.textBaseline = 'top'; c.fillText(F.nome, 84, 66);
+  c.font = '600 26px Inter'; c.fillStyle = '#c9c4bb'; c.fillText(F.idade + '  ·  E SE ACONTECER?  ·  VÍDEO 2', 86, 146);
+  // corpo inteiro: parado e caminhando
+  const chao = 1000;
+  c.fillStyle = 'rgba(0,0,0,0.35)'; c.beginPath(); c.ellipse(220, chao + 8, 120, 16, 0, 0, 7); c.fill(); c.beginPath(); c.ellipse(470, chao + 8, 120, 16, 0, 0, 7); c.fill();
+  const yq = chao - 262 * (vis.altura || 1);
+  desenharPessoa(c, { x: 220, y: yq, s: 1, dir: 1, piscar: 0, expr: '' , costas: id === 'pedro' ? mochila('#3a5a3a') : null}, vis);
+  const cm = caminhada(0.18, 1);
+  desenharPessoa(c, { x: 470, y: yq + cm.bob, s: 1, dir: 1, ...cm, expr: 'sorriso', cabeca: { giro: 0.2 }, costas: id === 'pedro' ? mochila('#3a5a3a') : null }, vis);
+  c.fillStyle = '#8a857e'; c.font = '400 20px Inter'; c.fillText('parado', 185, chao + 30); c.fillText('caminhando', 420, chao + 30);
+  // expressões (cabeça ampliada)
+  c.fillStyle = '#f2efe9'; c.font = '700 30px Oswald'; c.fillText('EXPRESSÕES', 700, 70);
+  const nomes = { '': 'neutro', sorriso: 'sorriso', riso: 'riso', surpreso: 'surpresa', assustado: 'susto', preocupado: 'preocupação', firme: 'firmeza', duvida: 'dúvida' };
+  F.exprs.forEach((e, i) => {
+    const col = i % 3, lin = Math.floor(i / 3), x0 = 700 + col * 400, y0 = 130 + lin * 330;
+    c.fillStyle = '#1f1f25'; rr(c, x0, y0, 370, 300, 16); c.fill();
+    c.save(); c.beginPath(); rr(c, x0, y0, 370, 300, 16); c.clip();
+    desenharPessoa(c, { x: x0 + 168, y: y0 + 175 + 262 * 1.9, s: 1.9, dir: 1, expr: e, cabeca: { giro: 0.1 }, semPernas: true, bracoF: [0.1, 0.2] }, { ...vis, altura: 1, cabecaEsc: vis.cabecaEsc ? 1.0 : undefined });
+    c.restore();
+    c.fillStyle = '#f2efe9'; c.font = '600 22px Inter'; c.fillText(nomes[e] || e, x0 + 18, y0 + 14);
+  });
+  // paleta e regras
+  const pal = [['pele', vis.pele], ['cabelo', vis.cabelo], ['roupa', vis.camiseta], ['calça', vis.calca], ['tênis', vis.tenis]].concat(vis.bone ? [['boné', vis.bone]] : []);
+  c.fillStyle = '#f2efe9'; c.font = '700 26px Oswald'; c.fillText('PALETA', 700, 815);
+  pal.forEach(([n, cor], i) => { c.fillStyle = cor; rr(c, 700 + i * 170, 855, 150, 50, 10); c.fill(); c.fillStyle = '#c9c4bb'; c.font = '600 18px Inter'; c.fillText(n, 700 + i * 170, 913); c.font = '400 16px Inter'; c.fillStyle = '#8a857e'; c.fillText(cor, 700 + i * 170, 936); });
+  c.fillStyle = '#c9c4bb'; c.font = '400 22px Inter';
+  c.fillText(F.traco, 86, 196);
+  c.fillText('Altura ' + (vis.altura || 1).toFixed(2) + '  ·  largura ' + (vis.largura || 1).toFixed(2) + '  ·  cabelo: ' + vis.cabeloTipo + (vis.barba ? '  ·  barba' : '') + (vis.oculos ? '  ·  óculos' : ''), 86, 232);
+  c.fillStyle = '#8a857e'; c.font = '400 19px Inter';
+  c.fillText('Continuidade: não mudar rosto, cabelo, roupa, altura nem proporções sem motivo na história.', 700, 1000);
+}
+window.gerar = async (id) => { await document.fonts.ready; await Promise.all([...document.fonts].map(f => f.load())); ficha(id); return true; };
+</script></body></html>
