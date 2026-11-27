@@ -14,6 +14,7 @@ NARRADOR: Com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do 
 NENA: Pronto. Agora sim é calor.
 DUDA: A bomba d'água também parou, vó. Sem luz, a água não sobe pra caixa.
 [Escada. Seu Valdir sobe arrastando um gerador novo, ainda na caixa.]
+[pausa 1.0]
 VALDIR: Comprei o último da loja. Paguei uma fortuna.
 NENA: Valdir, dá pra ligar um ventiladorzinho lá em cima?
 VALDIR: Dona Nena, a gasolina tá pela hora da morte. Esse aqui é pra minha geladeira.
@@ -35,12 +36,13 @@ CAIO: Quanto é a água?
 TIAO: A água é quatro. O conselho é de graça. E o conselho é: para de rodar no sol das duas da tarde.
 CAIO: E se eu não parar?
 TIAO: Aí o próximo conselho quem vai te dar é o médico.
-NARRADOR: Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo.
+NARRADOR: Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo. Se aparecer confusão ou desmaio, é emergência: 192.
 [Caio desliga o aplicativo. Na tela: VOCÊ ESTÁ OFFLINE.]
 [O celular toca. MÃE.]
 SONIA [telefone]: Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.
 CAIO: Tô indo, mãe.
 [Prédio. Caio sobe a escada correndo. A porta do apartamento está aberta. Duda está sozinha com a Pipoca.]
+[pausa 1.0]
 CAIO: Cadê a vó?
 DUDA: Ela disse que ia rapidinho na feira.
 CAIO: Às duas da tarde?

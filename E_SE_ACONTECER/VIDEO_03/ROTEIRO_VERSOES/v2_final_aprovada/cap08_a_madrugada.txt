@@ -1,0 +1,59 @@
+# CAPÍTULO 8 — DIA 4 · 02:40 · 41°C: A MADRUGADA
+# Retoma a abertura em poucos segundos e segue daí até o clímax.
+# Ordem tecnicamente correta: a CONFUSÃO MENTAL é o sinal de emergência → ligação imediata para o 192, e o resfriamento
+# começa AO MESMO TEMPO (a Duda já resfria enquanto o Caio vai buscar um telefone). A pele seca aparece neste caso,
+# mas o narrador deixa claro que ela pode estar seca ou suada. Nada para beber a quem está confuso.
+# Funções: a comunidade se junta, o Tião volta com o gelo, a mãe aparece no telefone, a Vó responde, a ambulância chega.
+# Fecha o laço aberto da abertura, mas deixa uma pergunta: "Ela vai voltar?"
+[O mesmo quarto da abertura. Caio com a mão na testa da Vó.]
+CAIO: Ela não tá reconhecendo a gente, Duda. Isso é emergência.
+DUDA: Liga pro SAMU!
+CAIO: Dois por cento e sem sinal.
+DUDA [rapido]: O gerador do Seu Valdir!
+CAIO: Pega a água do isopor da insulina e molha os panos. Passa no pescoço e debaixo dos braços dela. Não para. Eu já volto.
+[Duda tira os panos do balde e começa a resfriar a Vó. Caio desce a escada no escuro, pulando degraus, com a lanterna do celular balançando.]
+[Porta do Valdir. Caio esmurra a porta.]
+CAIO: Seu Valdir! É a minha vó!
+[Valdir abre, de pijama. Sem dizer nada, entrega o celular dele, carregado. Caio liga na hora.]
+ATENDENTE [telefone]: SAMU, qual é a emergência?
+CAIO: A minha avó. Setenta e nove anos. Ela tá confusa, quente demais, e não reconhece ninguém. A gente tá sem luz desde quinta.
+ATENDENTE [telefone]: Ela está respirando?
+CAIO: Tá.
+ATENDENTE [telefone]: A ambulância já está a caminho, mas pode demorar. Enquanto isso, leve ela para o lugar mais fresco que tiver. Afrouxe a roupa, molhe o corpo com panos e abane. Não dê nada para ela beber.
+CAIO: Nada? Nem água?
+ATENDENTE [telefone]: Confusa desse jeito, não. Ela pode engasgar. Se ela piorar, ligue de novo.
+CAIO: A calçada. Lá embaixo tá mais fresco.
+VALDIR: Então ela desce agora. Eu pego as pernas da cadeira.
+[Caio digita rápido no celular do Valdir, para a mãe: VÓ CONFUSA. JÁ LIGUEI 192.]
+[Escada estreita. Caio e Valdir descem a Vó sentada numa cadeira. Duda vai na frente, iluminando os degraus com a lanterna. Pipoca late.]
+NARRADOR: Quatro andares. Oitenta degraus. No escuro, a quarenta graus.
+[No caminho, portas se abrem. Vizinhos de pijama aparecem, um a um, com lanternas.]
+VIZINHA: Precisa de ajuda?
+CAIO: Pano molhado! O máximo que der!
+[Calçada. A Vó deitada num colchonete. Vizinhos abanam com pedaços de papelão. Duda passa um pano molhado no pescoço dela.]
+[O celular do Valdir toca. Na tela: SÔNIA. Caio atende no viva-voz.]
+[pausa 1.0]
+SONIA [telefone]: Caio! Vi a tua mensagem. Já ligou pro 192?
+CAIO: Já. Tão vindo. A gente tá resfriando ela aqui na calçada.
+SONIA [telefone]: Fez certo, filho. Não para de resfriar até a ambulância chegar.
+SONIA [telefone]: Você consegue. Eu tô saindo daqui agora.
+[Ronco de motor velho. Uma kombi encosta. É o Tião, com o isopor.]
+TIAO: Ouvi a gritaria lá da esquina. Que que tá precisando?
+CAIO: Gelo, Tião! Tu tem gelo?
+TIAO: Eu falei que esse gelo era pra emergência.
+[Tião enrola o gelo em panos. Caio coloca as compressas no pescoço e nas axilas da Vó.]
+NARRADOR: Confusão, fala sem sentido ou desmaio no calor podem ser sinais de golpe de calor, a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.
+NARRADOR: É emergência. Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega: lugar fresco, roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha. E nada para beber.
+[Silêncio. A Vó não se mexe.]
+DUDA: Vó?
+[pausa 1.2]
+DUDA: Vó, aperta a minha mão.
+[pausa 1.5]
+[Os dedos da Vó apertam, devagar, a mão da Duda.]
+NENA: Arlindo... não... Caio. Que barulheira é essa aqui?
+[Caio ri e chora ao mesmo tempo.]
+[Sirene ao longe. Luzes azuis e vermelhas no fim da rua.]
+[pausa 1.5]
+[A ambulância chega. Os socorristas colocam a Vó na maca.]
+DUDA: Ela vai voltar?
+[As portas da ambulância se fecham.]

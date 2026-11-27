@@ -7,16 +7,19 @@ CAIO: Encosta a mão no asfalto.
 [Duda encosta as costas da mão no chão e tira na hora.]
 DUDA: Ai!
 CAIO: Agora imagina a pata dela.
-NARRADOR: No sol forte, o asfalto pode queimar as patas de um cachorro. Se a sua mão não aguenta sete segundos no chão, a pata dele também não aguenta.
+NARRADOR: No sol forte, o asfalto pode queimar as patas de um cachorro. Se o chão está quente demais para a sua mão, está quente demais para a pata dele.
 [Feira. Barracas fechando. Lonas murchas de calor.]
+[pausa 1.0]
 CAIO: Moço, viu uma senhora baixinha, guarda-chuva roxo, cara de brava?
 FEIRANTE: A Dona Nena? Passou aqui faz uma hora. Comprou banana e foi pro lado da igreja.
 [Igreja fechada. Rua vazia. Ninguém.]
+[pausa 1.2]
 DUDA: Caio, e se ela caiu?
 CAIO: Ela não caiu.
 DUDA: Mas e se...
 CAIO: Ela não caiu, Duda.
 [Ponto de ônibus. A Vó Nena sentada, vermelha, se abanando com um leque, sacolas no chão.]
+[pausa 1.0]
 DUDA: Vó!
 NENA: Ué. Vieram me buscar? Que chique.
 CAIO: Vó, a senhora tá maluca? Quarenta e quatro graus!
@@ -36,6 +39,7 @@ NENA: Eu não tô com sede.
 DUDA: Bebe mesmo assim.
 NARRADOR: Com a idade, o corpo sente menos sede. Por isso, no calor extremo, idosos precisam beber água mesmo sem vontade.
 [Prédio. 18:00. Corredor do 302. Caio deixa as sacolas na porta e bate.]
+[pausa 1.0]
 CAIO: Seu Ademar? Deixei as compras aqui na porta.
 [Silêncio. Então a música do rádio começa a tocar atrás da porta.]
 [pausa 2.5]

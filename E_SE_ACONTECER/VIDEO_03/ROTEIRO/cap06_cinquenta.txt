@@ -6,6 +6,7 @@ NARRADOR: No terceiro dia, o termômetro chegou a cinquenta graus.
 NARRADOR: Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.
 NARRADOR: E o prédio já estava sem água fazia vinte e quatro horas.
 [Rua. Fila enorme diante de um caminhão-pipa. Baldes, galões e garrafas.]
+[pausa 1.0]
 DUDA: Caio, essa fila não acaba.
 CAIO: Fica na sombra com a Pipoca. Eu seguro o lugar.
 [Um homem de boné passa na frente de todo mundo.]
@@ -30,6 +31,7 @@ NARRADOR: Cachorros quase não suam. Eles se refrescam ofegando. Respiração mu
 DUDA: Nunca mais me assusta assim, sua caramelo.
 [Garagem do prédio, 17:30. O gerador do Valdir funciona lá dentro, com o portão quase todo fechado. Fumaça cinza no ar.]
 [Caio chega com dois galões cheios. Para. Leva a mão à cabeça.]
+[pausa 1.2]
 CAIO: Que dor de cabeça é essa?
 DUDA: Eu também tô tonta.
 [Seu Valdir está sentado ao lado do gerador, pálido, piscando devagar.]

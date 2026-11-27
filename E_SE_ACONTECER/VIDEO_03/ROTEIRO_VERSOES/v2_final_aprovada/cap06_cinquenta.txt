@@ -1,0 +1,56 @@
+# CAPÍTULO 6 — DIA 3 · 13:00 · 50°C: CINQUENTA
+# Funções: o pico (montagem visual da cidade a 50°C), dilema com pessoas (a fila do caminhão-pipa),
+# acontecimento inesperado (monóxido de carbono do gerador), o Valdir muda, o rádio do 302 NÃO toca (gancho).
+[Montagem: ruas vazias ao meio-dia. Pássaros encolhidos na sombra. Um termômetro de rua marcando 50°C. Um ônibus parado com as portas abertas.]
+NARRADOR: No terceiro dia, o termômetro chegou a cinquenta graus.
+NARRADOR: Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.
+NARRADOR: E o prédio já estava sem água fazia vinte e quatro horas.
+[Rua. Fila enorme diante de um caminhão-pipa. Baldes, galões e garrafas.]
+[pausa 1.0]
+DUDA: Caio, essa fila não acaba.
+CAIO: Fica na sombra com a Pipoca. Eu seguro o lugar.
+[Um homem de boné passa na frente de todo mundo.]
+MULHER: Ô, moço! A fila é lá atrás!
+HOMEM: Eu tenho três crianças em casa.
+MULHER: E eu tenho quatro! Tô aqui desde as dez!
+[A discussão esquenta. Gente começa a empurrar.]
+CAIO: Ô, ô, ô! Calma, geral! Com cinquenta graus, se a gente brigar, o caminhão-pipa vira sauna.
+[Algumas pessoas riem. A tensão cai.]
+CAIO: Moço, as crianças tão bem?
+HOMEM: A menor tá com febre.
+CAIO: Então passa na minha frente. Mas só na minha.
+[O homem para, envergonhado, e agradece com a cabeça.]
+[Duda divide a garrafa dela com uma mãe que segura um bebê.]
+NARRADOR: Numa crise, o que separa uma fila de uma briga muitas vezes é uma única pessoa que decide não gritar.
+[Na sombra, a Pipoca ofega forte, de língua para fora, babando, sem conseguir levantar.]
+DUDA [rapido]: Caio! A Pipoca tá esquisita!
+CAIO: Molha a barriga e as patas dela. Água fresca, não gelada.
+[Duda molha a Pipoca com a água do balde e abana com o boné. A cachorra respira mais devagar.]
+NARRADOR: Cachorros quase não suam. Eles se refrescam ofegando. Respiração muito acelerada, baba em excesso e fraqueza podem ser sinais de que o animal está superaquecendo.
+[Pipoca bebe água e lambe a mão da Duda.]
+DUDA: Nunca mais me assusta assim, sua caramelo.
+[Garagem do prédio, 17:30. O gerador do Valdir funciona lá dentro, com o portão quase todo fechado. Fumaça cinza no ar.]
+[Caio chega com dois galões cheios. Para. Leva a mão à cabeça.]
+[pausa 1.2]
+CAIO: Que dor de cabeça é essa?
+DUDA: Eu também tô tonta.
+[Seu Valdir está sentado ao lado do gerador, pálido, piscando devagar.]
+CAIO: Seu Valdir? Seu Valdir!
+VALDIR: Tô só... cansado.
+CAIO [rapido]: Duda, abre o portão! Agora!
+[Caio arrasta o gerador para a calçada. Duda abre o portão inteiro. Os dois puxam o Valdir para fora.]
+NARRADOR: O motor do gerador solta monóxido de carbono. Um gás sem cor e sem cheiro, que pode matar em pouco tempo num lugar fechado.
+NARRADOR: Gerador nunca deve funcionar dentro de casa nem em garagem. Só ao ar livre, longe de portas e janelas.
+[Na calçada, Valdir respira fundo, tosse e recupera a cor.]
+VALDIR: Eu deixei lá dentro pra ninguém roubar.
+CAIO: Pois é. Quase levaram o senhor junto.
+VALDIR: Obrigado, garoto.
+[Pausa. Valdir olha para o gerador e depois para o prédio.]
+VALDIR: Leva uma extensão lá pra cima. Pra insulina da tua avó. E pro ventilador.
+[Corredor do terceiro andar. Caio e Duda sobem com os galões. O relógio da parede marca 18:00.]
+[18:00. 18:01. 18:02. Silêncio.]
+[pausa 2.5]
+DUDA: Caio...
+CAIO: Que foi?
+DUDA: O rádio.
+[Silêncio total atrás da porta do 302.]

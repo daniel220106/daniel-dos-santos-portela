@@ -1,0 +1,9 @@
+# ENCERRAMENTO
+# Curto (menos de 40 s): aviso de simulação, a pergunta de dilema (padrão das referências) e a cartela final.
+[Vista aérea do Rio ao entardecer, depois da chuva. Ruas molhadas refletindo as luzes.]
+NARRADOR: Esta foi uma simulação. O Rio de Janeiro nunca registrou cinquenta graus no termômetro.
+NARRADOR: Mas ondas de calor acontecem de verdade, todos os anos. E muitas vezes atingem quem está sozinho, dentro de casa, sem ninguém perceber.
+NARRADOR: Você sabe quem mora sozinho no seu prédio?
+NARRADOR: E uma última pergunta. No segundo dia, a Vó Nena saiu no sol das duas da tarde para levar comida a um vizinho.
+NARRADOR: Ela estava certa ou errada? Deixe a sua resposta nos comentários.
+[Cartela final: VOCÊ SABERIA O QUE FAZER?  ·  E SE ACONTECER?  ·  Simulação fictícia. Em uma emergência real, ligue 192 (SAMU) ou 193 (Bombeiros).]

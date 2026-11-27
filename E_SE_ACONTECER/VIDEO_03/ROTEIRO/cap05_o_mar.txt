@@ -13,6 +13,7 @@ NARRADOR: Na orla, multidões tinham passado a noite na areia, fugindo de casas 
 SENHORA: Moço, desculpa a bagunça. A gente não aguentou ficar em casa.
 CAIO: Que bagunça? Melhor endereço do Rio.
 [Fábrica de gelo. Fila de ambulantes com isopores. Tião no meio da fila.]
+[pausa 1.0]
 TIAO: Olha quem tá vivo! O moleque do sinal vermelho.
 CAIO: Tião, preciso de gelo. É pra insulina da minha vó.
 TIAO: Gelo hoje tá mais disputado que ingresso de final.
@@ -31,8 +32,9 @@ SONIA: Eles sempre dizem isso.
 [pausa 0.6]
 SONIA: A minha mãe também diz.
 [Sônia olha o celular: SEM SINAL. Guarda no bolso, preocupada.]
-[Apartamento. 09:40. Caio chega com o gelo. Duda monta o isopor: a insulina enrolada num pano, por cima do gelo.]
-DUDA: Pano entre a insulina e o gelo. Igual a mãe falou.
+[Apartamento. 09:40. Caio chega com o gelo. Duda monta o isopor: a insulina num pote fechado, enrolado num pano, separado do gelo por uma toalha dobrada.]
+[pausa 1.0]
+DUDA: Insulina no pote, pote no pano, e nada encostando no gelo. Igual a mãe falou.
 CAIO: Tu é a pessoa mais organizada desta família.
 DUDA: Não é muito difícil, né, Caio.
 [O sol bate na janela. Duda fecha a cortina.]

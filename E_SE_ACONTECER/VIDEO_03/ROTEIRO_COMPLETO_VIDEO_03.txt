@@ -1,6 +1,8 @@
 # ABERTURA — DIA 4 · 02:40 · 41°C DENTRO DE CASA
 # Começa no pior momento da história (padrão das referências: o primeiro capítulo já contém o desastre).
 # Laço aberto: "a Vó vai sobreviver?". Só fecha no Cap. 8.
+# Continuidade: Dia 4 (sábado), 02:40 → "três dias antes" = Dia 1 (quarta-feira, dia de feijão da Vó).
+# Saúde: o sinal de alarme é a CONFUSÃO (não reconhece o neto). Nada de água para beber; o pano molhado é para resfriar.
 [Primeiro quadro já com imagem (nada de tela preta): quarto escuro, iluminado pela tela do celular. Um ventilador desacelera até parar. Um cachorro choraminga.]
 [TELA: DIA 4 · 02:40 · 41°C DENTRO DE CASA]
 [Quarto escuro, iluminado só pela tela de um celular. Duda, 11 anos, sacode o Caio.]
@@ -13,21 +15,21 @@ CAIO: Vó? Sou eu. O Caio.
 NENA: Arlindo...
 DUDA: Quem é Arlindo?
 CAIO: Era o vô.
-[Caio encosta a mão na testa dela. Close na pele vermelha e seca.]
-CAIO: Ela tá pelando. E tá seca. Ela não tá suando.
+[Caio encosta a mão na testa dela. Close no rosto vermelho, no olhar perdido.]
+CAIO: Ela tá pelando. E não tá reconhecendo a gente.
 [Close no celular: 2% de bateria. SEM SERVIÇO.]
-CAIO: Sem sinal. Duda, pega água.
+CAIO: Sem sinal. Duda, molha um pano. Rápido.
 DUDA: Caio... a água acabou.
 [Caio olha para o corredor escuro e para a escada. Quatro andares. Pipoca, uma vira-lata caramelo, late uma vez.]
 [pausa 0.8]
-NARRADOR: Quatro dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.
+NARRADOR: Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.
 NARRADOR: Esta é uma simulação. Um cenário hipotético.
 [Cartela: 50°C NO RIO  ·  E SE ACONTECER?  ·  SIMULAÇÃO]
 # CAPÍTULO 1 — DIA 1 · 11:40 · 39°C: O ASFALTO
 # Funções: apresentar Caio, Vó Nena, Duda, Pipoca e a mãe (por telefone); premissa em uma linha; calor úmido;
 # plantar a garrafa intacta (paga no Cap. 7 e no fim) e o mistério do rádio do 302 (paga nos Caps. 6, 7 e 9).
 [Rua da Zona Norte do Rio ao meio-dia. O asfalto tremula de calor. Caio de moto, com a mochila de entrega nas costas.]
-NARRADOR: Zona Norte do Rio de Janeiro. Quatro dias antes.
+NARRADOR: Zona Norte do Rio de Janeiro. Quarta-feira. Três dias antes.
 NARRADOR: Este é o Caio. Vinte e seis anos, entregador de aplicativo, e dono de uma certeza absoluta: carioca não sente calor.
 [Notificação no celular preso no guidão: BÔNUS CALOR +R$ 2,00.]
 CAIO: Dois reais de bônus calor. Caraca. Agora eu fico rico.
@@ -48,6 +50,7 @@ NARRADOR: Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de J
 NARRADOR: No calor seco, o suor evapora e esfria o corpo. No calor úmido, ele escorre. E o corpo quase não consegue se esfriar.
 [Prédio de quatro andares, sem elevador. Último andar, logo abaixo da laje. Panela de pressão chiando. Ventilador no máximo.]
 [Duda no sofá com o celular. Pipoca deitada no chão do banheiro, o lugar mais fresco da casa.]
+[pausa 1.0]
 DUDA: Vó, o celular disse que a sensação térmica é de cinquenta e dois graus.
 NENA: Então desliga o celular que a sensação passa.
 DUDA: Não é assim que funciona, vó.
@@ -59,11 +62,11 @@ DUDA: Até a Pipoca desistiu de você, vó.
 NENA: A Pipoca não paga as contas desta casa.
 DUDA: Nem a senhora, quem paga é a mãe.
 NENA: Vai lavar a louça, Maria Eduarda.
-[Duda abre a geladeira. Na porta, as canetas de insulina da avó.]
-DUDA: Vó, a insulina tá aqui na porta da geladeira, tá? Pra senhora não esquecer.
+[Duda abre a geladeira. Na prateleira do meio, a caixa com a insulina da avó.]
+DUDA: Vó, a insulina nova tá na prateleira do meio, tá? Na porta não pode, a mãe disse que lá a temperatura fica mudando.
 NENA: Eu esqueço o teu nome, menina. A insulina eu não esqueço.
 [Close na garrafa de água da Vó, cheia, esquecida em cima da mesa, ao lado da panela.]
-NARRADOR: Três dias depois, aquela garrafa ainda ia estar cheia.
+NARRADOR: Dois dias depois, aquela garrafa ainda ia estar cheia.
 [Fim de tarde. Corredor do terceiro andar. Relógio na parede: 18:00.]
 [Atrás da porta do apartamento 302, uma música antiga começa a tocar.]
 [pausa 2.0]
@@ -71,6 +74,7 @@ NARRADOR: Às seis da tarde em ponto, como em todos os dias, o rádio do 302 com
 DUDA: Todo dia, seis horas. O Seu Ademar nunca abre a porta. Mas o rádio nunca falha.
 NENA: Desde que a Dona Lurdes morreu, é assim. Ele só sai pra comprar pão.
 [Noite. Caio chega suado e tira o capacete. O apartamento parece um forno.]
+[pausa 1.0]
 CAIO: Que horas são?
 DUDA: Dez da noite.
 CAIO: E por que ainda tá esse calor aqui dentro?
@@ -94,6 +98,7 @@ NARRADOR: Com milhares de aparelhos ligados ao mesmo tempo, a rede elétrica do 
 NENA: Pronto. Agora sim é calor.
 DUDA: A bomba d'água também parou, vó. Sem luz, a água não sobe pra caixa.
 [Escada. Seu Valdir sobe arrastando um gerador novo, ainda na caixa.]
+[pausa 1.0]
 VALDIR: Comprei o último da loja. Paguei uma fortuna.
 NENA: Valdir, dá pra ligar um ventiladorzinho lá em cima?
 VALDIR: Dona Nena, a gasolina tá pela hora da morte. Esse aqui é pra minha geladeira.
@@ -115,12 +120,13 @@ CAIO: Quanto é a água?
 TIAO: A água é quatro. O conselho é de graça. E o conselho é: para de rodar no sol das duas da tarde.
 CAIO: E se eu não parar?
 TIAO: Aí o próximo conselho quem vai te dar é o médico.
-NARRADOR: Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo.
+NARRADOR: Tontura, dor de cabeça, enjoo e fraqueza são sinais de exaustão pelo calor. O certo é parar, ir para a sombra, beber água e esfriar o corpo. Se aparecer confusão ou desmaio, é emergência: 192.
 [Caio desliga o aplicativo. Na tela: VOCÊ ESTÁ OFFLINE.]
 [O celular toca. MÃE.]
 SONIA [telefone]: Caio, a emergência aqui tá lotada. Quase tudo idoso. Vai ver a tua avó.
 CAIO: Tô indo, mãe.
 [Prédio. Caio sobe a escada correndo. A porta do apartamento está aberta. Duda está sozinha com a Pipoca.]
+[pausa 1.0]
 CAIO: Cadê a vó?
 DUDA: Ela disse que ia rapidinho na feira.
 CAIO: Às duas da tarde?
@@ -134,16 +140,19 @@ CAIO: Encosta a mão no asfalto.
 [Duda encosta as costas da mão no chão e tira na hora.]
 DUDA: Ai!
 CAIO: Agora imagina a pata dela.
-NARRADOR: No sol forte, o asfalto pode queimar as patas de um cachorro. Se a sua mão não aguenta sete segundos no chão, a pata dele também não aguenta.
+NARRADOR: No sol forte, o asfalto pode queimar as patas de um cachorro. Se o chão está quente demais para a sua mão, está quente demais para a pata dele.
 [Feira. Barracas fechando. Lonas murchas de calor.]
+[pausa 1.0]
 CAIO: Moço, viu uma senhora baixinha, guarda-chuva roxo, cara de brava?
 FEIRANTE: A Dona Nena? Passou aqui faz uma hora. Comprou banana e foi pro lado da igreja.
 [Igreja fechada. Rua vazia. Ninguém.]
+[pausa 1.2]
 DUDA: Caio, e se ela caiu?
 CAIO: Ela não caiu.
 DUDA: Mas e se...
 CAIO: Ela não caiu, Duda.
 [Ponto de ônibus. A Vó Nena sentada, vermelha, se abanando com um leque, sacolas no chão.]
+[pausa 1.0]
 DUDA: Vó!
 NENA: Ué. Vieram me buscar? Que chique.
 CAIO: Vó, a senhora tá maluca? Quarenta e quatro graus!
@@ -163,13 +172,14 @@ NENA: Eu não tô com sede.
 DUDA: Bebe mesmo assim.
 NARRADOR: Com a idade, o corpo sente menos sede. Por isso, no calor extremo, idosos precisam beber água mesmo sem vontade.
 [Prédio. 18:00. Corredor do 302. Caio deixa as sacolas na porta e bate.]
+[pausa 1.0]
 CAIO: Seu Ademar? Deixei as compras aqui na porta.
 [Silêncio. Então a música do rádio começa a tocar atrás da porta.]
 [pausa 2.5]
 DUDA: Isso quer dizer obrigado.
 # CAPÍTULO 4 — DIA 2 · 21:00 · 38°C: A REUNIÃO
 # Funções: dilema com pessoas (quem usa o gerador?), humor de condomínio, planta a frase do Valdir sobre a garagem
-# (paga no Cap. 6, monóxido de carbono), a insulina precisa de gelo (motiva o Cap. 5), dicas de ventilação.
+# (paga no Cap. 6, monóxido de carbono), a insulina precisa de frio sem congelar (motiva o Cap. 5), dicas de ventilação.
 [Escada do prédio à luz de velas. Moradores sentados nos degraus, abanando-se. Valdir em pé, de braços cruzados.]
 NARRADOR: Às nove da noite, com o prédio no escuro, os moradores fizeram uma coisa que não faziam havia anos. Uma reunião.
 ZICA: Valdir, meu filho tem oito meses. Ele não para de chorar de calor.
@@ -188,8 +198,9 @@ VALDIR: O gerador é meu. Ele fica na garagem, com o portão fechado. Porque aqu
 [Valdir desce a escada e bate a porta da garagem.]
 NARRADOR: Ninguém deu muita atenção àquela frase. No dia seguinte, ela quase custou caro.
 [Apartamento. Caio liga para a mãe, de um ponto perto da janela onde o sinal pega.]
+[pausa 1.0]
 CAIO: Mãe, a geladeira parou. E a insulina da vó?
-SONIA [telefone]: Isopor com gelo. Enrola a insulina num pano. Ela não pode encostar direto no gelo, nem pode esquentar.
+SONIA [telefone]: A que tá em uso aguenta um tempo fora da geladeira, mas não nesse calor. Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo. Sem encostar no gelo. Se congelar, não pode mais usar.
 CAIO: E onde é que eu arrumo gelo com o bairro inteiro sem luz?
 SONIA [telefone]: Dá o teu jeito, filho. Eu tô com quarenta pacientes aqui. O sinal vai cair...
 [A ligação cai.]
@@ -215,6 +226,7 @@ NARRADOR: Na orla, multidões tinham passado a noite na areia, fugindo de casas 
 SENHORA: Moço, desculpa a bagunça. A gente não aguentou ficar em casa.
 CAIO: Que bagunça? Melhor endereço do Rio.
 [Fábrica de gelo. Fila de ambulantes com isopores. Tião no meio da fila.]
+[pausa 1.0]
 TIAO: Olha quem tá vivo! O moleque do sinal vermelho.
 CAIO: Tião, preciso de gelo. É pra insulina da minha vó.
 TIAO: Gelo hoje tá mais disputado que ingresso de final.
@@ -233,8 +245,9 @@ SONIA: Eles sempre dizem isso.
 [pausa 0.6]
 SONIA: A minha mãe também diz.
 [Sônia olha o celular: SEM SINAL. Guarda no bolso, preocupada.]
-[Apartamento. 09:40. Caio chega com o gelo. Duda monta o isopor: a insulina enrolada num pano, por cima do gelo.]
-DUDA: Pano entre a insulina e o gelo. Igual a mãe falou.
+[Apartamento. 09:40. Caio chega com o gelo. Duda monta o isopor: a insulina num pote fechado, enrolado num pano, separado do gelo por uma toalha dobrada.]
+[pausa 1.0]
+DUDA: Insulina no pote, pote no pano, e nada encostando no gelo. Igual a mãe falou.
 CAIO: Tu é a pessoa mais organizada desta família.
 DUDA: Não é muito difícil, né, Caio.
 [O sol bate na janela. Duda fecha a cortina.]
@@ -247,6 +260,7 @@ NARRADOR: No terceiro dia, o termômetro chegou a cinquenta graus.
 NARRADOR: Nesta simulação, é mais do que qualquer temperatura já registrada no Brasil.
 NARRADOR: E o prédio já estava sem água fazia vinte e quatro horas.
 [Rua. Fila enorme diante de um caminhão-pipa. Baldes, galões e garrafas.]
+[pausa 1.0]
 DUDA: Caio, essa fila não acaba.
 CAIO: Fica na sombra com a Pipoca. Eu seguro o lugar.
 [Um homem de boné passa na frente de todo mundo.]
@@ -271,6 +285,7 @@ NARRADOR: Cachorros quase não suam. Eles se refrescam ofegando. Respiração mu
 DUDA: Nunca mais me assusta assim, sua caramelo.
 [Garagem do prédio, 17:30. O gerador do Valdir funciona lá dentro, com o portão quase todo fechado. Fumaça cinza no ar.]
 [Caio chega com dois galões cheios. Para. Leva a mão à cabeça.]
+[pausa 1.2]
 CAIO: Que dor de cabeça é essa?
 DUDA: Eu também tô tonta.
 [Seu Valdir está sentado ao lado do gerador, pálido, piscando devagar.]
@@ -306,6 +321,7 @@ NENA: O Valdir tem a chave. Ele é o síndico.
 VALDIR: Eu nunca usei essa chave. Nem sei qual é.
 [Ele tenta uma. Duas. A terceira gira.]
 [Apartamento escuro, janelas fechadas, cortinas grossas. Seu Ademar no chão da sala, ao lado do rádio, de casaco de lã.]
+[pausa 1.5]
 CAIO: Seu Ademar!
 ADEMAR: A pilha do rádio acabou. Eu fui trocar e a perna não quis.
 NENA: E de casaco, homem? Com esse calor?
@@ -327,6 +343,7 @@ ADEMAR: A fita. É a Lurdes cantando. Ela gravou em setenta e nove.
 NENA: Então eu guardo.
 CAIO: Duda, fica com a vó. Eu vou junto.
 [Carro do Valdir. Ar-condicionado no máximo. Seu Ademar no banco de trás, com um pano molhado no pescoço. Caio ao lado dele.]
+[pausa 1.0]
 ADEMAR: Faz uns vinte anos que eu não ando de carro com ar-condicionado.
 VALDIR: O carro era da Célia. Foi ela que escolheu essa cor.
 CAIO: A Célia é sua esposa?
@@ -340,6 +357,7 @@ CAIO: Claro, Seu Valdir. Suor.
 [Unidade de saúde lotada. Cadeiras no corredor. Uma enfermeira recebe o Seu Ademar numa cadeira de rodas.]
 NARRADOR: Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele. Mais velhas, morando sozinhas, que não pediram ajuda a tempo.
 [23:00. Caio volta para casa. A Vó dorme no sofá, com o rádio no colo. Duda acordada, com a lanterna.]
+[pausa 1.0]
 CAIO: Ela tá bem?
 DUDA: Dormiu assim que vocês saíram. Tava cansada.
 CAIO: Ela bebeu água?
@@ -347,43 +365,51 @@ DUDA: Ela disse que bebeu.
 [Close na garrafa dela, em cima da mesa: cheia, intacta. A mesma imagem da garrafa do Caio no primeiro dia.]
 NARRADOR: Naquela noite, ninguém percebeu. A Vó Nena tinha passado o dia inteiro cuidando de todo mundo. Menos dela mesma.
 # CAPÍTULO 8 — DIA 4 · 02:40 · 41°C: A MADRUGADA
-# Retoma a abertura em poucos segundos ("ela não tá suando") e segue daí até o clímax.
-# Funções: o que fazer na insolação (pela voz da mãe, no telefone), a comunidade se junta, o Tião volta com o gelo,
-# a Vó responde, a ambulância chega. Fecha o laço aberto da abertura, mas deixa uma pergunta: "Ela vai voltar?"
+# Retoma a abertura em poucos segundos e segue daí até o clímax.
+# Ordem tecnicamente correta: a CONFUSÃO MENTAL é o sinal de emergência → ligação imediata para o 192, e o resfriamento
+# começa AO MESMO TEMPO (a Duda já resfria enquanto o Caio vai buscar um telefone). A pele seca aparece neste caso,
+# mas o narrador deixa claro que ela pode estar seca ou suada. Nada para beber a quem está confuso.
+# Funções: a comunidade se junta, o Tião volta com o gelo, a mãe aparece no telefone, a Vó responde, a ambulância chega.
+# Fecha o laço aberto da abertura, mas deixa uma pergunta: "Ela vai voltar?"
 [O mesmo quarto da abertura. Caio com a mão na testa da Vó.]
-CAIO: Ela não tá suando, Duda. Isso não é bom.
-DUDA: Liga pra mãe!
+CAIO: Ela não tá reconhecendo a gente, Duda. Isso é emergência.
+DUDA: Liga pro SAMU!
 CAIO: Dois por cento e sem sinal.
 DUDA [rapido]: O gerador do Seu Valdir!
-[Caio desce a escada no escuro, pulando degraus, com a lanterna do celular balançando.]
+CAIO: Pega a água do isopor da insulina e molha os panos. Passa no pescoço e debaixo dos braços dela. Não para. Eu já volto.
+[Duda tira os panos do balde e começa a resfriar a Vó. Caio desce a escada no escuro, pulando degraus, com a lanterna do celular balançando.]
 [Porta do Valdir. Caio esmurra a porta.]
 CAIO: Seu Valdir! É a minha vó!
-[Valdir abre, de pijama. Sem dizer nada, entrega o celular dele, carregado.]
-CAIO: Mãe? Mãe, é a vó. Ela tá confusa, quente, e não tá suando.
-SONIA [telefone]: Caio, escuta a mãe. Isso pode ser insolação. Assim que desligar comigo, liga pro 192.
+[Valdir abre, de pijama. Sem dizer nada, entrega o celular dele, carregado. Caio liga na hora.]
+ATENDENTE [telefone]: SAMU, qual é a emergência?
+CAIO: A minha avó. Setenta e nove anos. Ela tá confusa, quente demais, e não reconhece ninguém. A gente tá sem luz desde quinta.
+ATENDENTE [telefone]: Ela está respirando?
 CAIO: Tá.
-SONIA [telefone]: Tira ela do quarto. Leva pro lugar mais fresco que tiver.
+ATENDENTE [telefone]: A ambulância já está a caminho, mas pode demorar. Enquanto isso, leve ela para o lugar mais fresco que tiver. Afrouxe a roupa, molhe o corpo com panos e abane. Não dê nada para ela beber.
+CAIO: Nada? Nem água?
+ATENDENTE [telefone]: Confusa desse jeito, não. Ela pode engasgar. Se ela piorar, ligue de novo.
 CAIO: A calçada. Lá embaixo tá mais fresco.
-SONIA [telefone]: Então desce com ela. Afrouxa a roupa. Pano molhado no pescoço, nas axilas e na virilha. E abana.
-CAIO: E água? Eu dou água?
-SONIA [telefone]: Não! Confusa desse jeito, não. Ela pode engasgar.
-CAIO: Tá. Tá bom.
-SONIA [telefone]: Filho. Você consegue. Eu tô saindo daqui agora.
-[Caio liga para o 192 e fala rápido, de costas. Desliga.]
-CAIO: A ambulância tá vindo. Mas vai demorar.
 VALDIR: Então ela desce agora. Eu pego as pernas da cadeira.
+[Caio digita rápido no celular do Valdir, para a mãe: VÓ CONFUSA. JÁ LIGUEI 192.]
 [Escada estreita. Caio e Valdir descem a Vó sentada numa cadeira. Duda vai na frente, iluminando os degraus com a lanterna. Pipoca late.]
 NARRADOR: Quatro andares. Oitenta degraus. No escuro, a quarenta graus.
 [No caminho, portas se abrem. Vizinhos de pijama aparecem, um a um, com lanternas.]
 VIZINHA: Precisa de ajuda?
 CAIO: Pano molhado! O máximo que der!
 [Calçada. A Vó deitada num colchonete. Vizinhos abanam com pedaços de papelão. Duda passa um pano molhado no pescoço dela.]
+[O celular do Valdir toca. Na tela: SÔNIA. Caio atende no viva-voz.]
+[pausa 1.0]
+SONIA [telefone]: Caio! Vi a tua mensagem. Já ligou pro 192?
+CAIO: Já. Tão vindo. A gente tá resfriando ela aqui na calçada.
+SONIA [telefone]: Fez certo, filho. Não para de resfriar até a ambulância chegar.
+SONIA [telefone]: Você consegue. Eu tô saindo daqui agora.
 [Ronco de motor velho. Uma kombi encosta. É o Tião, com o isopor.]
 TIAO: Ouvi a gritaria lá da esquina. Que que tá precisando?
 CAIO: Gelo, Tião! Tu tem gelo?
 TIAO: Eu falei que esse gelo era pra emergência.
-[Tião enrola o gelo em panos. Caio coloca nas axilas e no pescoço da Vó.]
-NARRADOR: Na suspeita de insolação, ligue para o 192, leve a pessoa para um lugar fresco e resfrie o corpo, principalmente o pescoço, as axilas e a virilha.
+[Tião enrola o gelo em panos. Caio coloca as compressas no pescoço e nas axilas da Vó.]
+NARRADOR: Confusão, fala sem sentido ou desmaio no calor podem ser sinais de golpe de calor, a forma mais grave da doença causada pelo calor. A pele pode estar seca ou suada.
+NARRADOR: É emergência. Ligue na hora para o 192 e comece a resfriar a pessoa enquanto o socorro chega: lugar fresco, roupa afrouxada, panos molhados ou gelo enrolado no pescoço, nas axilas e na virilha. E nada para beber.
 [Silêncio. A Vó não se mexe.]
 DUDA: Vó?
 [pausa 1.2]
@@ -401,12 +427,14 @@ DUDA: Ela vai voltar?
 # Funções: resposta à pergunta "ela vai voltar?" logo na primeira cena (sem enrolar depois do clímax), humor da Vó,
 # a mãe aparece em pessoa, o rádio toca para a enfermaria, a chuva, a lista do prédio e o Caio bebendo água (fecha a garrafa).
 [Corredor de hospital. Sônia de uniforme, exausta, abraça o Caio e a Duda.]
+[pausa 1.0]
 SONIA: Vocês fizeram tudo certinho. Tudinho.
 CAIO: Eu quase não percebi, mãe. Ela disse que tinha bebido água.
 SONIA: Ela fala isso pra mim há trinta anos.
 CAIO: Mãe. Eu bebi água hoje. De verdade.
 SONIA: Eu sei. Tô ouvindo pela tua voz.
 [Enfermaria. A Vó deitada, com soro no braço. Brava.]
+[pausa 1.0]
 NENA: Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.
 CAIO: Vó, a senhora quase...
 NENA: Quase é que nem chuchu. Não tem gosto de nada.
@@ -429,6 +457,7 @@ TIAO: Agora sim! Agora o gelo é de graça!
 [21:00. A luz volta no bairro, rua por rua.]
 [pausa 2.5]
 [Dias depois. Corredor do prédio. Uma folha colada na parede: QUEM MORA SOZINHO NESTE PRÉDIO? Nomes e andares escritos à mão.]
+[pausa 1.2]
 VALDIR: Botei o meu nome também. Moro sozinho desde que a Célia foi embora.
 NENA: Ninguém merecia te aguentar sozinho, Valdir. Agora o prédio inteiro aguenta.
 [Caio, de moto, para na sombra. Pega a garrafa e bebe tudo. Ergue a garrafa vazia para a câmera.]

@@ -1,0 +1,41 @@
+# CAPÍTULO 5 — DIA 3 · 05:30 · 33°C: O MAR
+# Funções: respiro visual (a praia ao amanhecer, a cidade se adaptando), dica dos horários de sol forte,
+# o Tião vira aliado e diz onde dorme (paga no Cap. 8), o lado da mãe no hospital lotado (prenúncio), a insulina no isopor.
+[Amanhecer. Céu rosa e laranja. Caio de moto pelas ruas ainda vazias.]
+[pausa 1.5]
+NARRADOR: Às cinco e meia da manhã, o Caio saiu de casa. Pela primeira vez na vida, ele tinha um plano.
+CAIO: Trabalhar cedo e voltar antes das dez. Das dez às quatro, sol só pela janela.
+NARRADOR: Entre as dez da manhã e as quatro da tarde, o sol é mais forte. É o horário em que o calor mais adoece.
+[Orla ao amanhecer. Centenas de pessoas dormindo na areia, em cangas e cadeiras de praia. Famílias inteiras.]
+[pausa 1.2]
+NARRADOR: Na orla, multidões tinham passado a noite na areia, fugindo de casas que não esfriavam mais.
+[Caio entrega um pedido para uma família acampada na areia.]
+SENHORA: Moço, desculpa a bagunça. A gente não aguentou ficar em casa.
+CAIO: Que bagunça? Melhor endereço do Rio.
+[Fábrica de gelo. Fila de ambulantes com isopores. Tião no meio da fila.]
+[pausa 1.0]
+TIAO: Olha quem tá vivo! O moleque do sinal vermelho.
+CAIO: Tião, preciso de gelo. É pra insulina da minha vó.
+TIAO: Gelo hoje tá mais disputado que ingresso de final.
+CAIO: Eu pago.
+TIAO: Paga nada. Tu me paga quando ficar rico com o bônus calor.
+CAIO: Como é que tu sabe do bônus calor?
+TIAO: Todo entregador que passa aqui reclama do bônus calor.
+[Tião enche uma sacola de gelo e entrega.]
+TIAO: Eu durmo na kombi, ali na esquina da tua rua. Qualquer coisa, grita.
+[Hospital. Emergência lotada: macas no corredor, idosos com soro, ventiladores girando.]
+NARRADOR: Do outro lado da cidade, a mãe do Caio estava na trigésima hora de plantão.
+ENFERMEIRA: Sônia, vai descansar. Você tá de pé desde ontem.
+SONIA: Daqui a pouco.
+ENFERMEIRA: É o terceiro idoso que chega confuso só hoje de manhã. E todos dizem a mesma coisa. Que tinham bebido água.
+SONIA: Eles sempre dizem isso.
+[pausa 0.6]
+SONIA: A minha mãe também diz.
+[Sônia olha o celular: SEM SINAL. Guarda no bolso, preocupada.]
+[Apartamento. 09:40. Caio chega com o gelo. Duda monta o isopor: a insulina num pote fechado, enrolado num pano, separado do gelo por uma toalha dobrada.]
+[pausa 1.0]
+DUDA: Insulina no pote, pote no pano, e nada encostando no gelo. Igual a mãe falou.
+CAIO: Tu é a pessoa mais organizada desta família.
+DUDA: Não é muito difícil, né, Caio.
+[O sol bate na janela. Duda fecha a cortina.]
+NARRADOR: Eram nove e quarenta da manhã. E o termômetro já marcava quarenta e um graus.

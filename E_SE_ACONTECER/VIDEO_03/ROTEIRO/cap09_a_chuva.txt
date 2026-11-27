@@ -2,12 +2,14 @@
 # Funções: resposta à pergunta "ela vai voltar?" logo na primeira cena (sem enrolar depois do clímax), humor da Vó,
 # a mãe aparece em pessoa, o rádio toca para a enfermaria, a chuva, a lista do prédio e o Caio bebendo água (fecha a garrafa).
 [Corredor de hospital. Sônia de uniforme, exausta, abraça o Caio e a Duda.]
+[pausa 1.0]
 SONIA: Vocês fizeram tudo certinho. Tudinho.
 CAIO: Eu quase não percebi, mãe. Ela disse que tinha bebido água.
 SONIA: Ela fala isso pra mim há trinta anos.
 CAIO: Mãe. Eu bebi água hoje. De verdade.
 SONIA: Eu sei. Tô ouvindo pela tua voz.
 [Enfermaria. A Vó deitada, com soro no braço. Brava.]
+[pausa 1.0]
 NENA: Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.
 CAIO: Vó, a senhora quase...
 NENA: Quase é que nem chuchu. Não tem gosto de nada.
@@ -30,6 +32,7 @@ TIAO: Agora sim! Agora o gelo é de graça!
 [21:00. A luz volta no bairro, rua por rua.]
 [pausa 2.5]
 [Dias depois. Corredor do prédio. Uma folha colada na parede: QUEM MORA SOZINHO NESTE PRÉDIO? Nomes e andares escritos à mão.]
+[pausa 1.2]
 VALDIR: Botei o meu nome também. Moro sozinho desde que a Célia foi embora.
 NENA: Ninguém merecia te aguentar sozinho, Valdir. Agora o prédio inteiro aguenta.
 [Caio, de moto, para na sombra. Pega a garrafa e bebe tudo. Ergue a garrafa vazia para a câmera.]

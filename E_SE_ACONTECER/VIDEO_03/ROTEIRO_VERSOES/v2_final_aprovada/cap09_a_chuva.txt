@@ -1,0 +1,39 @@
+# CAPÍTULO 9 — DIA 5 · 16:00 · 37°C: A CHUVA
+# Funções: resposta à pergunta "ela vai voltar?" logo na primeira cena (sem enrolar depois do clímax), humor da Vó,
+# a mãe aparece em pessoa, o rádio toca para a enfermaria, a chuva, a lista do prédio e o Caio bebendo água (fecha a garrafa).
+[Corredor de hospital. Sônia de uniforme, exausta, abraça o Caio e a Duda.]
+[pausa 1.0]
+SONIA: Vocês fizeram tudo certinho. Tudinho.
+CAIO: Eu quase não percebi, mãe. Ela disse que tinha bebido água.
+SONIA: Ela fala isso pra mim há trinta anos.
+CAIO: Mãe. Eu bebi água hoje. De verdade.
+SONIA: Eu sei. Tô ouvindo pela tua voz.
+[Enfermaria. A Vó deitada, com soro no braço. Brava.]
+[pausa 1.0]
+NENA: Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.
+CAIO: Vó, a senhora quase...
+NENA: Quase é que nem chuchu. Não tem gosto de nada.
+[Duda ri pela primeira vez em dias.]
+[No leito ao lado: Seu Ademar, com o cabelo penteado, sorrindo.]
+ADEMAR: Nena. Cadê o meu rádio?
+NENA: Tá comigo. Com pilha nova.
+ADEMAR: Então hoje, às seis, a Lurdes canta pra enfermaria inteira.
+[Janela do hospital. Um trovão. O céu escurece de repente.]
+NARRADOR: No quinto dia, uma frente fria chegou ao Rio. A temperatura caiu mais de dez graus em poucas horas.
+[Rua do prédio. A primeira gota. Depois a chuva forte. Crianças correm para a calçada. Vizinhos aplaudem das janelas.]
+[pausa 2.5]
+[Tião abre os braços na chuva, ao lado do isopor vazio.]
+TIAO: Agora sim! Agora o gelo é de graça!
+[Pipoca rola numa poça. Duda tenta segurar e desiste, rindo.]
+[pausa 1.5]
+[18:00. Na enfermaria, o rádio toca baixinho. Uma voz de mulher canta numa fita antiga.]
+[Seu Ademar fecha os olhos. A Vó segura a mão dele.]
+[pausa 4.0]
+[21:00. A luz volta no bairro, rua por rua.]
+[pausa 2.5]
+[Dias depois. Corredor do prédio. Uma folha colada na parede: QUEM MORA SOZINHO NESTE PRÉDIO? Nomes e andares escritos à mão.]
+[pausa 1.2]
+VALDIR: Botei o meu nome também. Moro sozinho desde que a Célia foi embora.
+NENA: Ninguém merecia te aguentar sozinho, Valdir. Agora o prédio inteiro aguenta.
+[Caio, de moto, para na sombra. Pega a garrafa e bebe tudo. Ergue a garrafa vazia para a câmera.]
+[pausa 3.0]

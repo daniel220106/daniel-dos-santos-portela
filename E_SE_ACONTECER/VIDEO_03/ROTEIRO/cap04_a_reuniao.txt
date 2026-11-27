@@ -1,6 +1,6 @@
 # CAPÍTULO 4 — DIA 2 · 21:00 · 38°C: A REUNIÃO
 # Funções: dilema com pessoas (quem usa o gerador?), humor de condomínio, planta a frase do Valdir sobre a garagem
-# (paga no Cap. 6, monóxido de carbono), a insulina precisa de gelo (motiva o Cap. 5), dicas de ventilação.
+# (paga no Cap. 6, monóxido de carbono), a insulina precisa de frio sem congelar (motiva o Cap. 5), dicas de ventilação.
 [Escada do prédio à luz de velas. Moradores sentados nos degraus, abanando-se. Valdir em pé, de braços cruzados.]
 NARRADOR: Às nove da noite, com o prédio no escuro, os moradores fizeram uma coisa que não faziam havia anos. Uma reunião.
 ZICA: Valdir, meu filho tem oito meses. Ele não para de chorar de calor.
@@ -19,8 +19,9 @@ VALDIR: O gerador é meu. Ele fica na garagem, com o portão fechado. Porque aqu
 [Valdir desce a escada e bate a porta da garagem.]
 NARRADOR: Ninguém deu muita atenção àquela frase. No dia seguinte, ela quase custou caro.
 [Apartamento. Caio liga para a mãe, de um ponto perto da janela onde o sinal pega.]
+[pausa 1.0]
 CAIO: Mãe, a geladeira parou. E a insulina da vó?
-SONIA [telefone]: Isopor com gelo. Enrola a insulina num pano. Ela não pode encostar direto no gelo, nem pode esquentar.
+SONIA [telefone]: A que tá em uso aguenta um tempo fora da geladeira, mas não nesse calor. Bota a insulina num pote fechado, enrola num pano e põe no isopor com gelo. Sem encostar no gelo. Se congelar, não pode mais usar.
 CAIO: E onde é que eu arrumo gelo com o bairro inteiro sem luz?
 SONIA [telefone]: Dá o teu jeito, filho. Eu tô com quarenta pacientes aqui. O sinal vai cair...
 [A ligação cai.]

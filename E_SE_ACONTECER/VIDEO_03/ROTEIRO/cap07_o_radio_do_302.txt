@@ -11,6 +11,7 @@ NENA: O Valdir tem a chave. Ele é o síndico.
 VALDIR: Eu nunca usei essa chave. Nem sei qual é.
 [Ele tenta uma. Duas. A terceira gira.]
 [Apartamento escuro, janelas fechadas, cortinas grossas. Seu Ademar no chão da sala, ao lado do rádio, de casaco de lã.]
+[pausa 1.5]
 CAIO: Seu Ademar!
 ADEMAR: A pilha do rádio acabou. Eu fui trocar e a perna não quis.
 NENA: E de casaco, homem? Com esse calor?
@@ -32,6 +33,7 @@ ADEMAR: A fita. É a Lurdes cantando. Ela gravou em setenta e nove.
 NENA: Então eu guardo.
 CAIO: Duda, fica com a vó. Eu vou junto.
 [Carro do Valdir. Ar-condicionado no máximo. Seu Ademar no banco de trás, com um pano molhado no pescoço. Caio ao lado dele.]
+[pausa 1.0]
 ADEMAR: Faz uns vinte anos que eu não ando de carro com ar-condicionado.
 VALDIR: O carro era da Célia. Foi ela que escolheu essa cor.
 CAIO: A Célia é sua esposa?
@@ -45,6 +47,7 @@ CAIO: Claro, Seu Valdir. Suor.
 [Unidade de saúde lotada. Cadeiras no corredor. Uma enfermeira recebe o Seu Ademar numa cadeira de rodas.]
 NARRADOR: Naquela noite, as unidades de saúde da cidade estavam cheias de pessoas como ele. Mais velhas, morando sozinhas, que não pediram ajuda a tempo.
 [23:00. Caio volta para casa. A Vó dorme no sofá, com o rádio no colo. Duda acordada, com a lanterna.]
+[pausa 1.0]
 CAIO: Ela tá bem?
 DUDA: Dormiu assim que vocês saíram. Tava cansada.
 CAIO: Ela bebeu água?

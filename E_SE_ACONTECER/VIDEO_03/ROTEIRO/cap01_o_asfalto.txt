@@ -2,7 +2,7 @@
 # Funções: apresentar Caio, Vó Nena, Duda, Pipoca e a mãe (por telefone); premissa em uma linha; calor úmido;
 # plantar a garrafa intacta (paga no Cap. 7 e no fim) e o mistério do rádio do 302 (paga nos Caps. 6, 7 e 9).
 [Rua da Zona Norte do Rio ao meio-dia. O asfalto tremula de calor. Caio de moto, com a mochila de entrega nas costas.]
-NARRADOR: Zona Norte do Rio de Janeiro. Quatro dias antes.
+NARRADOR: Zona Norte do Rio de Janeiro. Quarta-feira. Três dias antes.
 NARRADOR: Este é o Caio. Vinte e seis anos, entregador de aplicativo, e dono de uma certeza absoluta: carioca não sente calor.
 [Notificação no celular preso no guidão: BÔNUS CALOR +R$ 2,00.]
 CAIO: Dois reais de bônus calor. Caraca. Agora eu fico rico.
@@ -23,6 +23,7 @@ NARRADOR: Naquela semana, uma massa de ar quente e úmido parou sobre o Rio de J
 NARRADOR: No calor seco, o suor evapora e esfria o corpo. No calor úmido, ele escorre. E o corpo quase não consegue se esfriar.
 [Prédio de quatro andares, sem elevador. Último andar, logo abaixo da laje. Panela de pressão chiando. Ventilador no máximo.]
 [Duda no sofá com o celular. Pipoca deitada no chão do banheiro, o lugar mais fresco da casa.]
+[pausa 1.0]
 DUDA: Vó, o celular disse que a sensação térmica é de cinquenta e dois graus.
 NENA: Então desliga o celular que a sensação passa.
 DUDA: Não é assim que funciona, vó.
@@ -34,11 +35,11 @@ DUDA: Até a Pipoca desistiu de você, vó.
 NENA: A Pipoca não paga as contas desta casa.
 DUDA: Nem a senhora, quem paga é a mãe.
 NENA: Vai lavar a louça, Maria Eduarda.
-[Duda abre a geladeira. Na porta, as canetas de insulina da avó.]
-DUDA: Vó, a insulina tá aqui na porta da geladeira, tá? Pra senhora não esquecer.
+[Duda abre a geladeira. Na prateleira do meio, a caixa com a insulina da avó.]
+DUDA: Vó, a insulina nova tá na prateleira do meio, tá? Na porta não pode, a mãe disse que lá a temperatura fica mudando.
 NENA: Eu esqueço o teu nome, menina. A insulina eu não esqueço.
 [Close na garrafa de água da Vó, cheia, esquecida em cima da mesa, ao lado da panela.]
-NARRADOR: Três dias depois, aquela garrafa ainda ia estar cheia.
+NARRADOR: Dois dias depois, aquela garrafa ainda ia estar cheia.
 [Fim de tarde. Corredor do terceiro andar. Relógio na parede: 18:00.]
 [Atrás da porta do apartamento 302, uma música antiga começa a tocar.]
 [pausa 2.0]
@@ -46,6 +47,7 @@ NARRADOR: Às seis da tarde em ponto, como em todos os dias, o rádio do 302 com
 DUDA: Todo dia, seis horas. O Seu Ademar nunca abre a porta. Mas o rádio nunca falha.
 NENA: Desde que a Dona Lurdes morreu, é assim. Ele só sai pra comprar pão.
 [Noite. Caio chega suado e tira o capacete. O apartamento parece um forno.]
+[pausa 1.0]
 CAIO: Que horas são?
 DUDA: Dez da noite.
 CAIO: E por que ainda tá esse calor aqui dentro?
