@@ -70,7 +70,7 @@ E você? Sairia imediatamente ou esperaria para ver se a água realmente chegari
 
 Créditos: personagens, roteiro e animação originais. Vozes sintetizadas com Piper TTS e Chatterbox (código aberto); referências de voz do conjunto CML-TTS (licença CC BY 4.0). Trilha e efeitos sonoros gerados por síntese própria.
 
-#ÚltimoDia #Simulação #Enchente #SãoPaulo #Sobrevivência
+#ESeAcontecer #Simulação #Enchente #SãoPaulo #Sobrevivência
 """
 open(f'{B}/VIDEO_02/EXPORTACAO/video02_descricao_youtube.txt', 'w', encoding='utf-8').write(desc)
 print(desc)
