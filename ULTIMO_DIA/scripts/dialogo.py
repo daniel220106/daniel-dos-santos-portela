@@ -24,7 +24,7 @@ from narrar import torch, ChatterboxMultilingualTTS, aparar, limpar
 from faster_whisper import WhisperModel
 
 SR_OUT = 48000
-GAP = {'normal': 0.26, 'rapido': 0.08, 'narracao': 0.55, 'interrompe': -0.28}
+GAP = {'normal': 0.18, 'rapido': 0.06, 'narracao': 0.45, 'interrompe': -0.28}
 
 
 def norm(s):
@@ -56,12 +56,13 @@ def ler_roteiro(arq):
     return itens
 
 
-def tratar(w, sr, telefone=False):
+def tratar(w, sr, telefone=False, tempo=1.0):
     with tempfile.TemporaryDirectory() as td:
         sf.write(f'{td}/a.wav', w, sr)
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{td}/a.wav', '-af',
                         ('highpass=f=380,lowpass=f=3300,acompressor=threshold=-24dB:ratio=4:attack=5:release=80:makeup=3,aecho=0.8:0.5:6:0.12' if telefone else
-                         'highpass=f=75,lowpass=f=11500,deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2'),
+                         'highpass=f=75,lowpass=f=11500,deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2')
+                        + (f',atempo={tempo:.3f}' if abs(tempo - 1) > 0.001 else ''),  # acelera sem mudar o tom
                         '-ar', str(SR_OUT), '-ac', '1', f'{td}/b.wav'], check=True)
         y, _ = sf.read(f'{td}/b.wav', dtype='float32')
     rms = librosa.feature.rms(y=y, frame_length=2048, hop_length=512)[0]
@@ -126,7 +127,8 @@ def main():
         _, w, ouvido, sem, cps, sr = melhor
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})
-        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr, it.get('modo') == 'telefone')})
+        tempo = 1.0 if it['personagem'] in piper else p.get('velocidade', 1.0)  # Piper já sai na velocidade certa
+        falas.append({**it, 'texto': texto, 'audio': tratar(w, sr, it.get('modo') == 'telefone', tempo)})
 
     # montagem
     pedacos, tempos, t = [], [], 0.0

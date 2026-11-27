@@ -1,0 +1,21 @@
+# ABERTURA — A ÁGUA ESTÁ SUBINDO
+# Ajuste da auditoria: no original o Lucas dirige dentro da água. Isso contradiz a Parte 8 (não mostrar pessoas
+# dirigindo em ruas inundadas) e o Cap. 5 (o Lucas está em casa quando o Rafael chega a pé). Aqui quem está no carro
+# é o Rafael, parado no trânsito enquanto a água sobe; o Lucas fala com ele pelo viva-voz e dá a orientação correta.
+[Tela preta. Chuva intensa. Um trovão.]
+[Avenida sob chuva forte. Trânsito parado. A água sobe em volta do carro parado do Rafael.]
+RAFAEL: Não, não, não. Vai, vai, vai!
+LUCAS [telefone]: Rafael, não acelera!
+RAFAEL: Eu tô tentando sair!
+LUCAS [telefone]: O carro tá morrendo, Rafael!
+RAFAEL [rapido]: Eu percebi, Lucas!
+LUCAS [telefone]: Desliga e sai do carro!
+RAFAEL [rapido]: Você tá maluco? Olha a água!
+LUCAS [telefone]: Sobe pra calçada alta. Agora!
+[Corte brusco para tela preta.]
+[pausa 0.6]
+NARRADOR: Imagine acordar em uma manhã normal, sair de casa para trabalhar e descobrir que São Paulo está prestes a enfrentar uma enchente de proporções extremas.
+NARRADOR: Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.
+NARRADOR: O problema?
+NARRADOR: Milhões de pessoas estão tentando fazer exatamente a mesma coisa.
+[Texto: 24 HORAS PARA ESCAPAR.]
