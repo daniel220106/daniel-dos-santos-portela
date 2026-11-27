@@ -204,3 +204,10 @@ OK cap06_cinquenta.wav: 97.7s, precisão média 97.8%
 [4/37] valdir     100% cps=13.1  Eu nunca usei essa chave. Nem sei qual é.  ->  Eu nunca usei essa chave, nem sei qual é.
 [6/37] caio       100% cps=12.4  Seu Ademar!  ->  Seu Ademar!
 [7/37] ademar     100% cps=13.4  A pilha do rádio acabou. Eu fui trocar e a perna não quis.  ->  A pilha do rádio acabou.  Eu fui trocar e a perna não quis.
+[8/37] nena       100% cps=11.3  E de casaco, homem? Com esse calor?  ->  e de casaco homem com esse calor.
+[9/37] ademar     100% cps=15.5  Eu tava com frio, Nena.  ->  Eu tava com frio, nena.
+[10/37] narrador   100% cps=18.7  Com a idade, o corpo percebe pior o calor. Muitos idosos não sentem que estão superaquecendo, até ficarem fracos demais para pedir ajuda.  ->  com a idade, o corpo percebe pior o calor.  Muitos idosos não sentem que estão superaquecendo, até ficarem fracos demais para pedir ajuda.
+[11/37] caio        92% cps=15.0  Ele tá acordado e consegue engolir. Pode dar água, Duda. Aos pouquinhos.  ->  Ele está acordado e consegue engolir, pode dar água, duda, aos pouquinhos.
+[12/37] valdir      88% cps=14.4  É do SAMU? Tem um senhor de oitenta e um anos aqui, muito fraco, por causa do calor.  ->  É do Samu? Tem um senhor de 81 anos aqui, muito fraco por causa do calor.
+[13/37] atendente  100% cps=11.4  Senhor, ele está acordado e conversando?  ->  Senhor, Ele está acordado e conversando.
+[14/37] valdir     100% cps=10.8  Tá. Fraco, mas tá.  ->  Tá, fraco, mas tá.
