@@ -11,7 +11,8 @@ LUCAS: Você nem saiu de casa, né?
 RAFAEL [telefone]: Como você sabe?
 LUCAS: Porque você acabou de mandar uma foto deitado.
 RAFAEL [telefone]: Detalhes.
-[Marina aparece na porta do apartamento, com o celular na mão.]
+[pausa 1.4]
+[Batidas na porta. Marina aparece na porta do apartamento, com o celular na mão.]
 MARINA: Vocês estão vendo a previsão do tempo?
 LUCAS: Bom dia pra você também.
 MARINA: Olha isso aqui.

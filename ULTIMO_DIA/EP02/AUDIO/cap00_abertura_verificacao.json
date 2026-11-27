@@ -1,0 +1,74 @@
+[
+ {
+  "personagem": "rafael",
+  "texto": "Não, não, não. Vai, vai, vai!",
+  "ouvido": "Não, não, não! Vai, vai, vai!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, não acelera!",
+  "ouvido": "Rafael não acelera.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu tô tentando sair!",
+  "ouvido": "Eu tô tentando sair.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "O carro tá morrendo, Rafael!",
+  "ouvido": "O carro tá morrendo.  Rafael",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu percebi, Lucas!",
+  "ouvido": "Eu percebi Lucas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Desliga e sai do carro!",
+  "ouvido": "Desliga e sai do carro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Você tá maluco? Olha a água!",
+  "ouvido": "Você tá maluco? Olha a água!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Sobe pra calçada alta. Agora!",
+  "ouvido": "Sobe pra calçada alta, agora!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Imagine acordar em uma manhã normal, sair de casa para trabalhar e descobrir que São Paulo está prestes a enfrentar uma enchente de proporções extremas.",
+  "ouvido": "Imagine acordar em uma manhã normal sair de casa para trabalhar e descobrir que São Paulo  está prestes a enfrentar uma enchente de proporções extremas.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.",
+  "ouvido": "Agora imagine receber um alerta, você tem poucas horas para sair de uma área de risco.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "O problema?",
+  "ouvido": "O problema.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "ouvido": "Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "semelhanca": 1.0
+ }
+]

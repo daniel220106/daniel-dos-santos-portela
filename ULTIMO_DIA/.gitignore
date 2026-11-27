@@ -16,3 +16,5 @@ render/tiktok_ep01/
 EP02/VOZES/piper/*.onnx
 logs/*.log
 EP02/AUDIO/cache_falas/
+EP02/AUDIO/*.wav
+render/ep02_*
