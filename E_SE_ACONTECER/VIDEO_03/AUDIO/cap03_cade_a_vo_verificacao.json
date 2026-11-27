@@ -27,7 +27,7 @@
   "personagem": "narrador",
   "texto": "No sol forte, o asfalto pode queimar as patas de um cachorro. Se o chão está quente demais para a sua mão, está quente demais para a pata dele.",
   "ouvido": "O sol forte, o asfalto pode queimar as patas de um cachorro, se o chão está quente demais  para a sua mão, está quente demais para a pata dele.",
-  "semelhanca": 0.966
+  "semelhanca": 0.9655172413793104
  },
  {
   "personagem": "caio",
@@ -115,9 +115,9 @@
  },
  {
   "personagem": "duda",
-  "texto": "Do 302?",
-  "ouvido": "do Trintos.",
-  "semelhanca": 0.5
+  "texto": "Do trezentos e dois?",
+  "ouvido": "do 302.",
+  "semelhanca": 0.333
  },
  {
   "personagem": "nena",
@@ -140,8 +140,8 @@
  {
   "personagem": "duda",
   "texto": "Bebe, vó.",
-  "ouvido": "Bebe, vou.",
-  "semelhanca": 0.5
+  "ouvido": "Bebe, vô!",
+  "semelhanca": 1.0
  },
  {
   "personagem": "nena",

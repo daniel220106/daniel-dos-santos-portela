@@ -279,3 +279,15 @@ OK cap08_a_madrugada.wav: 119.4s, precisão média 96.5%
 [12/23] nena        89% cps=10.7  Tá comigo. Com pilha nova.  ->  comigo, com pilha nova.
 [13/23] ademar      80% cps=14.2  Então hoje, às seis, a Lurdes canta pra enfermaria inteira.  ->  Então hoje, às 6, a Lourdes canta pra enfermaria inteira.
 [14/23] narrador    95% cps=19.4  No quinto dia, uma frente fria chegou ao Rio. A temperatura caiu mais de dez graus em poucas horas.  ->  No quinto dia, uma frente fria chegou ao rio.  A temperatura caiu mais de 10 graus em poucas horas.
+[16/23] tiao        88% cps=11.3  Agora sim! Agora o gelo é de graça!  ->  Agora sim, agora o Gino é de graça.
+[21/23] valdir     100% cps=13.6  Botei o meu nome também. Moro sozinho desde que a Célia foi embora.  ->  botei o meu nome também. Moro sozinho desde que a Célia foi embora.
+[22/23] nena       100% cps=10.8  Ninguém merecia te aguentar sozinho, Valdir. Agora o prédio inteiro aguenta.  ->  Ninguém merecia te aguentar sozinho.  Valdir, agora o prédio inteiro aguenta.
+OK cap09_a_chuva.wav: 66.3s, precisão média 96.7%
+== cap10_encerramento
+[1/5] narrador    93% cps=18.9  Esta foi uma simulação. O Rio de Janeiro nunca registrou cinquenta graus no termômetro.  ->  Esta foi uma simulação. O Rio de Janeiro nunca registrou 50 graus no termômetro.
+[2/5] narrador   100% cps=18.4  Mas ondas de calor acontecem de verdade, todos os anos. E muitas vezes atingem quem está sozinho, dentro de casa, sem ninguém perceber.  ->  Mas ondas de calor acontecem de verdade todos os anos, e muitas vezes atingem quem está  sozinho, dentro de casa, sem ninguém perceber.
+[3/5] narrador   100% cps=23.9  Você sabe quem mora sozinho no seu prédio?  ->  Você sabe quem mora sozinho no seu prédio.
+[4/5] narrador    96% cps=19.8  E uma última pergunta. No segundo dia, a Vó Nena saiu no sol das duas da tarde para levar comida a um vizinho.  ->  E uma última pergunta.  No segundo dia, a avó nena saiu no sol das duas da tarde para levar comida a um vizinho.
+[5/5] narrador   100% cps=19.1  Ela estava certa ou errada? Deixe a sua resposta nos comentários.  ->  ela estava certa ou errada?  Deixe a sua resposta nos comentários.
+OK cap10_encerramento.wav: 24.5s, precisão média 97.7%
+VOZES_COMPLETAS

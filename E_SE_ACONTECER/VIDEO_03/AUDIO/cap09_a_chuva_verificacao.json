@@ -1,0 +1,92 @@
+[
+ {
+  "personagem": "sonia",
+  "texto": "Vocês fizeram tudo certinho. Tudinho.",
+  "ouvido": "Vocês fizeram tudo certinho, tudinho.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Eu quase não percebi, mãe. Ela disse que tinha bebido água.",
+  "ouvido": "Eu quase não percebi mãe, ela disse que tinha bebido água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Ela fala isso pra mim há trinta anos.",
+  "ouvido": "Ela fala isso pra mim há 30 anos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Mãe. Eu bebi água hoje. De verdade.",
+  "ouvido": "Mãe, eu bebi água hoje, de verdade.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sonia",
+  "texto": "Eu sei. Tô ouvindo pela tua voz.",
+  "ouvido": "Eu sei. Tô ouvindo pela tua voz.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Me tiraram de casa de camisola, Caio. Na frente do prédio inteiro.",
+  "ouvido": "Me tiraram de casa de camisola, Caio, na frente do prédio inteiro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Vó, a senhora quase.",
+  "ouvido": "Vô, a senhora quase.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Quase é que nem chuchu. Não tem gosto de nada.",
+  "ouvido": "quase é que nem chuchu, não tem gosto de nada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Nena. Cadê o meu rádio?",
+  "ouvido": "Nena, cadê o meu rádio?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Tá comigo. Com pilha nova.",
+  "ouvido": "comigo, com pilha nova.",
+  "semelhanca": 0.889
+ },
+ {
+  "personagem": "ademar",
+  "texto": "Então hoje, às seis, a Lurdes canta pra enfermaria inteira.",
+  "ouvido": "Então hoje, às 6, a Lourdes canta pra enfermaria inteira.",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "narrador",
+  "texto": "No quinto dia, uma frente fria chegou ao Rio. A temperatura caiu mais de dez graus em poucas horas.",
+  "ouvido": "No quinto dia, uma frente fria chegou ao rio.  A temperatura caiu mais de 10 graus em poucas horas.",
+  "semelhanca": 0.947
+ },
+ {
+  "personagem": "tiao",
+  "texto": "Agora sim! Agora o gelo é de graça!",
+  "ouvido": "Agora sim, agora o Gino é de graça.",
+  "semelhanca": 0.875
+ },
+ {
+  "personagem": "valdir",
+  "texto": "Botei o meu nome também. Moro sozinho desde que a Célia foi embora.",
+  "ouvido": "botei o meu nome também. Moro sozinho desde que a Célia foi embora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Ninguém merecia te aguentar sozinho, Valdir. Agora o prédio inteiro aguenta.",
+  "ouvido": "Ninguém merecia te aguentar sozinho.  Valdir, agora o prédio inteiro aguenta.",
+  "semelhanca": 1.0
+ }
+]

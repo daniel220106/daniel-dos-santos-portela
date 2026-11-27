@@ -1,0 +1,32 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Esta foi uma simulação. O Rio de Janeiro nunca registrou cinquenta graus no termômetro.",
+  "ouvido": "Esta foi uma simulação. O Rio de Janeiro nunca registrou 50 graus no termômetro.",
+  "semelhanca": 0.929
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mas ondas de calor acontecem de verdade, todos os anos. E muitas vezes atingem quem está sozinho, dentro de casa, sem ninguém perceber.",
+  "ouvido": "Mas ondas de calor acontecem de verdade todos os anos, e muitas vezes atingem quem está  sozinho, dentro de casa, sem ninguém perceber.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Você sabe quem mora sozinho no seu prédio?",
+  "ouvido": "Você sabe quem mora sozinho no seu prédio.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "E uma última pergunta. No segundo dia, a Vó Nena saiu no sol das duas da tarde para levar comida a um vizinho.",
+  "ouvido": "E uma última pergunta.  No segundo dia, a avó nena saiu no sol das duas da tarde para levar comida a um vizinho.",
+  "semelhanca": 0.957
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Ela estava certa ou errada? Deixe a sua resposta nos comentários.",
+  "ouvido": "ela estava certa ou errada?  Deixe a sua resposta nos comentários.",
+  "semelhanca": 1.0
+ }
+]
