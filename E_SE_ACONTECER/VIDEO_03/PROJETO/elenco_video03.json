@@ -1,0 +1,161 @@
+{
+ "narrador": {
+  "motor": "piper",
+  "voz": "../VOZES/piper/pt_BR-faber-medium.onnx",
+  "velocidade": 1.2,
+  "pan": 0.0
+ },
+ "caio": {
+  "voz": "../VOZES/referencias/ref_12710.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": -0.12,
+  "seed": 101,
+  "velocidade": 1.15
+ },
+ "nena": {
+  "voz": "../VOZES/referencias/ref_13069.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.1,
+  "seed": 103,
+  "velocidade": 1.12
+ },
+ "duda": {
+  "voz": "../VOZES/referencias/ref_12114.wav",
+  "exaggeration": 0.65,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.14,
+  "seed": 107,
+  "velocidade": 1.15
+ },
+ "sonia": {
+  "voz": "../VOZES/referencias/ref_2961.wav",
+  "exaggeration": 0.55,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.0,
+  "seed": 109,
+  "velocidade": 1.15
+ },
+ "valdir": {
+  "voz": "../VOZES/referencias/ref_8655.wav",
+  "exaggeration": 0.5,
+  "cfg": 0.45,
+  "temp": 0.75,
+  "pan": 0.18,
+  "seed": 113,
+  "velocidade": 1.15
+ },
+ "tiao": {
+  "voz": "../VOZES/referencias/ref_13063.wav",
+  "exaggeration": 0.7,
+  "cfg": 0.35,
+  "temp": 0.8,
+  "pan": -0.18,
+  "seed": 127,
+  "velocidade": 1.15
+ },
+ "ademar": {
+  "voz": "../VOZES/referencias/ref_4405.wav",
+  "exaggeration": 0.4,
+  "cfg": 0.45,
+  "temp": 0.7,
+  "pan": 0.08,
+  "seed": 131,
+  "velocidade": 1.08
+ },
+ "cliente": {
+  "voz": "../VOZES/referencias/ref_12670.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.2,
+  "seed": 137,
+  "velocidade": 1.15
+ },
+ "feirante": {
+  "voz": "../VOZES/referencias/ref_4067.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.2,
+  "seed": 139,
+  "velocidade": 1.15
+ },
+ "morador": {
+  "voz": "../VOZES/referencias/ref_12670.wav",
+  "exaggeration": 0.65,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.22,
+  "seed": 149,
+  "velocidade": 1.15
+ },
+ "homem": {
+  "voz": "../VOZES/referencias/ref_4067.wav",
+  "exaggeration": 0.65,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.2,
+  "seed": 151,
+  "velocidade": 1.15
+ },
+ "zica": {
+  "voz": "../VOZES/referencias/ref_3050.wav",
+  "exaggeration": 0.6,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": -0.2,
+  "seed": 157,
+  "velocidade": 1.15
+ },
+ "mulher": {
+  "voz": "../VOZES/referencias/ref_7925.wav",
+  "exaggeration": 0.65,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": -0.2,
+  "seed": 163,
+  "velocidade": 1.15
+ },
+ "senhora": {
+  "voz": "../VOZES/referencias/ref_11995.wav",
+  "exaggeration": 0.5,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.15,
+  "seed": 167,
+  "velocidade": 1.15
+ },
+ "enfermeira": {
+  "voz": "../VOZES/referencias/ref_7925.wav",
+  "exaggeration": 0.5,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.15,
+  "seed": 173,
+  "velocidade": 1.15
+ },
+ "atendente": {
+  "voz": "../VOZES/referencias/ref_11247.wav",
+  "exaggeration": 0.45,
+  "cfg": 0.45,
+  "temp": 0.7,
+  "pan": 0.0,
+  "seed": 179,
+  "velocidade": 1.15
+ },
+ "vizinha": {
+  "voz": "../VOZES/referencias/ref_11995.wav",
+  "exaggeration": 0.55,
+  "cfg": 0.4,
+  "temp": 0.75,
+  "pan": 0.2,
+  "seed": 181,
+  "velocidade": 1.15
+ }
+}

@@ -1,0 +1,47 @@
+<!doctype html><html><head><meta charset="utf-8"><title>E SE ACONTECER? Vídeo 3</title>
+<style>
+@font-face{font-family:Oswald;font-weight:400;src:url(../fontes/oswald-latin-400-normal.woff2)}
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:400;src:url(../fontes/inter-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+@font-face{font-family:Inter;font-weight:700;src:url(../fontes/inter-latin-600-normal.woff2)}
+html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="tela" width="1920" height="1080"></canvas>
+<script>window.EPISODIO = true;</script>
+<script src="../motor/motor.js"></script><script src="../motor/video02_visual.js"></script>
+<script src="../video01/abertura.js"></script><script src="../motor/cenarios.js"></script>
+<script src="../video02/cenarios02.js"></script>
+<script src="video03_visual.js"></script><script src="cenarios03.js"></script>
+<script>
+// Folha de teste: todos os cenários (5x7) e o elenco
+window.FALAS = []; FALAS = [];
+const CEN = [
+ ['quartoNoite', (c,T)=>quartoNoite(c,T)], ['ruaSuburbio dia', (c,T)=>{ruaSuburbio(c,T); ondasCalor(c,T,{amp:6}); nevoaCalor(c,0.8);}],
+ ['ruaSuburbio noite', (c,T)=>ruaSuburbio(c,T,{hora:'noite'})], ['apCalor', (c,T)=>apCalor(c,T,{panela:1})], ['apCalor semLuz', (c,T)=>apCalor(c,T,{semLuz:1,cortina:1})],
+ ['apCalor noite', (c,T)=>apCalor(c,T,{noite:1,semLuz:1})], ['banheiro', (c,T)=>{banheiro(c,T); desenharCachorro(c,T,{x:900,y:960,s:1.4,pose:'deitada',ofega:0.4});}],
+ ['corredor302', (c,T)=>{corredor302(c,T); notasRadio(c,T,1000,380);}], ['transformador', (c,T)=>{ruaSuburbio(c,T); posteTransformador(c,T,700,0.8);}],
+ ['avenidaSinal', (c,T)=>{avenidaSinal(c,T); isopor(c,330,940,1);}], ['feira', (c,T)=>feira(c,T)], ['igreja', (c,T)=>igrejaFechada(c,T)], ['pontoOnibus', (c,T)=>pontoOnibus(c,T)],
+ ['escadaVelas', (c,T)=>escadaVelas(c,T)], ['ruaSuburbio amanhecer', (c,T)=>{ruaSuburbio(c,T,{hora:'amanhecer'}); moto(c,700,990,1.2,1);}], ['orlaAmanhecer', (c,T)=>orlaAmanhecer(c,T)],
+ ['fabricaGelo', (c,T)=>fabricaGelo(c,T)], ['emergencia', (c,T)=>emergencia(c,T)], ['rua 50 graus', (c,T)=>{ruaSuburbio(c,T,{arCond:0}); termometroRua(c,700,560,'50°C',T); nevoaCalor(c,1.2); ondasCalor(c,T,{amp:8});}],
+ ['filaPipa', (c,T)=>filaPipa(c,T)], ['garagemGerador', (c,T)=>garagemGerador(c,T)], ['apAdemar', (c,T)=>apAdemar(c,T)], ['carroNoite', (c,T)=>carroNoite(c,T)], ['upa', (c,T)=>upa(c,T)],
+ ['calcadaResgate', (c,T)=>{calcadaResgate(c,T); kombi(c,300,990,1); ambulancia(c,1500,990,1,-1,T);}], ['enfermaria', (c,T)=>enfermaria(c,T,{chuva:1})], ['chuva', (c,T)=>{ruaSuburbio(c,T,{hora:'nublado'}); chuvaFx(c,T,1.4);}],
+ ['cidadeLuz', (c,T)=>cidadeNoite(c,T,{acender:0.6})], ['listaParede', (c,T)=>listaParede(c,T,1)], ['rioEntardecer', (c,T)=>rioEntardecer(c,T)],
+];
+window.desenhar = async (pagina) => {
+  await document.fonts.load('700 100px Oswald'); await document.fonts.load('600 20px Inter');
+  const tela = document.getElementById('tela'), ctx = tela.getContext('2d');
+  const sub = document.createElement('canvas'); sub.width = 1920; sub.height = 1080; const c = sub.getContext('2d');
+  ctx.fillStyle = '#000'; ctx.fillRect(0, 0, 1920, 1080);
+  if (pagina === 'elenco') {
+    c.fillStyle = '#d8c8a8'; c.fillRect(0, 0, W, H); c.fillStyle = '#a89070'; c.fillRect(0, 930, W, 150);
+    const nomes = ['caio', 'nena', 'duda', 'sonia', 'valdir', 'tiao', 'ademar', 'zica', 'cliente', 'feirante', 'homem', 'mulher', 'senhora', 'vizinha', 'enfermeira', 'socorrista'];
+    nomes.forEach((n, i) => { const s = 0.5, x = 80 + i * 112; ator(c, 1, n, { x, y: yChao(930, n, s), s, dir: 1, luz: LUZ_CASA, expr: ['', 'sorriso', 'surpreso', 'firme'][i % 4] }); c.fillStyle = '#222'; c.font = '600 18px Inter'; c.fillText(n, x - 30, 1000); });
+    desenharCachorro(c, 1, { x: 300, y: 600, s: 1.3, pose: 'pe', ofega: 0.8 }); desenharCachorro(c, 1, { x: 700, y: 600, s: 1.3, pose: 'sentada' }); desenharCachorro(c, 2, { x: 1100, y: 600, s: 1.3, pose: 'andando', fase: 0.3 });
+    moto(c, 1500, 640, 0.8, 1); gerador(c, 1780, 640, 0.6, 1, 1); ctx.drawImage(sub, 0, 0); return true;
+  }
+  const lista = CEN.slice(pagina * 15, pagina * 15 + 15);
+  lista.forEach(([nome, fn], i) => { c.setTransform(1, 0, 0, 1, 0, 0); c.clearRect(0, 0, W, H); c.save(); fn(c, 3.3); c.restore(); c.setTransform(1, 0, 0, 1, 0, 0);
+    const x = (i % 5) * 384, y = Math.floor(i / 5) * 360; ctx.drawImage(sub, x, y, 384, 216); ctx.fillStyle = '#ff0'; ctx.font = '600 16px Inter'; ctx.fillText(nome, x + 6, y + 232); });
+  return true;
+};
+</script></body></html>
