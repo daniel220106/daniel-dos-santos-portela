@@ -73,3 +73,43 @@ Nunca copie, traduza ou apenas troque o idioma de um vídeo de referência.
   - Os avaliadores `hookscore.py` e `title.py` foram calibrados em inglês. Use como guia, não como nota definitiva.
 - **Perfil de voz do canal:** `VOZ_DO_CANAL.md` (cópia em `~/.claude/youtube/voice.md`, lida pelas skills).
 - **Linha de produção:** veja `LEIAME.md`.
+
+## Continuidade
+
+**Comece sempre por `CONTINUIDADE_PROJETO.md`.** Ele traz:
+- o estado de cada vídeo;
+- o que está rodando;
+- as próximas ações, na ordem;
+- os problemas conhecidos.
+
+Atualize esse arquivo ao fim de cada etapa importante. Antes de iniciar qualquer geração ou renderização, confira se outra sessão já não está fazendo a mesma coisa: veja os commits "salvo automaticamente".
+
+## Preferências de produção (decididas com o usuário)
+
+- **Vozes**
+  - Narrador: Piper `pt_BR-faber-medium` a **1,2x**.
+  - Personagens: Chatterbox Multilingual a **1,15x**. O usuário pediu vozes mais rápidas.
+  - Referências: CML-TTS (CC BY 4.0), com crédito obrigatório na descrição.
+  - Cada personagem tem voz própria. Confira o tom (f0) de cada voz antes de gerar tudo. Uma voz feminina abaixo de ~165 Hz pode soar masculina.
+  - Toda fala é conferida pelo Whisper e aparada. O cache por fala fica em `VIDEO_0N/AUDIO/cache_falas` e precisa ir para o Git durante gerações longas.
+  - A narração nunca lê indicações de cena.
+- **Roteiro**
+  - Formato do `scripts/dialogo.py`.
+  - Diálogos naturais, humor nos personagens e não no desastre, tensão crescente e laços abertos.
+  - Informação de segurança dentro da ação, nunca como aula.
+  - Faça auditoria de retenção antes de produzir.
+  - Fatos de saúde e segurança conferidos em fonte oficial ou médica.
+- **Imagem**
+  - Motor 2D próprio (`projeto/motor/`).
+  - Mude de plano com frequência: aberto, close, a dois, inserts.
+  - Faça folhas de quadros de revisão e corrija antes de renderizar.
+  - Cartelas com a identidade E SE ACONTECER? e o selo SIMULAÇÃO sempre visível.
+- **Som:** trilha original sintetizada por clima de capítulo, efeitos sincronizados às falas e mix a **-14 LUFS**. Sem música protegida.
+- **Entrega**
+  - 1080p para o YouTube (H.264 + AAC 48 kHz) e 720p para enviar ao usuário, com até ~100 MB.
+  - Legenda em **SRT separado** (CC do YouTube), não gravada na imagem.
+  - Descrição com capítulos, aviso de simulação, orientações e créditos.
+  - Thumbnail em 1280x720, testada com a `/yt-package`: no máximo 3 palavras, sem repetir o título.
+- **Duração:** 15 a 20 min no vídeo longo, com qualidade antes de quantidade. TikTok vertical de 2 a 3 min.
+- **Qualidade antes de velocidade.** Não pule etapas. Só diga que está pronto depois da auditoria do **arquivo final** (`scripts/auditoria_video.py`), incluindo a conferência quadro a quadro de imagem e fala.
+- **Nada de PR, publicação no YouTube ou ação externa** sem pedido explícito do usuário.

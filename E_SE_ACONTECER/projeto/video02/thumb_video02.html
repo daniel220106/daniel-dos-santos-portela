@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8"><title>E SE ACONTECER? Vídeo 2</title>
+<style>
+@font-face{font-family:Oswald;font-weight:400;src:url(../fontes/oswald-latin-400-normal.woff2)}
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:400;src:url(../fontes/inter-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="tela" width="1920" height="1080"></canvas>
+<script>window.VIDEO_COMPLETO = true;</script>
+<script src="../motor/motor.js"></script><script src="../motor/video02_visual.js"></script>
+<script src="../video01/abertura.js"></script><script src="../motor/cenarios.js"></script>
+<script src="cenarios02.js"></script><script src="apartamento02.js"></script>
+<script>
+// Thumbnail do Vídeo 2 (1280x720): close do Lucas preocupado, rua alagada atrás, "SAIR OU FICAR?"
+FALAS = [];
+window.desenhar = async () => {
+  await document.fonts.load('700 100px Oswald'); await document.fonts.load('600 20px Inter');
+  const c = document.getElementById('tela').getContext('2d'); const T = 2.0;
+  c.save(); camera(c, 1.35, 1250, 760); calcadaChuva(c, T, { aguaFrente: 1 }); c.restore();
+  c.fillStyle = 'rgba(10,16,30,0.35)'; c.fillRect(0, 0, W, H);
+  c.save(); camera(c, 2.5, 760, 430); desenharPessoa(c, { x: 640, y: 690, s: 1, dir: 1, expr: 'assustado', boca: 0.35, olhar: 0.6, cabeca: { giro: 0.25, incl: -0.05 }, luz: { lado: -1, brilho: 'rgba(255,200,140,0.35)', sombra: 'rgba(10,16,28,0.4)', geral: 'rgba(30,40,60,0.05)' }, bracoF: [0.2, 0.3], costas: mochila('#3a4a3a') }, 'lucas'); c.restore();
+  const g = c.createLinearGradient(1000, 0, 1920, 0); g.addColorStop(0, 'rgba(5,8,14,0)'); g.addColorStop(0.35, 'rgba(5,8,14,0.75)'); g.addColorStop(1, 'rgba(5,8,14,0.85)'); c.fillStyle = g; c.fillRect(0, 0, W, H);
+  c.textAlign = 'right'; c.fillStyle = '#ffffff'; c.font = '700 190px Oswald'; c.shadowColor = 'rgba(0,0,0,0.9)'; c.shadowBlur = 30;
+  c.fillText('SAIR', 1860, 330); c.fillText('OU', 1860, 530); c.fillStyle = '#ffd23a'; c.fillText('FICAR?', 1860, 730); c.shadowBlur = 0;
+  c.fillStyle = '#c62a24'; c.fillRect(1360, 770, 500, 14);
+  c.fillStyle = 'rgba(10,10,12,0.75)'; rr(c, 1560, 960, 300, 60, 10); c.fill(); c.fillStyle = '#c62a24'; c.beginPath(); c.arc(1590, 990, 9, 0, 7); c.fill(); c.fillStyle = '#f2efe9'; c.font = '700 30px Inter'; c.fillText('SIMULAÇÃO', 1840, 1001);
+  c.textAlign = 'left'; return true;
+};
+</script></body></html>

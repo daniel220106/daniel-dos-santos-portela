@@ -6,3 +6,4 @@
     - a numeração: "Vídeo 1, Vídeo 2…", nunca "episódio" nem "EP01";
     - o processo obrigatório de pesquisa antes de cada vídeo novo.
 - `achadinhos/` e `video-lulu/`: outros projetos, independentes do canal.
+- Estado atual e próximos passos do canal: `E_SE_ACONTECER/CONTINUIDADE_PROJETO.md` (leia primeiro).

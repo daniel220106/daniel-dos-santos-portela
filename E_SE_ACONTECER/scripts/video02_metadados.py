@@ -50,7 +50,7 @@ TIT = {1: '06:30, Uma manhã normal', 2: '08:00, O primeiro sinal', 3: '09:15, O
        6: '13:00, Agora é sério', 7: '14:20, A ligação', 8: '16:00, A decisão', 9: '18:30, O que sobrou', 10: '22:00, A chuva diminui',
        11: '24 horas depois', 12: 'Encerramento'}
 caps = ['0:00 Introdução'] + [f"{ts(b['a'], False)} {TIT[b['cap']]}" for b in L['blocos'] if b['tipo'] == 'cartela']
-desc = f"""E SE UMA ENCHENTE GIGANTE ATINGISSE SÃO PAULO? 24 HORAS PARA ESCAPAR.
+desc = f"""São Paulo Alagada: 24 Horas Para Escapar
 
 E se uma chuva extrema transformasse um córrego esquecido da zona leste num risco real em poucas horas? Acompanhe Lucas, Rafael, Marina, Dona Cida e o pequeno Pedro nas 24 horas em que um prédio comum precisou decidir a hora certa de sair.
 
