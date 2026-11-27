@@ -93,7 +93,7 @@ function apCalor(c, T, { semLuz = 0, noite = 0, tv = 'calor', cortina = 0, venti
   c.fillStyle = noite ? '#2a1e1a' : '#8a4a3a'; rr(c, 120, 760, 560, 120, 20); c.fill(); rr(c, 100, 700, 600, 90, 24); c.fill();
   c.fillStyle = noite ? '#20160f' : '#6a4a30'; c.fillRect(820, 760, 260, 14); c.fillRect(840, 774, 12, 160); c.fillRect(1048, 774, 12, 160);
   // ventilador de pé
-  if (ventilador) { const vx = 720, vy = 560, gira = semLuz ? 0 : T * 18; c.fillStyle = '#d8d8d8'; c.fillRect(vx - 6, vy, 12, 370); c.fillRect(vx - 60, 924, 120, 10);
+  if (ventilador) { const vx = 1130, vy = 560, gira = semLuz ? 0 : T * 18; c.fillStyle = '#d8d8d8'; c.fillRect(vx - 6, vy, 12, 370); c.fillRect(vx - 60, 924, 120, 10);
     c.save(); c.translate(vx, vy); c.fillStyle = 'rgba(200,200,205,0.5)'; for (let i = 0; i < 3; i++) { c.rotate(gira + i * 2.09); c.beginPath(); c.ellipse(0, -40, 20, 44, 0, 0, 7); c.fill(); c.rotate(-gira - i * 2.09); }
     c.strokeStyle = 'rgba(80,80,85,0.7)'; c.lineWidth = 3; c.beginPath(); c.arc(0, 0, 90, 0, 7); c.stroke(); c.restore(); }
   if (porta) porta_(c, 1560, 380, 190, 550);

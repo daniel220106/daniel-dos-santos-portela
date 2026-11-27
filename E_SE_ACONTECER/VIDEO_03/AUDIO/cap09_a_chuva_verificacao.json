@@ -57,7 +57,7 @@
   "personagem": "nena",
   "texto": "Tá comigo. Com pilha nova.",
   "ouvido": "comigo, com pilha nova.",
-  "semelhanca": 0.889
+  "semelhanca": 0.8888888888888888
  },
  {
   "personagem": "ademar",
@@ -69,13 +69,13 @@
   "personagem": "narrador",
   "texto": "No quinto dia, uma frente fria chegou ao Rio. A temperatura caiu mais de dez graus em poucas horas.",
   "ouvido": "No quinto dia, uma frente fria chegou ao rio.  A temperatura caiu mais de 10 graus em poucas horas.",
-  "semelhanca": 0.947
+  "semelhanca": 0.9473684210526315
  },
  {
   "personagem": "tiao",
   "texto": "Agora sim! Agora o gelo é de graça!",
-  "ouvido": "Agora sim, agora o Gino é de graça.",
-  "semelhanca": 0.875
+  "ouvido": "Agora sim, agora o gelo é de graça.",
+  "semelhanca": 1.0
  },
  {
   "personagem": "valdir",

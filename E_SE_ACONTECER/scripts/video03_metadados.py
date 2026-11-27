@@ -37,10 +37,15 @@ L = json.load(open(f'{B}/projeto/video03/linha_tempo.json', encoding='utf-8'))
 assert not L.get('provisoria'), 'linha do tempo provisória: gere as vozes e rode video03_linha_tempo.py'
 os.makedirs(f'{B}/VIDEO_03/LEGENDAS', exist_ok=True); os.makedirs(f'{B}/VIDEO_03/EXPORTACAO', exist_ok=True)
 
+# na legenda, números falados por extenso aparecem em algarismos (a voz fala por extenso para pronunciar certo)
+NA_TELA = {'trezentos e dois': '302', 'cento e noventa e dois': '192'}
+def tela(t):
+    for x, y in NA_TELA.items(): t = t.replace(x, y)
+    return t
 with open(f'{B}/VIDEO_03/LEGENDAS/video03_pt-BR.srt', 'w', encoding='utf-8') as f:
     i = 0
     for fr in L['falas']:
-        pedacos = dividir(fr['texto'], BLOCO)
+        pedacos = dividir(tela(fr['texto']), BLOCO)
         total, t0 = sum(len(x) for x in pedacos), fr['inicio']
         for k, x in enumerate(pedacos):
             t1 = fr['fim'] if k == len(pedacos) - 1 else t0 + (fr['fim'] - fr['inicio']) * len(x) / total

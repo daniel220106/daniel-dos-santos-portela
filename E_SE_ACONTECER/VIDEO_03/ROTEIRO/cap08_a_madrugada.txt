@@ -33,7 +33,7 @@ CAIO: Pano molhado! O máximo que der!
 [Calçada. A Vó deitada num colchonete. Vizinhos abanam com pedaços de papelão. Duda passa um pano molhado no pescoço dela.]
 [O celular do Valdir toca. Na tela: SÔNIA. Caio atende no viva-voz.]
 [pausa 1.0]
-SONIA [telefone]: Caio! Vi a tua mensagem. Já ligou pro 192?
+SONIA [telefone]: Caio! Vi a tua mensagem. Já ligou pro cento e noventa e dois?
 CAIO: Já. Tão vindo. A gente tá resfriando ela aqui na calçada.
 SONIA [telefone]: Fez certo, filho. Não para de resfriar até a ambulância chegar.
 SONIA [telefone]: Você consegue. Eu tô saindo daqui agora.

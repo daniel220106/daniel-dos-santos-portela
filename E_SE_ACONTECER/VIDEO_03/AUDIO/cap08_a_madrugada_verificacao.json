@@ -45,7 +45,7 @@
   "personagem": "caio",
   "texto": "A minha avó. Setenta e nove anos. Ela tá confusa, quente demais, e não reconhece ninguém. A gente tá sem luz desde quinta.",
   "ouvido": "A minha avó, 79 anos. Ela tá confusa, quente demais e não reconhece ninguém. A gente tá sem luz desde quinta.",
-  "semelhanca": 0.909
+  "semelhanca": 0.9090909090909091
  },
  {
   "personagem": "atendente",
@@ -63,7 +63,7 @@
   "personagem": "atendente",
   "texto": "A ambulância já está a caminho, mas pode demorar. Enquanto isso, leve ela para o lugar mais fresco que tiver. Afrouxe a roupa, molhe o corpo com panos e abane. Não dê nada para ela beber.",
   "ouvido": "A ambulância já está a caminho, mas pode demorar.  Enquanto isso, leve ela para o lugar mais fresco que tiver.  Afrou-se a roupa, molhe o corpo com panos e abane.  Não dê nada para ela beber.",
-  "semelhanca": 0.959
+  "semelhanca": 0.958904109589041
  },
  {
   "personagem": "caio",
@@ -93,7 +93,7 @@
   "personagem": "narrador",
   "texto": "Quatro andares. Oitenta degraus. No escuro, a quarenta graus.",
   "ouvido": "Quatro andares, 80 de graus, no escuro a 40 graus.",
-  "semelhanca": 0.632
+  "semelhanca": 0.631578947368421
  },
  {
   "personagem": "vizinha",
@@ -109,9 +109,9 @@
  },
  {
   "personagem": "sonia",
-  "texto": "Caio! Vi a tua mensagem. Já ligou pro 192?",
-  "ouvido": "Caio, vi a tua mensagem. Já ligou pro 1.090 Azul?",
-  "semelhanca": 0.8
+  "texto": "Caio! Vi a tua mensagem. Já ligou pro cento e noventa e dois?",
+  "ouvido": "Caio, vi a tua mensagem, já ligou pro 192?",
+  "semelhanca": 0.727
  },
  {
   "personagem": "caio",
@@ -177,7 +177,7 @@
   "personagem": "nena",
   "texto": "Arlindo. não. Caio. Que barulheira é essa aqui?",
   "ouvido": "ar lindo? Não. Caio, que barulheira é essa aqui?",
-  "semelhanca": 0.824
+  "semelhanca": 0.8235294117647058
  },
  {
   "personagem": "duda",

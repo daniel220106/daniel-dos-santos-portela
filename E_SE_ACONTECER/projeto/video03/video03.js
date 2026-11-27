@@ -57,7 +57,7 @@ DIR[0] = q => { const P = QUARTO(); return [
 
 DIR[1] = q => {
   const ENTREGA = RUA({ caio: { x: 720, dir: 1, objeto: (c, x, y) => { c.fillStyle = '#6a2a6a'; rr(c, x - 22, y - 50, 44, 56, 6); c.fill(); } }, cliente: { x: 1020, dir: -1, expr: 'duvida' } }, { desloc: 900 });
-  const SALA = AP({ duda: { x: 520, dir: 1, sentadoChao: 1, y: 800, objeto: celularMao() }, nena: { x: 1250, dir: -1, expr: 'firme' } }, { panela: 1 }, { luz: LUZ_CASA });
+  const SALA = AP({ duda: { x: 520, dir: 1, sentadoChao: 1, y: 800, objeto: celularMao() }, nena: { x: 1380, dir: -1, expr: 'firme' } }, { panela: 1 }, { luz: LUZ_CASA });
   const CORR = PALCO(relogioCorredor(18, 0), { duda: { x: 600, dir: 1 }, nena: { x: 1400, dir: -1 } }, { depois: (c, T) => notasRadio(c, T, 1000, 400) });
   const NOITE = AP({ caio: { x: 1450, dir: -1, suor: 1, objetoT: (c, x, y) => capacete(c, x, y + 30, 0.6) }, duda: { x: 600, dir: 1 } }, { noite: 1 });
   return [
@@ -87,7 +87,7 @@ DIR[1] = q => {
   ]; };
 
 DIR[2] = q => {
-  const APS = AP({ duda: { x: 520, dir: 1 }, nena: { x: 1250, dir: -1 } }, { semLuz: 1 });
+  const APS = AP({ duda: { x: 520, dir: 1 }, nena: { x: 1380, dir: -1 } }, { semLuz: 1 });
   const ESC = PALCO((c, T) => escadaDia(c, T), { nena: { x: 1300, dir: -1, y: yChao(CH, 'nena') - 120 }, duda: { x: 1520, dir: -1, y: yChao(CH, 'duda') - 160 }, valdir: { x: 560, dir: 1, objeto: caixa('#c8a070'), bracoF: [1.2, 0.4] } });
   const SINAL = PALCO((c, T) => { avenidaSinal(c, T); isopor(c, 380, 950, 1); }, { caio: { x: 520, dir: 1, sentadoChao: 1, y: 860, suor: 1 }, tiao: { x: 780, dir: -1, expr: 'sorriso' } }, { luz: LUZ_SOL });
   const ENTRA = AP({ caio: { x: 1500, dir: -1, suor: 1 }, duda: { x: 760, dir: 1, expr: 'preocupado' } }, { semLuz: 1 }, { antes: (c, T) => desenharCachorro(c, T, { x: 560, y: 935, s: 0.8, pose: 'deitada', ofega: 0.6 }) });
@@ -256,7 +256,7 @@ DIR[8] = q => {
     duda: { x: 700, dir: 1, sentadoChao: 1, y: 880, objeto: panoMolhado(), bracoF: [1.4, 0.4] }, caio: { x: 1260, dir: -1, objeto: celularMao(), bracoF: [1.15, 0.95] },
     vizinha: { x: 1480, dir: -1, objeto: papelaoAbano(0, 1), bracoF: [1.6, 0.6] }, valdir: { x: 1660, dir: -1, objeto: papelaoAbano(0, 2), bracoF: [1.6, 0.6] },
     tiao: { x: 300, dir: 1, mostrar: T => T > q.L(22) - 1.5, din: T => ({ x: 300 + 200 * sstep(q.L(22) - 1.5, q.L(22), T) }) } },
-    { luz: LUZ_NOITE, antes: (c, T) => { deitado(c, T, 'nena', 960, 900, 0.85, { cabeca: -1, olhosFechados: !falando('nena', T), luz: LUZ_NOITE }); if (T > q.L(22) - 2.5) kombi(c, -100 + 260 * sstep(q.L(22) - 2.5, q.L(22) - 1, T), 935, 0.9); } });
+    { luz: LUZ_NOITE, antes: (c, T) => { deitado(c, T, 'nena', 960, 900, 0.85, { cabeca: -1, olhosFechados: !falando('nena', T), luz: LUZ_NOITE }); if (T > q.L(22) - 2.5) kombi(c, -520 + 260 * sstep(q.L(22) - 2.5, q.L(22) - 1, T), 935, 0.9); } });
   return [
     [q.a, tomadaPalco(P, 'close', 'caio')],
     [q.L(1), tomadaPalco(P, 'close', 'duda')],
@@ -290,7 +290,7 @@ DIR[8] = q => {
     [q.L(28), insertMaos],
     [q.L(29), tom(3.0, 880, 880, (c, T) => desenhaPalco(c, T, CALC), 0.02, 0.4)],
     [q.F(29) + 0.3, tom(1.0, 960, 560, (c, T, t0) => { desenhaPalco(c, T, CALC); ambulancia(c, 2300 - 700 * sstep(0, 2.2, T - t0), 940, 0.95, -1, T, 1); })],
-    [q.L(30) - 0.4, tom(1.45, 1080, 560, (c, T) => { calcadaResgate(c, T); ambulancia(c, 1600, 940, 0.95, -1, T, 1); ator(c, T, 'socorrista', { x: 1380, y: yChao(CH, 'socorrista'), dir: 1, luz: LUZ_NOITE }); ator(c, T, 'duda', { x: 900, y: yChao(CH, 'duda'), dir: 1, expr: 'preocupado', luz: LUZ_NOITE }); }, 0.03)],
+    [q.L(30) - 0.4, tom(1.6, 1120, 600, (c, T) => { calcadaResgate(c, T); ambulancia(c, 1600, 940, 0.95, -1, T, 1); ator(c, T, 'socorrista', { x: 1560, y: yChao(CH, 'socorrista'), dir: 1, s: 0.92, luz: LUZ_NOITE }); ator(c, T, 'duda', { x: 1040, y: yChao(CH, 'duda'), dir: 1, expr: 'preocupado', luz: LUZ_NOITE }); }, 0.03)],
     [q.F(30) + 0.3, tom(2.2, 1500, 600, (c, T, t0) => { calcadaResgate(c, T); ambulancia(c, 1600, 940, 0.95, -1, T, 1); c.fillStyle = `rgba(0,0,0,${sstep(0.6, 1.3, T - t0)})`; c.fillRect(-800, -400, W + 1600, 1800); }, 0.0)],
   ]; };
 
