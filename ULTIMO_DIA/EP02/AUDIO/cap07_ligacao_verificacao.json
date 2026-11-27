@@ -50,8 +50,8 @@
  {
   "personagem": "lucas",
   "texto": "Tá aqui.",
-  "ouvido": "aqui.",
-  "semelhanca": 0.667
+  "ouvido": "Tá aqui.",
+  "semelhanca": 1.0
  },
  {
   "personagem": "rafael",
@@ -81,7 +81,7 @@
   "personagem": "lucas",
   "texto": "Pessoal. A gente sai às quatro. Antes de escurecer.",
   "ouvido": "pessoal.  A gente sai às 4, antes de escurecer.",
-  "semelhanca": 0.889
+  "semelhanca": 0.8888888888888888
  },
  {
   "personagem": "marina",

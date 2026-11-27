@@ -29,8 +29,10 @@ function tomadaPalco(palco, tipo, quem) {
   return (c, T, t0) => {
     let z, x, y;
     if (tipo === 'aberto' || !palco.atores[quem]) [z, x, y] = planoAberto(palco);
-    else if (tipo === 'close') { const [hx, hy] = cabecaDe(palco, quem); z = 2.05; x = hx; y = hy + 120; }
-    if (tipo !== 'aberto' && palco.camDy) y += palco.camDy;
+    else if (tipo === 'close') { // close em quem fala, sem cortar a cabeça de quem estiver no quadro
+      const [hx, hy] = cabecaDe(palco, quem); z = 2.05; x = hx;
+      const topo = Math.min(...Object.keys(palco.atores).map(n => cabecaDe(palco, n)).filter(([cx]) => Math.abs(cx - hx) < 470).map(([, cy]) => cy));
+      y = Math.min(hy + 120, topo - 75 + 540 / z); }
     else { // plano a dois: quem fala + o mais próximo
       const o = palco.atores[quem]; let melhor = null;
       for (const [n, p] of Object.entries(palco.atores)) if (n !== quem && (!melhor || Math.abs(p.x - o.x) < Math.abs(melhor.x - o.x))) melhor = p;
@@ -38,6 +40,7 @@ function tomadaPalco(palco, tipo, quem) {
       const nm = Object.keys(palco.atores).find(n => palco.atores[n] === melhor) || quem;
       const hy = Math.min(cabecaDe(palco, quem)[1], cabecaDe(palco, nm)[1]); y = hy + 300 / z; // cabeças no terço de cima, sem cortar
     }
+    if (tipo !== 'aberto' && palco.atores[quem] && palco.camDy) y += palco.camDy;
     c.save(); const [hx, hy, hr] = handheld(T, 1.2); camera(c, z + (T - t0) * 0.008, x + hx, y + hy, hr);
     desenhaPalco(c, T, palco); c.restore();
   };
@@ -97,9 +100,9 @@ function infograficoAgua(c, T, t) {
   const a1 = sstep(0.2, 0.8, t), a2 = sstep(2.2, 2.8, t);
   // pessoa e 15 cm
   c.globalAlpha = a1; desenharPessoa(c, { x: 560, y: 520, s: 1.05, dir: 1, expr: 'assustado', luz: LUZ.rua, tronco: -0.12, bracoF: [0.9, 0.4] }, 'pedestre1');
-  aguaSuperficie(c, T, 300, 860, 770, 'rgba(110,98,70,0.9)', 120); c.fillStyle = '#f2efe9'; c.font = '700 64px Oswald'; c.textAlign = 'center'; c.fillText('15 cm', 580, 180); c.font = '600 28px Inter'; c.fillText('de água em movimento podem derrubar um adulto', 580, 230);
+  aguaSuperficie(c, T, 300, 860, 770, 'rgba(110,98,70,0.9)', 120); c.fillStyle = '#f2efe9'; c.font = '700 64px Oswald'; c.textAlign = 'center'; c.fillText('15 cm', 580, 120); c.font = '600 28px Inter'; c.fillText('de água em movimento podem derrubar um adulto', 580, 165);
   c.globalAlpha = a2; c.fillStyle = '#8a2d2a'; rr(c, 1180, 620, 400, 110, 26); c.fill(); rr(c, 1250, 540, 250, 90, 24); c.fill(); c.fillStyle = '#141519'; c.beginPath(); c.arc(1270, 740, 38, 0, 7); c.arc(1490, 740, 38, 0, 7); c.fill();
-  aguaSuperficie(c, T, 1100, 1660, 700, 'rgba(110,98,70,0.9)', 190); c.fillStyle = '#f2efe9'; c.font = '700 64px Oswald'; c.fillText('30 cm', 1380, 180); c.font = '600 28px Inter'; c.fillText('podem arrastar um carro', 1380, 230);
+  aguaSuperficie(c, T, 1100, 1660, 700, 'rgba(110,98,70,0.9)', 190); c.fillStyle = '#f2efe9'; c.font = '700 64px Oswald'; c.fillText('30 cm', 1380, 120); c.font = '600 28px Inter'; c.fillText('podem arrastar um carro', 1380, 165);
   c.globalAlpha = 1; c.textAlign = 'left';
 }
 function mapaRota(c, T, t) {

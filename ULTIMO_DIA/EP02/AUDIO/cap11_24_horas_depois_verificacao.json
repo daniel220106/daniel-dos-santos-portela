@@ -1,0 +1,158 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Vinte e quatro horas depois do primeiro alerta, a cidade ainda estava longe de voltar ao normal.",
+  "ouvido": "24 horas depois do primeiro alerta, a cidade ainda estava longe de voltar ao normal.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mas uma decisão fez toda a diferença. Não esperar a água chegar para começar a agir.",
+  "ouvido": "Mas uma decisão fez toda a diferença.  Não esperar a água chegar para começar a agir.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você tá bem?",
+  "ouvido": "Rafael, você está bem?",
+  "semelhanca": 0.75
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tô. Só perdi o carro.",
+  "ouvido": "Tô. Só perdi o carro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Poderia ter perdido muito mais.",
+  "ouvido": "poderia ter perdido muito mais.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "É. Eu sei.",
+  "ouvido": "É.  Eu sei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "A gente teve sorte de conseguir sair cedo.",
+  "ouvido": "A gente teve sorte de conseguir sair cedo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Sorte ajuda. Preparação também.",
+  "ouvido": "Sorte ajuda. Preparação também.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "E meu videogame sobreviveu!",
+  "ouvido": "e meu videogame sobreviveu.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Prioridades, meu amigo. Prioridades.",
+  "ouvido": "Prioridades, meu amigo, prioridades.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Antes de voltar para casa, é preciso esperar a liberação das autoridades. Quando a água baixa, fica a lama, que pode estar contaminada. Botas e luvas ajudam. E alimentos e remédios que tiveram contato com a água da enchente devem ser descartados.",
+  "ouvido": "Antes de voltar para casa, é preciso esperar a liberação das autoridades.  Quando a água baixa, fica a lama que pode estar contaminada.  Botas e luvas ajudam.  E alimentos e remédios que tiveram contato com a água da enchente devem ser descartados.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "E o meu carro?",
+  "ouvido": "E o meu carro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Teve contato com a água da enchente.",
+  "ouvido": "teve contato com a água da enchente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Então tem que ser descartado?",
+  "ouvido": "Então tem que ser descartado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Tem que ser vistoriado. E você tem que ligar pro seguro.",
+  "ouvido": "tem que ser vistoriado e você tem que ligar pro seguro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu tenho seguro?",
+  "ouvido": "Eu tenho seguro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você não sabe se tem seguro?",
+  "ouvido": "Você não sabe se tem seguro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu sei que eu tenho um carro. Tinha.",
+  "ouvido": "Eu sei que eu tenho um carro.  Tinha.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Começa por aí. O resto a gente resolve junto.",
+  "ouvido": "Começa por aí, o resto a gente resolve junto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "No bairro, a água tinha baixado. Mas deixou marcas nas paredes, lama nas calçadas e móveis que ninguém mais ia usar.",
+  "ouvido": "No bairro, a água tinha baixado, mas deixou marcas nas paredes, lama nas calçadas e móveis  que ninguém mais ia usar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "O córrego voltou pro lugar dele.",
+  "ouvido": "O córrego voltou para o lugar dele.",
+  "semelhanca": 0.769
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Por enquanto. Ele sempre volta.",
+  "ouvido": "Por enquanto, ele sempre volta.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "morador",
+  "texto": "Pessoal! A garagem encheu até o teto.",
+  "ouvido": "pessoal.  A garagem encheu até o teto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "E o seu carro?",
+  "ouvido": "e o seu carro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "morador",
+  "texto": "Tá lá embaixo. Mas eu tô aqui em cima. Obrigado por não me deixarem descer.",
+  "ouvido": "Tá lá embaixo, mas eu tô aqui em cima, obrigado por não me deixarem descer.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Agradece ao minuto que você não perdeu.",
+  "ouvido": "Agradece ao minuto que você não perdeu.",
+  "semelhanca": 1.0
+ }
+]

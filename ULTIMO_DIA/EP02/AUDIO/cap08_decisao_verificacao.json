@@ -1,0 +1,182 @@
+[
+ {
+  "personagem": "rafael",
+  "texto": "Todo mundo pegou documento?",
+  "ouvido": "Todo mundo pegou documento?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Peguei.",
+  "ouvido": "Peguei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Água?",
+  "ouvido": "Água.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Peguei.",
+  "ouvido": "Peguei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Videogame?",
+  "ouvido": "Biju game!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pedro.",
+  "ouvido": "Pedro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Tá na mochila!",
+  "ouvido": "tá na mochila?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Esse menino vai sobreviver por causa do videogame.",
+  "ouvido": "Esse menino vai sobreviver por causa do videogame.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Vai sobreviver porque está ouvindo os adultos.",
+  "ouvido": "Vai sobreviver porque está ouvindo os adultos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Dona Cida, a senhora está com seus remédios?",
+  "ouvido": "Dona Cida, a senhora está com seus remédios?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Estão aqui.",
+  "ouvido": "estão aqui.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então vamos juntos.",
+  "ouvido": "Então, vamos juntos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "A rua de baixo virou um rio!",
+  "ouvido": "A rua de baixo virou um rio.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Por isso a gente não vai por ela.",
+  "ouvido": "Por isso, a gente não vai por ela.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Dá pra passar pela beirada.",
+  "ouvido": "Dá pra passar pela beirada.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Não dá.",
+  "ouvido": "Não dá.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tá rasinho.",
+  "ouvido": "tá rasinho.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Rasinho foi o que você achou do seu carro.",
+  "ouvido": "Azinho foi o que você achou do seu carro.",
+  "semelhanca": 0.8888888888888888
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Golpe baixo, Dona Cida.",
+  "ouvido": "GOLPE BAIXO, DONA CIDA",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "agente",
+  "texto": "Não atravessem! Voltem e peguem a rua de cima, pela praça!",
+  "ouvido": "Não atravessem. Voltem e peguem a rua de cima pela praça.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Obrigada!",
+  "ouvido": "Obrigada!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pela praça, então. Dá uns quinze minutos a mais.",
+  "ouvido": "pela praça. Então, dá uns 15 minutos a mais.",
+  "semelhanca": 0.8888888888888888
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Quinze minutos a mais na chuva?",
+  "ouvido": "15 minutos a mais na chuva.",
+  "semelhanca": 0.8333333333333334
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Bem-vindo à vida adulta, Pedro.",
+  "ouvido": "Bem-vindo à vida adulta, Pedro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Só um minuto.",
+  "ouvido": "Só um minuto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Quantos minutos a senhora precisar.",
+  "ouvido": "Quantos minutos a senhora precisar?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Lembra quando eu disse que um minuto era suficiente pra ficar preso na garagem?",
+  "ouvido": "Lembra quando eu disse que um minuto era suficiente para ficar preso na garagem?",
+  "semelhanca": 0.9285714285714286
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Lembro.",
+  "ouvido": "Lembro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Aqui em cima, um minuto é só um minuto.",
+  "ouvido": "Aqui em cima, 1 minuto é só 1 minuto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Na simulação, o grupo consegue sair antes que a rota fique comprometida. A decisão de não esperar a água chegar evita que eles precisem enfrentar o pior momento da enchente.",
+  "ouvido": "Na simulação, o grupo consegue sair antes que a rota fique comprometida.  A decisão de não esperar a água chegar evita que eles precisem enfrentar o pior momento  da enchente.",
+  "semelhanca": 1.0
+ }
+]

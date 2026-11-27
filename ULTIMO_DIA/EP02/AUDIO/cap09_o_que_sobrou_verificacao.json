@@ -1,0 +1,188 @@
+[
+ {
+  "personagem": "voluntaria",
+  "texto": "Boa noite. Quantas pessoas?",
+  "ouvido": "Boa noite!  Quantas pessoas?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Cinco. Uma senhora de sessenta e oito anos e um menino de doze.",
+  "ouvido": "5. Uma senhora de 68 anos e um menino de 12.",
+  "semelhanca": 0.75
+ },
+ {
+  "personagem": "voluntaria",
+  "texto": "Alguém toma remédio de uso contínuo?",
+  "ouvido": "Alguém toma remédio de uso contínuo?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Eu. Pressão.",
+  "ouvido": "Eu pressão.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "voluntaria",
+  "texto": "A senhora trouxe?",
+  "ouvido": "A senhora trouxe?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Trouxe. Sequinho, num saco plástico.",
+  "ouvido": "trouxe, sequinho num saco plástico.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ideia da Marina.",
+  "ouvido": "ideia da Marina.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ideia da Defesa Civil. Eu só obedeci.",
+  "ouvido": "ideia da defesa civil.  Eu só obedeci.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "voluntaria",
+  "texto": "Ótimo. Ali tem água, cobertor e um lugar pra carregar o celular.",
+  "ouvido": "Ótimo! Ali tem água, cobertor e um lugar para carregar o celular.",
+  "semelhanca": 0.917
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Tem café?",
+  "ouvido": "Tem café?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "voluntaria",
+  "texto": "Tem.",
+  "ouvido": "Tem!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Eu moro aqui agora.",
+  "ouvido": "Eu moro aqui agora.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "A cidade sempre foi assim?",
+  "ouvido": "A cidade sempre foi assim.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Não.",
+  "ouvido": "Não.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "E vai voltar ao normal?",
+  "ouvido": "E vai voltar ao normal?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Vai levar tempo.",
+  "ouvido": "Vai levar tempo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Pelo menos eu não vou trabalhar amanhã.",
+  "ouvido": "Pelo menos eu não vou trabalhar amanhã.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Rafael!",
+  "ouvido": "Rafael.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Desculpa. Foi automático.",
+  "ouvido": "Desculpa, foi automático.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Tem gente que ainda não entendeu a gravidade da situação.",
+  "ouvido": "Tem gente que ainda não entendeu a gravidade da situação.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Uma enchente não termina quando a chuva para. Ainda existem riscos de desabamentos, contaminação da água, danos à infraestrutura e dificuldade de acesso a serviços essenciais.",
+  "ouvido": "Uma enchente não termina quando a chuva para.  Ainda existem riscos de desadamentos, contaminação da água, danos à infraestrutura e dificuldade  de acesso a serviços essenciais.",
+  "semelhanca": 0.962
+ },
+ {
+  "personagem": "marina",
+  "texto": "Cadê o Pedro?",
+  "ouvido": "Cadê o Pedro?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Tava aqui agora mesmo.",
+  "ouvido": "Tava aqui agora mesmo",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Pedro? Pedro!",
+  "ouvido": "Pedro! Pedro!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Calma. Ninguém sai correndo. A gente procura junto, cada um num canto.",
+  "ouvido": "Calma, ninguém sai correndo, a gente procura junto cada um num canto.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Pedro! Você não pode sumir assim.",
+  "ouvido": "Pedro, você não pode sumir assim.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Desculpa. A senhora ali não sabia carregar o celular, e a filha dela tá ligando.",
+  "ouvido": "desculpa. A senhora ali não sabia carregar o celular e a filha dela tá ligando.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Da próxima vez, avisa.",
+  "ouvido": "Da próxima vez, avisa!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Aviso. Mas eu ajudei, né?",
+  "ouvido": "Aviso, mas eu ajudei, né?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ajudou. Mas avisa.",
+  "ouvido": "ajudou.  Mas avisa!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Em abrigos e evacuações, combinar um ponto de encontro e manter as crianças sempre à vista evita que um susto vire um problema maior.",
+  "ouvido": "Em abrigos e evacuações, combinar um ponto de encontro e manter as crianças sempre à vista evita que um susto via um problema maior.",
+  "semelhanca": 0.958
+ }
+]

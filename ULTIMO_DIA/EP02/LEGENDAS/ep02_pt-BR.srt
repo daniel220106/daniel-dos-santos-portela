@@ -1,0 +1,1547 @@
+1
+00:00:01,000 --> 00:00:03,935
+Não, não, não. Vai, vai, vai!
+
+2
+00:00:04,014 --> 00:00:05,957
+Rafael, não acelera!
+
+3
+00:00:06,038 --> 00:00:07,486
+Eu tô tentando sair!
+
+4
+00:00:07,567 --> 00:00:09,631
+O carro tá morrendo, Rafael!
+
+5
+00:00:09,590 --> 00:00:11,368
+Eu percebi, Lucas!
+
+6
+00:00:11,448 --> 00:00:13,103
+Desliga e sai do carro!
+
+7
+00:00:13,064 --> 00:00:15,536
+Você tá maluco? Olha a água!
+
+8
+00:00:15,617 --> 00:00:17,823
+Sobe pra calçada alta. Agora!
+
+9
+00:00:18,772 --> 00:00:22,665
+Imagine acordar em uma manhã normal, sair
+de casa para trabalhar e descobrir que São
+
+10
+00:00:22,665 --> 00:00:25,871
+Paulo está prestes a enfrentar uma
+enchente de proporções extremas.
+
+11
+00:00:26,221 --> 00:00:30,069
+Agora imagine receber um alerta. Você
+tem poucas horas para sair de uma área
+
+12
+00:00:30,069 --> 00:00:30,625
+de risco.
+
+13
+00:00:30,975 --> 00:00:31,655
+O problema?
+
+14
+00:00:32,005 --> 00:00:35,483
+Milhões de pessoas estão tentando
+fazer exatamente a mesma coisa.
+
+15
+00:00:45,283 --> 00:00:48,609
+Seis e meia da manhã. Zona Leste
+de São Paulo. Um prédio comum,
+
+16
+00:00:48,609 --> 00:00:52,728
+de seis andares, a duas quadras de um
+córrego que quase ninguém no bairro sabe
+
+17
+00:00:52,728 --> 00:00:53,198
+o nome.
+
+18
+00:00:53,548 --> 00:00:56,501
+Aqui mora o Lucas. Vinte e
+nove anos, curioso, impulsivo,
+
+19
+00:00:56,501 --> 00:01:00,647
+e convencido de que entende de previsão
+do tempo, porque tem três aplicativos de
+
+20
+00:01:00,647 --> 00:01:01,628
+clima no celular.
+
+21
+00:01:01,978 --> 00:01:03,917
+Rafael, você vai demorar?
+
+22
+00:01:03,996 --> 00:01:04,969
+Tô chegando.
+
+23
+00:01:05,049 --> 00:01:07,110
+Você falou isso há vinte minutos.
+
+24
+00:01:07,191 --> 00:01:08,940
+O trânsito tá uma beleza.
+
+25
+00:01:09,021 --> 00:01:10,500
+Você nem saiu de casa, né?
+
+26
+00:01:10,579 --> 00:01:11,845
+Como você sabe?
+
+27
+00:01:11,926 --> 00:01:14,233
+Porque você acabou de
+mandar uma foto deitado.
+
+28
+00:01:14,313 --> 00:01:15,640
+Detalhes.
+
+29
+00:01:15,721 --> 00:01:17,626
+Vocês estão vendo a previsão do tempo?
+
+30
+00:01:17,706 --> 00:01:19,248
+Bom dia pra você também.
+
+31
+00:01:19,328 --> 00:01:20,393
+Olha isso aqui.
+
+32
+00:01:20,743 --> 00:01:24,762
+Naquela manhã, os primeiros alertas pareciam
+apenas mais um aviso de chuva forte.
+
+33
+00:01:25,112 --> 00:01:29,115
+Mas, na nossa simulação, o volume de
+chuva começa a superar as expectativas em
+
+34
+00:01:29,115 --> 00:01:30,189
+diferentes regiões.
+
+35
+00:01:30,540 --> 00:01:33,024
+Ah, mas toda semana tem alerta de chuva.
+
+36
+00:01:33,103 --> 00:01:35,042
+Dessa vez parece diferente.
+
+37
+00:01:35,123 --> 00:01:37,521
+Se chover, eu não vou trabalhar.
+
+38
+00:01:37,481 --> 00:01:39,283
+Você já não trabalha quando faz sol!
+
+39
+00:01:39,362 --> 00:01:40,750
+Tô falando sério!
+
+40
+00:01:41,430 --> 00:01:43,205
+Pedro, cadê o guarda-chuva?
+
+41
+00:01:43,286 --> 00:01:46,176
+Não precisa, Dona Cida. É só uma garoa.
+
+42
+00:01:46,257 --> 00:01:50,571
+Foi o que eu pensei uma vez.
+Voltei pra casa com água no joelho.
+
+43
+00:01:50,531 --> 00:01:51,257
+Sério?
+
+44
+00:01:51,337 --> 00:01:53,781
+Seríssimo. Leva o guarda-chuva.
+
+45
+00:01:53,861 --> 00:01:57,500
+E hoje não tem aula, Pedro.
+A escola mandou mensagem.
+
+46
+00:01:57,581 --> 00:01:59,202
+Melhor notícia do ano!
+
+47
+00:01:59,162 --> 00:02:00,829
+Ainda é cedo pra dizer isso.
+
+48
+00:02:01,180 --> 00:02:04,541
+Ninguém naquele corredor imaginava
+que a frase da Dona Cida ia envelhecer
+
+49
+00:02:04,541 --> 00:02:05,147
+tão rápido.
+
+50
+00:02:10,548 --> 00:02:14,521
+Duas horas depois, algumas ruas já
+estavam difíceis de atravessar. O trânsito
+
+51
+00:02:14,521 --> 00:02:18,185
+começou a parar, e os primeiros
+registros de alagamentos apareceram nas
+
+52
+00:02:18,185 --> 00:02:19,007
+redes sociais.
+
+53
+00:02:19,358 --> 00:02:20,305
+Olha isso aqui!
+
+54
+00:02:20,264 --> 00:02:21,377
+Deixa eu ver.
+
+55
+00:02:21,457 --> 00:02:25,743
+A avenida perto da estação.
+Tá completamente parada.
+
+56
+00:02:25,824 --> 00:02:27,594
+Manda o endereço.
+
+57
+00:02:27,555 --> 00:02:28,056
+Pra quê?
+
+58
+00:02:28,137 --> 00:02:30,097
+Porque eu tô indo pra aí.
+
+59
+00:02:30,177 --> 00:02:31,555
+Você tá vindo de carro?
+
+60
+00:02:31,635 --> 00:02:32,189
+Tô.
+
+61
+00:02:32,150 --> 00:02:33,621
+Rafael, não vem!
+
+62
+00:02:33,701 --> 00:02:35,259
+Já tô no caminho.
+
+63
+00:02:35,340 --> 00:02:40,515
+Então procura um lugar seguro e
+para. Não tenta atravessar água.
+
+64
+00:02:40,596 --> 00:02:41,491
+Tá bom, mãe.
+
+65
+00:02:41,451 --> 00:02:42,709
+Não é brincadeira!
+
+66
+00:02:42,788 --> 00:02:44,644
+Marina, vem ver a rua.
+
+67
+00:02:44,604 --> 00:02:45,352
+O que foi?
+
+68
+00:02:45,432 --> 00:02:47,897
+O bueiro da esquina tá devolvendo água.
+
+69
+00:02:47,978 --> 00:02:48,989
+Isso não é bom.
+
+70
+00:02:49,068 --> 00:02:51,669
+Quanto você acha que tem ali? Um palmo?
+
+71
+00:02:51,750 --> 00:02:55,290
+Não importa quanto parece.
+Água de enchente engana.
+
+72
+00:02:55,640 --> 00:02:59,491
+Durante uma enchente, a profundidade
+da água pode enganar. A correnteza pode
+
+73
+00:02:59,491 --> 00:03:03,544
+arrastar pessoas e veículos. Uma decisão
+impulsiva pode transformar uma situação
+
+74
+00:03:03,544 --> 00:03:05,569
+difícil em uma emergência ainda maior.
+
+75
+00:03:05,919 --> 00:03:09,832
+Segundo as orientações de segurança,
+quinze centímetros de água em movimento já
+
+76
+00:03:09,832 --> 00:03:13,894
+podem derrubar um adulto. E cerca de
+trinta centímetros podem arrastar um carro.
+
+77
+00:03:19,294 --> 00:03:19,876
+Marina.
+
+78
+00:03:19,836 --> 00:03:21,125
+Eu também recebi.
+
+79
+00:03:21,205 --> 00:03:22,412
+Tá falando sério isso?
+
+80
+00:03:22,491 --> 00:03:23,775
+Pega seus documentos.
+
+81
+00:03:23,855 --> 00:03:26,852
+Calma. A gente nem sabe
+se vai chegar aqui.
+
+82
+00:03:26,931 --> 00:03:30,836
+É exatamente por isso que a
+gente precisa se preparar antes.
+
+83
+00:03:30,917 --> 00:03:33,079
+Minha mãe falou que a
+gente vai sair daqui.
+
+84
+00:03:33,159 --> 00:03:34,894
+Você já arrumou sua mochila?
+
+85
+00:03:34,854 --> 00:03:35,848
+Arrumei.
+
+86
+00:03:35,929 --> 00:03:37,237
+O que você colocou?
+
+87
+00:03:37,318 --> 00:03:38,473
+Meu videogame.
+
+88
+00:03:38,093 --> 00:03:38,725
+Pedro!
+
+89
+00:03:38,686 --> 00:03:39,758
+E o carregador!
+
+90
+00:03:39,838 --> 00:03:41,816
+Pelo menos ele é organizado.
+
+91
+00:03:41,895 --> 00:03:44,486
+Organizado? Ele esqueceu a roupa!
+
+92
+00:03:44,567 --> 00:03:45,575
+Oi, mãe!
+
+93
+00:03:45,656 --> 00:03:49,739
+Pedro, a mãe vai ficar presa no
+plantão. O hospital tá cheio.
+
+94
+00:03:49,699 --> 00:03:50,406
+E eu?
+
+95
+00:03:50,485 --> 00:03:54,621
+Você fica com a Dona Cida e com a
+Marina. Faz tudo o que elas mandarem, tá?
+
+96
+00:03:54,581 --> 00:03:55,394
+Tudo?
+
+97
+00:03:55,473 --> 00:03:56,495
+Tudo, Pedro.
+
+98
+00:03:56,575 --> 00:03:58,046
+Até guardar o videogame?
+
+99
+00:03:58,127 --> 00:03:59,561
+Principalmente isso.
+
+100
+00:03:59,641 --> 00:04:02,344
+Pode deixar, Sandra. Ele fica com a gente.
+
+101
+00:04:02,694 --> 00:04:06,655
+Quando existe risco de inundação, preparar
+os itens essenciais e sair antes de uma
+
+102
+00:04:06,655 --> 00:04:08,879
+área vulnerável pode
+fazer toda a diferença.
+
+103
+00:04:09,229 --> 00:04:13,036
+Documentos dentro de um saco plástico.
+Remédios de uso contínuo. Água,
+
+104
+00:04:13,036 --> 00:04:16,626
+lanterna, carregador portátil e
+uma muda de roupa. Coisas simples,
+
+105
+00:04:16,626 --> 00:04:20,370
+que fazem falta justamente quando
+não dá mais para voltar e buscar.
+
+106
+00:04:20,720 --> 00:04:22,748
+Saco plástico pros documentos?
+
+107
+00:04:22,827 --> 00:04:25,443
+Saco plástico pra tudo
+que não pode molhar.
+
+108
+00:04:25,523 --> 00:04:27,984
+Inclusive o seu celular, Lucas.
+
+109
+00:04:28,064 --> 00:04:30,182
+Meu celular é à prova d'água.
+
+110
+00:04:30,141 --> 00:04:32,013
+O seu juízo é que não é.
+
+111
+00:04:37,413 --> 00:04:38,805
+Meu carro tá lá embaixo!
+
+112
+00:04:38,764 --> 00:04:39,614
+Não desce!
+
+113
+00:04:39,694 --> 00:04:41,016
+Eu só vou tirar ele!
+
+114
+00:04:41,096 --> 00:04:42,552
+A água já chegou na rampa!
+
+115
+00:04:42,632 --> 00:04:43,885
+Mas é só um minuto!
+
+116
+00:04:43,964 --> 00:04:47,289
+Um minuto é suficiente pra
+você ficar preso lá embaixo!
+
+117
+00:04:47,369 --> 00:04:49,934
+Então meu carro de
+brinquedo também vai alagar?
+
+118
+00:04:49,894 --> 00:04:51,103
+Pedro, agora não!
+
+119
+00:04:51,062 --> 00:04:52,236
+Só perguntei!
+
+120
+00:04:52,315 --> 00:04:57,329
+Deixa o menino. Pelo menos ele tá preocupado
+com alguma coisa que não custa cem
+
+121
+00:04:57,329 --> 00:04:58,064
+mil reais.
+
+122
+00:04:58,413 --> 00:05:02,449
+Uma garagem subterrânea pode se transformar
+em um ponto extremamente perigoso. A
+
+123
+00:05:02,449 --> 00:05:05,072
+água pode entrar rapidamente
+e bloquear as saídas.
+
+124
+00:05:05,422 --> 00:05:08,364
+Vamos pegar o elevador e
+subir as coisas do térreo.
+
+125
+00:05:08,324 --> 00:05:12,665
+Elevador não. Se faltar energia,
+a gente fica preso lá dentro.
+
+126
+00:05:12,745 --> 00:05:14,230
+Escada. E devagar.
+
+127
+00:05:14,581 --> 00:05:17,805
+Em situações de inundação,
+a orientação é evitar elevadores. E,
+
+128
+00:05:17,805 --> 00:05:21,592
+se a água começar a entrar no imóvel,
+desligar a energia no quadro de luz,
+
+129
+00:05:21,592 --> 00:05:25,378
+desde que isso possa ser feito com
+segurança, sem tocar em nada molhado.
+
+130
+00:05:25,728 --> 00:05:28,013
+Pelo menos dá pra subir
+as coisas do térreo?
+
+131
+00:05:28,093 --> 00:05:30,059
+Isso sim. Vamos ajudar.
+
+132
+00:05:30,139 --> 00:05:31,658
+Eu carrego as almofadas!
+
+133
+00:05:31,737 --> 00:05:33,122
+O herói das almofadas.
+
+134
+00:05:33,081 --> 00:05:34,225
+Alguém tem que ser.
+
+135
+00:05:39,625 --> 00:05:43,832
+Com a chuva persistente, a circulação
+começa a ficar comprometida em diferentes
+
+136
+00:05:43,832 --> 00:05:47,605
+pontos da cidade. Os deslocamentos
+ficam cada vez mais imprevisíveis.
+
+137
+00:05:47,685 --> 00:05:49,090
+Consegui chegar!
+
+138
+00:05:49,050 --> 00:05:49,918
+Onde você tá?
+
+139
+00:05:49,997 --> 00:05:51,287
+Na rua de trás.
+
+140
+00:05:51,367 --> 00:05:52,304
+Como você veio?
+
+141
+00:05:52,384 --> 00:05:53,146
+A pé.
+
+142
+00:05:53,105 --> 00:05:53,941
+E o carro?
+
+143
+00:05:54,021 --> 00:05:57,504
+Digamos que ele vai passar a
+noite em um lugar diferente.
+
+144
+00:05:57,584 --> 00:05:58,820
+Você abandonou o carro?
+
+145
+00:05:58,899 --> 00:06:01,379
+Eu prefiro dizer que dei férias pra ele.
+
+146
+00:06:01,459 --> 00:06:02,455
+Entra logo!
+
+147
+00:06:02,535 --> 00:06:05,557
+Nossa, que recepção calorosa.
+
+148
+00:06:05,516 --> 00:06:06,554
+Você tá encharcado!
+
+149
+00:06:06,634 --> 00:06:09,997
+Percebi quando começou a
+chover dentro do meu tênis.
+
+150
+00:06:10,076 --> 00:06:11,546
+O que aconteceu com o carro?
+
+151
+00:06:11,625 --> 00:06:16,252
+O trânsito parou. E a água começou
+a subir em volta. Primeiro no pneu,
+
+152
+00:06:16,252 --> 00:06:17,410
+depois na porta.
+
+153
+00:06:17,370 --> 00:06:18,324
+E você saiu.
+
+154
+00:06:18,403 --> 00:06:21,703
+Saí. Depois de você
+gritar comigo no telefone.
+
+155
+00:06:21,663 --> 00:06:22,507
+Eu não gritei.
+
+156
+00:06:22,586 --> 00:06:25,938
+Gritou. O motorista do
+lado ouviu e saiu também.
+
+157
+00:06:26,017 --> 00:06:28,284
+Então foi o grito mais útil do dia.
+
+158
+00:06:28,634 --> 00:06:31,592
+Se a água começa a subir em
+volta de um carro parado,
+
+159
+00:06:31,592 --> 00:06:34,382
+a orientação é sair e
+procurar um lugar mais alto,
+
+160
+00:06:34,382 --> 00:06:38,836
+desde que não haja correnteza. Um carro
+pode ser substituído. Uma pessoa, não.
+
+161
+00:06:44,235 --> 00:06:48,049
+Na nossa simulação, a situação piora
+rapidamente. Algumas regiões recebem
+
+162
+00:06:48,049 --> 00:06:52,333
+orientações para evacuação preventiva. O
+maior problema agora é que muitas pessoas
+
+163
+00:06:52,333 --> 00:06:54,262
+estão tentando sair ao mesmo tempo.
+
+164
+00:06:54,612 --> 00:06:56,675
+A gente precisa decidir agora.
+
+165
+00:06:56,634 --> 00:06:57,513
+Ir pra onde?
+
+166
+00:06:57,593 --> 00:06:59,188
+Pra casa da minha irmã.
+
+167
+00:06:59,148 --> 00:06:59,992
+Onde ela mora?
+
+168
+00:07:00,072 --> 00:07:01,777
+Do outro lado da cidade.
+
+169
+00:07:01,857 --> 00:07:04,220
+Você quer atravessar a
+cidade com essa chuva?
+
+170
+00:07:04,180 --> 00:07:05,763
+Eu não quero ficar aqui!
+
+171
+00:07:05,843 --> 00:07:08,568
+E você acha que vai
+encontrar uma estrada vazia?
+
+172
+00:07:08,648 --> 00:07:10,646
+Então o que a senhora sugere?
+
+173
+00:07:10,725 --> 00:07:15,725
+Primeiro, a gente descobre se este prédio
+está em uma área com risco de inundação.
+
+174
+00:07:15,725 --> 00:07:20,886
+Depois, segue a orientação da Defesa Civil.
+Não é sair correndo sem saber pra onde.
+
+175
+00:07:21,235 --> 00:07:25,630
+Evacuar não significa simplesmente entrar
+em um carro e dirigir. É preciso seguir
+
+176
+00:07:25,630 --> 00:07:29,971
+rotas seguras e orientações oficiais.
+Nunca se deve atravessar ruas inundadas ou
+
+177
+00:07:29,971 --> 00:07:32,187
+tentar passar por áreas com correnteza.
+
+178
+00:07:32,536 --> 00:07:37,090
+Achei o aviso oficial. A nossa rua tá
+na área de risco, por causa do córrego.
+
+179
+00:07:37,170 --> 00:07:39,296
+O córrego que ninguém sabe o nome?
+
+180
+00:07:39,375 --> 00:07:42,224
+Esse mesmo. Ele sabe o nosso endereço.
+
+181
+00:07:42,303 --> 00:07:46,560
+Tem um abrigo numa escola, numa
+parte mais alta do bairro. Uns dois
+
+182
+00:07:46,560 --> 00:07:47,804
+quilômetros daqui.
+
+183
+00:07:47,884 --> 00:07:50,367
+Dois quilômetros a pé, na chuva?
+
+184
+00:07:50,447 --> 00:07:54,677
+Pela rota que a Defesa Civil
+indicou. Sem passar por rua alagada.
+
+185
+00:07:54,757 --> 00:07:56,117
+Eu ando devagar.
+
+186
+00:07:56,197 --> 00:07:58,449
+Então a gente anda no seu ritmo.
+
+187
+00:07:58,408 --> 00:07:59,544
+Eu ando rápido!
+
+188
+00:07:59,504 --> 00:08:02,559
+Você vai na frente, de batedor.
+
+189
+00:08:02,519 --> 00:08:04,987
+Ninguém vai na frente. Todo mundo junto.
+
+190
+00:08:05,567 --> 00:08:06,730
+Ué. Acabou a luz.
+
+191
+00:08:06,810 --> 00:08:10,852
+A companhia deve ter desligado a
+energia da região, por segurança.
+
+192
+00:08:10,932 --> 00:08:12,321
+Por segurança de quem?
+
+193
+00:08:12,281 --> 00:08:15,425
+Da gente. Água e energia
+elétrica não combinam.
+
+194
+00:08:15,504 --> 00:08:17,105
+Pega a lanterna, Lucas.
+
+195
+00:08:17,185 --> 00:08:18,470
+Peguei. E agora?
+
+196
+00:08:18,550 --> 00:08:22,593
+Agora vocês sentam um minuto.
+Eu vou contar uma coisa.
+
+197
+00:08:22,673 --> 00:08:27,946
+Muitos anos atrás, eu morava numa casa
+térrea, perto de outro córrego. Choveu a
+
+198
+00:08:27,946 --> 00:08:32,119
+noite inteira. Meu marido disse
+que ia esperar a água baixar.
+
+199
+00:08:32,078 --> 00:08:32,976
+E baixou?
+
+200
+00:08:33,057 --> 00:08:37,913
+Subiu. Até a janela. A gente saiu pelo
+telhado, com a ajuda dos vizinhos.
+
+201
+00:08:37,993 --> 00:08:39,605
+A senhora nunca contou isso.
+
+202
+00:08:39,686 --> 00:08:44,654
+Ninguém nunca perguntou. Eu só aprendi uma
+coisa naquela noite. Quem espera a água
+
+203
+00:08:44,654 --> 00:08:46,330
+pra decidir, decide tarde.
+
+204
+00:08:47,009 --> 00:08:50,274
+Tá bom. Agora eu fiquei
+com medo de verdade.
+
+205
+00:08:50,355 --> 00:08:55,326
+Que bom. Medo na medida certa
+ajuda a gente a sair na hora certa.
+
+206
+00:09:00,726 --> 00:09:01,134
+Mãe?
+
+207
+00:09:01,214 --> 00:09:02,983
+Filho, você tá bem?
+
+208
+00:09:03,062 --> 00:09:04,540
+Tô. Tá tudo certo aqui.
+
+209
+00:09:04,620 --> 00:09:07,936
+Eu tô vendo as notícias.
+Você precisa sair daí!
+
+210
+00:09:08,015 --> 00:09:09,536
+A gente tá vendo o que fazer.
+
+211
+00:09:09,615 --> 00:09:11,142
+Não espera a água chegar.
+
+212
+00:09:11,101 --> 00:09:11,912
+Eu sei, mãe.
+
+213
+00:09:11,991 --> 00:09:12,941
+E o Rafael?
+
+214
+00:09:12,900 --> 00:09:13,725
+Tá aqui.
+
+215
+00:09:13,804 --> 00:09:15,422
+Fala que eu tô lindo!
+
+216
+00:09:15,501 --> 00:09:17,167
+Ele tá sendo ele mesmo.
+
+217
+00:09:17,246 --> 00:09:22,235
+Lucas, escuta. Se precisar vir pra
+cá, vem antes de ficar impossível.
+
+218
+00:09:23,115 --> 00:09:25,229
+Mãe, acho que a gente vai precisar sair.
+
+219
+00:09:25,908 --> 00:09:29,750
+Pessoal. A gente sai às
+quatro. Antes de escurecer.
+
+220
+00:09:29,830 --> 00:09:34,302
+De noite fica muito mais difícil
+ver buraco, fio caído e água.
+
+221
+00:09:34,381 --> 00:09:36,187
+Então dá tempo de um café?
+
+222
+00:09:36,147 --> 00:09:36,706
+Não.
+
+223
+00:09:42,106 --> 00:09:44,171
+Todo mundo pegou documento?
+
+224
+00:09:44,130 --> 00:09:44,675
+Peguei.
+
+225
+00:09:44,634 --> 00:09:45,129
+Água?
+
+226
+00:09:45,090 --> 00:09:45,634
+Peguei.
+
+227
+00:09:45,594 --> 00:09:46,441
+Videogame?
+
+228
+00:09:46,520 --> 00:09:47,173
+Pedro.
+
+229
+00:09:47,133 --> 00:09:48,274
+Tá na mochila!
+
+230
+00:09:48,355 --> 00:09:51,855
+Esse menino vai sobreviver
+por causa do videogame.
+
+231
+00:09:51,934 --> 00:09:54,706
+Vai sobreviver porque
+está ouvindo os adultos.
+
+232
+00:09:54,787 --> 00:09:57,634
+Dona Cida, a senhora
+está com seus remédios?
+
+233
+00:09:57,594 --> 00:09:58,622
+Estão aqui.
+
+234
+00:09:58,701 --> 00:10:00,322
+Então vamos juntos.
+
+235
+00:10:00,403 --> 00:10:02,055
+A rua de baixo virou um rio!
+
+236
+00:10:02,134 --> 00:10:04,485
+Por isso a gente não vai por ela.
+
+237
+00:10:04,565 --> 00:10:06,954
+Dá pra passar pela beirada.
+
+238
+00:10:06,913 --> 00:10:07,555
+Não dá.
+
+239
+00:10:07,634 --> 00:10:08,615
+Tá rasinho.
+
+240
+00:10:08,696 --> 00:10:11,115
+Rasinho foi o que você achou do seu carro.
+
+241
+00:10:11,196 --> 00:10:13,449
+Golpe baixo, Dona Cida.
+
+242
+00:10:13,528 --> 00:10:16,921
+Não atravessem! Voltem e peguem
+a rua de cima, pela praça!
+
+243
+00:10:17,000 --> 00:10:17,979
+Obrigada!
+
+244
+00:10:18,058 --> 00:10:21,220
+Pela praça, então. Dá uns
+quinze minutos a mais.
+
+245
+00:10:21,299 --> 00:10:23,156
+Quinze minutos a mais na chuva?
+
+246
+00:10:23,235 --> 00:10:25,368
+Bem-vindo à vida adulta, Pedro.
+
+247
+00:10:25,447 --> 00:10:26,538
+Só um minuto.
+
+248
+00:10:26,619 --> 00:10:28,817
+Quantos minutos a senhora precisar.
+
+249
+00:10:28,897 --> 00:10:33,418
+Lembra quando eu disse que um minuto era
+suficiente pra ficar preso na garagem?
+
+250
+00:10:33,379 --> 00:10:33,961
+Lembro.
+
+251
+00:10:34,041 --> 00:10:36,956
+Aqui em cima, um minuto é só um minuto.
+
+252
+00:10:37,307 --> 00:10:41,341
+Na simulação, o grupo consegue sair antes
+que a rota fique comprometida. A decisão
+
+253
+00:10:41,341 --> 00:10:45,129
+de não esperar a água chegar evita que
+eles precisem enfrentar o pior momento
+
+254
+00:10:45,129 --> 00:10:45,820
+da enchente.
+
+255
+00:10:51,220 --> 00:10:53,341
+Boa noite. Quantas pessoas?
+
+256
+00:10:53,421 --> 00:10:57,791
+Cinco. Uma senhora de sessenta
+e oito anos e um menino de doze.
+
+257
+00:10:57,870 --> 00:11:00,284
+Alguém toma remédio de uso contínuo?
+
+258
+00:11:00,365 --> 00:11:01,463
+Eu. Pressão.
+
+259
+00:11:01,423 --> 00:11:02,663
+A senhora trouxe?
+
+260
+00:11:02,744 --> 00:11:05,709
+Trouxe. Sequinho, num saco plástico.
+
+261
+00:11:05,668 --> 00:11:06,778
+Ideia da Marina.
+
+262
+00:11:06,738 --> 00:11:10,099
+Ideia da Defesa Civil. Eu só obedeci.
+
+263
+00:11:10,178 --> 00:11:14,625
+Ótimo. Ali tem água, cobertor e
+um lugar pra carregar o celular.
+
+264
+00:11:14,705 --> 00:11:15,635
+Tem café?
+
+265
+00:11:15,596 --> 00:11:16,171
+Tem.
+
+266
+00:11:16,250 --> 00:11:17,565
+Eu moro aqui agora.
+
+267
+00:11:18,245 --> 00:11:19,744
+A cidade sempre foi assim?
+
+268
+00:11:19,703 --> 00:11:20,303
+Não.
+
+269
+00:11:20,384 --> 00:11:21,865
+E vai voltar ao normal?
+
+270
+00:11:21,946 --> 00:11:23,195
+Vai levar tempo.
+
+271
+00:11:23,274 --> 00:11:26,267
+Pelo menos eu não vou trabalhar amanhã.
+
+272
+00:11:26,226 --> 00:11:26,989
+Rafael!
+
+273
+00:11:27,068 --> 00:11:29,204
+Desculpa. Foi automático.
+
+274
+00:11:29,283 --> 00:11:32,787
+Tem gente que ainda não entendeu
+a gravidade da situação.
+
+275
+00:11:33,136 --> 00:11:37,520
+Uma enchente não termina quando a chuva
+para. Ainda existem riscos de desabamentos,
+
+276
+00:11:37,520 --> 00:11:41,216
+contaminação da água, danos à
+infraestrutura e dificuldade de acesso a
+
+277
+00:11:41,216 --> 00:11:42,373
+serviços essenciais.
+
+278
+00:11:43,052 --> 00:11:44,008
+Cadê o Pedro?
+
+279
+00:11:44,087 --> 00:11:45,504
+Tava aqui agora mesmo.
+
+280
+00:11:45,585 --> 00:11:46,941
+Pedro? Pedro!
+
+281
+00:11:47,421 --> 00:11:52,514
+Calma. Ninguém sai correndo. A gente
+procura junto, cada um num canto.
+
+282
+00:11:52,594 --> 00:11:54,763
+Pedro! Você não pode sumir assim.
+
+283
+00:11:54,842 --> 00:11:59,995
+Desculpa. A senhora ali não sabia carregar
+o celular, e a filha dela tá ligando.
+
+284
+00:11:59,956 --> 00:12:01,853
+Da próxima vez, avisa.
+
+285
+00:12:01,932 --> 00:12:03,917
+Aviso. Mas eu ajudei, né?
+
+286
+00:12:03,996 --> 00:12:05,707
+Ajudou. Mas avisa.
+
+287
+00:12:06,057 --> 00:12:10,088
+Em abrigos e evacuações, combinar um ponto
+de encontro e manter as crianças sempre à
+
+288
+00:12:10,088 --> 00:12:12,490
+vista evita que um susto
+vire um problema maior.
+
+289
+00:12:17,890 --> 00:12:19,297
+Então, acabou?
+
+290
+00:12:19,376 --> 00:12:22,908
+A chuva diminuiu. Não
+quer dizer que acabou.
+
+291
+00:12:22,869 --> 00:12:23,566
+E agora?
+
+292
+00:12:23,645 --> 00:12:28,778
+Agora a gente espera as orientações.
+Nada de voltar correndo pra casa.
+
+293
+00:12:28,859 --> 00:12:30,239
+Posso jogar videogame?
+
+294
+00:12:30,318 --> 00:12:33,548
+Finalmente alguém
+fazendo a pergunta certa!
+
+295
+00:12:33,629 --> 00:12:35,689
+Vocês dois são iguais.
+
+296
+00:12:36,269 --> 00:12:36,825
+Mãe!
+
+297
+00:12:36,904 --> 00:12:38,441
+Pedro! Graças a Deus.
+
+298
+00:12:38,520 --> 00:12:40,514
+Você fez tudo o que elas mandaram?
+
+299
+00:12:40,595 --> 00:12:42,706
+Fiz. Até guardei o videogame.
+
+300
+00:12:42,785 --> 00:12:45,932
+Guardou mesmo. Na mochila,
+do lado da camiseta.
+
+301
+00:12:46,010 --> 00:12:48,461
+Obrigada, de verdade. A todos vocês.
+
+302
+00:12:48,541 --> 00:12:50,627
+Ele ajudou mais do que atrapalhou.
+
+303
+00:12:50,586 --> 00:12:51,865
+Só um pouquinho mais.
+
+304
+00:12:52,745 --> 00:12:53,543
+Lucas.
+
+305
+00:12:53,503 --> 00:12:54,045
+Hum?
+
+306
+00:12:54,125 --> 00:12:55,451
+Valeu pelo grito.
+
+307
+00:12:55,530 --> 00:12:56,375
+Eu não gritei.
+
+308
+00:12:56,455 --> 00:12:58,406
+Gritou. E ainda bem.
+
+309
+00:12:59,086 --> 00:13:03,594
+Sabe o que eu fiquei pensando? Eu sempre
+achei que essas coisas aconteciam com
+
+310
+00:13:03,594 --> 00:13:04,272
+os outros.
+
+311
+00:13:04,351 --> 00:13:06,538
+Todo mundo acha. Até acontecer.
+
+312
+00:13:06,619 --> 00:13:10,194
+A partir de amanhã, eu vou
+levar as coisas mais a sério.
+
+313
+00:13:10,274 --> 00:13:11,949
+Começa pelo despertador.
+
+314
+00:13:11,908 --> 00:13:13,903
+Aí você já tá pedindo demais.
+
+315
+00:13:14,253 --> 00:13:18,571
+Mesmo depois que a chuva diminui, a volta
+às áreas afetadas precisa ser feita com
+
+316
+00:13:18,571 --> 00:13:22,989
+cuidado. A água pode esconder buracos,
+fios energizados e materiais contaminados.
+
+317
+00:13:28,389 --> 00:13:30,525
+Vinte e quatro horas
+depois do primeiro alerta,
+
+318
+00:13:30,525 --> 00:13:32,807
+a cidade ainda estava
+longe de voltar ao normal.
+
+319
+00:13:33,158 --> 00:13:37,478
+Mas uma decisão fez toda a diferença. Não
+esperar a água chegar para começar a agir.
+
+320
+00:13:37,827 --> 00:13:39,517
+Rafael, você tá bem?
+
+321
+00:13:39,596 --> 00:13:41,321
+Tô. Só perdi o carro.
+
+322
+00:13:41,400 --> 00:13:43,311
+Poderia ter perdido muito mais.
+
+323
+00:13:43,390 --> 00:13:44,843
+É. Eu sei.
+
+324
+00:13:44,923 --> 00:13:47,581
+A gente teve sorte de conseguir sair cedo.
+
+325
+00:13:47,662 --> 00:13:50,211
+Sorte ajuda. Preparação também.
+
+326
+00:13:50,291 --> 00:13:52,170
+E meu videogame sobreviveu!
+
+327
+00:13:52,250 --> 00:13:54,815
+Prioridades, meu amigo. Prioridades.
+
+328
+00:13:55,164 --> 00:13:59,652
+Antes de voltar para casa, é preciso esperar
+a liberação das autoridades. Quando a
+
+329
+00:13:59,652 --> 00:14:03,812
+água baixa, fica a lama, que pode estar
+contaminada. Botas e luvas ajudam. E
+
+330
+00:14:03,812 --> 00:14:07,588
+alimentos e remédios que tiveram
+contato com a água da enchente devem
+
+331
+00:14:07,588 --> 00:14:08,564
+ser descartados.
+
+332
+00:14:08,913 --> 00:14:09,971
+E o meu carro?
+
+333
+00:14:10,052 --> 00:14:12,363
+Teve contato com a água da enchente.
+
+334
+00:14:12,442 --> 00:14:14,540
+Então tem que ser descartado?
+
+335
+00:14:14,620 --> 00:14:18,502
+Tem que ser vistoriado. E
+você tem que ligar pro seguro.
+
+336
+00:14:18,581 --> 00:14:19,767
+Eu tenho seguro?
+
+337
+00:14:19,726 --> 00:14:21,341
+Você não sabe se tem seguro?
+
+338
+00:14:21,421 --> 00:14:23,766
+Eu sei que eu tenho um carro. Tinha.
+
+339
+00:14:23,846 --> 00:14:27,204
+Começa por aí. O resto
+a gente resolve junto.
+
+340
+00:14:28,153 --> 00:14:31,518
+No bairro, a água tinha baixado.
+Mas deixou marcas nas paredes,
+
+341
+00:14:31,518 --> 00:14:34,396
+lama nas calçadas e móveis
+que ninguém mais ia usar.
+
+342
+00:14:34,745 --> 00:14:36,733
+O córrego voltou pro lugar dele.
+
+343
+00:14:36,812 --> 00:14:39,146
+Por enquanto. Ele sempre volta.
+
+344
+00:14:39,225 --> 00:14:41,627
+Pessoal! A garagem encheu até o teto.
+
+345
+00:14:41,586 --> 00:14:42,675
+E o seu carro?
+
+346
+00:14:42,754 --> 00:14:46,694
+Tá lá embaixo. Mas eu tô aqui em cima.
+Obrigado por não me deixarem descer.
+
+347
+00:14:46,774 --> 00:14:48,868
+Agradece ao minuto que você não perdeu.
+
+348
+00:14:54,268 --> 00:14:55,384
+Sabe o que é engraçado?
+
+349
+00:14:55,344 --> 00:14:56,093
+O que foi?
+
+350
+00:14:56,173 --> 00:15:01,157
+Ontem de manhã, eu achei que o pior que
+podia acontecer era o Rafael atrasar.
+
+351
+00:15:01,116 --> 00:15:01,864
+E aí?
+
+352
+00:15:01,943 --> 00:15:04,518
+E aí você atrasou. Mas foi o de menos.
+
+353
+00:15:05,668 --> 00:15:09,674
+Esta foi uma simulação fictícia de uma
+enchente extrema em São Paulo. Não é uma
+
+354
+00:15:09,674 --> 00:15:11,296
+previsão do que vai acontecer.
+
+355
+00:15:11,645 --> 00:15:13,360
+Mas existe uma pergunta que fica.
+
+356
+00:15:13,710 --> 00:15:17,555
+Se um alerta de emergência chegasse hoje
+ao seu celular, você saberia o que fazer?
+
+357
+00:15:17,904 --> 00:15:21,639
+Você sairia imediatamente, ou esperaria
+para ver se a água realmente chegaria?
+

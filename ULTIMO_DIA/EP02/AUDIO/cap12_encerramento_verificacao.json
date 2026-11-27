@@ -1,0 +1,56 @@
+[
+ {
+  "personagem": "lucas",
+  "texto": "Sabe o que é engraçado?",
+  "ouvido": "Sabe o que é engraçado?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "O que foi?",
+  "ouvido": "O que foi?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Ontem de manhã, eu achei que o pior que podia acontecer era o Rafael atrasar.",
+  "ouvido": "ontem de manhã, eu achei que o pior que podia acontecer era o Rafael atrasar.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "E aí?",
+  "ouvido": "E aí?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "E aí você atrasou. Mas foi o de menos.",
+  "ouvido": "E aí você atrasou, mas foi o de menos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Esta foi uma simulação fictícia de uma enchente extrema em São Paulo. Não é uma previsão do que vai acontecer.",
+  "ouvido": "Esta foi uma simulação fictícia de uma enchente extrema em São Paulo.  Não é uma previsão do que vai acontecer.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mas existe uma pergunta que fica.",
+  "ouvido": "Mas existe uma pergunta que fica.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Se um alerta de emergência chegasse hoje ao seu celular, você saberia o que fazer?",
+  "ouvido": "Se um alerta de emergência chegasse hoje ao seu celular, você saberia o que fazer?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Você sairia imediatamente, ou esperaria para ver se a água realmente chegaria?",
+  "ouvido": "Você sairia imediatamente ou esperaria para ver se a água realmente chegaria?",
+  "semelhanca": 1.0
+ }
+]

@@ -63,7 +63,7 @@
   "personagem": "dona_cida",
   "texto": "Primeiro, a gente descobre se este prédio está em uma área com risco de inundação. Depois, segue a orientação da Defesa Civil. Não é sair correndo sem saber pra onde.",
   "ouvido": "Primeiro, a gente descobre se este prédio está em uma área com risco de inundação.  Depois, segue a orientação da Defesa Civil.  Não é sair correndo sem saber para onde.",
-  "semelhanca": 0.967
+  "semelhanca": 0.9666666666666667
  },
  {
   "personagem": "narrador",
@@ -75,7 +75,7 @@
   "personagem": "marina",
   "texto": "Achei o aviso oficial. A nossa rua tá na área de risco, por causa do córrego.",
   "ouvido": "Achei o aviso oficial.  A nossa rua está na área de risco por causa do córrego.",
-  "semelhanca": 0.938
+  "semelhanca": 0.9375
  },
  {
   "personagem": "rafael",
@@ -141,7 +141,7 @@
   "personagem": "pedro",
   "texto": "Ué. Acabou a luz.",
   "ouvido": "Acabou a luz.",
-  "semelhanca": 0.857
+  "semelhanca": 0.8571428571428571
  },
  {
   "personagem": "marina",

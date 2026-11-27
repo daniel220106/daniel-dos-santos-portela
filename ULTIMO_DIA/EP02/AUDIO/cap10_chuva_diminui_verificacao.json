@@ -1,0 +1,158 @@
+[
+ {
+  "personagem": "rafael",
+  "texto": "Então, acabou?",
+  "ouvido": "Então acabou?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "A chuva diminuiu. Não quer dizer que acabou.",
+  "ouvido": "A chuva diminuiu.  Não quer dizer que acabou.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "E agora?",
+  "ouvido": "E agora?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Agora a gente espera as orientações. Nada de voltar correndo pra casa.",
+  "ouvido": "Agora a gente espera as orientações.  Nada de voltar correndo pra casa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Posso jogar videogame?",
+  "ouvido": "Posso jogar videogame?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Finalmente alguém fazendo a pergunta certa!",
+  "ouvido": "Finalmente alguém fazendo a pergunta certa.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Vocês dois são iguais.",
+  "ouvido": "Vocês dois são iguais.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Mãe!",
+  "ouvido": "Mãe!",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Pedro! Graças a Deus.",
+  "ouvido": "Pedro, graças a Deus.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Você fez tudo o que elas mandaram?",
+  "ouvido": "Você fez tudo o que elas mandaram?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Fiz. Até guardei o videogame.",
+  "ouvido": "Fiz, até guardei o videogame.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Guardou mesmo. Na mochila, do lado da camiseta.",
+  "ouvido": "guardou mesmo na mochila do lado da camiseta.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "sandra",
+  "texto": "Obrigada, de verdade. A todos vocês.",
+  "ouvido": "Obrigada de verdade a todos vocês.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ele ajudou mais do que atrapalhou.",
+  "ouvido": "ele ajudou mais do que atrapalhou.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Só um pouquinho mais.",
+  "ouvido": "Só um pouquinho mais.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Lucas.",
+  "ouvido": "Lucas",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Hum?",
+  "ouvido": "Hum.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Valeu pelo grito.",
+  "ouvido": "Valeu pelo grito.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Eu não gritei.",
+  "ouvido": "Eu não gritei.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Gritou. E ainda bem.",
+  "ouvido": "gritou e ainda bem.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Sabe o que eu fiquei pensando? Eu sempre achei que essas coisas aconteciam com os outros.",
+  "ouvido": "Sabe o que eu fiquei pensando?  Eu sempre achei que essas coisas aconteciam com os outros.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Todo mundo acha. Até acontecer.",
+  "ouvido": "todo mundo acha até acontecer.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "A partir de amanhã, eu vou levar as coisas mais a sério.",
+  "ouvido": "A partir de amanhã eu vou levar as coisas mais a sério.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Começa pelo despertador.",
+  "ouvido": "Começa pelo despertador.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Aí você já tá pedindo demais.",
+  "ouvido": "Aí você já está pedindo demais.",
+  "semelhanca": 0.833
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Mesmo depois que a chuva diminui, a volta às áreas afetadas precisa ser feita com cuidado. A água pode esconder buracos, fios energizados e materiais contaminados.",
+  "ouvido": "Mesmo depois que a chuva diminui, a volta às áreas afetadas precisa ser feita com cuidado.  A água pode esconder buracos, fios energizados e materiais contaminados.",
+  "semelhanca": 1.0
+ }
+]
