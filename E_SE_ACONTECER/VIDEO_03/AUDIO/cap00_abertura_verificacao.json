@@ -1,0 +1,80 @@
+[
+ {
+  "personagem": "duda",
+  "texto": "Caio. Caio, acorda.",
+  "ouvido": "Caio. Caio acorda.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Que foi, Duda?",
+  "ouvido": "que foi Duda.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "A vó tá falando esquisito.",
+  "ouvido": "A vó tá falando esquisito.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Arlindo, fecha a janela que vai chover.",
+  "ouvido": "Arlindo, feche a janela que vai chover.",
+  "semelhanca": 0.857
+ },
+ {
+  "personagem": "caio",
+  "texto": "Vó? Sou eu. O Caio.",
+  "ouvido": "Vó, sou eu, o Caio.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "nena",
+  "texto": "Arlindo.",
+  "ouvido": "Arlindo.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Quem é Arlindo?",
+  "ouvido": "Quem é Arlindo?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Era o vô.",
+  "ouvido": "Era o vô.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Ela tá pelando. E não tá reconhecendo a gente.",
+  "ouvido": "Ela tá pelando e não tá reconhecendo a gente.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "caio",
+  "texto": "Sem sinal. Duda, molha um pano. Rápido.",
+  "ouvido": "Sem sinal. Duda, molha um pano rápido.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "duda",
+  "texto": "Caio. a água acabou.",
+  "ouvido": "Caiu. A água acabou.",
+  "semelhanca": 0.75
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.",
+  "ouvido": "Três dias antes, ninguém naquele prédio acreditava que calor pudesse matar alguém.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Esta é uma simulação. Um cenário hipotético.",
+  "ouvido": "Esta é uma simulação, um cenário hipotético.",
+  "semelhanca": 1.0
+ }
+]
