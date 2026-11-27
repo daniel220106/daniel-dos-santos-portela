@@ -87,7 +87,11 @@ def main():
         p = elenco[nome]
         if p.get('motor') == 'piper':  # Piper: velocidade 1.2 = length_scale 1/1.2
             from piper import PiperVoice, SynthesisConfig
-            piper[nome] = (PiperVoice.load(os.path.join(base, p['voz'])), SynthesisConfig(length_scale=1 / p.get('velocidade', 1.0), noise_scale=p.get('noise', 0.667), noise_w_scale=p.get('noise_w', 0.8)))
+            vel = p.get('velocidade', 1.0)
+            # tentativas: velocidade pedida primeiro; se uma palavra curta sair errada, vai desacelerando
+            cfgs = [SynthesisConfig(length_scale=1 / v, noise_scale=n, noise_w_scale=0.8)
+                    for v, n in [(vel, 0.667), (vel, 0.4), (min(vel, 1.1), 0.5), (1.0, 0.667), (0.9, 0.5), (0.8, 0.4)]]
+            piper[nome] = (PiperVoice.load(os.path.join(base, p['voz'])), cfgs)
         else:
             m.prepare_conditionals(os.path.join(base, p['voz']), exaggeration=p.get('exaggeration', 0.5))
             conds[nome] = m.conds
@@ -97,10 +101,10 @@ def main():
         if 'pausa' in it: falas.append(it); continue
         p = elenco[it['personagem']]; texto = limpar(it['texto'])
         melhor = None
-        for t in range(a.tentativas if it['personagem'] not in piper else 1):
+        for t in range(a.tentativas if it['personagem'] not in piper else len(piper[it['personagem']][1])):
             if it['personagem'] in piper:
-                v, cfg = piper[it['personagem']]; sr = v.config.sample_rate
-                w = np.concatenate([c.audio_float_array for c in v.synthesize(texto, syn_config=cfg)])
+                v, cfgs = piper[it['personagem']]; sr = v.config.sample_rate
+                w = np.concatenate([c.audio_float_array for c in v.synthesize(texto, syn_config=cfgs[t])])
             else:
                 m.conds = conds[it['personagem']]; sr = m.sr
                 torch.manual_seed(p.get('seed', 7) + 101 * t + k)
@@ -115,9 +119,9 @@ def main():
                 w = w[i0:min(i1, len(w))]
             dur = len(w) / sr; cps = len(texto) / max(dur, 0.1)
             sem = semelhanca(texto, ouvido)
-            nota = sem - (0.25 if not 6 <= cps <= 20 else 0)
+            nota = sem - (0.25 if not 6 <= cps <= (24 if it['personagem'] in piper else 20) else 0) - 0.01 * t  # prefere a 1ª tentativa (velocidade pedida)
             if melhor is None or nota > melhor[0]: melhor = (nota, w, ouvido, sem, cps, sr)
-            if sem >= 0.95 and 6 <= cps <= 20: break
+            if sem >= 0.95 and 6 <= cps <= (24 if it['personagem'] in piper else 20): break
         _, w, ouvido, sem, cps, sr = melhor
         print(f"[{k+1}/{len(itens)}] {it['personagem']:9} {sem:5.0%} cps={cps:4.1f}  {texto}  ->  {ouvido.strip()}", flush=True)
         log.append({'personagem': it['personagem'], 'texto': texto, 'ouvido': ouvido.strip(), 'semelhanca': round(sem, 3)})

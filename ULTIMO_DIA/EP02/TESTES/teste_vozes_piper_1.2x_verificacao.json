@@ -1,0 +1,152 @@
+[
+ {
+  "personagem": "narrador",
+  "texto": "Agora imagine receber um alerta. Você tem poucas horas para sair de uma área de risco.",
+  "ouvido": "Agora imagine receber um alerta, você tem poucas horas para sair de uma área de risco.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "narrador",
+  "texto": "O problema? Milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "ouvido": "O problema é que milhões de pessoas estão tentando fazer exatamente a mesma coisa.",
+  "semelhanca": 0.923
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Rafael, você viu a quantidade de água lá fora?",
+  "ouvido": "Rafael, você viu a quantidade de água lá fora?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Vi. E tenho uma notícia boa.",
+  "ouvido": "e tenha uma notícia boa.",
+  "semelhanca": 0.727
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Qual?",
+  "ouvido": "Uau!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Meu carro continua estacionado.",
+  "ouvido": "meu carro continua estacionado.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Rafael, a garagem está alagando!",
+  "ouvido": "Rafael, a garagem está lagando.",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Ah. Então tenho uma notícia ruim também.",
+  "ouvido": "Então tem uma notícia ruim também.",
+  "semelhanca": 0.769
+ },
+ {
+  "personagem": "dona_cida",
+  "texto": "Vocês podem parar de brincar e começar a pegar os documentos?",
+  "ouvido": "Vocês podem parar de brincar e começar a pegar os documentos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Eu já peguei!",
+  "ouvido": "Eu já apitei.",
+  "semelhanca": 0.667
+ },
+ {
+  "personagem": "marina",
+  "texto": "Ótimo. E o que você colocou na mochila?",
+  "ouvido": "e o que você colocou na mochila.",
+  "semelhanca": 0.933
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Meu videogame.",
+  "ouvido": "Eu vejo você mais uma vez.",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Pedro!",
+  "ouvido": "Pedro.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "pedro",
+  "texto": "Tá bom, tá bom! Também coloquei uma camiseta!",
+  "ouvido": "Tá bom, tá bom. Também coloquei uma camiseta.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Você pegou a mochila?",
+  "ouvido": "Você pegou a mochila?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Beleza!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Os documentos?",
+  "ouvido": "os documentos.",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Bye, bye!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Água?",
+  "ouvido": "Ah, boa.",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Beleza!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "lucas",
+  "texto": "Remédios?",
+  "ouvido": "Remédios",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Peguei.",
+  "ouvido": "Beleza!",
+  "semelhanca": 0.0
+ },
+ {
+  "personagem": "marina",
+  "texto": "Então por que você está segurando um controle de televisão?",
+  "ouvido": "Então por que você está segurando um controle de televisão?",
+  "semelhanca": 1.0
+ },
+ {
+  "personagem": "rafael",
+  "texto": "Porque eu também tenho prioridades.",
+  "ouvido": "porque eu também tenho prioridade.",
+  "semelhanca": 0.8
+ },
+ {
+  "personagem": "narrador",
+  "texto": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente a rotina daquela cidade.",
+  "ouvido": "Naquela manhã, ninguém imaginava que uma chuva aparentemente comum transformaria completamente  a rotina daquela cidade.",
+  "semelhanca": 1.0
+ }
+]
