@@ -170,3 +170,5 @@ OK cap05_o_mar.wav: 95.2s, precisão média 97.5%
 [3/34] narrador   100% cps=18.3  E o prédio já estava sem água fazia vinte e quatro horas.  ->  e o prédio já estava sem água fazia 24 horas.
 [5/34] duda       100% cps=14.3  Caio, essa fila não acaba.  ->  Caio, essa fila não acaba.
 [6/34] caio       100% cps=14.7  Fica na sombra com a Pipoca. Eu seguro o lugar.  ->  Fica na sombra com a pipoca.  Eu seguro o lugar.
+[7/34] mulher     100% cps= 9.8  Ô, moço! A fila é lá atrás!  ->  Ô moço, a fila é lá atrás?
+[8/34] homem      100% cps=15.8  Eu tenho três crianças em casa.  ->  Eu tenho três crianças em casa.
