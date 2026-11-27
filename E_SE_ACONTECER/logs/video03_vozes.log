@@ -241,3 +241,10 @@ OK cap07_o_radio_do_302.wav: 121.9s, precisão média 98.4%
 [5/35] caio       100% cps=15.1  Pega a água do isopor da insulina e molha os panos. Passa no pescoço e debaixo dos braços dela. Não para. Eu já volto.  ->  Pega a água do isopor da insulina e molha os panos.  Passa no pescoço e debaixo dos braços dela.  Não para.  Eu já volto.
 [6/35] caio       100% cps=11.6  Seu Valdir! É a minha vó!  ->  Seu Valdir, é a minha vó.
 [7/35] atendente (cache) SAMU, qual é a emergência?
+[8/35] caio        91% cps=15.1  A minha avó. Setenta e nove anos. Ela tá confusa, quente demais, e não reconhece ninguém. A gente tá sem luz desde quinta.  ->  A minha avó, 79 anos. Ela tá confusa, quente demais e não reconhece ninguém. A gente tá sem luz desde quinta.
+[9/35] atendente  100% cps=14.9  Ela está respirando?  ->  Ela está respirando.
+[10/35] caio       100% cps= 7.5  Tá.  ->  tá
+[11/35] atendente   96% cps=13.1  A ambulância já está a caminho, mas pode demorar. Enquanto isso, leve ela para o lugar mais fresco que tiver. Afrouxe a roupa, molhe o corpo com panos e abane. Não dê nada para ela beber.  ->  A ambulância já está a caminho, mas pode demorar.  Enquanto isso, leve ela para o lugar mais fresco que tiver.  Afrou-se a roupa, molhe o corpo com panos e abane.  Não dê nada para ela beber.
+[12/35] caio       100% cps= 9.7  Nada? Nem água?  ->  Nada? Nem água?
+[13/35] atendente  100% cps=12.2  Confusa desse jeito, não. Ela pode engasgar. Se ela piorar, ligue de novo.  ->  Confusa desse jeito? Não. Ela pode engasgar. Se ela piorar, ligue de novo.
+[14/35] caio       100% cps=12.1  A calçada. Lá embaixo tá mais fresco.  ->  a calçada, lá embaixo tá mais fresco.
