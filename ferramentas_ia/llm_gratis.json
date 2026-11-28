@@ -1,0 +1,26 @@
+{
+ "_leia": "Ordem = da melhor para a pior. O llm_gratis.py tenta de cima para baixo e pula a que acabar a cota ou falhar. Só planos GRÁTIS, sem cartão. Chaves: variável de ambiente (nunca escreva a chave aqui).",
+ "provedores": [
+  {"nome": "Google Gemini", "base": "https://generativelanguage.googleapis.com/v1beta/openai", "chave_env": "GEMINI_API_KEY",
+   "modelos": ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash", "gemini-3.5-flash-lite"],
+   "obs": "Melhor qualidade em português e contexto de 1M. No plano grátis o Google pode usar os textos para melhorar produtos: não mande nada sigiloso."},
+  {"nome": "NVIDIA NIM", "base": "https://integrate.api.nvidia.com/v1", "chave_env": "NVIDIA_API_KEY",
+   "modelos": ["nvidia/nemotron-3-ultra-550b-a55b"], "obs": "Modelo aberto muito grande; limites variam conforme o uso."},
+  {"nome": "Groq", "base": "https://api.groq.com/openai/v1", "chave_env": "GROQ_API_KEY",
+   "modelos": ["openai/gpt-oss-120b", "qwen/qwen3.8-27b", "openai/gpt-oss-20b"], "obs": "O mais rápido. 1.000 pedidos/dia por modelo."},
+  {"nome": "OpenRouter (grátis)", "base": "https://openrouter.ai/api/v1", "chave_env": "OPENROUTER_API_KEY",
+   "modelos": ["nvidia/nemotron-3-ultra-550b-a55b:free", "google/gemma-4-31b-it:free"], "obs": "Só 50 pedidos/dia somando os modelos grátis."},
+  {"nome": "Kilo Code (sem chave)", "base": "https://api.kilo.ai/api/gateway", "chave_env": null,
+   "modelos": ["nvidia/nemotron-3-ultra-550b-a55b:free", "kilo-auto/free"], "obs": "Não precisa de cadastro. 200 pedidos/hora por IP. Lista de modelos muda com frequência."},
+  {"nome": "OVHcloud (sem chave)", "base": "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1", "chave_env": null,
+   "modelos": ["Qwen3.5-397B-A17B", "gpt-oss-120b", "Meta-Llama-3_3-70B-Instruct"], "obs": "Não precisa de cadastro, mas só 2 pedidos/minuto. Último recurso."}
+ ],
+ "fora_da_lista": {
+  "Cohere": "plano grátis só para uso NÃO comercial (o canal pode ser monetizado)",
+  "Aion Labs": "exige cadastrar cartão",
+  "SiliconFlow / ModelScope": "exigem verificação de identidade chinesa",
+  "Gonka Broker": "exige verificação por SMS",
+  "LLM7.io": "a documentação não descreve mais plano grátis",
+  "AxForge": "3M tokens/mês e depois cobra de saldo pré-pago"
+ }
+}
