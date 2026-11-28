@@ -1,14 +1,18 @@
 # CONTINUIDADE DO PROJETO: E SE ACONTECER?
 
-Atualizado em 27/11/2026, às ~21:50 UTC, no fim da sessão `session_0176vtWdHsDHoiEjZ5iFUeLW`.
+Atualizado em 28/11/2026, às ~02:30 UTC, no fim da sessão `session_0176vtWdHsDHoiEjZ5iFUeLW`.
 Branch de trabalho: **`claude/dreamy-faraday-3yay8l`**, no repositório `daniel220106/daniel-dos-santos-portela`.
 **Leia este arquivo e o `CLAUDE.md` antes de fazer qualquer coisa.**
 
 
-> **ATUALIZAÇÃO (27/11, ~20h50 de Brasília):** as vozes do Vídeo 3 estão **COMPLETAS** (11 trechos, de 94,9% a 98,4%).
-> Quatro falas foram corrigidas: "Do trezentos e dois?", "Bebe, vó.", "Já ligou pro cento e noventa e dois?" e "o gelo é de graça". Na legenda, os números aparecem em algarismos.
-> Já foram feitos: a linha do tempo real (**16:58**), a revisão de 75 quadros com 3 ajustes, o mix (-14,6 LUFS), o SRT e a descrição.
-> **Em andamento:** a renderização (`render/video03_video_sem_legenda.mp4`). Depois vêm a exportação para `VIDEO_03/EXPORTACAO/E_SE_ACONTECER_VIDEO_03_{youtube_1080p,720p}.mp4` e a auditoria (`scripts/auditoria_video.py`), que é o passo 8 da seção 4. Os passos 1 a 4 da seção 4 já foram feitos.
+> **ATUALIZAÇÃO (28/11, ~02h30 UTC): o VÍDEO 3 ESTÁ PRONTO E AUDITADO.**
+> - Arquivos: `VIDEO_03/EXPORTACAO/E_SE_ACONTECER_VIDEO_03_youtube_1080p.mp4` (768 MB, fora do Git) e `E_SE_ACONTECER_VIDEO_03_720p.mp4` (55 MB, no Git). Duração 16:58, -14,6 LUFS, pico -1,3 dBFS, sincronia A/V 0,014 s, decodificação integral sem erros.
+> - Thumbnail: `VIDEO_03/EXPORTACAO/thumbnail/E_SE_ACONTECER_VIDEO_03_thumbnail.jpg` ("SEM LUZ" + termômetro 50°C; gerada por `projeto/video03/thumb_video03.html`). Título: **50°C no Rio: 5 Dias Para Sobreviver** (/yt-package 100/100).
+> - Legenda `VIDEO_03/LEGENDAS/video03_pt-BR.srt` (316 blocos); descrição `VIDEO_03/EXPORTACAO/video03_descricao_youtube.txt` (capítulos conferidos com a linha do tempo).
+> - 1ª auditoria (`VIDEO_03/TESTES/auditoria_final/`): 3 falas do Caio com pronúncia ruim ("Dorme, vó.", "Claro, Seu Valdir. Suor.", "Ela tá bem?"). Regravadas com `scripts/regravar_fala.py` (cabe no mesmo espaço; a linha do tempo não muda), quadros das 3 falas re-renderizados para a boca acompanhar, áudio remixado. Versão anterior em `EXPORTACAO/versao_anterior/`.
+> - 2ª auditoria (`VIDEO_03/TESTES/auditoria_final2/`): precisão 95,2%; os alertas restantes foram conferidos na faixa só de vozes e são falsos (números por extenso, nomes, trilha atrapalhando o tom). Os 270 quadros foram revistos: imagem bate com a fala.
+> - **Não publicado.** Publicação no YouTube só com pedido explícito do usuário.
+> - Vídeo 2 / identidade no YouTube: o usuário está fazendo num chat do app Claude no PC, com `MENSAGEM_PARA_CHAT_DO_PC.md`. Os arquivos para baixar estão no GitHub (branch acima). Nada foi feito no YouTube por esta sessão.
 
 ---
 
@@ -18,9 +22,9 @@ Branch de trabalho: **`claude/dreamy-faraday-3yay8l`**, no repositório `daniel2
 |---|---|---|---|
 | Tema | Brasil 30 dias sem energia (apagão) | Enchente em São Paulo, 24 h para escapar | **NOVO vídeo**: onda de calor de 50 °C no Rio, 5 dias |
 | Pastas | `exports/`, `projeto/video01/`, `roteiro/`, `legendas/` | `VIDEO_02/`, `projeto/video02/` | `VIDEO_03/`, `projeto/video03/` |
-| Situação | **PUBLICADO** pelo usuário. O arquivo publicado ainda tem as cartelas antigas ("ÚLTIMO DIA", "EPISÓDIO 01") e a fala "próximo episódio do Último Dia". | **PRONTO PARA PUBLICAR**, com a identidade nova. Não se sabe se o usuário publicou a versão antiga. | **EM PRODUÇÃO**: só as vozes estão sendo geradas. **Não existe nenhum arquivo de vídeo do Vídeo 3.** |
+| Situação | **PUBLICADO** pelo usuário. O arquivo publicado ainda tem as cartelas antigas ("ÚLTIMO DIA", "EPISÓDIO 01") e a fala "próximo episódio do Último Dia". | **PRONTO PARA PUBLICAR**, com a identidade nova. Não se sabe se o usuário publicou a versão antiga. | **PRONTO E AUDITADO** (28/11), não publicado. |
 | Arquivo final | `exports/E_SE_ACONTECER_VIDEO_01_youtube_1080p.mp4` (fora do Git) e `..._720p.mp4` (no Git) | `VIDEO_02/EXPORTACAO/E_SE_ACONTECER_VIDEO_02_youtube_1080p.mp4` (641 MB, **fora do Git**) e `E_SE_ACONTECER_VIDEO_02_720p.mp4` (74 MB, **no Git**) | — |
-| Thumbnail | **não existe** | `VIDEO_02/EXPORTACAO/thumbnail/E_SE_ACONTECER_VIDEO_02_thumbnail.jpg` | proposta: "NÃO TÁ SUANDO" foi trocada; usar "41°C NO QUARTO" ou similar, testando antes na /yt-package |
+| Thumbnail | `exports/thumbnail/E_SE_ACONTECER_VIDEO_01_thumbnail.jpg` ("TUDO APAGOU") | `VIDEO_02/EXPORTACAO/thumbnail/E_SE_ACONTECER_VIDEO_02_thumbnail.jpg` | `VIDEO_03/EXPORTACAO/thumbnail/E_SE_ACONTECER_VIDEO_03_thumbnail.jpg` ("SEM LUZ") |
 | Pacote de publicação | `exports/video01_descricao_youtube.txt` | `VIDEO_02/EXPORTACAO/PUBLICACAO_VIDEO_02.md` (título, descrição, hashtags, tags, configurações) | `scripts/video03_metadados.py` gera o SRT e a descrição depois das vozes |
 
 O Vídeo 3 **não** é uma modificação do Vídeo 2. São projetos separados, cada um com suas pastas.

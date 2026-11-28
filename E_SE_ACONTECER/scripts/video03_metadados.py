@@ -56,7 +56,7 @@ caps = ['0:00 Dia 4, 02:40: a madrugada']
 for b in L['blocos']:
     if b['tipo'] == 'cartela': caps.append(f"{ts(b['a'], False)} {b['dia'].title()}, {b['hora']}, {b['temp']}: {b['titulo'].capitalize()}")
 enc = next(b for b in L['blocos'] if b['tipo'] == 'cap' and b['cap'] == 10); caps.append(f"{ts(enc['a'], False)} Encerramento")
-desc = f"""50°C NO RIO: 5 DIAS PARA SOBREVIVER
+desc = f"""50°C no Rio: 5 Dias Para Sobreviver
 
 E se uma onda de calor nunca vista parasse sobre o Rio de Janeiro e não fosse embora? Acompanhe o Caio, a Vó Nena, a Duda e a cachorra Pipoca em cinco dias num prédio sem elevador da Zona Norte: a luz cai, a água acaba, um vizinho some e uma decisão na madrugada muda tudo.
 
