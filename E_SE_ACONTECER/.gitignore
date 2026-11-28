@@ -26,3 +26,5 @@ VIDEO_03/VOZES/piper/*.onnx
 VIDEO_03/AUDIO/*.wav
 VIDEO_03/TESTES/*.wav
 VIDEO_03/EXPORTACAO/*1080p*
+# áudio temporário da auditoria do arquivo final
+VIDEO_0*/TESTES/auditoria*/_final.wav
