@@ -164,7 +164,7 @@
  {
   "personagem": "caio",
   "texto": "Claro, Seu Valdir. Suor.",
-  "ouvido": "Claro! Seu Valdir, suor!",
+  "ouvido": "Claro, Seu Valdir.  Suor.",
   "semelhanca": 1.0
  },
  {
@@ -176,7 +176,7 @@
  {
   "personagem": "caio",
   "texto": "Ela tá bem?",
-  "ouvido": "Ela tá bem?",
+  "ouvido": "Ela tá bem.",
   "semelhanca": 1.0
  },
  {

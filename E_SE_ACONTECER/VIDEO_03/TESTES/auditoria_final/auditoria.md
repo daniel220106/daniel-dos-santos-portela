@@ -1,0 +1,41 @@
+# Auditoria do arquivo final
+
+- Arquivo: `VIDEO_03/EXPORTACAO/E_SE_ACONTECER_VIDEO_03_youtube_1080p.mp4`
+- Duração: 1018.47 s · sincronia A/V: 0.014 s
+- Volume: -14.6 LUFS · pico -1.3 dBFS
+- Decodificação integral: sem erros
+- Falas: 270 · precisão média no áudio final: 95.0%
+- Legenda: 316 blocos
+- Tom médio por personagem (Hz): {'duda': 247, 'caio': 157, 'nena': 186, 'narrador': 161, 'cliente': 164, 'sonia': 224, 'valdir': 113, 'tiao': 142, 'feirante': 132, 'zica': 248, 'morador': 159, 'senhora': 199, 'enfermeira': 214, 'mulher': 203, 'homem': 113, 'ademar': 119, 'atendente': 223, 'vizinha': 198}
+
+## Problemas (30)
+- [cortada?] 3.76 s: duda: "A vó tá falando esquisito." termina com energia alta
+- [voz_trocada?] 58.05 s: caio com tom 263 Hz (o dele é ~157 Hz): "Avalia com cinco estrelas que o próximo chega sóli"
+- [cortada?] 58.05 s: caio: "nco estrelas que o próximo chega sólido." termina com energia alta
+- [fala] 61.3 s: sonia: "Caio, bebeu água?" → ouvido "Caiu! Bebeu água!" (67%)
+- [fala] 150.83 s: duda: "Dez da noite." → ouvido "10 da noite." (67%)
+- [fala] 174.17 s: duda: "Caio, esse poste aqui da frente tá fazendo um barulho estranho." → ouvido "Kyle.  Esse post aqui da frente está fazendo um barulho estranho." (73%)
+- [cortada?] 177.87 s: caio: "Que barulho?" termina com energia alta
+- [fala] 180.08 s: duda: "Esse." → ouvido "e sim." (0%)
+- [cortada?] 185.7 s: nena: "Pronto. Agora sim é calor." termina com energia alta
+- [fala] 212.37 s: nena: "O Valdir pensa desde mil novecentos e noventa e dois. Até hoje não decidiu nada." → ouvido "o Valdir pensa desde 1992. Até hoje não decidiu nada." (72%)
+- [fala] 224.23 s: caio: "Que isso. tá tudo girando." → ouvido "O que é isso? Está tudo girando." (67%)
+- [velocidade] 312.7 s: duda 4.9 car/s: "Vó!"
+- [fala] 330.11 s: duda: "Do trezentos e dois?" → ouvido "Do 302" (33%)
+- [fala] 343.15 s: duda: "Bebe, vó." → ouvido "Bebe.  Vou." (50%)
+- [cortada?] 360.1 s: duda: "Isso quer dizer obrigado." termina com energia alta
+- [fala] 451.55 s: caio: "Dorme, vó." → ouvido "Vá me vó!" (40%)
+- [cortada?] 526.69 s: enfermeira: "ai descansar. Você tá de pé desde ontem." termina com energia alta
+- [cortada?] 584.21 s: mulher: "E eu tenho quatro! Tô aqui desde as dez!" termina com energia alta
+- [fala] 595.14 s: homem: "A menor tá com febre." → ouvido "a menor da concebre." (44%)
+- [fala] 647.9 s: caio: "Pois é. Quase levaram o senhor junto." → ouvido "Pois é, quase levar um senhor junto." (71%)
+- [voz_trocada?] 680.49 s: caio com tom 234 Hz (o dele é ~157 Hz): "Seu Ademar!"
+- [fala] 731.68 s: ademar: "A fita. É a Lurdes cantando. Ela gravou em setenta e nove." → ouvido "A fita é a Lourdes cantando.  Ela gravou em 1979." (73%)
+- [fala] 765.35 s: caio: "Claro, Seu Valdir. Suor." → ouvido "Claro, se eu vou dir, swore." (20%)
+- [fala] 776.07 s: caio: "Ela tá bem?" → ouvido "É, mas tá bem?" (57%)
+- [fala] 848.21 s: narrador: "Quatro andares. Oitenta degraus. No escuro, a quarenta graus." → ouvido "Quatro andares, 80 de graus, no escuro a 40 graus." (74%)
+- [cortada?] 857.4 s: sonia: "em. Já ligou pro cento e noventa e dois?" termina com energia alta
+- [voz_trocada?] 868.94 s: sonia com tom 70 Hz (o dele é ~224 Hz): "Você consegue. Eu tô saindo daqui agora."
+- [cortada?] 868.94 s: sonia: "Você consegue. Eu tô saindo daqui agora." termina com energia alta
+- [fala] 945.51 s: nena: "Tá comigo. Com pilha nova." → ouvido "Tá comigo.  Compilha nova." (67%)
+- [fala] 947.87 s: ademar: "Então hoje, às seis, a Lurdes canta pra enfermaria inteira." → ouvido "Então hoje, às 6, a Lourdes canta para a enfermaria inteira." (67%)

@@ -28,3 +28,6 @@ VIDEO_03/TESTES/*.wav
 VIDEO_03/EXPORTACAO/*1080p*
 # áudio temporário da auditoria do arquivo final
 VIDEO_0*/TESTES/auditoria*/_final.wav
+VIDEO_03/EXPORTACAO/versao_anterior/*1080p*
+# 720p da 1ª versão: já está no histórico do Git (commit 51e1ed7)
+VIDEO_03/EXPORTACAO/versao_anterior/*720p_auditoria1*
