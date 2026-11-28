@@ -8,7 +8,7 @@ Uso:
 No código:  from llm_gratis import perguntar; texto, quem = perguntar("...")
 
 Ordem e modelos: llm_gratis.json (de cima = melhor). Chaves: variáveis de ambiente (GEMINI_API_KEY etc.).
-Quando um provedor devolve 429 (cota/limite), fica pausado (1 h, ou até o horário que ele informar) em
+Quando um modelo devolve 429 (cota) fica pausado 1 h (ou o tempo que ele informar); se demorar mais de 60 s, 10 min; se não existir mais (404), 1 dia. As pausas ficam em
 ~/.cache/llm_gratis_pausas.json e o próximo da lista assume. Só usa biblioteca padrão do Python.
 """
 import json, os, sys, time, urllib.request, urllib.error
@@ -45,7 +45,7 @@ def _chamar(prov, modelo, msgs, max_tokens, temperatura, timeout):
     if not txt or not txt.strip(): raise ValueError('resposta vazia (o modelo gastou os tokens pensando)')
     return txt
 
-def perguntar(pergunta, sistema=None, max_tokens=2048, temperatura=0.7, timeout=120, verbose=True):
+def perguntar(pergunta, sistema=None, max_tokens=2048, temperatura=0.7, timeout=60, verbose=True):
     msgs = ([{'role': 'system', 'content': sistema}] if sistema else []) + [{'role': 'user', 'content': pergunta}]
     pausas, erros = _pausas(), []
     for prov in CFG['provedores']:
@@ -62,10 +62,13 @@ def perguntar(pergunta, sistema=None, max_tokens=2048, temperatura=0.7, timeout=
                 msg = e.read()[:200].decode(errors='replace')
                 if e.code == 429:
                     ra = e.headers.get('Retry-After'); _pausar(id_, float(ra) if ra and ra.isdigit() else 3600)
+                elif e.code == 404:
+                    _pausar(id_, 86400)  # modelo descontinuado/inexistente: tenta de novo só amanhã
                 elif e.code in (401, 403) or (e.code == 400 and 'API key' in msg):
                     erros.append(f"{prov['nome']}: chave ausente/inválida ou acesso bloqueado ({e.code})"); break
                 erros.append(f'{id_}: HTTP {e.code} {msg}')
             except Exception as e:
+                if 'timed out' in str(e) or isinstance(e, TimeoutError): _pausar(id_, 600)  # lento/sobrecarregado: pula por 10 min
                 erros.append(f'{id_}: {type(e).__name__} {e}')
     raise RuntimeError('Nenhum provedor grátis respondeu:\n  ' + '\n  '.join(erros))
 

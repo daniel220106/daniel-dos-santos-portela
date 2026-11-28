@@ -4,10 +4,10 @@
 
 | # | Serviço | Modelos (em ordem) | Precisa de chave? | Limite grátis |
 |---|---|---|---|---|
-| 1 | Google Gemini | gemini-3.8-flash → 3.6-flash → 2.5-flash → 3.5-flash-lite | sim (aistudio.google.com/app/apikey) | definido na conta |
-| 2 | NVIDIA NIM | nemotron-3-ultra-550b | sim (build.nvidia.com) | varia |
-| 3 | Groq | gpt-oss-120b → qwen3.8-27b → gpt-oss-20b | sim (console.groq.com/keys) | 1.000 pedidos/dia por modelo |
-| 4 | OpenRouter | nemotron-3-ultra:free → gemma-4-31b:free | sim (openrouter.ai/keys) | 50 pedidos/dia |
+| 1 | Google Gemini | gemini-3.8-flash → 3.6-flash → 3.5-flash-lite → 3.1-flash-lite | sim (aistudio.google.com/app/apikey) — **configurada** | definido na conta |
+| 2 | NVIDIA NIM | nemotron-3-ultra-550b | sim (build.nvidia.com) — **configurada** | varia |
+| 3 | Groq | gpt-oss-120b → qwen3.8-27b → gpt-oss-20b | sim (console.groq.com/keys) — **configurada** | 1.000 pedidos/dia por modelo |
+| 4 | OpenRouter | nemotron-3-ultra:free → gemma-4-31b:free | sim (openrouter.ai/keys) — não configurada (é pulada) | 50 pedidos/dia |
 | 5 | Kilo Code | nemotron-3-ultra:free → kilo-auto/free | **não** | 200 pedidos/hora |
 | 6 | OVHcloud | Qwen3.5-397B → gpt-oss-120b → Llama 3.3 70B | **não** | 2 pedidos/minuto |
 
