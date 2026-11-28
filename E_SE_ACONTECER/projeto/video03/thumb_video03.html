@@ -1,0 +1,30 @@
+<!doctype html><html><head><meta charset="utf-8"><title>E SE ACONTECER? Vídeo 3</title>
+<style>
+@font-face{font-family:Oswald;font-weight:400;src:url(../fontes/oswald-latin-400-normal.woff2)}
+@font-face{font-family:Oswald;font-weight:700;src:url(../fontes/oswald-latin-700-normal.woff2)}
+@font-face{font-family:Inter;font-weight:400;src:url(../fontes/inter-latin-400-normal.woff2)}
+@font-face{font-family:Inter;font-weight:600;src:url(../fontes/inter-latin-600-normal.woff2)}
+html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="tela" width="1920" height="1080"></canvas>
+<script>window.VIDEO_COMPLETO = true;</script>
+<script src="../motor/motor.js"></script><script src="../motor/video02_visual.js"></script>
+<script src="../video01/abertura.js"></script><script src="../motor/cenarios.js"></script>
+<script src="../video02/cenarios02.js"></script>
+<script src="video03_visual.js"></script><script src="cenarios03.js"></script>
+<script>
+// Thumbnail do Vídeo 3 (1280x720): Caio suando na rua escaldante, termômetro de rua, "SEM LUZ"
+FALAS = [];
+window.desenhar = async () => {
+  await document.fonts.load('700 100px Oswald'); await document.fonts.load('600 20px Inter');
+  const c = document.getElementById('tela').getContext('2d'); const T = 1.3;
+  c.save(); camera(c, 1.25, 1150, 560); ruaSuburbio(c, T, { desloc: 500 }); c.restore();
+  c.save(); c.globalCompositeOperation='multiply'; c.fillStyle='rgba(255,150,90,0.55)'; c.fillRect(0,0,W,H); c.restore(); ondasCalor(c, T, { y0: 600, amp: 4 });
+  c.save(); camera(c, 2.7, 640, 400); ator(c, T, 'caio', { x: 640, y: yChao(930, 'caio'), s: 1, dir: 1, expr: 'assustado', olhar: 0.1, giro: 0.08, suor: 1, bracoF: [0.25, 0.3], luz: LUZ_SOL }); suor(c, T + 0.4, 590, 300, 1.1, 3); c.restore();
+  const g = c.createLinearGradient(1000, 0, 1920, 0); g.addColorStop(0, 'rgba(40,8,0,0)'); g.addColorStop(0.4, 'rgba(40,8,0,0.55)'); g.addColorStop(1, 'rgba(30,6,0,0.7)'); c.fillStyle = g; c.fillRect(0, 0, W, H);
+  termometroRua(c, 1640, 250, '50°C', 0.2, 1.05);
+  c.textAlign = 'right'; c.font = '700 230px Oswald'; c.shadowColor = 'rgba(0,0,0,0.95)'; c.shadowBlur = 34;
+  c.fillStyle = '#ffffff'; c.fillText('SEM', 1870, 650); c.fillStyle = '#ffd23a'; c.fillText('LUZ', 1870, 880); c.shadowBlur = 0;
+  c.fillStyle = 'rgba(10,10,12,0.78)'; rr(c, 40, 960, 300, 60, 10); c.fill(); c.fillStyle = '#c62a24'; c.beginPath(); c.arc(70, 990, 9, 0, 7); c.fill(); c.fillStyle = '#f2efe9'; c.font = '700 30px Inter'; c.textAlign = 'left'; c.fillText('SIMULAÇÃO', 92, 1001);
+  return true;
+};
+</script></body></html>
